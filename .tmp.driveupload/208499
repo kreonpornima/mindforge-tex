@@ -1,0 +1,840 @@
+11/7/2025 3:18:42 PM - Client Server IP: 160.187.54.114,4545
+11/7/2025 3:18:42 PM - Client Multiple Database : valjierp
+11/7/2025 3:18:42 PM - Client Database : valjierp
+11/7/2025 3:18:42 PM - Report Name : cta_inv_valji
+11/7/2025 3:18:42 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/7/2025 3:18:42 PM - Company ID : 24
+11/7/2025 3:18:42 PM - SSDT : CDATE(2025,04,01)
+11/7/2025 3:18:42 PM - LLDT : CDATE(2025,11,07)
+11/7/2025 3:18:42 PM - DSN Name : dsn_146500
+11/7/2025 3:18:42 PM - Report Parameter parameter : {?SELECT}=NO
+11/7/2025 3:27:49 PM - Client Server IP: 160.187.54.114,4545
+11/7/2025 3:27:49 PM - Client Multiple Database : valjierp
+11/7/2025 3:27:49 PM - Client Database : valjierp
+11/7/2025 3:27:49 PM - Report Name : cta_inv_valji
+11/7/2025 3:27:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/7/2025 3:27:49 PM - Company ID : 24
+11/7/2025 3:27:49 PM - SSDT : CDATE(2025,04,01)
+11/7/2025 3:27:49 PM - LLDT : CDATE(2025,11,07)
+11/7/2025 3:27:49 PM - DSN Name : dsn_146533
+11/7/2025 3:27:49 PM - Report Parameter parameter : {?SELECT}=NO
+11/7/2025 3:36:31 PM - Client Server IP: 160.187.54.114,4545
+11/7/2025 3:36:31 PM - Client Multiple Database : valjierp
+11/7/2025 3:36:31 PM - Client Database : valjierp
+11/7/2025 3:36:31 PM - Report Name : cta_inv_valji
+11/7/2025 3:36:31 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/7/2025 3:36:31 PM - Company ID : 24
+11/7/2025 3:36:31 PM - SSDT : CDATE(2025,04,01)
+11/7/2025 3:36:31 PM - LLDT : CDATE(2025,11,07)
+11/7/2025 3:36:31 PM - DSN Name : dsn_146555
+11/7/2025 3:36:31 PM - Report Parameter parameter : {?SELECT}=NO
+11/7/2025 4:36:00 PM - Client Server IP: 160.187.54.114,4545
+11/7/2025 4:36:00 PM - Client Multiple Database : valjierp
+11/7/2025 4:36:00 PM - Client Database : valjierp
+11/7/2025 4:36:00 PM - Report Name : Lr_valjidot
+11/7/2025 4:36:00 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/7/2025 4:36:00 PM - Company ID : 24
+11/7/2025 4:36:00 PM - SSDT : CDATE(2025,04,01)
+11/7/2025 4:36:00 PM - LLDT : CDATE(2025,11,07)
+11/7/2025 4:36:00 PM - DSN Name : dsn_146819
+11/7/2025 4:36:00 PM - Report Parameter parameter : 
+11/7/2025 4:36:24 PM - Client Server IP: 160.187.54.114,4545
+11/7/2025 4:36:24 PM - Client Multiple Database : valjierp
+11/7/2025 4:36:24 PM - Client Database : valjierp
+11/7/2025 4:36:24 PM - Report Name : Lr_valjidot
+11/7/2025 4:36:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/7/2025 4:36:24 PM - Company ID : 24
+11/7/2025 4:36:24 PM - SSDT : CDATE(2025,04,01)
+11/7/2025 4:36:24 PM - LLDT : CDATE(2025,11,07)
+11/7/2025 4:36:24 PM - DSN Name : dsn_146821
+11/7/2025 4:36:24 PM - Report Parameter parameter : 
+11/7/2025 5:28:17 PM - Client Server IP: 160.187.54.114,4545
+11/7/2025 5:28:17 PM - Client Multiple Database : valjierp
+11/7/2025 5:28:17 PM - Client Database : valjierp
+11/7/2025 5:28:17 PM - Report Name : cta_inv_valji
+11/7/2025 5:28:17 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/7/2025 5:28:17 PM - Company ID : 24
+11/7/2025 5:28:17 PM - SSDT : CDATE(2025,04,01)
+11/7/2025 5:28:17 PM - LLDT : CDATE(2025,11,07)
+11/7/2025 5:28:17 PM - DSN Name : dsn_146948
+11/7/2025 5:28:17 PM - Report Parameter parameter : {?SELECT}=NO
+11/7/2025 5:33:11 PM - Client Server IP: 160.187.54.114,4545
+11/7/2025 5:33:11 PM - Client Multiple Database : valjierp
+11/7/2025 5:33:11 PM - Client Database : valjierp
+11/7/2025 5:33:11 PM - Report Name : cta_inv_valji
+11/7/2025 5:33:11 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/7/2025 5:33:11 PM - Company ID : 24
+11/7/2025 5:33:11 PM - SSDT : CDATE(2025,04,01)
+11/7/2025 5:33:11 PM - LLDT : CDATE(2025,11,07)
+11/7/2025 5:33:11 PM - DSN Name : dsn_146967
+11/7/2025 5:33:11 PM - Report Parameter parameter : {?SELECT}=NO
+11/8/2025 8:58:31 AM - Client Server IP: 160.187.54.114,4545
+11/8/2025 8:58:31 AM - Client Multiple Database : valjierp
+11/8/2025 8:58:31 AM - Client Database : valjierp
+11/8/2025 8:58:31 AM - Report Name : cta_inv_valji
+11/8/2025 8:58:31 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/8/2025 8:58:31 AM - Company ID : 24
+11/8/2025 8:58:31 AM - SSDT : CDATE(2025,04,01)
+11/8/2025 8:58:31 AM - LLDT : CDATE(2025,11,08)
+11/8/2025 8:58:31 AM - DSN Name : dsn_147540
+11/8/2025 8:58:31 AM - Report Parameter parameter : {?SELECT}=NO
+11/8/2025 8:59:10 AM - Client Server IP: 160.187.54.114,4545
+11/8/2025 8:59:10 AM - Client Multiple Database : valjierp
+11/8/2025 8:59:10 AM - Client Database : valjierp
+11/8/2025 8:59:10 AM - Report Name : Lr_valjidot
+11/8/2025 8:59:10 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/8/2025 8:59:10 AM - Company ID : 24
+11/8/2025 8:59:10 AM - SSDT : CDATE(2025,04,01)
+11/8/2025 8:59:10 AM - LLDT : CDATE(2025,11,08)
+11/8/2025 8:59:10 AM - DSN Name : dsn_147541
+11/8/2025 8:59:10 AM - Report Parameter parameter : 
+11/8/2025 8:59:43 AM - Client Server IP: 160.187.54.114,4545
+11/8/2025 8:59:43 AM - Client Multiple Database : valjierp
+11/8/2025 8:59:43 AM - Client Database : valjierp
+11/8/2025 8:59:43 AM - Report Name : Lr_valjidot
+11/8/2025 8:59:43 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/8/2025 8:59:43 AM - Company ID : 24
+11/8/2025 8:59:43 AM - SSDT : CDATE(2025,04,01)
+11/8/2025 8:59:43 AM - LLDT : CDATE(2025,11,08)
+11/8/2025 8:59:43 AM - DSN Name : dsn_147542
+11/8/2025 8:59:43 AM - Report Parameter parameter : 
+11/8/2025 9:39:08 AM - Client Server IP: 160.187.54.114,4545
+11/8/2025 9:39:08 AM - Client Multiple Database : valjierp
+11/8/2025 9:39:08 AM - Client Database : valjierp
+11/8/2025 9:39:08 AM - Report Name : cta_inv_valji
+11/8/2025 9:39:08 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/8/2025 9:39:08 AM - Company ID : 24
+11/8/2025 9:39:08 AM - SSDT : CDATE(2025,04,01)
+11/8/2025 9:39:08 AM - LLDT : CDATE(2025,11,08)
+11/8/2025 9:39:08 AM - DSN Name : dsn_147543
+11/8/2025 9:39:08 AM - Report Parameter parameter : {?SELECT}=NO
+11/8/2025 9:42:14 AM - Client Server IP: 160.187.54.114,4545
+11/8/2025 9:42:14 AM - Client Multiple Database : valjierp
+11/8/2025 9:42:14 AM - Client Database : valjierp
+11/8/2025 9:42:14 AM - Report Name : cta_inv_valji
+11/8/2025 9:42:14 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/8/2025 9:42:14 AM - Company ID : 24
+11/8/2025 9:42:14 AM - SSDT : CDATE(2025,04,01)
+11/8/2025 9:42:14 AM - LLDT : CDATE(2025,11,08)
+11/8/2025 9:42:14 AM - DSN Name : dsn_147544
+11/8/2025 9:42:14 AM - Report Parameter parameter : {?SELECT}=NO
+11/8/2025 12:57:10 PM - Client Server IP: 160.187.54.114,4545
+11/8/2025 12:57:10 PM - Client Multiple Database : valjierp
+11/8/2025 12:57:10 PM - Client Database : valjierp
+11/8/2025 12:57:10 PM - Report Name : Lr_valjidot
+11/8/2025 12:57:10 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/8/2025 12:57:10 PM - Company ID : 24
+11/8/2025 12:57:10 PM - SSDT : CDATE(2025,04,01)
+11/8/2025 12:57:10 PM - LLDT : CDATE(2025,11,08)
+11/8/2025 12:57:10 PM - DSN Name : dsn_148038
+11/8/2025 12:57:10 PM - Report Parameter parameter : 
+11/8/2025 12:57:36 PM - Client Server IP: 160.187.54.114,4545
+11/8/2025 12:57:36 PM - Client Multiple Database : valjierp
+11/8/2025 12:57:36 PM - Client Database : valjierp
+11/8/2025 12:57:36 PM - Report Name : Lr_valjidot
+11/8/2025 12:57:36 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/8/2025 12:57:36 PM - Company ID : 24
+11/8/2025 12:57:36 PM - SSDT : CDATE(2025,04,01)
+11/8/2025 12:57:36 PM - LLDT : CDATE(2025,11,08)
+11/8/2025 12:57:36 PM - DSN Name : dsn_148039
+11/8/2025 12:57:36 PM - Report Parameter parameter : 
+11/9/2025 10:58:12 AM - Client Server IP: 160.187.54.114,4545
+11/9/2025 10:58:12 AM - Client Multiple Database : valjierp
+11/9/2025 10:58:12 AM - Client Database : valjierp
+11/9/2025 10:58:12 AM - Report Name : Lr_valjidot
+11/9/2025 10:58:12 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 10:58:12 AM - Company ID : 24
+11/9/2025 10:58:12 AM - SSDT : CDATE(2025,04,01)
+11/9/2025 10:58:12 AM - LLDT : CDATE(2025,11,09)
+11/9/2025 10:58:12 AM - DSN Name : dsn_149526
+11/9/2025 10:58:12 AM - Report Parameter parameter : 
+11/9/2025 10:59:21 AM - Client Server IP: 160.187.54.114,4545
+11/9/2025 10:59:21 AM - Client Multiple Database : valjierp
+11/9/2025 10:59:21 AM - Client Database : valjierp
+11/9/2025 10:59:21 AM - Report Name : Lr_valjidot
+11/9/2025 10:59:21 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 10:59:21 AM - Company ID : 24
+11/9/2025 10:59:21 AM - SSDT : CDATE(2025,04,01)
+11/9/2025 10:59:21 AM - LLDT : CDATE(2025,11,09)
+11/9/2025 10:59:21 AM - DSN Name : dsn_149527
+11/9/2025 10:59:21 AM - Report Parameter parameter : 
+11/9/2025 11:06:35 AM - Client Server IP: 160.187.54.114,4545
+11/9/2025 11:06:35 AM - Client Multiple Database : valjierp
+11/9/2025 11:06:35 AM - Client Database : valjierp
+11/9/2025 11:06:35 AM - Report Name : Lr_valjidot
+11/9/2025 11:06:35 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 11:06:35 AM - Company ID : 24
+11/9/2025 11:06:35 AM - SSDT : CDATE(2025,04,01)
+11/9/2025 11:06:35 AM - LLDT : CDATE(2025,11,09)
+11/9/2025 11:06:35 AM - DSN Name : dsn_149528
+11/9/2025 11:06:35 AM - Report Parameter parameter : 
+11/9/2025 11:07:38 AM - Client Server IP: 160.187.54.114,4545
+11/9/2025 11:07:38 AM - Client Multiple Database : valjierp
+11/9/2025 11:07:38 AM - Client Database : valjierp
+11/9/2025 11:07:38 AM - Report Name : Lr_valjidot
+11/9/2025 11:07:38 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 11:07:38 AM - Company ID : 24
+11/9/2025 11:07:38 AM - SSDT : CDATE(2025,04,01)
+11/9/2025 11:07:38 AM - LLDT : CDATE(2025,11,09)
+11/9/2025 11:07:38 AM - DSN Name : dsn_149529
+11/9/2025 11:07:38 AM - Report Parameter parameter : 
+11/9/2025 11:11:07 AM - Client Server IP: 160.187.54.114,4545
+11/9/2025 11:11:07 AM - Client Multiple Database : valjierp
+11/9/2025 11:11:07 AM - Client Database : valjierp
+11/9/2025 11:11:07 AM - Report Name : Lr_valjidot
+11/9/2025 11:11:07 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 11:11:07 AM - Company ID : 24
+11/9/2025 11:11:07 AM - SSDT : CDATE(2025,04,01)
+11/9/2025 11:11:07 AM - LLDT : CDATE(2025,11,09)
+11/9/2025 11:11:07 AM - DSN Name : dsn_149538
+11/9/2025 11:11:07 AM - Report Parameter parameter : 
+11/9/2025 11:11:48 AM - Client Server IP: 160.187.54.114,4545
+11/9/2025 11:11:48 AM - Client Multiple Database : valjierp
+11/9/2025 11:11:48 AM - Client Database : valjierp
+11/9/2025 11:11:48 AM - Report Name : Lr_valjidot
+11/9/2025 11:11:48 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 11:11:48 AM - Company ID : 24
+11/9/2025 11:11:48 AM - SSDT : CDATE(2025,04,01)
+11/9/2025 11:11:48 AM - LLDT : CDATE(2025,11,09)
+11/9/2025 11:11:48 AM - DSN Name : dsn_149539
+11/9/2025 11:11:48 AM - Report Parameter parameter : 
+11/9/2025 11:15:04 AM - Client Server IP: 160.187.54.114,4545
+11/9/2025 11:15:04 AM - Client Multiple Database : valjierp
+11/9/2025 11:15:04 AM - Client Database : valjierp
+11/9/2025 11:15:04 AM - Report Name : Lr_valjidot
+11/9/2025 11:15:04 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 11:15:04 AM - Company ID : 24
+11/9/2025 11:15:04 AM - SSDT : CDATE(2025,04,01)
+11/9/2025 11:15:04 AM - LLDT : CDATE(2025,11,09)
+11/9/2025 11:15:04 AM - DSN Name : dsn_149543
+11/9/2025 11:15:04 AM - Report Parameter parameter : 
+11/9/2025 11:21:39 AM - Client Server IP: 160.187.54.114,4545
+11/9/2025 11:21:39 AM - Client Multiple Database : valjierp
+11/9/2025 11:21:39 AM - Client Database : valjierp
+11/9/2025 11:21:39 AM - Report Name : Lr_valjidot
+11/9/2025 11:21:39 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 11:21:39 AM - Company ID : 24
+11/9/2025 11:21:39 AM - SSDT : CDATE(2025,04,01)
+11/9/2025 11:21:39 AM - LLDT : CDATE(2025,11,09)
+11/9/2025 11:21:39 AM - DSN Name : dsn_149550
+11/9/2025 11:21:39 AM - Report Parameter parameter : 
+11/9/2025 11:22:29 AM - Client Server IP: 160.187.54.114,4545
+11/9/2025 11:22:29 AM - Client Multiple Database : valjierp
+11/9/2025 11:22:29 AM - Client Database : valjierp
+11/9/2025 11:22:29 AM - Report Name : Lr_valjidot
+11/9/2025 11:22:29 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 11:22:29 AM - Company ID : 24
+11/9/2025 11:22:29 AM - SSDT : CDATE(2025,04,01)
+11/9/2025 11:22:29 AM - LLDT : CDATE(2025,11,09)
+11/9/2025 11:22:29 AM - DSN Name : dsn_149553
+11/9/2025 11:22:29 AM - Report Parameter parameter : 
+11/9/2025 11:57:54 AM - Client Server IP: 160.187.54.114,4545
+11/9/2025 11:57:54 AM - Client Multiple Database : valjierp
+11/9/2025 11:57:54 AM - Client Database : valjierp
+11/9/2025 11:57:54 AM - Report Name : Lr_valjidot
+11/9/2025 11:57:54 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 11:57:54 AM - Company ID : 24
+11/9/2025 11:57:54 AM - SSDT : CDATE(2025,04,01)
+11/9/2025 11:57:54 AM - LLDT : CDATE(2025,11,09)
+11/9/2025 11:57:54 AM - DSN Name : dsn_149603
+11/9/2025 11:57:54 AM - Report Parameter parameter : 
+11/9/2025 11:59:44 AM - Client Server IP: 160.187.54.114,4545
+11/9/2025 11:59:44 AM - Client Multiple Database : valjierp
+11/9/2025 11:59:44 AM - Client Database : valjierp
+11/9/2025 11:59:44 AM - Report Name : Lr_valjidot
+11/9/2025 11:59:44 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 11:59:44 AM - Company ID : 24
+11/9/2025 11:59:44 AM - SSDT : CDATE(2025,04,01)
+11/9/2025 11:59:44 AM - LLDT : CDATE(2025,11,09)
+11/9/2025 11:59:44 AM - DSN Name : dsn_149611
+11/9/2025 11:59:44 AM - Report Parameter parameter : 
+11/9/2025 12:04:10 PM - Client Server IP: 160.187.54.114,4545
+11/9/2025 12:04:10 PM - Client Multiple Database : valjierp
+11/9/2025 12:04:10 PM - Client Database : valjierp
+11/9/2025 12:04:10 PM - Report Name : cta_inv_valji
+11/9/2025 12:04:10 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 12:04:10 PM - Company ID : 24
+11/9/2025 12:04:10 PM - SSDT : CDATE(2025,04,01)
+11/9/2025 12:04:10 PM - LLDT : CDATE(2025,11,09)
+11/9/2025 12:04:10 PM - DSN Name : dsn_149623
+11/9/2025 12:04:10 PM - Report Parameter parameter : {?SELECT}=NO
+11/9/2025 12:05:33 PM - Client Server IP: 160.187.54.114,4545
+11/9/2025 12:05:33 PM - Client Multiple Database : valjierp
+11/9/2025 12:05:33 PM - Client Database : valjierp
+11/9/2025 12:05:33 PM - Report Name : cta_inv_valji
+11/9/2025 12:05:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 12:05:33 PM - Company ID : 24
+11/9/2025 12:05:33 PM - SSDT : CDATE(2025,04,01)
+11/9/2025 12:05:33 PM - LLDT : CDATE(2025,11,09)
+11/9/2025 12:05:33 PM - DSN Name : dsn_149625
+11/9/2025 12:05:33 PM - Report Parameter parameter : {?SELECT}=NO
+11/9/2025 12:11:15 PM - Client Server IP: 160.187.54.114,4545
+11/9/2025 12:11:15 PM - Client Multiple Database : valjierp
+11/9/2025 12:11:15 PM - Client Database : valjierp
+11/9/2025 12:11:15 PM - Report Name : cta_inv_valji
+11/9/2025 12:11:15 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 12:11:15 PM - Company ID : 24
+11/9/2025 12:11:15 PM - SSDT : CDATE(2025,04,01)
+11/9/2025 12:11:15 PM - LLDT : CDATE(2025,11,09)
+11/9/2025 12:11:15 PM - DSN Name : dsn_149636
+11/9/2025 12:11:15 PM - Report Parameter parameter : {?SELECT}=NO
+11/9/2025 12:12:20 PM - Client Server IP: 160.187.54.114,4545
+11/9/2025 12:12:20 PM - Client Multiple Database : valjierp
+11/9/2025 12:12:20 PM - Client Database : valjierp
+11/9/2025 12:12:20 PM - Report Name : cta_inv_valji
+11/9/2025 12:12:20 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 12:12:20 PM - Company ID : 24
+11/9/2025 12:12:20 PM - SSDT : CDATE(2025,04,01)
+11/9/2025 12:12:20 PM - LLDT : CDATE(2025,11,09)
+11/9/2025 12:12:20 PM - DSN Name : dsn_149639
+11/9/2025 12:12:20 PM - Report Parameter parameter : {?SELECT}=NO
+11/9/2025 12:13:10 PM - Client Server IP: 160.187.54.114,4545
+11/9/2025 12:13:10 PM - Client Multiple Database : valjierp
+11/9/2025 12:13:10 PM - Client Database : valjierp
+11/9/2025 12:13:10 PM - Report Name : cta_inv_valji
+11/9/2025 12:13:10 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 12:13:10 PM - Company ID : 24
+11/9/2025 12:13:10 PM - SSDT : CDATE(2025,04,01)
+11/9/2025 12:13:10 PM - LLDT : CDATE(2025,11,09)
+11/9/2025 12:13:10 PM - DSN Name : dsn_149642
+11/9/2025 12:13:10 PM - Report Parameter parameter : {?SELECT}=NO
+11/9/2025 12:14:24 PM - Client Server IP: 160.187.54.114,4545
+11/9/2025 12:14:24 PM - Client Multiple Database : valjierp
+11/9/2025 12:14:24 PM - Client Database : valjierp
+11/9/2025 12:14:24 PM - Report Name : cta_inv_valji
+11/9/2025 12:14:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 12:14:24 PM - Company ID : 24
+11/9/2025 12:14:24 PM - SSDT : CDATE(2025,04,01)
+11/9/2025 12:14:24 PM - LLDT : CDATE(2025,11,09)
+11/9/2025 12:14:24 PM - DSN Name : dsn_149645
+11/9/2025 12:14:24 PM - Report Parameter parameter : {?SELECT}=NO
+11/9/2025 12:15:55 PM - Client Server IP: 160.187.54.114,4545
+11/9/2025 12:15:55 PM - Client Multiple Database : valjierp
+11/9/2025 12:15:55 PM - Client Database : valjierp
+11/9/2025 12:15:55 PM - Report Name : cta_inv_valji
+11/9/2025 12:15:55 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 12:15:55 PM - Company ID : 24
+11/9/2025 12:15:55 PM - SSDT : CDATE(2025,04,01)
+11/9/2025 12:15:55 PM - LLDT : CDATE(2025,11,09)
+11/9/2025 12:15:55 PM - DSN Name : dsn_149648
+11/9/2025 12:15:55 PM - Report Parameter parameter : {?SELECT}=NO
+11/9/2025 12:19:13 PM - Client Server IP: 160.187.54.114,4545
+11/9/2025 12:19:13 PM - Client Multiple Database : valjierp
+11/9/2025 12:19:13 PM - Client Database : valjierp
+11/9/2025 12:19:13 PM - Report Name : cta_inv_valji
+11/9/2025 12:19:13 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 12:19:13 PM - Company ID : 24
+11/9/2025 12:19:13 PM - SSDT : CDATE(2025,04,01)
+11/9/2025 12:19:13 PM - LLDT : CDATE(2025,11,09)
+11/9/2025 12:19:13 PM - DSN Name : dsn_149655
+11/9/2025 12:19:13 PM - Report Parameter parameter : {?SELECT}=NO
+11/9/2025 12:20:07 PM - Client Server IP: 160.187.54.114,4545
+11/9/2025 12:20:07 PM - Client Multiple Database : valjierp
+11/9/2025 12:20:07 PM - Client Database : valjierp
+11/9/2025 12:20:07 PM - Report Name : cta_inv_valji
+11/9/2025 12:20:07 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 12:20:07 PM - Company ID : 24
+11/9/2025 12:20:07 PM - SSDT : CDATE(2025,04,01)
+11/9/2025 12:20:07 PM - LLDT : CDATE(2025,11,09)
+11/9/2025 12:20:07 PM - DSN Name : dsn_149657
+11/9/2025 12:20:07 PM - Report Parameter parameter : {?SELECT}=NO
+11/9/2025 12:20:56 PM - Client Server IP: 160.187.54.114,4545
+11/9/2025 12:20:56 PM - Client Multiple Database : valjierp
+11/9/2025 12:20:56 PM - Client Database : valjierp
+11/9/2025 12:20:56 PM - Report Name : Lr_valjidot
+11/9/2025 12:20:56 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 12:20:56 PM - Company ID : 24
+11/9/2025 12:20:56 PM - SSDT : CDATE(2025,04,01)
+11/9/2025 12:20:56 PM - LLDT : CDATE(2025,11,09)
+11/9/2025 12:20:56 PM - DSN Name : dsn_149660
+11/9/2025 12:20:56 PM - Report Parameter parameter : 
+11/9/2025 12:22:08 PM - Client Server IP: 160.187.54.114,4545
+11/9/2025 12:22:08 PM - Client Multiple Database : valjierp
+11/9/2025 12:22:08 PM - Client Database : valjierp
+11/9/2025 12:22:08 PM - Report Name : Lr_valjidot
+11/9/2025 12:22:08 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/9/2025 12:22:08 PM - Company ID : 24
+11/9/2025 12:22:08 PM - SSDT : CDATE(2025,04,01)
+11/9/2025 12:22:08 PM - LLDT : CDATE(2025,11,09)
+11/9/2025 12:22:08 PM - DSN Name : dsn_149663
+11/9/2025 12:22:08 PM - Report Parameter parameter : 
+11/10/2025 9:21:43 AM - Client Server IP: 160.187.54.114,4545
+11/10/2025 9:21:43 AM - Client Multiple Database : valjierp
+11/10/2025 9:21:43 AM - Client Database : valjierp
+11/10/2025 9:21:43 AM - Report Name : Lr_valjidot
+11/10/2025 9:21:43 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 9:21:43 AM - Company ID : 24
+11/10/2025 9:21:43 AM - SSDT : CDATE(2025,04,01)
+11/10/2025 9:21:43 AM - LLDT : CDATE(2025,11,10)
+11/10/2025 9:21:43 AM - DSN Name : dsn_150301
+11/10/2025 9:21:43 AM - Report Parameter parameter : 
+11/10/2025 9:22:25 AM - Client Server IP: 160.187.54.114,4545
+11/10/2025 9:22:25 AM - Client Multiple Database : valjierp
+11/10/2025 9:22:25 AM - Client Database : valjierp
+11/10/2025 9:22:25 AM - Report Name : Lr_valjidot
+11/10/2025 9:22:25 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 9:22:25 AM - Company ID : 24
+11/10/2025 9:22:25 AM - SSDT : CDATE(2025,04,01)
+11/10/2025 9:22:25 AM - LLDT : CDATE(2025,11,10)
+11/10/2025 9:22:25 AM - DSN Name : dsn_150302
+11/10/2025 9:22:25 AM - Report Parameter parameter : 
+11/10/2025 9:25:40 AM - Client Server IP: 160.187.54.114,4545
+11/10/2025 9:25:40 AM - Client Multiple Database : valjierp
+11/10/2025 9:25:40 AM - Client Database : valjierp
+11/10/2025 9:25:40 AM - Report Name : Lr_valjidot
+11/10/2025 9:25:40 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 9:25:40 AM - Company ID : 24
+11/10/2025 9:25:40 AM - SSDT : CDATE(2025,04,01)
+11/10/2025 9:25:40 AM - LLDT : CDATE(2025,11,10)
+11/10/2025 9:25:40 AM - DSN Name : dsn_150303
+11/10/2025 9:25:40 AM - Report Parameter parameter : 
+11/10/2025 9:29:08 AM - Client Server IP: 160.187.54.114,4545
+11/10/2025 9:29:08 AM - Client Multiple Database : valjierp
+11/10/2025 9:29:08 AM - Client Database : valjierp
+11/10/2025 9:29:08 AM - Report Name : Lr_valjidot
+11/10/2025 9:29:08 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 9:29:08 AM - Company ID : 24
+11/10/2025 9:29:08 AM - SSDT : CDATE(2025,04,01)
+11/10/2025 9:29:08 AM - LLDT : CDATE(2025,11,10)
+11/10/2025 9:29:08 AM - DSN Name : dsn_150304
+11/10/2025 9:29:08 AM - Report Parameter parameter : 
+11/10/2025 9:31:51 AM - Client Server IP: 160.187.54.114,4545
+11/10/2025 9:31:51 AM - Client Multiple Database : valjierp
+11/10/2025 9:31:51 AM - Client Database : valjierp
+11/10/2025 9:31:51 AM - Report Name : Lr_valjidot
+11/10/2025 9:31:51 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 9:31:51 AM - Company ID : 24
+11/10/2025 9:31:51 AM - SSDT : CDATE(2025,04,01)
+11/10/2025 9:31:51 AM - LLDT : CDATE(2025,11,10)
+11/10/2025 9:31:51 AM - DSN Name : dsn_150305
+11/10/2025 9:31:51 AM - Report Parameter parameter : 
+11/10/2025 9:34:48 AM - Client Server IP: 160.187.54.114,4545
+11/10/2025 9:34:48 AM - Client Multiple Database : valjierp
+11/10/2025 9:34:48 AM - Client Database : valjierp
+11/10/2025 9:34:48 AM - Report Name : Lr_valjidot
+11/10/2025 9:34:48 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 9:34:48 AM - Company ID : 24
+11/10/2025 9:34:48 AM - SSDT : CDATE(2025,04,01)
+11/10/2025 9:34:48 AM - LLDT : CDATE(2025,11,10)
+11/10/2025 9:34:48 AM - DSN Name : dsn_150306
+11/10/2025 9:34:48 AM - Report Parameter parameter : 
+11/10/2025 9:37:51 AM - Client Server IP: 160.187.54.114,4545
+11/10/2025 9:37:51 AM - Client Multiple Database : valjierp
+11/10/2025 9:37:51 AM - Client Database : valjierp
+11/10/2025 9:37:51 AM - Report Name : Lr_valjidot
+11/10/2025 9:37:51 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 9:37:51 AM - Company ID : 24
+11/10/2025 9:37:51 AM - SSDT : CDATE(2025,04,01)
+11/10/2025 9:37:51 AM - LLDT : CDATE(2025,11,10)
+11/10/2025 9:37:51 AM - DSN Name : dsn_150307
+11/10/2025 9:37:51 AM - Report Parameter parameter : 
+11/11/2025 9:22:28 AM - Client Server IP: 160.187.54.114,4545
+11/11/2025 9:22:28 AM - Client Multiple Database : valjierp
+11/11/2025 9:22:28 AM - Client Database : valjierp
+11/11/2025 9:22:28 AM - Report Name : Lr_valjidot
+11/11/2025 9:22:28 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 9:22:28 AM - Company ID : 24
+11/11/2025 9:22:28 AM - SSDT : CDATE(2025,04,01)
+11/11/2025 9:22:28 AM - LLDT : CDATE(2025,11,11)
+11/11/2025 9:22:28 AM - DSN Name : dsn_152385
+11/11/2025 9:22:28 AM - Report Parameter parameter : 
+11/11/2025 9:26:53 AM - Client Server IP: 160.187.54.114,4545
+11/11/2025 9:26:53 AM - Client Multiple Database : valjierp
+11/11/2025 9:26:53 AM - Client Database : valjierp
+11/11/2025 9:26:53 AM - Report Name : Lr_valjidot
+11/11/2025 9:26:53 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 9:26:53 AM - Company ID : 24
+11/11/2025 9:26:53 AM - SSDT : CDATE(2025,04,01)
+11/11/2025 9:26:53 AM - LLDT : CDATE(2025,11,11)
+11/11/2025 9:26:53 AM - DSN Name : dsn_152391
+11/11/2025 9:26:53 AM - Report Parameter parameter : 
+11/11/2025 9:36:51 AM - Client Server IP: 160.187.54.114,4545
+11/11/2025 9:36:51 AM - Client Multiple Database : valjierp
+11/11/2025 9:36:51 AM - Client Database : valjierp
+11/11/2025 9:36:51 AM - Report Name : Lr_valjidot
+11/11/2025 9:36:51 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 9:36:51 AM - Company ID : 24
+11/11/2025 9:36:51 AM - SSDT : CDATE(2025,04,01)
+11/11/2025 9:36:51 AM - LLDT : CDATE(2025,11,11)
+11/11/2025 9:36:51 AM - DSN Name : dsn_152394
+11/11/2025 9:36:51 AM - Report Parameter parameter : 
+11/11/2025 9:37:20 AM - Client Server IP: 160.187.54.114,4545
+11/11/2025 9:37:20 AM - Client Multiple Database : valjierp
+11/11/2025 9:37:20 AM - Client Database : valjierp
+11/11/2025 9:37:20 AM - Report Name : Lr_valjidot
+11/11/2025 9:37:20 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 9:37:20 AM - Company ID : 24
+11/11/2025 9:37:20 AM - SSDT : CDATE(2025,04,01)
+11/11/2025 9:37:20 AM - LLDT : CDATE(2025,11,11)
+11/11/2025 9:37:20 AM - DSN Name : dsn_152395
+11/11/2025 9:37:20 AM - Report Parameter parameter : 
+11/12/2025 8:33:04 AM - Client Server IP: 160.187.54.114,4545
+11/12/2025 8:33:04 AM - Client Multiple Database : valjierp
+11/12/2025 8:33:04 AM - Client Database : valjierp
+11/12/2025 8:33:04 AM - Report Name : Lr_valjidot
+11/12/2025 8:33:04 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/12/2025 8:33:04 AM - Company ID : 24
+11/12/2025 8:33:04 AM - SSDT : CDATE(2025,04,01)
+11/12/2025 8:33:04 AM - LLDT : CDATE(2025,11,12)
+11/12/2025 8:33:04 AM - DSN Name : dsn_154709
+11/12/2025 8:33:04 AM - Report Parameter parameter : 
+11/12/2025 8:33:52 AM - Client Server IP: 160.187.54.114,4545
+11/12/2025 8:33:52 AM - Client Multiple Database : valjierp
+11/12/2025 8:33:52 AM - Client Database : valjierp
+11/12/2025 8:33:52 AM - Report Name : Lr_valjidot
+11/12/2025 8:33:52 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/12/2025 8:33:52 AM - Company ID : 24
+11/12/2025 8:33:52 AM - SSDT : CDATE(2025,04,01)
+11/12/2025 8:33:52 AM - LLDT : CDATE(2025,11,12)
+11/12/2025 8:33:52 AM - DSN Name : dsn_154710
+11/12/2025 8:33:52 AM - Report Parameter parameter : 
+11/12/2025 8:42:34 AM - Client Server IP: 160.187.54.114,4545
+11/12/2025 8:42:34 AM - Client Multiple Database : valjierp
+11/12/2025 8:42:34 AM - Client Database : valjierp
+11/12/2025 8:42:34 AM - Report Name : Lr_valjidot
+11/12/2025 8:42:34 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/12/2025 8:42:34 AM - Company ID : 24
+11/12/2025 8:42:34 AM - SSDT : CDATE(2025,04,01)
+11/12/2025 8:42:34 AM - LLDT : CDATE(2025,11,12)
+11/12/2025 8:42:34 AM - DSN Name : dsn_154711
+11/12/2025 8:42:34 AM - Report Parameter parameter : 
+11/12/2025 8:43:06 AM - Client Server IP: 160.187.54.114,4545
+11/12/2025 8:43:06 AM - Client Multiple Database : valjierp
+11/12/2025 8:43:06 AM - Client Database : valjierp
+11/12/2025 8:43:06 AM - Report Name : Lr_valjidot
+11/12/2025 8:43:06 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/12/2025 8:43:06 AM - Company ID : 24
+11/12/2025 8:43:06 AM - SSDT : CDATE(2025,04,01)
+11/12/2025 8:43:06 AM - LLDT : CDATE(2025,11,12)
+11/12/2025 8:43:06 AM - DSN Name : dsn_154712
+11/12/2025 8:43:06 AM - Report Parameter parameter : 
+11/12/2025 8:45:49 AM - Client Server IP: 160.187.54.114,4545
+11/12/2025 8:45:49 AM - Client Multiple Database : valjierp
+11/12/2025 8:45:49 AM - Client Database : valjierp
+11/12/2025 8:45:49 AM - Report Name : Lr_valjidot
+11/12/2025 8:45:49 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/12/2025 8:45:49 AM - Company ID : 24
+11/12/2025 8:45:49 AM - SSDT : CDATE(2025,04,01)
+11/12/2025 8:45:49 AM - LLDT : CDATE(2025,11,12)
+11/12/2025 8:45:49 AM - DSN Name : dsn_154713
+11/12/2025 8:45:49 AM - Report Parameter parameter : 
+11/13/2025 8:51:51 AM - Client Server IP: 160.187.54.114,4545
+11/13/2025 8:51:51 AM - Client Multiple Database : valjierp
+11/13/2025 8:51:51 AM - Client Database : valjierp
+11/13/2025 8:51:51 AM - Report Name : cta_inv_valji
+11/13/2025 8:51:51 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 8:51:51 AM - Company ID : 24
+11/13/2025 8:51:51 AM - SSDT : CDATE(2025,04,01)
+11/13/2025 8:51:51 AM - LLDT : CDATE(2025,11,13)
+11/13/2025 8:51:51 AM - DSN Name : dsn_156739
+11/13/2025 8:51:51 AM - Report Parameter parameter : {?SELECT}=NO
+11/14/2025 8:49:08 AM - Client Server IP: 160.187.54.114,4545
+11/14/2025 8:49:08 AM - Client Multiple Database : valjierp
+11/14/2025 8:49:08 AM - Client Database : valjierp
+11/14/2025 8:49:08 AM - Report Name : Lr_valjidot
+11/14/2025 8:49:08 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/14/2025 8:49:08 AM - Company ID : 24
+11/14/2025 8:49:08 AM - SSDT : CDATE(2025,04,01)
+11/14/2025 8:49:08 AM - LLDT : CDATE(2025,11,14)
+11/14/2025 8:49:08 AM - DSN Name : dsn_158944
+11/14/2025 8:49:08 AM - Report Parameter parameter : 
+11/14/2025 8:54:53 AM - Client Server IP: 160.187.54.114,4545
+11/14/2025 8:54:53 AM - Client Multiple Database : valjierp
+11/14/2025 8:54:53 AM - Client Database : valjierp
+11/14/2025 8:54:53 AM - Report Name : Lr_valjidot
+11/14/2025 8:54:53 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/14/2025 8:54:53 AM - Company ID : 24
+11/14/2025 8:54:53 AM - SSDT : CDATE(2025,04,01)
+11/14/2025 8:54:53 AM - LLDT : CDATE(2025,11,14)
+11/14/2025 8:54:53 AM - DSN Name : dsn_158945
+11/14/2025 8:54:53 AM - Report Parameter parameter : 
+11/14/2025 5:37:53 PM - Client Server IP: 160.187.54.114,4545
+11/14/2025 5:37:53 PM - Client Multiple Database : valjierp
+11/14/2025 5:37:53 PM - Client Database : valjierp
+11/14/2025 5:37:53 PM - Report Name : Lr_valjidot
+11/14/2025 5:37:53 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/14/2025 5:37:53 PM - Company ID : 24
+11/14/2025 5:37:53 PM - SSDT : CDATE(2025,04,01)
+11/14/2025 5:37:53 PM - LLDT : CDATE(2025,11,14)
+11/14/2025 5:37:53 PM - DSN Name : dsn_160265
+11/14/2025 5:37:53 PM - Report Parameter parameter : 
+11/14/2025 5:38:52 PM - Client Server IP: 160.187.54.114,4545
+11/14/2025 5:38:52 PM - Client Multiple Database : valjierp
+11/14/2025 5:38:52 PM - Client Database : valjierp
+11/14/2025 5:38:52 PM - Report Name : Lr_valjidot
+11/14/2025 5:38:52 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/14/2025 5:38:52 PM - Company ID : 24
+11/14/2025 5:38:52 PM - SSDT : CDATE(2025,04,01)
+11/14/2025 5:38:52 PM - LLDT : CDATE(2025,11,14)
+11/14/2025 5:38:52 PM - DSN Name : dsn_160267
+11/14/2025 5:38:52 PM - Report Parameter parameter : 
+11/14/2025 5:40:27 PM - Client Server IP: 160.187.54.114,4545
+11/14/2025 5:40:27 PM - Client Multiple Database : valjierp
+11/14/2025 5:40:27 PM - Client Database : valjierp
+11/14/2025 5:40:27 PM - Report Name : Lr_valjidot
+11/14/2025 5:40:27 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/14/2025 5:40:27 PM - Company ID : 24
+11/14/2025 5:40:27 PM - SSDT : CDATE(2025,04,01)
+11/14/2025 5:40:27 PM - LLDT : CDATE(2025,11,14)
+11/14/2025 5:40:27 PM - DSN Name : dsn_160273
+11/14/2025 5:40:27 PM - Report Parameter parameter : 
+11/14/2025 5:42:48 PM - Client Server IP: 160.187.54.114,4545
+11/14/2025 5:42:48 PM - Client Multiple Database : valjierp
+11/14/2025 5:42:48 PM - Client Database : valjierp
+11/14/2025 5:42:48 PM - Report Name : Lr_valjidot
+11/14/2025 5:42:48 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/14/2025 5:42:48 PM - Company ID : 24
+11/14/2025 5:42:48 PM - SSDT : CDATE(2025,04,01)
+11/14/2025 5:42:48 PM - LLDT : CDATE(2025,11,14)
+11/14/2025 5:42:48 PM - DSN Name : dsn_160288
+11/14/2025 5:42:48 PM - Report Parameter parameter : 
+11/15/2025 8:31:48 AM - Client Server IP: 160.187.54.114,4545
+11/15/2025 8:31:48 AM - Client Multiple Database : valjierp
+11/15/2025 8:31:48 AM - Client Database : valjierp
+11/15/2025 8:31:48 AM - Report Name : Lr_valjidot
+11/15/2025 8:31:48 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 8:31:48 AM - Company ID : 24
+11/15/2025 8:31:48 AM - SSDT : CDATE(2025,04,01)
+11/15/2025 8:31:48 AM - LLDT : CDATE(2025,11,15)
+11/15/2025 8:31:48 AM - DSN Name : dsn_160723
+11/15/2025 8:31:48 AM - Report Parameter parameter : 
+11/15/2025 8:56:28 AM - Client Server IP: 160.187.54.114,4545
+11/15/2025 8:56:28 AM - Client Multiple Database : valjierp
+11/15/2025 8:56:28 AM - Client Database : valjierp
+11/15/2025 8:56:28 AM - Report Name : Lr_valjidot
+11/15/2025 8:56:28 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 8:56:28 AM - Company ID : 24
+11/15/2025 8:56:28 AM - SSDT : CDATE(2025,04,01)
+11/15/2025 8:56:28 AM - LLDT : CDATE(2025,11,15)
+11/15/2025 8:56:28 AM - DSN Name : dsn_160724
+11/15/2025 8:56:28 AM - Report Parameter parameter : 
+11/15/2025 8:58:47 AM - Client Server IP: 160.187.54.114,4545
+11/15/2025 8:58:47 AM - Client Multiple Database : valjierp
+11/15/2025 8:58:47 AM - Client Database : valjierp
+11/15/2025 8:58:47 AM - Report Name : Lr_valjidot
+11/15/2025 8:58:47 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 8:58:47 AM - Company ID : 24
+11/15/2025 8:58:47 AM - SSDT : CDATE(2025,04,01)
+11/15/2025 8:58:47 AM - LLDT : CDATE(2025,11,15)
+11/15/2025 8:58:47 AM - DSN Name : dsn_160725
+11/15/2025 8:58:47 AM - Report Parameter parameter : 
+11/15/2025 9:09:47 AM - Client Server IP: 160.187.54.114,4545
+11/15/2025 9:09:47 AM - Client Multiple Database : valjierp
+11/15/2025 9:09:47 AM - Client Database : valjierp
+11/15/2025 9:09:47 AM - Report Name : Lr_valjidot
+11/15/2025 9:09:47 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 9:09:47 AM - Company ID : 24
+11/15/2025 9:09:47 AM - SSDT : CDATE(2025,04,01)
+11/15/2025 9:09:47 AM - LLDT : CDATE(2025,11,15)
+11/15/2025 9:09:47 AM - DSN Name : dsn_160726
+11/15/2025 9:09:47 AM - Report Parameter parameter : 
+11/15/2025 9:10:13 AM - Client Server IP: 160.187.54.114,4545
+11/15/2025 9:10:13 AM - Client Multiple Database : valjierp
+11/15/2025 9:10:13 AM - Client Database : valjierp
+11/15/2025 9:10:13 AM - Report Name : Lr_valjidot
+11/15/2025 9:10:13 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 9:10:13 AM - Company ID : 24
+11/15/2025 9:10:13 AM - SSDT : CDATE(2025,04,01)
+11/15/2025 9:10:13 AM - LLDT : CDATE(2025,11,15)
+11/15/2025 9:10:13 AM - DSN Name : dsn_160727
+11/15/2025 9:10:13 AM - Report Parameter parameter : 
+11/15/2025 9:12:06 AM - Client Server IP: 160.187.54.114,4545
+11/15/2025 9:12:06 AM - Client Multiple Database : valjierp
+11/15/2025 9:12:06 AM - Client Database : valjierp
+11/15/2025 9:12:06 AM - Report Name : Lr_valjidot
+11/15/2025 9:12:06 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 9:12:06 AM - Company ID : 24
+11/15/2025 9:12:06 AM - SSDT : CDATE(2025,04,01)
+11/15/2025 9:12:06 AM - LLDT : CDATE(2025,11,15)
+11/15/2025 9:12:06 AM - DSN Name : dsn_160729
+11/15/2025 9:12:06 AM - Report Parameter parameter : 
+11/15/2025 9:37:26 AM - Client Server IP: 160.187.54.114,4545
+11/15/2025 9:37:26 AM - Client Multiple Database : valjierp
+11/15/2025 9:37:26 AM - Client Database : valjierp
+11/15/2025 9:37:26 AM - Report Name : Lr_valjidot
+11/15/2025 9:37:26 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 9:37:26 AM - Company ID : 24
+11/15/2025 9:37:26 AM - SSDT : CDATE(2025,04,01)
+11/15/2025 9:37:26 AM - LLDT : CDATE(2025,11,15)
+11/15/2025 9:37:26 AM - DSN Name : dsn_160739
+11/15/2025 9:37:26 AM - Report Parameter parameter : 
+11/15/2025 9:48:46 AM - Client Server IP: 160.187.54.114,4545
+11/15/2025 9:48:46 AM - Client Multiple Database : valjierp
+11/15/2025 9:48:46 AM - Client Database : valjierp
+11/15/2025 9:48:46 AM - Report Name : Lr_valjidot
+11/15/2025 9:48:46 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 9:48:46 AM - Company ID : 24
+11/15/2025 9:48:46 AM - SSDT : CDATE(2025,04,01)
+11/15/2025 9:48:46 AM - LLDT : CDATE(2025,11,15)
+11/15/2025 9:48:46 AM - DSN Name : dsn_160740
+11/15/2025 9:48:46 AM - Report Parameter parameter : 
+11/15/2025 10:13:55 AM - Client Server IP: 160.187.54.114,4545
+11/15/2025 10:13:55 AM - Client Multiple Database : valjierp
+11/15/2025 10:13:55 AM - Client Database : valjierp
+11/15/2025 10:13:55 AM - Report Name : Lr_valjidot
+11/15/2025 10:13:55 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 10:13:55 AM - Company ID : 24
+11/15/2025 10:13:55 AM - SSDT : CDATE(2025,04,01)
+11/15/2025 10:13:55 AM - LLDT : CDATE(2025,11,15)
+11/15/2025 10:13:55 AM - DSN Name : dsn_160759
+11/15/2025 10:13:55 AM - Report Parameter parameter : 
+11/15/2025 10:14:15 AM - Client Server IP: 160.187.54.114,4545
+11/15/2025 10:14:15 AM - Client Multiple Database : valjierp
+11/15/2025 10:14:15 AM - Client Database : valjierp
+11/15/2025 10:14:15 AM - Report Name : Lr_valjidot
+11/15/2025 10:14:15 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 10:14:15 AM - Company ID : 24
+11/15/2025 10:14:15 AM - SSDT : CDATE(2025,04,01)
+11/15/2025 10:14:15 AM - LLDT : CDATE(2025,11,15)
+11/15/2025 10:14:15 AM - DSN Name : dsn_160762
+11/15/2025 10:14:15 AM - Report Parameter parameter : 
+11/17/2025 7:35:11 PM - Client Server IP: 160.187.54.114,4545
+11/17/2025 7:35:11 PM - Client Multiple Database : valjierp
+11/17/2025 7:35:11 PM - Client Database : valjierp
+11/17/2025 7:35:11 PM - Report Name : cta_inv_valji
+11/17/2025 7:35:11 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/17/2025 7:35:11 PM - Company ID : 24
+11/17/2025 7:35:11 PM - SSDT : CDATE(2025,04,01)
+11/17/2025 7:35:11 PM - LLDT : CDATE(2025,11,17)
+11/17/2025 7:35:11 PM - DSN Name : dsn_165856
+11/17/2025 7:35:11 PM - Report Parameter parameter : {?SELECT}=NO
+11/17/2025 7:40:04 PM - Client Server IP: 160.187.54.114,4545
+11/17/2025 7:40:04 PM - Client Multiple Database : valjierp
+11/17/2025 7:40:04 PM - Client Database : valjierp
+11/17/2025 7:40:04 PM - Report Name : cta_inv_valji
+11/17/2025 7:40:04 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/17/2025 7:40:04 PM - Company ID : 24
+11/17/2025 7:40:04 PM - SSDT : CDATE(2025,04,01)
+11/17/2025 7:40:04 PM - LLDT : CDATE(2025,11,17)
+11/17/2025 7:40:04 PM - DSN Name : dsn_165872
+11/17/2025 7:40:04 PM - Report Parameter parameter : {?SELECT}=NO
+11/17/2025 7:55:04 PM - Client Server IP: 160.187.54.114,4545
+11/17/2025 7:55:04 PM - Client Multiple Database : valjierp
+11/17/2025 7:55:04 PM - Client Database : valjierp
+11/17/2025 7:55:04 PM - Report Name : Lr_valjidot
+11/17/2025 7:55:04 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/17/2025 7:55:04 PM - Company ID : 24
+11/17/2025 7:55:04 PM - SSDT : CDATE(2025,04,01)
+11/17/2025 7:55:04 PM - LLDT : CDATE(2025,11,17)
+11/17/2025 7:55:04 PM - DSN Name : dsn_165927
+11/17/2025 7:55:04 PM - Report Parameter parameter : 
+11/17/2025 7:56:01 PM - Client Server IP: 160.187.54.114,4545
+11/17/2025 7:56:01 PM - Client Multiple Database : valjierp
+11/17/2025 7:56:01 PM - Client Database : valjierp
+11/17/2025 7:56:01 PM - Report Name : Lr_valjidot
+11/17/2025 7:56:01 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/17/2025 7:56:01 PM - Company ID : 24
+11/17/2025 7:56:01 PM - SSDT : CDATE(2025,04,01)
+11/17/2025 7:56:01 PM - LLDT : CDATE(2025,11,17)
+11/17/2025 7:56:01 PM - DSN Name : dsn_165930
+11/17/2025 7:56:01 PM - Report Parameter parameter : 
+11/17/2025 8:02:14 PM - Client Server IP: 160.187.54.114,4545
+11/17/2025 8:02:14 PM - Client Multiple Database : valjierp
+11/17/2025 8:02:14 PM - Client Database : valjierp
+11/17/2025 8:02:14 PM - Report Name : Lr_valjidot
+11/17/2025 8:02:14 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/17/2025 8:02:14 PM - Company ID : 24
+11/17/2025 8:02:14 PM - SSDT : CDATE(2025,04,01)
+11/17/2025 8:02:14 PM - LLDT : CDATE(2025,11,17)
+11/17/2025 8:02:14 PM - DSN Name : dsn_165940
+11/17/2025 8:02:14 PM - Report Parameter parameter : 
+11/17/2025 8:02:50 PM - Client Server IP: 160.187.54.114,4545
+11/17/2025 8:02:50 PM - Client Multiple Database : valjierp
+11/17/2025 8:02:50 PM - Client Database : valjierp
+11/17/2025 8:02:50 PM - Report Name : Lr_valjidot
+11/17/2025 8:02:50 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/17/2025 8:02:50 PM - Company ID : 24
+11/17/2025 8:02:50 PM - SSDT : CDATE(2025,04,01)
+11/17/2025 8:02:50 PM - LLDT : CDATE(2025,11,17)
+11/17/2025 8:02:50 PM - DSN Name : dsn_165943
+11/17/2025 8:02:50 PM - Report Parameter parameter : 
+11/20/2025 1:34:29 PM - Client Server IP: 160.187.54.114,4545
+11/20/2025 1:34:29 PM - Client Multiple Database : valjierp
+11/20/2025 1:34:29 PM - Client Database : valjierp
+11/20/2025 1:34:29 PM - Report Name : Lr_valjidot
+11/20/2025 1:34:29 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 1:34:29 PM - Company ID : 24
+11/20/2025 1:34:29 PM - SSDT : CDATE(2025,04,01)
+11/20/2025 1:34:29 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 1:34:29 PM - DSN Name : dsn_171045
+11/20/2025 1:34:29 PM - Report Parameter parameter : 
+11/20/2025 1:35:50 PM - Client Server IP: 160.187.54.114,4545
+11/20/2025 1:35:50 PM - Client Multiple Database : valjierp
+11/20/2025 1:35:50 PM - Client Database : valjierp
+11/20/2025 1:35:50 PM - Report Name : Lr_valjidot
+11/20/2025 1:35:50 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 1:35:50 PM - Company ID : 24
+11/20/2025 1:35:50 PM - SSDT : CDATE(2025,04,01)
+11/20/2025 1:35:50 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 1:35:50 PM - DSN Name : dsn_171050
+11/20/2025 1:35:50 PM - Report Parameter parameter : 
+11/20/2025 5:50:27 PM - Client Server IP: 160.187.54.114,4545
+11/20/2025 5:50:27 PM - Client Multiple Database : valjierp
+11/20/2025 5:50:27 PM - Client Database : valjierp
+11/20/2025 5:50:27 PM - Report Name : Lr_valjidot
+11/20/2025 5:50:27 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 5:50:27 PM - Company ID : 24
+11/20/2025 5:50:27 PM - SSDT : CDATE(2025,04,01)
+11/20/2025 5:50:27 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 5:50:27 PM - DSN Name : dsn_172122
+11/20/2025 5:50:27 PM - Report Parameter parameter : 
+11/20/2025 5:51:02 PM - Client Server IP: 160.187.54.114,4545
+11/20/2025 5:51:02 PM - Client Multiple Database : valjierp
+11/20/2025 5:51:02 PM - Client Database : valjierp
+11/20/2025 5:51:02 PM - Report Name : Lr_valjidot
+11/20/2025 5:51:02 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 5:51:02 PM - Company ID : 24
+11/20/2025 5:51:02 PM - SSDT : CDATE(2025,04,01)
+11/20/2025 5:51:02 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 5:51:02 PM - DSN Name : dsn_172126
+11/20/2025 5:51:02 PM - Report Parameter parameter : 
+11/20/2025 6:20:13 PM - Client Server IP: 160.187.54.114,4545
+11/20/2025 6:20:13 PM - Client Multiple Database : valjierp
+11/20/2025 6:20:13 PM - Client Database : valjierp
+11/20/2025 6:20:13 PM - Report Name : Lr_valjidot
+11/20/2025 6:20:13 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 6:20:13 PM - Company ID : 24
+11/20/2025 6:20:13 PM - SSDT : CDATE(2025,04,01)
+11/20/2025 6:20:13 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 6:20:13 PM - DSN Name : dsn_172285
+11/20/2025 6:20:13 PM - Report Parameter parameter : 
+11/20/2025 6:20:51 PM - Client Server IP: 160.187.54.114,4545
+11/20/2025 6:20:51 PM - Client Multiple Database : valjierp
+11/20/2025 6:20:51 PM - Client Database : valjierp
+11/20/2025 6:20:51 PM - Report Name : Lr_valjidot
+11/20/2025 6:20:51 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 6:20:51 PM - Company ID : 24
+11/20/2025 6:20:51 PM - SSDT : CDATE(2025,04,01)
+11/20/2025 6:20:51 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 6:20:51 PM - DSN Name : dsn_172288
+11/20/2025 6:20:51 PM - Report Parameter parameter : 
+11/20/2025 6:22:17 PM - Client Server IP: 160.187.54.114,4545
+11/20/2025 6:22:17 PM - Client Multiple Database : valjierp
+11/20/2025 6:22:17 PM - Client Database : valjierp
+11/20/2025 6:22:17 PM - Report Name : Lr_valjidot
+11/20/2025 6:22:17 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 6:22:17 PM - Company ID : 24
+11/20/2025 6:22:17 PM - SSDT : CDATE(2025,04,01)
+11/20/2025 6:22:17 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 6:22:17 PM - DSN Name : dsn_172292
+11/20/2025 6:22:17 PM - Report Parameter parameter : 
+11/24/2025 10:55:03 AM - Client Server IP: 160.187.54.114,4545
+11/24/2025 10:55:03 AM - Client Multiple Database : valjierp
+11/24/2025 10:55:03 AM - Client Database : valjierp
+11/24/2025 10:55:03 AM - Report Name : Lr_valjidot
+11/24/2025 10:55:03 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/24/2025 10:55:03 AM - Company ID : 24
+11/24/2025 10:55:03 AM - SSDT : CDATE(2025,04,01)
+11/24/2025 10:55:03 AM - LLDT : CDATE(2025,11,24)
+11/24/2025 10:55:03 AM - DSN Name : dsn_177854
+11/24/2025 10:55:03 AM - Report Parameter parameter : 
+11/24/2025 10:55:34 AM - Client Server IP: 160.187.54.114,4545
+11/24/2025 10:55:34 AM - Client Multiple Database : valjierp
+11/24/2025 10:55:34 AM - Client Database : valjierp
+11/24/2025 10:55:34 AM - Report Name : Lr_valjidot
+11/24/2025 10:55:34 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/24/2025 10:55:34 AM - Company ID : 24
+11/24/2025 10:55:34 AM - SSDT : CDATE(2025,04,01)
+11/24/2025 10:55:34 AM - LLDT : CDATE(2025,11,24)
+11/24/2025 10:55:34 AM - DSN Name : dsn_177855
+11/24/2025 10:55:34 AM - Report Parameter parameter : 

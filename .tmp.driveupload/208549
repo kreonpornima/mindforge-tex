@@ -1,0 +1,480 @@
+6/11/2025 12:36:35 PM - Client Server IP: 139.5.190.101,8546
+6/11/2025 12:36:35 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+6/11/2025 12:36:35 PM - Client Database : Valiant_INV
+6/11/2025 12:36:35 PM - Report Name : outbrok
+6/11/2025 12:36:35 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/11/2025 12:36:35 PM - Company ID : 22
+6/11/2025 12:36:35 PM - SSDT : CDATE(2025,04,01)
+6/11/2025 12:36:35 PM - LLDT : CDATE(2025,06,11)
+6/11/2025 12:36:35 PM - DSN Name : dsn_13029
+6/11/2025 12:36:35 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+7/21/2025 6:22:51 PM - Client Server IP: 139.5.190.101,8546
+7/21/2025 6:22:51 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+7/21/2025 6:22:51 PM - Client Database : Valiant_INV
+7/21/2025 6:22:51 PM - Report Name : lpr
+7/21/2025 6:22:51 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/21/2025 6:22:51 PM - Company ID : 22
+7/21/2025 6:22:51 PM - SSDT : CDATE(2025,04,01)
+7/21/2025 6:22:51 PM - LLDT : CDATE(2025,07,21)
+7/21/2025 6:22:51 PM - DSN Name : dsn_32635
+7/21/2025 6:22:51 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=no
+7/21/2025 6:24:02 PM - Client Server IP: 139.5.190.101,8546
+7/21/2025 6:24:02 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+7/21/2025 6:24:02 PM - Client Database : Valiant_INV
+7/21/2025 6:24:02 PM - Report Name : lpr
+7/21/2025 6:24:02 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/21/2025 6:24:02 PM - Company ID : 22
+7/21/2025 6:24:02 PM - SSDT : CDATE(2025,04,01)
+7/21/2025 6:24:02 PM - LLDT : CDATE(2025,07,21)
+7/21/2025 6:24:02 PM - DSN Name : dsn_32638
+7/21/2025 6:24:02 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=no
+7/21/2025 6:48:16 PM - Client Server IP: 139.5.190.101,8546
+7/21/2025 6:48:16 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+7/21/2025 6:48:16 PM - Client Database : Valiant_INV
+7/21/2025 6:48:16 PM - Report Name : outbrok
+7/21/2025 6:48:16 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/21/2025 6:48:16 PM - Company ID : 22
+7/21/2025 6:48:16 PM - SSDT : CDATE(2025,04,01)
+7/21/2025 6:48:16 PM - LLDT : CDATE(2025,07,21)
+7/21/2025 6:48:16 PM - DSN Name : dsn_32666
+7/21/2025 6:48:16 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/21/2025 7:32:54 PM - Client Server IP: 139.5.190.101,8546
+7/21/2025 7:32:54 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+7/21/2025 7:32:54 PM - Client Database : Valiant_INV
+7/21/2025 7:32:54 PM - Report Name : lpr
+7/21/2025 7:32:54 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/21/2025 7:32:54 PM - Company ID : 22
+7/21/2025 7:32:54 PM - SSDT : CDATE(2025,04,01)
+7/21/2025 7:32:54 PM - LLDT : CDATE(2025,07,21)
+7/21/2025 7:32:54 PM - DSN Name : dsn_32699
+7/21/2025 7:32:54 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=no
+7/21/2025 7:36:12 PM - Client Server IP: 139.5.190.101,8546
+7/21/2025 7:36:12 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+7/21/2025 7:36:12 PM - Client Database : Valiant_INV
+7/21/2025 7:36:12 PM - Report Name : outbrok
+7/21/2025 7:36:12 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/21/2025 7:36:12 PM - Company ID : 22
+7/21/2025 7:36:12 PM - SSDT : CDATE(2025,04,01)
+7/21/2025 7:36:12 PM - LLDT : CDATE(2025,07,21)
+7/21/2025 7:36:12 PM - DSN Name : dsn_32701
+7/21/2025 7:36:12 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/24/2025 12:15:45 PM - Client Server IP: 139.5.190.101,8546
+7/24/2025 12:15:45 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+7/24/2025 12:15:45 PM - Client Database : Valiant_INV
+7/24/2025 12:15:45 PM - Report Name : outbrok
+7/24/2025 12:15:45 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/24/2025 12:15:45 PM - Company ID : 22
+7/24/2025 12:15:45 PM - SSDT : CDATE(2025,04,01)
+7/24/2025 12:15:45 PM - LLDT : CDATE(2025,06,30)
+7/24/2025 12:15:45 PM - DSN Name : dsn_34510
+7/24/2025 12:15:45 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/28/2025 2:12:09 PM - Client Server IP: 139.5.190.101,8546
+7/28/2025 2:12:09 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+7/28/2025 2:12:09 PM - Client Database : Valiant_INV
+7/28/2025 2:12:09 PM - Report Name : lpr
+7/28/2025 2:12:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/28/2025 2:12:09 PM - Company ID : 22
+7/28/2025 2:12:09 PM - SSDT : CDATE(2025,04,01)
+7/28/2025 2:12:09 PM - LLDT : CDATE(2025,06,30)
+7/28/2025 2:12:09 PM - DSN Name : dsn_37289
+7/28/2025 2:12:09 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=no
+7/28/2025 2:26:26 PM - Client Server IP: 139.5.190.101,8546
+7/28/2025 2:26:26 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+7/28/2025 2:26:26 PM - Client Database : Valiant_INV
+7/28/2025 2:26:26 PM - Report Name : lpr
+7/28/2025 2:26:26 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/28/2025 2:26:26 PM - Company ID : 22
+7/28/2025 2:26:26 PM - SSDT : CDATE(2025,04,01)
+7/28/2025 2:26:26 PM - LLDT : CDATE(2025,06,30)
+7/28/2025 2:26:26 PM - DSN Name : dsn_37300
+7/28/2025 2:26:26 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=no
+7/28/2025 4:33:15 PM - Client Server IP: 139.5.190.101,8546
+7/28/2025 4:33:15 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+7/28/2025 4:33:15 PM - Client Database : Valiant_INV
+7/28/2025 4:33:15 PM - Report Name : lpr
+7/28/2025 4:33:15 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/28/2025 4:33:15 PM - Company ID : 22
+7/28/2025 4:33:15 PM - SSDT : CDATE(2025,04,01)
+7/28/2025 4:33:15 PM - LLDT : CDATE(2025,06,30)
+7/28/2025 4:33:15 PM - DSN Name : dsn_37407
+7/28/2025 4:33:15 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=no
+7/29/2025 12:28:28 PM - Client Server IP: 139.5.190.101,8546
+7/29/2025 12:28:28 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+7/29/2025 12:28:28 PM - Client Database : Valiant_INV
+7/29/2025 12:28:28 PM - Report Name : outbrok
+7/29/2025 12:28:28 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/29/2025 12:28:28 PM - Company ID : 22
+7/29/2025 12:28:28 PM - SSDT : CDATE(2025,04,01)
+7/29/2025 12:28:28 PM - LLDT : CDATE(2025,06,30)
+7/29/2025 12:28:28 PM - DSN Name : dsn_37923
+7/29/2025 12:28:28 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/31/2025 5:19:15 PM - Client Server IP: 139.5.190.101,8546
+7/31/2025 5:19:15 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+7/31/2025 5:19:15 PM - Client Database : Valiant_INV
+7/31/2025 5:19:15 PM - Report Name : outbrok
+7/31/2025 5:19:15 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/31/2025 5:19:15 PM - Company ID : 22
+7/31/2025 5:19:15 PM - SSDT : CDATE(2025,04,01)
+7/31/2025 5:19:15 PM - LLDT : CDATE(2025,07,31)
+7/31/2025 5:19:15 PM - DSN Name : dsn_39891
+7/31/2025 5:19:15 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/31/2025 5:20:04 PM - Client Server IP: 139.5.190.101,8546
+7/31/2025 5:20:04 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+7/31/2025 5:20:04 PM - Client Database : Valiant_INV
+7/31/2025 5:20:04 PM - Report Name : outbrok
+7/31/2025 5:20:04 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/31/2025 5:20:04 PM - Company ID : 22
+7/31/2025 5:20:04 PM - SSDT : CDATE(2025,04,01)
+7/31/2025 5:20:04 PM - LLDT : CDATE(2025,07,31)
+7/31/2025 5:20:04 PM - DSN Name : dsn_39892
+7/31/2025 5:20:04 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE
+8/6/2025 3:58:12 PM - Client Server IP: 139.5.190.101,8546
+8/6/2025 3:58:12 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+8/6/2025 3:58:12 PM - Client Database : Valiant_INV
+8/6/2025 3:58:12 PM - Report Name : mohini_BALSHETFIXED
+8/6/2025 3:58:12 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/6/2025 3:58:12 PM - Company ID : 22
+8/6/2025 3:58:12 PM - SSDT : CDATE(2025,04,01)
+8/6/2025 3:58:12 PM - LLDT : CDATE(2025,06,30)
+8/6/2025 3:58:12 PM - DSN Name : dsn_44348
+8/6/2025 3:58:12 PM - Report Parameter parameter : 
+8/11/2025 11:17:26 AM - Client Server IP: 139.5.190.101,8546
+8/11/2025 11:17:26 AM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+8/11/2025 11:17:26 AM - Client Database : Valiant_INV
+8/11/2025 11:17:26 AM - Report Name : bankbookrep
+8/11/2025 11:17:26 AM - Report Path : V:\xampp\htdocs\tex\reports\
+8/11/2025 11:17:26 AM - Company ID : 22
+8/11/2025 11:17:26 AM - SSDT : CDATE(2025,04,01)
+8/11/2025 11:17:26 AM - LLDT : CDATE(2025,08,11)
+8/11/2025 11:17:26 AM - DSN Name : dsn_47200
+8/11/2025 11:17:26 AM - Report Parameter parameter : {?SUMMARY OPTION}=bank book|{?REMARK YES/NO}=yes
+8/13/2025 4:22:55 PM - Client Server IP: 139.5.190.101,8546
+8/13/2025 4:22:55 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+8/13/2025 4:22:55 PM - Client Database : Valiant_INV
+8/13/2025 4:22:55 PM - Report Name : lpr
+8/13/2025 4:22:55 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/13/2025 4:22:55 PM - Company ID : 22
+8/13/2025 4:22:55 PM - SSDT : CDATE(2025,04,01)
+8/13/2025 4:22:55 PM - LLDT : CDATE(2025,08,13)
+8/13/2025 4:22:55 PM - DSN Name : dsn_49235
+8/13/2025 4:22:55 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=no
+8/13/2025 4:23:25 PM - Client Server IP: 139.5.190.101,8546
+8/13/2025 4:23:25 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+8/13/2025 4:23:25 PM - Client Database : Valiant_INV
+8/13/2025 4:23:25 PM - Report Name : lpr
+8/13/2025 4:23:25 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/13/2025 4:23:25 PM - Company ID : 22
+8/13/2025 4:23:25 PM - SSDT : CDATE(2025,04,01)
+8/13/2025 4:23:25 PM - LLDT : CDATE(2025,07,31)
+8/13/2025 4:23:25 PM - DSN Name : dsn_49236
+8/13/2025 4:23:25 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=no
+8/21/2025 1:27:46 PM - Client Server IP: 139.5.190.101,8546
+8/21/2025 1:27:46 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+8/21/2025 1:27:46 PM - Client Database : Wintry_INV
+8/21/2025 1:27:46 PM - Report Name : lpr
+8/21/2025 1:27:46 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/21/2025 1:27:46 PM - Company ID : 46
+8/21/2025 1:27:46 PM - SSDT : CDATE(2024,04,01)
+8/21/2025 1:27:46 PM - LLDT : CDATE(2025,08,21)
+8/21/2025 1:27:46 PM - DSN Name : dsn_55342
+8/21/2025 1:27:46 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=no
+8/21/2025 1:29:32 PM - Client Server IP: 139.5.190.101,8546
+8/21/2025 1:29:32 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+8/21/2025 1:29:32 PM - Client Database : Wintry_INV
+8/21/2025 1:29:32 PM - Report Name : lpr
+8/21/2025 1:29:32 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/21/2025 1:29:32 PM - Company ID : 46
+8/21/2025 1:29:32 PM - SSDT : CDATE(2024,04,01)
+8/21/2025 1:29:32 PM - LLDT : CDATE(2025,08,21)
+8/21/2025 1:29:32 PM - DSN Name : dsn_55343
+8/21/2025 1:29:32 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=no
+8/23/2025 2:07:19 PM - Client Server IP: 139.5.190.101,8546
+8/23/2025 2:07:19 PM - Client Multiple Database : Wintry_Inv
+8/23/2025 2:07:19 PM - Client Database : Wintry_Inv
+8/23/2025 2:07:19 PM - Report Name : outbrok
+8/23/2025 2:07:19 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/23/2025 2:07:19 PM - Company ID : 45
+8/23/2025 2:07:19 PM - SSDT : CDATE(2025,04,01)
+8/23/2025 2:07:19 PM - LLDT : CDATE(2025,06,30)
+8/23/2025 2:07:19 PM - DSN Name : dsn_57511
+8/23/2025 2:07:19 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE
+8/23/2025 2:10:03 PM - Client Server IP: 139.5.190.101,8546
+8/23/2025 2:10:03 PM - Client Multiple Database : Wintry_Inv
+8/23/2025 2:10:03 PM - Client Database : Wintry_Inv
+8/23/2025 2:10:03 PM - Report Name : outbrok
+8/23/2025 2:10:03 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/23/2025 2:10:03 PM - Company ID : 45
+8/23/2025 2:10:03 PM - SSDT : CDATE(2025,04,01)
+8/23/2025 2:10:03 PM - LLDT : CDATE(2025,06,30)
+8/23/2025 2:10:03 PM - DSN Name : dsn_57518
+8/23/2025 2:10:03 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE
+8/23/2025 2:10:24 PM - Client Server IP: 139.5.190.101,8546
+8/23/2025 2:10:24 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+8/23/2025 2:10:24 PM - Client Database : Valiant_INV
+8/23/2025 2:10:24 PM - Report Name : outbrok
+8/23/2025 2:10:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/23/2025 2:10:24 PM - Company ID : 22
+8/23/2025 2:10:24 PM - SSDT : CDATE(2025,04,01)
+8/23/2025 2:10:24 PM - LLDT : CDATE(2025,06,30)
+8/23/2025 2:10:24 PM - DSN Name : dsn_57520
+8/23/2025 2:10:24 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE
+8/25/2025 2:54:00 PM - Client Server IP: 139.5.190.101,8546
+8/25/2025 2:54:00 PM - Client Multiple Database : Wintry_Inv
+8/25/2025 2:54:00 PM - Client Database : Wintry_Inv
+8/25/2025 2:54:00 PM - Report Name : outbrok
+8/25/2025 2:54:00 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/25/2025 2:54:00 PM - Company ID : 45
+8/25/2025 2:54:00 PM - SSDT : CDATE(2025,04,01)
+8/25/2025 2:54:00 PM - LLDT : CDATE(2025,06,30)
+8/25/2025 2:54:00 PM - DSN Name : dsn_59136
+8/25/2025 2:54:00 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE
+8/25/2025 5:05:25 PM - Client Server IP: 139.5.190.101,8546
+8/25/2025 5:05:25 PM - Client Multiple Database : Saberp_Main_MF,wintry_inv
+8/25/2025 5:05:25 PM - Client Database : wintry_inv
+8/25/2025 5:05:25 PM - Report Name : purchase_out
+8/25/2025 5:05:25 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/25/2025 5:05:25 PM - Company ID : 45
+8/25/2025 5:05:25 PM - SSDT : CDATE(2025,04,01)
+8/25/2025 5:05:25 PM - LLDT : CDATE(2025,08,25)
+8/25/2025 5:05:25 PM - DSN Name : dsn_59431
+8/25/2025 5:05:25 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+9/1/2025 3:40:01 PM - Client Server IP: 139.5.190.101,8546
+9/1/2025 3:40:01 PM - Client Multiple Database : Saberp_Main_MF,wintry_inv
+9/1/2025 3:40:01 PM - Client Database : wintry_inv
+9/1/2025 3:40:01 PM - Report Name : fs_valiant
+9/1/2025 3:40:01 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/1/2025 3:40:01 PM - Company ID : 45
+9/1/2025 3:40:01 PM - SSDT : CDATE(2025,04,01)
+9/1/2025 3:40:01 PM - LLDT : CDATE(2025,09,01)
+9/1/2025 3:40:01 PM - DSN Name : dsn_64760
+9/1/2025 3:40:01 PM - Report Parameter parameter : 
+9/1/2025 3:41:33 PM - Client Server IP: 139.5.190.101,8546
+9/1/2025 3:41:33 PM - Client Multiple Database : Saberp_Main_MF,wintry_inv
+9/1/2025 3:41:33 PM - Client Database : wintry_inv
+9/1/2025 3:41:33 PM - Report Name : fs_valiant
+9/1/2025 3:41:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/1/2025 3:41:33 PM - Company ID : 45
+9/1/2025 3:41:33 PM - SSDT : CDATE(2025,04,01)
+9/1/2025 3:41:33 PM - LLDT : CDATE(2025,09,01)
+9/1/2025 3:41:33 PM - DSN Name : dsn_64763
+9/1/2025 3:41:33 PM - Report Parameter parameter : 
+9/8/2025 5:11:54 PM - Client Server IP: 139.5.190.101,8546
+9/8/2025 5:11:54 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+9/8/2025 5:11:54 PM - Client Database : Wintry_INV
+9/8/2025 5:11:54 PM - Report Name : purchase_out
+9/8/2025 5:11:54 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/8/2025 5:11:54 PM - Company ID : 46
+9/8/2025 5:11:54 PM - SSDT : CDATE(2024,04,01)
+9/8/2025 5:11:54 PM - LLDT : CDATE(2025,06,30)
+9/8/2025 5:11:54 PM - DSN Name : dsn_69964
+9/8/2025 5:11:54 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+9/10/2025 3:38:00 PM - Client Server IP: 139.5.190.101,8546
+9/10/2025 3:38:00 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+9/10/2025 3:38:00 PM - Client Database : Valiant_INV
+9/10/2025 3:38:00 PM - Report Name : purchase_out
+9/10/2025 3:38:00 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/10/2025 3:38:00 PM - Company ID : 22
+9/10/2025 3:38:00 PM - SSDT : CDATE(2025,04,01)
+9/10/2025 3:38:00 PM - LLDT : CDATE(2025,06,30)
+9/10/2025 3:38:00 PM - DSN Name : dsn_71581
+9/10/2025 3:38:00 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+9/12/2025 12:57:46 PM - Client Server IP: 139.5.190.101,8546
+9/12/2025 12:57:46 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+9/12/2025 12:57:46 PM - Client Database : Wintry_INV
+9/12/2025 12:57:46 PM - Report Name : lpr
+9/12/2025 12:57:46 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/12/2025 12:57:46 PM - Company ID : 46
+9/12/2025 12:57:46 PM - SSDT : CDATE(2024,04,01)
+9/12/2025 12:57:46 PM - LLDT : CDATE(2025,09,12)
+9/12/2025 12:57:46 PM - DSN Name : dsn_73419
+9/12/2025 12:57:46 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+9/15/2025 4:29:34 PM - Client Server IP: 139.5.190.101,8546
+9/15/2025 4:29:34 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+9/15/2025 4:29:34 PM - Client Database : Valiant_INV
+9/15/2025 4:29:34 PM - Report Name : purchase_out
+9/15/2025 4:29:34 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/15/2025 4:29:34 PM - Company ID : 22
+9/15/2025 4:29:34 PM - SSDT : CDATE(2025,04,01)
+9/15/2025 4:29:34 PM - LLDT : CDATE(2025,06,30)
+9/15/2025 4:29:34 PM - DSN Name : dsn_76513
+9/15/2025 4:29:34 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+10/6/2025 11:36:33 AM - Client Server IP: 139.5.190.101,8546
+10/6/2025 11:36:33 AM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+10/6/2025 11:36:33 AM - Client Database : Wintry_INV
+10/6/2025 11:36:33 AM - Report Name : lpr
+10/6/2025 11:36:33 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/6/2025 11:36:33 AM - Company ID : 46
+10/6/2025 11:36:33 AM - SSDT : CDATE(2025,09,01)
+10/6/2025 11:36:33 AM - LLDT : CDATE(2025,09,30)
+10/6/2025 11:36:33 AM - DSN Name : dsn_94413
+10/6/2025 11:36:33 AM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/6/2025 1:06:05 PM - Client Server IP: 139.5.190.101,8546
+10/6/2025 1:06:05 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+10/6/2025 1:06:05 PM - Client Database : Wintry_INV
+10/6/2025 1:06:05 PM - Report Name : lpr
+10/6/2025 1:06:05 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/6/2025 1:06:05 PM - Company ID : 46
+10/6/2025 1:06:05 PM - SSDT : CDATE(2024,09,01)
+10/6/2025 1:06:05 PM - LLDT : CDATE(2025,09,30)
+10/6/2025 1:06:05 PM - DSN Name : dsn_94629
+10/6/2025 1:06:05 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/6/2025 1:08:24 PM - Client Server IP: 139.5.190.101,8546
+10/6/2025 1:08:24 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+10/6/2025 1:08:24 PM - Client Database : Wintry_INV
+10/6/2025 1:08:24 PM - Report Name : lpr
+10/6/2025 1:08:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/6/2025 1:08:24 PM - Company ID : 46
+10/6/2025 1:08:24 PM - SSDT : CDATE(2025,09,01)
+10/6/2025 1:08:24 PM - LLDT : CDATE(2025,09,30)
+10/6/2025 1:08:24 PM - DSN Name : dsn_94635
+10/6/2025 1:08:24 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/6/2025 1:33:49 PM - Client Server IP: 139.5.190.101,8546
+10/6/2025 1:33:49 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+10/6/2025 1:33:49 PM - Client Database : Wintry_INV
+10/6/2025 1:33:49 PM - Report Name : lpr
+10/6/2025 1:33:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/6/2025 1:33:49 PM - Company ID : 46
+10/6/2025 1:33:49 PM - SSDT : CDATE(2025,09,01)
+10/6/2025 1:33:49 PM - LLDT : CDATE(2025,09,30)
+10/6/2025 1:33:49 PM - DSN Name : dsn_94678
+10/6/2025 1:33:49 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/6/2025 1:34:29 PM - Client Server IP: 139.5.190.101,8546
+10/6/2025 1:34:29 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+10/6/2025 1:34:29 PM - Client Database : Wintry_INV
+10/6/2025 1:34:29 PM - Report Name : lpr
+10/6/2025 1:34:29 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/6/2025 1:34:29 PM - Company ID : 46
+10/6/2025 1:34:29 PM - SSDT : CDATE(2025,04,01)
+10/6/2025 1:34:29 PM - LLDT : CDATE(2025,09,30)
+10/6/2025 1:34:29 PM - DSN Name : dsn_94679
+10/6/2025 1:34:29 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/6/2025 4:52:06 PM - Client Server IP: 139.5.190.101,8546
+10/6/2025 4:52:06 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+10/6/2025 4:52:06 PM - Client Database : Wintry_INV
+10/6/2025 4:52:06 PM - Report Name : fsdebit_valiant
+10/6/2025 4:52:06 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/6/2025 4:52:06 PM - Company ID : 46
+10/6/2025 4:52:06 PM - SSDT : CDATE(2024,04,01)
+10/6/2025 4:52:06 PM - LLDT : CDATE(2025,10,06)
+10/6/2025 4:52:06 PM - DSN Name : dsn_95142
+10/6/2025 4:52:06 PM - Report Parameter parameter : 
+10/6/2025 4:55:27 PM - Client Server IP: 139.5.190.101,8546
+10/6/2025 4:55:27 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+10/6/2025 4:55:27 PM - Client Database : Wintry_INV
+10/6/2025 4:55:27 PM - Report Name : fscredit_valiant
+10/6/2025 4:55:27 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/6/2025 4:55:27 PM - Company ID : 46
+10/6/2025 4:55:27 PM - SSDT : CDATE(2024,04,01)
+10/6/2025 4:55:27 PM - LLDT : CDATE(2025,10,06)
+10/6/2025 4:55:27 PM - DSN Name : dsn_95153
+10/6/2025 4:55:27 PM - Report Parameter parameter : 
+10/8/2025 10:29:09 PM - Client Server IP: 139.5.190.101,8546
+10/8/2025 10:29:09 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+10/8/2025 10:29:09 PM - Client Database : Wintry_INV
+10/8/2025 10:29:09 PM - Report Name : fsdebit_valiant
+10/8/2025 10:29:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/8/2025 10:29:09 PM - Company ID : 46
+10/8/2025 10:29:09 PM - SSDT : CDATE(2024,04,01)
+10/8/2025 10:29:09 PM - LLDT : CDATE(2025,10,08)
+10/8/2025 10:29:09 PM - DSN Name : dsn_98412
+10/8/2025 10:29:09 PM - Report Parameter parameter : 
+10/8/2025 10:30:13 PM - Client Server IP: 139.5.190.101,8546
+10/8/2025 10:30:13 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+10/8/2025 10:30:13 PM - Client Database : Wintry_INV
+10/8/2025 10:30:13 PM - Report Name : fsdebit_valiant
+10/8/2025 10:30:13 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/8/2025 10:30:13 PM - Company ID : 46
+10/8/2025 10:30:13 PM - SSDT : CDATE(2024,04,01)
+10/8/2025 10:30:13 PM - LLDT : CDATE(2025,10,08)
+10/8/2025 10:30:13 PM - DSN Name : dsn_98413
+10/8/2025 10:30:13 PM - Report Parameter parameter : 
+10/8/2025 10:30:21 PM - Client Server IP: 139.5.190.101,8546
+10/8/2025 10:30:21 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+10/8/2025 10:30:21 PM - Client Database : Wintry_INV
+10/8/2025 10:30:21 PM - Report Name : fsdebit_valiant
+10/8/2025 10:30:21 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/8/2025 10:30:21 PM - Company ID : 46
+10/8/2025 10:30:21 PM - SSDT : CDATE(2024,04,01)
+10/8/2025 10:30:21 PM - LLDT : CDATE(2025,10,08)
+10/8/2025 10:30:21 PM - DSN Name : dsn_98414
+10/8/2025 10:30:21 PM - Report Parameter parameter : 
+10/8/2025 10:31:11 PM - Client Server IP: 139.5.190.101,8546
+10/8/2025 10:31:11 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+10/8/2025 10:31:11 PM - Client Database : Wintry_INV
+10/8/2025 10:31:11 PM - Report Name : fsdebit_valiant
+10/8/2025 10:31:11 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/8/2025 10:31:11 PM - Company ID : 46
+10/8/2025 10:31:11 PM - SSDT : CDATE(2024,04,01)
+10/8/2025 10:31:11 PM - LLDT : CDATE(2025,10,08)
+10/8/2025 10:31:11 PM - DSN Name : dsn_98415
+10/8/2025 10:31:11 PM - Report Parameter parameter : 
+10/8/2025 10:32:03 PM - Client Server IP: 139.5.190.101,8546
+10/8/2025 10:32:03 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+10/8/2025 10:32:03 PM - Client Database : Wintry_INV
+10/8/2025 10:32:03 PM - Report Name : fsdebit_valiant
+10/8/2025 10:32:03 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/8/2025 10:32:03 PM - Company ID : 46
+10/8/2025 10:32:03 PM - SSDT : CDATE(2024,04,01)
+10/8/2025 10:32:03 PM - LLDT : CDATE(2025,10,08)
+10/8/2025 10:32:03 PM - DSN Name : dsn_98416
+10/8/2025 10:32:03 PM - Report Parameter parameter : 
+10/9/2025 5:53:28 PM - Client Server IP: 139.5.190.101,8546
+10/9/2025 5:53:28 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+10/9/2025 5:53:28 PM - Client Database : Wintry_INV
+10/9/2025 5:53:28 PM - Report Name : lpr
+10/9/2025 5:53:28 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/9/2025 5:53:28 PM - Company ID : 46
+10/9/2025 5:53:28 PM - SSDT : CDATE(2024,04,01)
+10/9/2025 5:53:28 PM - LLDT : CDATE(2025,08,31)
+10/9/2025 5:53:28 PM - DSN Name : dsn_99686
+10/9/2025 5:53:28 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/31/2025 3:30:39 PM - Client Server IP: 139.5.190.101,8546
+10/31/2025 3:30:39 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+10/31/2025 3:30:39 PM - Client Database : Wintry_INV
+10/31/2025 3:30:39 PM - Report Name : lpr
+10/31/2025 3:30:39 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/31/2025 3:30:39 PM - Company ID : 46
+10/31/2025 3:30:39 PM - SSDT : CDATE(2025,04,01)
+10/31/2025 3:30:39 PM - LLDT : CDATE(2025,10,31)
+10/31/2025 3:30:39 PM - DSN Name : dsn_133217
+10/31/2025 3:30:39 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/31/2025 4:12:14 PM - Client Server IP: 139.5.190.101,8546
+10/31/2025 4:12:14 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+10/31/2025 4:12:14 PM - Client Database : Wintry_INV
+10/31/2025 4:12:14 PM - Report Name : lpr
+10/31/2025 4:12:14 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/31/2025 4:12:14 PM - Company ID : 46
+10/31/2025 4:12:14 PM - SSDT : CDATE(2025,04,01)
+10/31/2025 4:12:14 PM - LLDT : CDATE(2025,10,31)
+10/31/2025 4:12:14 PM - DSN Name : dsn_133388
+10/31/2025 4:12:14 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/31/2025 4:17:32 PM - Client Server IP: 139.5.190.101,8546
+10/31/2025 4:17:32 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+10/31/2025 4:17:32 PM - Client Database : Wintry_INV
+10/31/2025 4:17:32 PM - Report Name : lpr
+10/31/2025 4:17:32 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/31/2025 4:17:32 PM - Company ID : 46
+10/31/2025 4:17:32 PM - SSDT : CDATE(2025,04,01)
+10/31/2025 4:17:32 PM - LLDT : CDATE(2025,10,31)
+10/31/2025 4:17:32 PM - DSN Name : dsn_133398
+10/31/2025 4:17:32 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/31/2025 4:20:20 PM - Client Server IP: 139.5.190.101,8546
+10/31/2025 4:20:20 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+10/31/2025 4:20:20 PM - Client Database : Wintry_INV
+10/31/2025 4:20:20 PM - Report Name : lpr
+10/31/2025 4:20:20 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/31/2025 4:20:20 PM - Company ID : 46
+10/31/2025 4:20:20 PM - SSDT : CDATE(2025,04,01)
+10/31/2025 4:20:20 PM - LLDT : CDATE(2025,10,31)
+10/31/2025 4:20:20 PM - DSN Name : dsn_133404
+10/31/2025 4:20:20 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+11/1/2025 11:02:24 AM - Client Server IP: 139.5.190.101,8546
+11/1/2025 11:02:24 AM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+11/1/2025 11:02:24 AM - Client Database : Wintry_INV
+11/1/2025 11:02:24 AM - Report Name : outbrok
+11/1/2025 11:02:24 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 11:02:24 AM - Company ID : 46
+11/1/2025 11:02:24 AM - SSDT : CDATE(2025,04,01)
+11/1/2025 11:02:24 AM - LLDT : CDATE(2026,03,31)
+11/1/2025 11:02:24 AM - DSN Name : dsn_134938
+11/1/2025 11:02:24 AM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE

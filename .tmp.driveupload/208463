@@ -1,0 +1,2836 @@
+9/28/2025 4:42:21 PM - Client Server IP: 160.187.54.38,4545
+9/28/2025 4:42:21 PM - Client Multiple Database : Main,Jainar
+9/28/2025 4:42:21 PM - Client Database : Jainar
+9/28/2025 4:42:21 PM - Report Name : fsc_jainar
+9/28/2025 4:42:21 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/28/2025 4:42:21 PM - Company ID : 57
+9/28/2025 4:42:21 PM - SSDT : CDATE(2025,04,01)
+9/28/2025 4:42:21 PM - LLDT : CDATE(2025,09,28)
+9/28/2025 4:42:21 PM - DSN Name : dsn_88304
+9/28/2025 4:42:21 PM - Report Parameter parameter : 
+9/28/2025 6:33:53 PM - Client Server IP: 160.187.54.38,4545
+9/28/2025 6:33:53 PM - Client Multiple Database : Main,Jainar
+9/28/2025 6:33:53 PM - Client Database : Jainar
+9/28/2025 6:33:53 PM - Report Name : fsc_jainar
+9/28/2025 6:33:53 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/28/2025 6:33:53 PM - Company ID : 57
+9/28/2025 6:33:53 PM - SSDT : CDATE(2025,04,01)
+9/28/2025 6:33:53 PM - LLDT : CDATE(2025,09,28)
+9/28/2025 6:33:53 PM - DSN Name : dsn_88385
+9/28/2025 6:33:53 PM - Report Parameter parameter : 
+9/29/2025 12:20:12 AM - Client Server IP: 160.187.54.38,4545
+9/29/2025 12:20:12 AM - Client Multiple Database : Main,Jainar
+9/29/2025 12:20:12 AM - Client Database : Jainar
+9/29/2025 12:20:12 AM - Report Name : fsc_jainar
+9/29/2025 12:20:12 AM - Report Path : V:\xampp\htdocs\tex\reports\
+9/29/2025 12:20:12 AM - Company ID : 57
+9/29/2025 12:20:12 AM - SSDT : CDATE(2025,04,01)
+9/29/2025 12:20:12 AM - LLDT : CDATE(2025,09,29)
+9/29/2025 12:20:12 AM - DSN Name : dsn_88426
+9/29/2025 12:20:12 AM - Report Parameter parameter : 
+9/29/2025 9:58:37 AM - Client Server IP: 160.187.54.38,4545
+9/29/2025 9:58:37 AM - Client Multiple Database : Main,Jainar
+9/29/2025 9:58:37 AM - Client Database : Jainar
+9/29/2025 9:58:37 AM - Report Name : fsc_jainar
+9/29/2025 9:58:37 AM - Report Path : V:\xampp\htdocs\tex\reports\
+9/29/2025 9:58:37 AM - Company ID : 57
+9/29/2025 9:58:37 AM - SSDT : CDATE(2025,04,01)
+9/29/2025 9:58:37 AM - LLDT : CDATE(2025,09,29)
+9/29/2025 9:58:37 AM - DSN Name : dsn_88433
+9/29/2025 9:58:37 AM - Report Parameter parameter : 
+9/29/2025 4:40:42 PM - Client Server IP: 160.187.54.38,4545
+9/29/2025 4:40:42 PM - Client Multiple Database : Main,Jainar
+9/29/2025 4:40:42 PM - Client Database : Jainar
+9/29/2025 4:40:42 PM - Report Name : fsc_jainar
+9/29/2025 4:40:42 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/29/2025 4:40:42 PM - Company ID : 57
+9/29/2025 4:40:42 PM - SSDT : CDATE(2025,04,01)
+9/29/2025 4:40:42 PM - LLDT : CDATE(2025,09,29)
+9/29/2025 4:40:42 PM - DSN Name : dsn_88953
+9/29/2025 4:40:42 PM - Report Parameter parameter : 
+9/30/2025 10:59:12 AM - Client Server IP: 160.187.54.38,4545
+9/30/2025 10:59:12 AM - Client Multiple Database : Main,Jainar
+9/30/2025 10:59:12 AM - Client Database : Jainar
+9/30/2025 10:59:12 AM - Report Name : fsc_jainar
+9/30/2025 10:59:12 AM - Report Path : V:\xampp\htdocs\tex\reports\
+9/30/2025 10:59:12 AM - Company ID : 57
+9/30/2025 10:59:12 AM - SSDT : CDATE(2025,04,01)
+9/30/2025 10:59:12 AM - LLDT : CDATE(2025,09,30)
+9/30/2025 10:59:12 AM - DSN Name : dsn_89359
+9/30/2025 10:59:12 AM - Report Parameter parameter : 
+9/30/2025 2:11:59 PM - Client Server IP: 160.187.54.38,4545
+9/30/2025 2:11:59 PM - Client Multiple Database : Main,Jainar
+9/30/2025 2:11:59 PM - Client Database : Jainar
+9/30/2025 2:11:59 PM - Report Name : fsc_jainar
+9/30/2025 2:11:59 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/30/2025 2:11:59 PM - Company ID : 57
+9/30/2025 2:11:59 PM - SSDT : CDATE(2025,04,01)
+9/30/2025 2:11:59 PM - LLDT : CDATE(2025,09,30)
+9/30/2025 2:11:59 PM - DSN Name : dsn_89727
+9/30/2025 2:11:59 PM - Report Parameter parameter : 
+9/30/2025 2:12:01 PM - Client Server IP: 160.187.54.38,4545
+9/30/2025 2:12:01 PM - Client Multiple Database : Main,Jainar
+9/30/2025 2:12:01 PM - Client Database : Jainar
+9/30/2025 2:12:01 PM - Report Name : fsc_jainar
+9/30/2025 2:12:01 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/30/2025 2:12:01 PM - Company ID : 57
+9/30/2025 2:12:01 PM - SSDT : CDATE(2025,04,01)
+9/30/2025 2:12:01 PM - LLDT : CDATE(2025,09,30)
+9/30/2025 2:12:01 PM - DSN Name : dsn_89729
+9/30/2025 2:12:01 PM - Report Parameter parameter : 
+9/30/2025 3:47:32 PM - Client Server IP: 160.187.54.38,4545
+9/30/2025 3:47:32 PM - Client Multiple Database : Main,Jainar
+9/30/2025 3:47:32 PM - Client Database : Jainar
+9/30/2025 3:47:32 PM - Report Name : fsc_jainar
+9/30/2025 3:47:32 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/30/2025 3:47:32 PM - Company ID : 57
+9/30/2025 3:47:32 PM - SSDT : CDATE(2025,04,01)
+9/30/2025 3:47:32 PM - LLDT : CDATE(2025,09,30)
+9/30/2025 3:47:32 PM - DSN Name : dsn_89831
+9/30/2025 3:47:32 PM - Report Parameter parameter : 
+9/30/2025 4:47:42 PM - Client Server IP: 160.187.54.38,4545
+9/30/2025 4:47:42 PM - Client Multiple Database : Main,Jainar
+9/30/2025 4:47:42 PM - Client Database : Jainar
+9/30/2025 4:47:42 PM - Report Name : fsc_jainar
+9/30/2025 4:47:42 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/30/2025 4:47:42 PM - Company ID : 57
+9/30/2025 4:47:42 PM - SSDT : CDATE(2025,04,01)
+9/30/2025 4:47:42 PM - LLDT : CDATE(2025,09,30)
+9/30/2025 4:47:42 PM - DSN Name : dsn_89915
+9/30/2025 4:47:42 PM - Report Parameter parameter : 
+9/30/2025 4:48:05 PM - Client Server IP: 160.187.54.38,4545
+9/30/2025 4:48:05 PM - Client Multiple Database : Main,Jainar
+9/30/2025 4:48:05 PM - Client Database : Jainar
+9/30/2025 4:48:05 PM - Report Name : fsc_jainar
+9/30/2025 4:48:05 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/30/2025 4:48:05 PM - Company ID : 57
+9/30/2025 4:48:05 PM - SSDT : CDATE(2025,04,01)
+9/30/2025 4:48:05 PM - LLDT : CDATE(2025,09,30)
+9/30/2025 4:48:05 PM - DSN Name : dsn_89917
+9/30/2025 4:48:05 PM - Report Parameter parameter : 
+9/30/2025 4:54:34 PM - Client Server IP: 160.187.54.38,4545
+9/30/2025 4:54:34 PM - Client Multiple Database : Main,Jainar
+9/30/2025 4:54:34 PM - Client Database : Jainar
+9/30/2025 4:54:34 PM - Report Name : fsc_jainar
+9/30/2025 4:54:34 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/30/2025 4:54:34 PM - Company ID : 57
+9/30/2025 4:54:34 PM - SSDT : CDATE(2025,04,01)
+9/30/2025 4:54:34 PM - LLDT : CDATE(2025,09,30)
+9/30/2025 4:54:34 PM - DSN Name : dsn_89925
+9/30/2025 4:54:34 PM - Report Parameter parameter : 
+10/1/2025 10:56:28 AM - Client Server IP: 160.187.54.38,4545
+10/1/2025 10:56:28 AM - Client Multiple Database : Main,Jainar
+10/1/2025 10:56:28 AM - Client Database : Jainar
+10/1/2025 10:56:28 AM - Report Name : fsc_jainar
+10/1/2025 10:56:28 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/1/2025 10:56:28 AM - Company ID : 57
+10/1/2025 10:56:28 AM - SSDT : CDATE(2025,04,01)
+10/1/2025 10:56:28 AM - LLDT : CDATE(2025,10,01)
+10/1/2025 10:56:28 AM - DSN Name : dsn_90375
+10/1/2025 10:56:28 AM - Report Parameter parameter : 
+10/1/2025 10:56:45 AM - Client Server IP: 160.187.54.38,4545
+10/1/2025 10:56:45 AM - Client Multiple Database : Main,Jainar
+10/1/2025 10:56:45 AM - Client Database : Jainar
+10/1/2025 10:56:45 AM - Report Name : fsc_jainar
+10/1/2025 10:56:45 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/1/2025 10:56:45 AM - Company ID : 57
+10/1/2025 10:56:45 AM - SSDT : CDATE(2025,04,01)
+10/1/2025 10:56:45 AM - LLDT : CDATE(2025,10,01)
+10/1/2025 10:56:45 AM - DSN Name : dsn_90376
+10/1/2025 10:56:45 AM - Report Parameter parameter : 
+10/1/2025 10:57:20 AM - Client Server IP: 160.187.54.38,4545
+10/1/2025 10:57:20 AM - Client Multiple Database : Main,Jainar
+10/1/2025 10:57:20 AM - Client Database : Jainar
+10/1/2025 10:57:20 AM - Report Name : fsc_jainar
+10/1/2025 10:57:20 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/1/2025 10:57:20 AM - Company ID : 57
+10/1/2025 10:57:20 AM - SSDT : CDATE(2025,04,01)
+10/1/2025 10:57:20 AM - LLDT : CDATE(2025,10,01)
+10/1/2025 10:57:20 AM - DSN Name : dsn_90377
+10/1/2025 10:57:20 AM - Report Parameter parameter : 
+10/1/2025 10:57:40 AM - Client Server IP: 160.187.54.38,4545
+10/1/2025 10:57:40 AM - Client Multiple Database : Main,Jainar
+10/1/2025 10:57:40 AM - Client Database : Jainar
+10/1/2025 10:57:40 AM - Report Name : fsc_jainar
+10/1/2025 10:57:40 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/1/2025 10:57:40 AM - Company ID : 57
+10/1/2025 10:57:40 AM - SSDT : CDATE(2025,04,01)
+10/1/2025 10:57:40 AM - LLDT : CDATE(2025,10,01)
+10/1/2025 10:57:40 AM - DSN Name : dsn_90379
+10/1/2025 10:57:40 AM - Report Parameter parameter : 
+10/1/2025 11:22:08 AM - Client Server IP: 160.187.54.38,4545
+10/1/2025 11:22:08 AM - Client Multiple Database : Main,Jainar
+10/1/2025 11:22:08 AM - Client Database : Jainar
+10/1/2025 11:22:08 AM - Report Name : fsc_jainar
+10/1/2025 11:22:08 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/1/2025 11:22:08 AM - Company ID : 57
+10/1/2025 11:22:08 AM - SSDT : CDATE(2025,04,01)
+10/1/2025 11:22:08 AM - LLDT : CDATE(2025,10,01)
+10/1/2025 11:22:08 AM - DSN Name : dsn_90431
+10/1/2025 11:22:08 AM - Report Parameter parameter : 
+10/2/2025 10:54:58 AM - Client Server IP: 160.187.54.38,4545
+10/2/2025 10:54:58 AM - Client Multiple Database : Main,Jainar
+10/2/2025 10:54:58 AM - Client Database : Jainar
+10/2/2025 10:54:58 AM - Report Name : fsc_jainar
+10/2/2025 10:54:58 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/2/2025 10:54:58 AM - Company ID : 57
+10/2/2025 10:54:58 AM - SSDT : CDATE(2025,04,01)
+10/2/2025 10:54:58 AM - LLDT : CDATE(2025,10,02)
+10/2/2025 10:54:58 AM - DSN Name : dsn_91222
+10/2/2025 10:54:58 AM - Report Parameter parameter : 
+10/2/2025 11:05:57 AM - Client Server IP: 160.187.54.38,4545
+10/2/2025 11:05:57 AM - Client Multiple Database : Main,Jainar
+10/2/2025 11:05:57 AM - Client Database : Jainar
+10/2/2025 11:05:57 AM - Report Name : fsc_jainar
+10/2/2025 11:05:57 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/2/2025 11:05:57 AM - Company ID : 57
+10/2/2025 11:05:57 AM - SSDT : CDATE(2025,04,01)
+10/2/2025 11:05:57 AM - LLDT : CDATE(2025,10,02)
+10/2/2025 11:05:57 AM - DSN Name : dsn_91224
+10/2/2025 11:05:57 AM - Report Parameter parameter : 
+10/2/2025 11:15:45 AM - Client Server IP: 160.187.54.38,4545
+10/2/2025 11:15:45 AM - Client Multiple Database : Main,Jainar
+10/2/2025 11:15:45 AM - Client Database : Jainar
+10/2/2025 11:15:45 AM - Report Name : fsc_jainar
+10/2/2025 11:15:45 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/2/2025 11:15:45 AM - Company ID : 57
+10/2/2025 11:15:45 AM - SSDT : CDATE(2025,04,01)
+10/2/2025 11:15:45 AM - LLDT : CDATE(2025,10,02)
+10/2/2025 11:15:45 AM - DSN Name : dsn_91225
+10/2/2025 11:15:45 AM - Report Parameter parameter : 
+10/2/2025 11:28:08 AM - Client Server IP: 160.187.54.38,4545
+10/2/2025 11:28:08 AM - Client Multiple Database : Main,Jainar
+10/2/2025 11:28:08 AM - Client Database : Jainar
+10/2/2025 11:28:08 AM - Report Name : fsc_jainar
+10/2/2025 11:28:08 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/2/2025 11:28:08 AM - Company ID : 57
+10/2/2025 11:28:08 AM - SSDT : CDATE(2025,04,01)
+10/2/2025 11:28:08 AM - LLDT : CDATE(2025,10,02)
+10/2/2025 11:28:08 AM - DSN Name : dsn_91228
+10/2/2025 11:28:08 AM - Report Parameter parameter : 
+10/2/2025 12:34:00 PM - Client Server IP: 160.187.54.38,4545
+10/2/2025 12:34:00 PM - Client Multiple Database : Main,Jainar
+10/2/2025 12:34:00 PM - Client Database : Jainar
+10/2/2025 12:34:00 PM - Report Name : fsc_jainar
+10/2/2025 12:34:00 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/2/2025 12:34:00 PM - Company ID : 57
+10/2/2025 12:34:00 PM - SSDT : CDATE(2025,04,01)
+10/2/2025 12:34:00 PM - LLDT : CDATE(2025,10,02)
+10/2/2025 12:34:00 PM - DSN Name : dsn_91320
+10/2/2025 12:34:00 PM - Report Parameter parameter : 
+10/2/2025 12:45:34 PM - Client Server IP: 160.187.54.38,4545
+10/2/2025 12:45:34 PM - Client Multiple Database : Main,Jainar
+10/2/2025 12:45:34 PM - Client Database : Jainar
+10/2/2025 12:45:34 PM - Report Name : fsc_jainar
+10/2/2025 12:45:34 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/2/2025 12:45:34 PM - Company ID : 57
+10/2/2025 12:45:34 PM - SSDT : CDATE(2025,04,01)
+10/2/2025 12:45:34 PM - LLDT : CDATE(2025,10,02)
+10/2/2025 12:45:34 PM - DSN Name : dsn_91322
+10/2/2025 12:45:34 PM - Report Parameter parameter : 
+10/2/2025 1:52:32 PM - Client Server IP: 160.187.54.38,4545
+10/2/2025 1:52:32 PM - Client Multiple Database : Main,Jainar
+10/2/2025 1:52:32 PM - Client Database : Jainar
+10/2/2025 1:52:32 PM - Report Name : fsc_jainar
+10/2/2025 1:52:32 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/2/2025 1:52:32 PM - Company ID : 57
+10/2/2025 1:52:32 PM - SSDT : CDATE(2025,04,01)
+10/2/2025 1:52:32 PM - LLDT : CDATE(2025,10,02)
+10/2/2025 1:52:32 PM - DSN Name : dsn_91338
+10/2/2025 1:52:32 PM - Report Parameter parameter : 
+10/2/2025 1:55:19 PM - Client Server IP: 160.187.54.38,4545
+10/2/2025 1:55:19 PM - Client Multiple Database : Main,Jainar
+10/2/2025 1:55:19 PM - Client Database : Jainar
+10/2/2025 1:55:19 PM - Report Name : fsc_jainar
+10/2/2025 1:55:19 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/2/2025 1:55:19 PM - Company ID : 57
+10/2/2025 1:55:19 PM - SSDT : CDATE(2025,04,01)
+10/2/2025 1:55:19 PM - LLDT : CDATE(2025,10,02)
+10/2/2025 1:55:19 PM - DSN Name : dsn_91339
+10/2/2025 1:55:19 PM - Report Parameter parameter : 
+10/2/2025 1:56:43 PM - Client Server IP: 160.187.54.38,4545
+10/2/2025 1:56:43 PM - Client Multiple Database : Main,Jainar
+10/2/2025 1:56:43 PM - Client Database : Jainar
+10/2/2025 1:56:43 PM - Report Name : fsc_jainar
+10/2/2025 1:56:43 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/2/2025 1:56:43 PM - Company ID : 57
+10/2/2025 1:56:43 PM - SSDT : CDATE(2025,04,01)
+10/2/2025 1:56:43 PM - LLDT : CDATE(2025,10,02)
+10/2/2025 1:56:43 PM - DSN Name : dsn_91340
+10/2/2025 1:56:43 PM - Report Parameter parameter : 
+10/2/2025 1:57:34 PM - Client Server IP: 160.187.54.38,4545
+10/2/2025 1:57:34 PM - Client Multiple Database : Main,Jainar
+10/2/2025 1:57:34 PM - Client Database : Jainar
+10/2/2025 1:57:34 PM - Report Name : fsc_jainar
+10/2/2025 1:57:34 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/2/2025 1:57:34 PM - Company ID : 57
+10/2/2025 1:57:34 PM - SSDT : CDATE(2025,04,01)
+10/2/2025 1:57:34 PM - LLDT : CDATE(2025,10,02)
+10/2/2025 1:57:34 PM - DSN Name : dsn_91341
+10/2/2025 1:57:34 PM - Report Parameter parameter : 
+10/2/2025 2:14:47 PM - Client Server IP: 160.187.54.38,4545
+10/2/2025 2:14:47 PM - Client Multiple Database : Main,Jainar
+10/2/2025 2:14:47 PM - Client Database : Jainar
+10/2/2025 2:14:47 PM - Report Name : fsc_jainar
+10/2/2025 2:14:47 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/2/2025 2:14:47 PM - Company ID : 57
+10/2/2025 2:14:47 PM - SSDT : CDATE(2025,04,01)
+10/2/2025 2:14:47 PM - LLDT : CDATE(2025,10,02)
+10/2/2025 2:14:47 PM - DSN Name : dsn_91345
+10/2/2025 2:14:47 PM - Report Parameter parameter : 
+10/2/2025 2:14:58 PM - Client Server IP: 160.187.54.38,4545
+10/2/2025 2:14:58 PM - Client Multiple Database : Main,Jainar
+10/2/2025 2:14:58 PM - Client Database : Jainar
+10/2/2025 2:14:58 PM - Report Name : fsc_jainar
+10/2/2025 2:14:58 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/2/2025 2:14:58 PM - Company ID : 57
+10/2/2025 2:14:58 PM - SSDT : CDATE(2025,04,01)
+10/2/2025 2:14:58 PM - LLDT : CDATE(2025,10,02)
+10/2/2025 2:14:58 PM - DSN Name : dsn_91346
+10/2/2025 2:14:58 PM - Report Parameter parameter : 
+10/2/2025 2:16:34 PM - Client Server IP: 160.187.54.38,4545
+10/2/2025 2:16:34 PM - Client Multiple Database : Main,Jainar
+10/2/2025 2:16:34 PM - Client Database : Jainar
+10/2/2025 2:16:34 PM - Report Name : fsc_jainar
+10/2/2025 2:16:34 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/2/2025 2:16:34 PM - Company ID : 57
+10/2/2025 2:16:34 PM - SSDT : CDATE(2025,04,01)
+10/2/2025 2:16:34 PM - LLDT : CDATE(2025,10,02)
+10/2/2025 2:16:34 PM - DSN Name : dsn_91348
+10/2/2025 2:16:34 PM - Report Parameter parameter : 
+10/2/2025 3:38:56 PM - Client Server IP: 160.187.54.38,4545
+10/2/2025 3:38:56 PM - Client Multiple Database : Main,Jainar
+10/2/2025 3:38:56 PM - Client Database : Jainar
+10/2/2025 3:38:56 PM - Report Name : fsc_jainar
+10/2/2025 3:38:56 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/2/2025 3:38:56 PM - Company ID : 57
+10/2/2025 3:38:56 PM - SSDT : CDATE(2025,04,01)
+10/2/2025 3:38:56 PM - LLDT : CDATE(2025,10,02)
+10/2/2025 3:38:56 PM - DSN Name : dsn_91368
+10/2/2025 3:38:56 PM - Report Parameter parameter : 
+10/2/2025 3:43:00 PM - Client Server IP: 160.187.54.38,4545
+10/2/2025 3:43:00 PM - Client Multiple Database : Main,Jainar
+10/2/2025 3:43:00 PM - Client Database : Jainar
+10/2/2025 3:43:00 PM - Report Name : fsc_jainar
+10/2/2025 3:43:00 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/2/2025 3:43:00 PM - Company ID : 57
+10/2/2025 3:43:00 PM - SSDT : CDATE(2025,04,01)
+10/2/2025 3:43:00 PM - LLDT : CDATE(2025,10,02)
+10/2/2025 3:43:00 PM - DSN Name : dsn_91369
+10/2/2025 3:43:00 PM - Report Parameter parameter : 
+10/2/2025 3:43:31 PM - Client Server IP: 160.187.54.38,4545
+10/2/2025 3:43:31 PM - Client Multiple Database : Main,Jainar
+10/2/2025 3:43:31 PM - Client Database : Jainar
+10/2/2025 3:43:31 PM - Report Name : fsc_jainar
+10/2/2025 3:43:31 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/2/2025 3:43:31 PM - Company ID : 57
+10/2/2025 3:43:31 PM - SSDT : CDATE(2025,04,01)
+10/2/2025 3:43:31 PM - LLDT : CDATE(2025,10,02)
+10/2/2025 3:43:31 PM - DSN Name : dsn_91370
+10/2/2025 3:43:31 PM - Report Parameter parameter : 
+10/2/2025 6:17:59 PM - Client Server IP: 160.187.54.38,4545
+10/2/2025 6:17:59 PM - Client Multiple Database : Main,Jainar
+10/2/2025 6:17:59 PM - Client Database : Jainar
+10/2/2025 6:17:59 PM - Report Name : fsc_jainar
+10/2/2025 6:17:59 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/2/2025 6:17:59 PM - Company ID : 57
+10/2/2025 6:17:59 PM - SSDT : CDATE(2025,04,01)
+10/2/2025 6:17:59 PM - LLDT : CDATE(2025,10,02)
+10/2/2025 6:17:59 PM - DSN Name : dsn_91402
+10/2/2025 6:17:59 PM - Report Parameter parameter : 
+10/2/2025 6:19:15 PM - Client Server IP: 160.187.54.38,4545
+10/2/2025 6:19:15 PM - Client Multiple Database : Main,Jainar
+10/2/2025 6:19:15 PM - Client Database : Jainar
+10/2/2025 6:19:15 PM - Report Name : fsc_jainar
+10/2/2025 6:19:15 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/2/2025 6:19:15 PM - Company ID : 57
+10/2/2025 6:19:15 PM - SSDT : CDATE(2025,04,01)
+10/2/2025 6:19:15 PM - LLDT : CDATE(2025,10,02)
+10/2/2025 6:19:15 PM - DSN Name : dsn_91403
+10/2/2025 6:19:15 PM - Report Parameter parameter : 
+10/3/2025 11:15:22 AM - Client Server IP: 160.187.54.38,4545
+10/3/2025 11:15:22 AM - Client Multiple Database : Main,Jainar
+10/3/2025 11:15:22 AM - Client Database : Jainar
+10/3/2025 11:15:22 AM - Report Name : fsc_jainar
+10/3/2025 11:15:22 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 11:15:22 AM - Company ID : 57
+10/3/2025 11:15:22 AM - SSDT : CDATE(2025,04,01)
+10/3/2025 11:15:22 AM - LLDT : CDATE(2025,10,03)
+10/3/2025 11:15:22 AM - DSN Name : dsn_91475
+10/3/2025 11:15:22 AM - Report Parameter parameter : 
+10/3/2025 11:15:32 AM - Client Server IP: 160.187.54.38,4545
+10/3/2025 11:15:32 AM - Client Multiple Database : Main,Jainar
+10/3/2025 11:15:32 AM - Client Database : Jainar
+10/3/2025 11:15:32 AM - Report Name : fsc_jainar
+10/3/2025 11:15:32 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 11:15:32 AM - Company ID : 57
+10/3/2025 11:15:32 AM - SSDT : CDATE(2025,04,01)
+10/3/2025 11:15:32 AM - LLDT : CDATE(2025,10,03)
+10/3/2025 11:15:32 AM - DSN Name : dsn_91477
+10/3/2025 11:15:32 AM - Report Parameter parameter : 
+10/3/2025 11:41:43 AM - Client Server IP: 160.187.54.38,4545
+10/3/2025 11:41:43 AM - Client Multiple Database : Main,Jainar
+10/3/2025 11:41:43 AM - Client Database : Jainar
+10/3/2025 11:41:43 AM - Report Name : fsc_jainar
+10/3/2025 11:41:43 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 11:41:43 AM - Company ID : 57
+10/3/2025 11:41:43 AM - SSDT : CDATE(2025,04,01)
+10/3/2025 11:41:43 AM - LLDT : CDATE(2025,10,03)
+10/3/2025 11:41:43 AM - DSN Name : dsn_91518
+10/3/2025 11:41:43 AM - Report Parameter parameter : 
+10/3/2025 12:14:33 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 12:14:33 PM - Client Multiple Database : Main,Jainar
+10/3/2025 12:14:33 PM - Client Database : Jainar
+10/3/2025 12:14:33 PM - Report Name : fsc_jainar
+10/3/2025 12:14:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 12:14:33 PM - Company ID : 57
+10/3/2025 12:14:33 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 12:14:33 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 12:14:33 PM - DSN Name : dsn_91565
+10/3/2025 12:14:33 PM - Report Parameter parameter : 
+10/3/2025 12:36:17 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 12:36:17 PM - Client Multiple Database : Main,Jainar
+10/3/2025 12:36:17 PM - Client Database : Jainar
+10/3/2025 12:36:17 PM - Report Name : fsc_jainar
+10/3/2025 12:36:17 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 12:36:17 PM - Company ID : 57
+10/3/2025 12:36:17 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 12:36:17 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 12:36:17 PM - DSN Name : dsn_91600
+10/3/2025 12:36:17 PM - Report Parameter parameter : 
+10/3/2025 1:39:02 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 1:39:02 PM - Client Multiple Database : Main,Jainar
+10/3/2025 1:39:02 PM - Client Database : Jainar
+10/3/2025 1:39:02 PM - Report Name : fsc_jainar
+10/3/2025 1:39:02 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 1:39:02 PM - Company ID : 57
+10/3/2025 1:39:02 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 1:39:02 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 1:39:02 PM - DSN Name : dsn_91724
+10/3/2025 1:39:02 PM - Report Parameter parameter : 
+10/3/2025 1:39:42 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 1:39:42 PM - Client Multiple Database : Main,Jainar
+10/3/2025 1:39:42 PM - Client Database : Jainar
+10/3/2025 1:39:42 PM - Report Name : fsc_jainar
+10/3/2025 1:39:42 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 1:39:42 PM - Company ID : 57
+10/3/2025 1:39:42 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 1:39:42 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 1:39:42 PM - DSN Name : dsn_91729
+10/3/2025 1:39:42 PM - Report Parameter parameter : 
+10/3/2025 1:44:01 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 1:44:01 PM - Client Multiple Database : Main,Jainar
+10/3/2025 1:44:01 PM - Client Database : Jainar
+10/3/2025 1:44:01 PM - Report Name : fsc_jainar
+10/3/2025 1:44:01 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 1:44:01 PM - Company ID : 57
+10/3/2025 1:44:01 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 1:44:01 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 1:44:01 PM - DSN Name : dsn_91738
+10/3/2025 1:44:01 PM - Report Parameter parameter : 
+10/3/2025 1:46:59 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 1:46:59 PM - Client Multiple Database : Main,Jainar
+10/3/2025 1:46:59 PM - Client Database : Jainar
+10/3/2025 1:46:59 PM - Report Name : fsc_jainar
+10/3/2025 1:46:59 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 1:46:59 PM - Company ID : 57
+10/3/2025 1:46:59 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 1:46:59 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 1:46:59 PM - DSN Name : dsn_91743
+10/3/2025 1:46:59 PM - Report Parameter parameter : 
+10/3/2025 1:48:40 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 1:48:40 PM - Client Multiple Database : Main,Jainar
+10/3/2025 1:48:40 PM - Client Database : Jainar
+10/3/2025 1:48:40 PM - Report Name : fsc_jainar
+10/3/2025 1:48:40 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 1:48:40 PM - Company ID : 57
+10/3/2025 1:48:40 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 1:48:40 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 1:48:40 PM - DSN Name : dsn_91749
+10/3/2025 1:48:40 PM - Report Parameter parameter : 
+10/3/2025 1:58:03 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 1:58:03 PM - Client Multiple Database : Main,Jainar
+10/3/2025 1:58:03 PM - Client Database : Jainar
+10/3/2025 1:58:03 PM - Report Name : fsc_jainar
+10/3/2025 1:58:03 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 1:58:03 PM - Company ID : 57
+10/3/2025 1:58:03 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 1:58:03 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 1:58:03 PM - DSN Name : dsn_91768
+10/3/2025 1:58:03 PM - Report Parameter parameter : 
+10/3/2025 2:57:12 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 2:57:12 PM - Client Multiple Database : Main,Jainar
+10/3/2025 2:57:12 PM - Client Database : Jainar
+10/3/2025 2:57:12 PM - Report Name : fsc_jainar
+10/3/2025 2:57:12 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 2:57:12 PM - Company ID : 57
+10/3/2025 2:57:12 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 2:57:12 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 2:57:12 PM - DSN Name : dsn_91846
+10/3/2025 2:57:12 PM - Report Parameter parameter : 
+10/3/2025 2:59:51 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 2:59:51 PM - Client Multiple Database : Main,Jainar
+10/3/2025 2:59:51 PM - Client Database : Jainar
+10/3/2025 2:59:51 PM - Report Name : fsc_jainar
+10/3/2025 2:59:51 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 2:59:51 PM - Company ID : 57
+10/3/2025 2:59:51 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 2:59:51 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 2:59:51 PM - DSN Name : dsn_91852
+10/3/2025 2:59:51 PM - Report Parameter parameter : 
+10/4/2025 7:02:39 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 7:02:39 PM - Client Multiple Database : Main,Jainar
+10/4/2025 7:02:39 PM - Client Database : Jainar
+10/4/2025 7:02:39 PM - Report Name : fsc_jainar
+10/4/2025 7:02:39 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 7:02:39 PM - Company ID : 57
+10/4/2025 7:02:39 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 7:02:39 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 7:02:39 PM - DSN Name : dsn_93393
+10/4/2025 7:02:39 PM - Report Parameter parameter : 
+10/4/2025 7:05:31 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 7:05:31 PM - Client Multiple Database : Main,Jainar
+10/4/2025 7:05:31 PM - Client Database : Jainar
+10/4/2025 7:05:31 PM - Report Name : fsc_jainar
+10/4/2025 7:05:31 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 7:05:31 PM - Company ID : 57
+10/4/2025 7:05:31 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 7:05:31 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 7:05:31 PM - DSN Name : dsn_93394
+10/4/2025 7:05:31 PM - Report Parameter parameter : 
+10/4/2025 7:37:13 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 7:37:13 PM - Client Multiple Database : Main,Jainar
+10/4/2025 7:37:13 PM - Client Database : Jainar
+10/4/2025 7:37:13 PM - Report Name : fsc_jainar
+10/4/2025 7:37:13 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 7:37:13 PM - Company ID : 57
+10/4/2025 7:37:13 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 7:37:13 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 7:37:13 PM - DSN Name : dsn_93432
+10/4/2025 7:37:13 PM - Report Parameter parameter : 
+10/4/2025 7:38:11 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 7:38:11 PM - Client Multiple Database : Main,Jainar
+10/4/2025 7:38:11 PM - Client Database : Jainar
+10/4/2025 7:38:11 PM - Report Name : fsc_jainar
+10/4/2025 7:38:11 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 7:38:11 PM - Company ID : 57
+10/4/2025 7:38:11 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 7:38:11 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 7:38:11 PM - DSN Name : dsn_93434
+10/4/2025 7:38:11 PM - Report Parameter parameter : 
+10/4/2025 7:38:59 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 7:38:59 PM - Client Multiple Database : Main,Jainar
+10/4/2025 7:38:59 PM - Client Database : Jainar
+10/4/2025 7:38:59 PM - Report Name : fsc_jainar
+10/4/2025 7:38:59 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 7:38:59 PM - Company ID : 57
+10/4/2025 7:38:59 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 7:38:59 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 7:38:59 PM - DSN Name : dsn_93436
+10/4/2025 7:38:59 PM - Report Parameter parameter : 
+10/4/2025 7:39:15 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 7:39:15 PM - Client Multiple Database : Main,Jainar
+10/4/2025 7:39:15 PM - Client Database : Jainar
+10/4/2025 7:39:15 PM - Report Name : fsc_jainar
+10/4/2025 7:39:15 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 7:39:15 PM - Company ID : 57
+10/4/2025 7:39:15 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 7:39:15 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 7:39:15 PM - DSN Name : dsn_93437
+10/4/2025 7:39:15 PM - Report Parameter parameter : 
+10/4/2025 7:39:40 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 7:39:40 PM - Client Multiple Database : Main,Jainar
+10/4/2025 7:39:40 PM - Client Database : Jainar
+10/4/2025 7:39:40 PM - Report Name : fsc_jainar
+10/4/2025 7:39:40 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 7:39:40 PM - Company ID : 57
+10/4/2025 7:39:40 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 7:39:40 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 7:39:40 PM - DSN Name : dsn_93438
+10/4/2025 7:39:40 PM - Report Parameter parameter : 
+10/4/2025 7:40:48 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 7:40:48 PM - Client Multiple Database : Main,Jainar
+10/4/2025 7:40:48 PM - Client Database : Jainar
+10/4/2025 7:40:48 PM - Report Name : fsc_jainar
+10/4/2025 7:40:48 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 7:40:48 PM - Company ID : 57
+10/4/2025 7:40:48 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 7:40:48 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 7:40:48 PM - DSN Name : dsn_93441
+10/4/2025 7:40:48 PM - Report Parameter parameter : 
+10/4/2025 7:43:02 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 7:43:02 PM - Client Multiple Database : Main,Jainar
+10/4/2025 7:43:02 PM - Client Database : Jainar
+10/4/2025 7:43:02 PM - Report Name : fsc_jainar
+10/4/2025 7:43:02 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 7:43:02 PM - Company ID : 57
+10/4/2025 7:43:02 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 7:43:02 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 7:43:02 PM - DSN Name : dsn_93449
+10/4/2025 7:43:02 PM - Report Parameter parameter : 
+10/4/2025 7:45:50 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 7:45:50 PM - Client Multiple Database : Main,Jainar
+10/4/2025 7:45:50 PM - Client Database : Jainar
+10/4/2025 7:45:50 PM - Report Name : fsc_jainar
+10/4/2025 7:45:50 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 7:45:50 PM - Company ID : 57
+10/4/2025 7:45:50 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 7:45:50 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 7:45:50 PM - DSN Name : dsn_93452
+10/4/2025 7:45:50 PM - Report Parameter parameter : 
+10/4/2025 7:48:28 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 7:48:28 PM - Client Multiple Database : Main,Jainar
+10/4/2025 7:48:28 PM - Client Database : Jainar
+10/4/2025 7:48:28 PM - Report Name : fsc_jainar
+10/4/2025 7:48:28 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 7:48:28 PM - Company ID : 57
+10/4/2025 7:48:28 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 7:48:28 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 7:48:28 PM - DSN Name : dsn_93455
+10/4/2025 7:48:28 PM - Report Parameter parameter : 
+10/4/2025 7:52:11 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 7:52:11 PM - Client Multiple Database : Main,Jainar
+10/4/2025 7:52:11 PM - Client Database : Jainar
+10/4/2025 7:52:11 PM - Report Name : fsc_jainar
+10/4/2025 7:52:11 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 7:52:11 PM - Company ID : 57
+10/4/2025 7:52:11 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 7:52:11 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 7:52:11 PM - DSN Name : dsn_93460
+10/4/2025 7:52:11 PM - Report Parameter parameter : 
+10/4/2025 7:53:32 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 7:53:32 PM - Client Multiple Database : Main,Jainar
+10/4/2025 7:53:32 PM - Client Database : Jainar
+10/4/2025 7:53:32 PM - Report Name : fsc_jainar
+10/4/2025 7:53:32 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 7:53:32 PM - Company ID : 57
+10/4/2025 7:53:32 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 7:53:32 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 7:53:32 PM - DSN Name : dsn_93464
+10/4/2025 7:53:32 PM - Report Parameter parameter : 
+10/4/2025 7:55:28 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 7:55:28 PM - Client Multiple Database : Main,Jainar
+10/4/2025 7:55:28 PM - Client Database : Jainar
+10/4/2025 7:55:28 PM - Report Name : fsc_jainar
+10/4/2025 7:55:28 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 7:55:28 PM - Company ID : 57
+10/4/2025 7:55:28 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 7:55:28 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 7:55:28 PM - DSN Name : dsn_93468
+10/4/2025 7:55:28 PM - Report Parameter parameter : 
+10/4/2025 8:25:47 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 8:25:47 PM - Client Multiple Database : Main,Jainar
+10/4/2025 8:25:47 PM - Client Database : Jainar
+10/4/2025 8:25:47 PM - Report Name : fsc_jainar
+10/4/2025 8:25:47 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 8:25:47 PM - Company ID : 57
+10/4/2025 8:25:47 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 8:25:47 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 8:25:47 PM - DSN Name : dsn_93521
+10/4/2025 8:25:47 PM - Report Parameter parameter : 
+10/4/2025 10:50:57 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 10:50:57 PM - Client Multiple Database : Main,Jainar
+10/4/2025 10:50:57 PM - Client Database : Jainar
+10/4/2025 10:50:57 PM - Report Name : fsc_jainar
+10/4/2025 10:50:57 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 10:50:57 PM - Company ID : 57
+10/4/2025 10:50:57 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 10:50:57 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 10:50:57 PM - DSN Name : dsn_93560
+10/4/2025 10:50:57 PM - Report Parameter parameter : 
+10/4/2025 10:51:37 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 10:51:37 PM - Client Multiple Database : Main,Jainar
+10/4/2025 10:51:37 PM - Client Database : Jainar
+10/4/2025 10:51:37 PM - Report Name : fsc_jainar
+10/4/2025 10:51:37 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 10:51:37 PM - Company ID : 57
+10/4/2025 10:51:37 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 10:51:37 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 10:51:37 PM - DSN Name : dsn_93561
+10/4/2025 10:51:37 PM - Report Parameter parameter : 
+10/5/2025 9:41:04 AM - Client Server IP: 160.187.54.38,4545
+10/5/2025 9:41:04 AM - Client Multiple Database : Main,Jainar
+10/5/2025 9:41:04 AM - Client Database : Jainar
+10/5/2025 9:41:04 AM - Report Name : fsc_jainar
+10/5/2025 9:41:04 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/5/2025 9:41:04 AM - Company ID : 57
+10/5/2025 9:41:04 AM - SSDT : CDATE(2025,04,01)
+10/5/2025 9:41:04 AM - LLDT : CDATE(2025,10,05)
+10/5/2025 9:41:04 AM - DSN Name : dsn_93575
+10/5/2025 9:41:04 AM - Report Parameter parameter : 
+10/5/2025 10:14:28 AM - Client Server IP: 160.187.54.38,4545
+10/5/2025 10:14:28 AM - Client Multiple Database : Main,Jainar
+10/5/2025 10:14:28 AM - Client Database : Jainar
+10/5/2025 10:14:28 AM - Report Name : fsc_jainar
+10/5/2025 10:14:28 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/5/2025 10:14:28 AM - Company ID : 57
+10/5/2025 10:14:28 AM - SSDT : CDATE(2025,04,01)
+10/5/2025 10:14:28 AM - LLDT : CDATE(2025,10,05)
+10/5/2025 10:14:28 AM - DSN Name : dsn_93591
+10/5/2025 10:14:28 AM - Report Parameter parameter : 
+10/6/2025 9:58:46 AM - Client Server IP: 160.187.54.38,4545
+10/6/2025 9:58:46 AM - Client Multiple Database : Main,Jainar
+10/6/2025 9:58:46 AM - Client Database : Jainar
+10/6/2025 9:58:46 AM - Report Name : fsc_jainar
+10/6/2025 9:58:46 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/6/2025 9:58:46 AM - Company ID : 57
+10/6/2025 9:58:46 AM - SSDT : CDATE(2025,04,01)
+10/6/2025 9:58:46 AM - LLDT : CDATE(2025,10,06)
+10/6/2025 9:58:46 AM - DSN Name : dsn_94251
+10/6/2025 9:58:46 AM - Report Parameter parameter : 
+10/6/2025 9:59:00 AM - Client Server IP: 160.187.54.38,4545
+10/6/2025 9:59:00 AM - Client Multiple Database : Main,Jainar
+10/6/2025 9:59:00 AM - Client Database : Jainar
+10/6/2025 9:59:00 AM - Report Name : fsc_jainar
+10/6/2025 9:59:00 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/6/2025 9:59:00 AM - Company ID : 57
+10/6/2025 9:59:00 AM - SSDT : CDATE(2025,04,01)
+10/6/2025 9:59:00 AM - LLDT : CDATE(2025,10,06)
+10/6/2025 9:59:00 AM - DSN Name : dsn_94252
+10/6/2025 9:59:00 AM - Report Parameter parameter : 
+10/6/2025 9:59:36 AM - Client Server IP: 160.187.54.38,4545
+10/6/2025 9:59:36 AM - Client Multiple Database : Main,Jainar
+10/6/2025 9:59:36 AM - Client Database : Jainar
+10/6/2025 9:59:36 AM - Report Name : fsc_jainar
+10/6/2025 9:59:36 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/6/2025 9:59:36 AM - Company ID : 57
+10/6/2025 9:59:36 AM - SSDT : CDATE(2025,04,01)
+10/6/2025 9:59:36 AM - LLDT : CDATE(2025,10,06)
+10/6/2025 9:59:36 AM - DSN Name : dsn_94253
+10/6/2025 9:59:36 AM - Report Parameter parameter : 
+10/6/2025 12:07:52 PM - Client Server IP: 160.187.54.38,4545
+10/6/2025 12:07:52 PM - Client Multiple Database : Main,Jainar
+10/6/2025 12:07:52 PM - Client Database : Jainar
+10/6/2025 12:07:52 PM - Report Name : fsc_jainar
+10/6/2025 12:07:52 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/6/2025 12:07:52 PM - Company ID : 57
+10/6/2025 12:07:52 PM - SSDT : CDATE(2025,04,01)
+10/6/2025 12:07:52 PM - LLDT : CDATE(2025,10,06)
+10/6/2025 12:07:52 PM - DSN Name : dsn_94514
+10/6/2025 12:07:52 PM - Report Parameter parameter : 
+10/6/2025 12:08:29 PM - Client Server IP: 160.187.54.38,4545
+10/6/2025 12:08:29 PM - Client Multiple Database : Main,Jainar
+10/6/2025 12:08:29 PM - Client Database : Jainar
+10/6/2025 12:08:29 PM - Report Name : fsc_jainar
+10/6/2025 12:08:29 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/6/2025 12:08:29 PM - Company ID : 57
+10/6/2025 12:08:29 PM - SSDT : CDATE(2025,04,01)
+10/6/2025 12:08:29 PM - LLDT : CDATE(2025,10,06)
+10/6/2025 12:08:29 PM - DSN Name : dsn_94517
+10/6/2025 12:08:29 PM - Report Parameter parameter : 
+10/7/2025 12:27:21 PM - Client Server IP: 160.187.54.38,4545
+10/7/2025 12:27:21 PM - Client Multiple Database : Main,Jainar
+10/7/2025 12:27:21 PM - Client Database : Jainar
+10/7/2025 12:27:21 PM - Report Name : fsc_jainar
+10/7/2025 12:27:21 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/7/2025 12:27:21 PM - Company ID : 57
+10/7/2025 12:27:21 PM - SSDT : CDATE(2025,04,01)
+10/7/2025 12:27:21 PM - LLDT : CDATE(2025,10,07)
+10/7/2025 12:27:21 PM - DSN Name : dsn_96218
+10/7/2025 12:27:21 PM - Report Parameter parameter : 
+10/7/2025 1:39:17 PM - Client Server IP: 160.187.54.38,4545
+10/7/2025 1:39:17 PM - Client Multiple Database : Main,Jainar
+10/7/2025 1:39:17 PM - Client Database : Jainar
+10/7/2025 1:39:17 PM - Report Name : fsc_jainar
+10/7/2025 1:39:17 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/7/2025 1:39:17 PM - Company ID : 57
+10/7/2025 1:39:17 PM - SSDT : CDATE(2025,04,01)
+10/7/2025 1:39:17 PM - LLDT : CDATE(2025,10,07)
+10/7/2025 1:39:17 PM - DSN Name : dsn_96405
+10/7/2025 1:39:17 PM - Report Parameter parameter : 
+10/7/2025 1:40:02 PM - Client Server IP: 160.187.54.38,4545
+10/7/2025 1:40:02 PM - Client Multiple Database : Main,Jainar
+10/7/2025 1:40:02 PM - Client Database : Jainar
+10/7/2025 1:40:02 PM - Report Name : fsc_jainar
+10/7/2025 1:40:02 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/7/2025 1:40:02 PM - Company ID : 57
+10/7/2025 1:40:02 PM - SSDT : CDATE(2025,04,01)
+10/7/2025 1:40:02 PM - LLDT : CDATE(2025,10,07)
+10/7/2025 1:40:02 PM - DSN Name : dsn_96408
+10/7/2025 1:40:02 PM - Report Parameter parameter : 
+10/7/2025 1:46:15 PM - Client Server IP: 160.187.54.38,4545
+10/7/2025 1:46:15 PM - Client Multiple Database : Main,Jainar
+10/7/2025 1:46:15 PM - Client Database : Jainar
+10/7/2025 1:46:15 PM - Report Name : fsc_jainar
+10/7/2025 1:46:15 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/7/2025 1:46:15 PM - Company ID : 57
+10/7/2025 1:46:15 PM - SSDT : CDATE(2025,04,01)
+10/7/2025 1:46:15 PM - LLDT : CDATE(2025,10,07)
+10/7/2025 1:46:15 PM - DSN Name : dsn_96416
+10/7/2025 1:46:15 PM - Report Parameter parameter : 
+10/7/2025 1:53:43 PM - Client Server IP: 160.187.54.38,4545
+10/7/2025 1:53:43 PM - Client Multiple Database : Main,Jainar
+10/7/2025 1:53:43 PM - Client Database : Jainar
+10/7/2025 1:53:43 PM - Report Name : fsc_jainar
+10/7/2025 1:53:43 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/7/2025 1:53:43 PM - Company ID : 57
+10/7/2025 1:53:43 PM - SSDT : CDATE(2025,04,01)
+10/7/2025 1:53:43 PM - LLDT : CDATE(2025,10,07)
+10/7/2025 1:53:43 PM - DSN Name : dsn_96426
+10/7/2025 1:53:43 PM - Report Parameter parameter : 
+10/7/2025 6:55:02 PM - Client Server IP: 160.187.54.38,4545
+10/7/2025 6:55:02 PM - Client Multiple Database : Main,Jainar
+10/7/2025 6:55:02 PM - Client Database : Jainar
+10/7/2025 6:55:02 PM - Report Name : fsc_jainar
+10/7/2025 6:55:02 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/7/2025 6:55:02 PM - Company ID : 57
+10/7/2025 6:55:02 PM - SSDT : CDATE(2025,04,01)
+10/7/2025 6:55:02 PM - LLDT : CDATE(2025,10,07)
+10/7/2025 6:55:02 PM - DSN Name : dsn_96954
+10/7/2025 6:55:02 PM - Report Parameter parameter : 
+10/7/2025 7:33:01 PM - Client Server IP: 160.187.54.38,4545
+10/7/2025 7:33:01 PM - Client Multiple Database : Main,Jainar
+10/7/2025 7:33:01 PM - Client Database : Jainar
+10/7/2025 7:33:01 PM - Report Name : fsc_jainar
+10/7/2025 7:33:01 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/7/2025 7:33:01 PM - Company ID : 57
+10/7/2025 7:33:01 PM - SSDT : CDATE(2025,04,01)
+10/7/2025 7:33:01 PM - LLDT : CDATE(2025,10,07)
+10/7/2025 7:33:01 PM - DSN Name : dsn_97007
+10/7/2025 7:33:01 PM - Report Parameter parameter : 
+10/7/2025 8:10:30 PM - Client Server IP: 160.187.54.38,4545
+10/7/2025 8:10:30 PM - Client Multiple Database : Main,Jainar
+10/7/2025 8:10:30 PM - Client Database : Jainar
+10/7/2025 8:10:30 PM - Report Name : fsc_jainar
+10/7/2025 8:10:30 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/7/2025 8:10:30 PM - Company ID : 57
+10/7/2025 8:10:30 PM - SSDT : CDATE(2025,04,01)
+10/7/2025 8:10:30 PM - LLDT : CDATE(2025,10,07)
+10/7/2025 8:10:30 PM - DSN Name : dsn_97084
+10/7/2025 8:10:30 PM - Report Parameter parameter : 
+10/11/2025 9:52:14 AM - Client Server IP: 160.187.54.38,4545
+10/11/2025 9:52:14 AM - Client Multiple Database : Main,Jainar
+10/11/2025 9:52:14 AM - Client Database : Jainar
+10/11/2025 9:52:14 AM - Report Name : fsc_jainar
+10/11/2025 9:52:14 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/11/2025 9:52:14 AM - Company ID : 57
+10/11/2025 9:52:14 AM - SSDT : CDATE(2025,04,01)
+10/11/2025 9:52:14 AM - LLDT : CDATE(2025,10,11)
+10/11/2025 9:52:14 AM - DSN Name : dsn_101877
+10/11/2025 9:52:14 AM - Report Parameter parameter : 
+10/11/2025 9:59:37 AM - Client Server IP: 160.187.54.38,4545
+10/11/2025 9:59:37 AM - Client Multiple Database : Main,Jainar
+10/11/2025 9:59:37 AM - Client Database : Jainar
+10/11/2025 9:59:37 AM - Report Name : fsc_jainar
+10/11/2025 9:59:37 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/11/2025 9:59:37 AM - Company ID : 57
+10/11/2025 9:59:37 AM - SSDT : CDATE(2025,04,01)
+10/11/2025 9:59:37 AM - LLDT : CDATE(2025,10,11)
+10/11/2025 9:59:37 AM - DSN Name : dsn_101881
+10/11/2025 9:59:37 AM - Report Parameter parameter : 
+10/13/2025 10:59:57 AM - Client Server IP: 160.187.54.38,4545
+10/13/2025 10:59:57 AM - Client Multiple Database : Main,Jainar
+10/13/2025 10:59:57 AM - Client Database : Jainar
+10/13/2025 10:59:57 AM - Report Name : fsc_jainar
+10/13/2025 10:59:57 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/13/2025 10:59:57 AM - Company ID : 57
+10/13/2025 10:59:57 AM - SSDT : CDATE(2025,10,11)
+10/13/2025 10:59:57 AM - LLDT : CDATE(2025,10,13)
+10/13/2025 10:59:57 AM - DSN Name : dsn_105051
+10/13/2025 10:59:57 AM - Report Parameter parameter : 
+10/13/2025 2:06:02 PM - Client Server IP: 160.187.54.38,4545
+10/13/2025 2:06:02 PM - Client Multiple Database : Main,Jainar
+10/13/2025 2:06:02 PM - Client Database : Jainar
+10/13/2025 2:06:02 PM - Report Name : fsc_jainar
+10/13/2025 2:06:02 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/13/2025 2:06:02 PM - Company ID : 57
+10/13/2025 2:06:02 PM - SSDT : CDATE(2025,04,01)
+10/13/2025 2:06:02 PM - LLDT : CDATE(2025,10,13)
+10/13/2025 2:06:02 PM - DSN Name : dsn_105597
+10/13/2025 2:06:02 PM - Report Parameter parameter : 
+10/13/2025 2:06:20 PM - Client Server IP: 160.187.54.38,4545
+10/13/2025 2:06:20 PM - Client Multiple Database : Main,Jainar
+10/13/2025 2:06:20 PM - Client Database : Jainar
+10/13/2025 2:06:20 PM - Report Name : fsc_jainar
+10/13/2025 2:06:20 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/13/2025 2:06:20 PM - Company ID : 57
+10/13/2025 2:06:20 PM - SSDT : CDATE(2025,04,01)
+10/13/2025 2:06:20 PM - LLDT : CDATE(2025,10,13)
+10/13/2025 2:06:20 PM - DSN Name : dsn_105598
+10/13/2025 2:06:20 PM - Report Parameter parameter : 
+10/13/2025 2:06:42 PM - Client Server IP: 160.187.54.38,4545
+10/13/2025 2:06:42 PM - Client Multiple Database : Main,Jainar
+10/13/2025 2:06:42 PM - Client Database : Jainar
+10/13/2025 2:06:42 PM - Report Name : fsc_jainar
+10/13/2025 2:06:42 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/13/2025 2:06:42 PM - Company ID : 57
+10/13/2025 2:06:42 PM - SSDT : CDATE(2025,10,13)
+10/13/2025 2:06:42 PM - LLDT : CDATE(2025,10,13)
+10/13/2025 2:06:42 PM - DSN Name : dsn_105601
+10/13/2025 2:06:42 PM - Report Parameter parameter : 
+10/13/2025 4:08:48 PM - Client Server IP: 160.187.54.38,4545
+10/13/2025 4:08:48 PM - Client Multiple Database : Main,Jainar
+10/13/2025 4:08:48 PM - Client Database : Jainar
+10/13/2025 4:08:48 PM - Report Name : fsc_jainar
+10/13/2025 4:08:48 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/13/2025 4:08:48 PM - Company ID : 57
+10/13/2025 4:08:48 PM - SSDT : CDATE(2025,04,01)
+10/13/2025 4:08:48 PM - LLDT : CDATE(2025,10,13)
+10/13/2025 4:08:48 PM - DSN Name : dsn_105953
+10/13/2025 4:08:48 PM - Report Parameter parameter : 
+10/14/2025 12:21:03 PM - Client Server IP: 160.187.54.38,4545
+10/14/2025 12:21:03 PM - Client Multiple Database : Main,Jainar
+10/14/2025 12:21:03 PM - Client Database : Jainar
+10/14/2025 12:21:03 PM - Report Name : fjw_jainar
+10/14/2025 12:21:03 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 12:21:03 PM - Company ID : 57
+10/14/2025 12:21:03 PM - SSDT : CDATE(2025,04,01)
+10/14/2025 12:21:03 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 12:21:03 PM - DSN Name : dsn_107355
+10/14/2025 12:21:03 PM - Report Parameter parameter : 
+10/14/2025 6:25:08 PM - Client Server IP: 160.187.54.38,4545
+10/14/2025 6:25:08 PM - Client Multiple Database : Main,Jainar
+10/14/2025 6:25:08 PM - Client Database : Jainar
+10/14/2025 6:25:08 PM - Report Name : fsc_jainar
+10/14/2025 6:25:08 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 6:25:08 PM - Company ID : 57
+10/14/2025 6:25:08 PM - SSDT : CDATE(2025,04,01)
+10/14/2025 6:25:08 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 6:25:08 PM - DSN Name : dsn_108519
+10/14/2025 6:25:08 PM - Report Parameter parameter : 
+10/14/2025 6:51:34 PM - Client Server IP: 160.187.54.38,4545
+10/14/2025 6:51:34 PM - Client Multiple Database : Main,Jainar
+10/14/2025 6:51:34 PM - Client Database : Jainar
+10/14/2025 6:51:34 PM - Report Name : fsc_jainar
+10/14/2025 6:51:34 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 6:51:34 PM - Company ID : 57
+10/14/2025 6:51:34 PM - SSDT : CDATE(2025,04,01)
+10/14/2025 6:51:34 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 6:51:34 PM - DSN Name : dsn_108630
+10/14/2025 6:51:34 PM - Report Parameter parameter : 
+10/14/2025 7:33:12 PM - Client Server IP: 160.187.54.38,4545
+10/14/2025 7:33:12 PM - Client Multiple Database : Main,Jainar
+10/14/2025 7:33:12 PM - Client Database : Jainar
+10/14/2025 7:33:12 PM - Report Name : fsc_jainar
+10/14/2025 7:33:12 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 7:33:12 PM - Company ID : 57
+10/14/2025 7:33:12 PM - SSDT : CDATE(2025,04,01)
+10/14/2025 7:33:12 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 7:33:12 PM - DSN Name : dsn_108775
+10/14/2025 7:33:12 PM - Report Parameter parameter : 
+10/14/2025 7:44:30 PM - Client Server IP: 160.187.54.38,4545
+10/14/2025 7:44:30 PM - Client Multiple Database : Main,Jainar
+10/14/2025 7:44:30 PM - Client Database : Jainar
+10/14/2025 7:44:30 PM - Report Name : fsc_jainar
+10/14/2025 7:44:30 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 7:44:30 PM - Company ID : 57
+10/14/2025 7:44:30 PM - SSDT : CDATE(2025,04,01)
+10/14/2025 7:44:30 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 7:44:30 PM - DSN Name : dsn_108822
+10/14/2025 7:44:30 PM - Report Parameter parameter : 
+10/14/2025 7:44:37 PM - Client Server IP: 160.187.54.38,4545
+10/14/2025 7:44:37 PM - Client Multiple Database : Main,Jainar
+10/14/2025 7:44:37 PM - Client Database : Jainar
+10/14/2025 7:44:37 PM - Report Name : fsc_jainar
+10/14/2025 7:44:37 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 7:44:37 PM - Company ID : 57
+10/14/2025 7:45:59 PM - Client Server IP: 160.187.54.38,4545
+10/14/2025 7:45:59 PM - Client Multiple Database : Main,Jainar
+10/14/2025 7:45:59 PM - Client Database : Jainar
+10/14/2025 7:45:59 PM - Report Name : fsc_jainar
+10/14/2025 7:45:59 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 7:45:59 PM - Company ID : 57
+10/14/2025 7:45:59 PM - SSDT : CDATE(2025,04,01)
+10/14/2025 7:45:59 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 7:45:59 PM - DSN Name : dsn_108825
+10/14/2025 7:45:59 PM - Report Parameter parameter : 
+10/14/2025 8:13:07 PM - Client Server IP: 160.187.54.38,4545
+10/14/2025 8:13:07 PM - Client Multiple Database : Main,Jainar
+10/14/2025 8:13:07 PM - Client Database : Jainar
+10/14/2025 8:13:07 PM - Report Name : fsc_jainar
+10/14/2025 8:13:07 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 8:13:07 PM - Company ID : 57
+10/14/2025 8:13:07 PM - SSDT : CDATE(2025,04,01)
+10/14/2025 8:13:07 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 8:13:07 PM - DSN Name : dsn_108922
+10/14/2025 8:13:07 PM - Report Parameter parameter : 
+10/14/2025 8:13:22 PM - Client Server IP: 160.187.54.38,4545
+10/14/2025 8:13:22 PM - Client Multiple Database : Main,Jainar
+10/14/2025 8:13:22 PM - Client Database : Jainar
+10/14/2025 8:13:22 PM - Report Name : fsc_jainar
+10/14/2025 8:13:22 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 8:13:22 PM - Company ID : 57
+10/14/2025 8:13:22 PM - SSDT : CDATE(2025,10,14)
+10/14/2025 8:13:22 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 8:13:22 PM - DSN Name : dsn_108924
+10/14/2025 8:13:22 PM - Report Parameter parameter : 
+10/14/2025 8:29:16 PM - Client Server IP: 160.187.54.38,4545
+10/14/2025 8:29:16 PM - Client Multiple Database : Main,Jainar
+10/14/2025 8:29:16 PM - Client Database : Jainar
+10/14/2025 8:29:16 PM - Report Name : fsc_jainar
+10/14/2025 8:29:16 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 8:29:16 PM - Company ID : 57
+10/14/2025 8:29:16 PM - SSDT : CDATE(2025,10,14)
+10/14/2025 8:29:16 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 8:29:16 PM - DSN Name : dsn_108961
+10/14/2025 8:29:16 PM - Report Parameter parameter : 
+10/14/2025 8:31:01 PM - Client Server IP: 160.187.54.38,4545
+10/14/2025 8:31:01 PM - Client Multiple Database : Main,Jainar
+10/14/2025 8:31:01 PM - Client Database : Jainar
+10/14/2025 8:31:01 PM - Report Name : fsc_jainar
+10/14/2025 8:31:01 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 8:31:01 PM - Company ID : 57
+10/14/2025 8:31:01 PM - SSDT : CDATE(2025,10,14)
+10/14/2025 8:31:01 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 8:31:01 PM - DSN Name : dsn_108965
+10/14/2025 8:31:01 PM - Report Parameter parameter : 
+10/14/2025 8:34:41 PM - Client Server IP: 160.187.54.38,4545
+10/14/2025 8:34:41 PM - Client Multiple Database : Main,Jainar
+10/14/2025 8:34:41 PM - Client Database : Jainar
+10/14/2025 8:34:41 PM - Report Name : fsc_jainar
+10/14/2025 8:34:41 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 8:34:41 PM - Company ID : 57
+10/14/2025 8:34:41 PM - SSDT : CDATE(2025,04,01)
+10/14/2025 8:34:41 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 8:34:41 PM - DSN Name : dsn_108970
+10/14/2025 8:34:41 PM - Report Parameter parameter : 
+10/14/2025 8:34:51 PM - Client Server IP: 160.187.54.38,4545
+10/14/2025 8:34:51 PM - Client Multiple Database : Main,Jainar
+10/14/2025 8:34:51 PM - Client Database : Jainar
+10/14/2025 8:34:51 PM - Report Name : fsc_jainar
+10/14/2025 8:34:51 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 8:34:51 PM - Company ID : 57
+10/14/2025 8:34:51 PM - SSDT : CDATE(2025,10,14)
+10/14/2025 8:34:51 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 8:34:51 PM - DSN Name : dsn_108972
+10/14/2025 8:34:51 PM - Report Parameter parameter : 
+10/14/2025 8:49:12 PM - Client Server IP: 160.187.54.38,4545
+10/14/2025 8:49:12 PM - Client Multiple Database : Main,Jainar
+10/14/2025 8:49:12 PM - Client Database : Jainar
+10/14/2025 8:49:12 PM - Report Name : fsc_jainar
+10/14/2025 8:49:12 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 8:49:12 PM - Company ID : 57
+10/14/2025 8:49:12 PM - SSDT : CDATE(2025,04,01)
+10/14/2025 8:49:12 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 8:49:12 PM - DSN Name : dsn_108993
+10/14/2025 8:49:12 PM - Report Parameter parameter : 
+10/15/2025 10:53:18 AM - Client Server IP: 160.187.54.38,4545
+10/15/2025 10:53:18 AM - Client Multiple Database : Main,Jainar
+10/15/2025 10:53:18 AM - Client Database : Jainar
+10/15/2025 10:53:18 AM - Report Name : fsc_jainar
+10/15/2025 10:53:18 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 10:53:18 AM - Company ID : 57
+10/15/2025 10:53:18 AM - SSDT : CDATE(2025,04,01)
+10/15/2025 10:53:18 AM - LLDT : CDATE(2025,10,15)
+10/15/2025 10:53:18 AM - DSN Name : dsn_109317
+10/15/2025 10:53:18 AM - Report Parameter parameter : 
+10/15/2025 10:53:40 AM - Client Server IP: 160.187.54.38,4545
+10/15/2025 10:53:40 AM - Client Multiple Database : Main,Jainar
+10/15/2025 10:53:40 AM - Client Database : Jainar
+10/15/2025 10:53:40 AM - Report Name : fsc_jainar
+10/15/2025 10:53:40 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 10:53:40 AM - Company ID : 57
+10/15/2025 10:53:40 AM - SSDT : CDATE(2025,10,14)
+10/15/2025 10:53:40 AM - LLDT : CDATE(2025,10,15)
+10/15/2025 10:53:40 AM - DSN Name : dsn_109318
+10/15/2025 10:53:40 AM - Report Parameter parameter : 
+10/15/2025 12:15:48 PM - Client Server IP: 160.187.54.38,4545
+10/15/2025 12:15:48 PM - Client Multiple Database : Main,Jainar
+10/15/2025 12:15:48 PM - Client Database : Jainar
+10/15/2025 12:15:48 PM - Report Name : fjw_jainar
+10/15/2025 12:15:48 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 12:15:48 PM - Company ID : 57
+10/15/2025 12:15:48 PM - SSDT : CDATE(2025,04,01)
+10/15/2025 12:15:48 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 12:15:48 PM - DSN Name : dsn_109662
+10/15/2025 12:15:48 PM - Report Parameter parameter : 
+10/15/2025 1:03:27 PM - Client Server IP: 160.187.54.38,4545
+10/15/2025 1:03:27 PM - Client Multiple Database : Main,Jainar
+10/15/2025 1:03:27 PM - Client Database : Jainar
+10/15/2025 1:03:27 PM - Report Name : fjw_jainar
+10/15/2025 1:03:27 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 1:03:27 PM - Company ID : 57
+10/15/2025 1:03:27 PM - SSDT : CDATE(2025,04,01)
+10/15/2025 1:03:27 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 1:03:27 PM - DSN Name : dsn_109853
+10/15/2025 1:03:27 PM - Report Parameter parameter : 
+10/15/2025 5:35:28 PM - Client Server IP: 160.187.54.38,4545
+10/15/2025 5:35:28 PM - Client Multiple Database : Main,Jainar
+10/15/2025 5:35:28 PM - Client Database : Jainar
+10/15/2025 5:35:28 PM - Report Name : fsc_jainar
+10/15/2025 5:35:28 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 5:35:28 PM - Company ID : 57
+10/15/2025 5:35:28 PM - SSDT : CDATE(2025,10,15)
+10/15/2025 5:35:28 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 5:35:28 PM - DSN Name : dsn_110765
+10/15/2025 5:35:28 PM - Report Parameter parameter : 
+10/15/2025 7:38:30 PM - Client Server IP: 160.187.54.38,4545
+10/15/2025 7:38:30 PM - Client Multiple Database : Main,Jainar
+10/15/2025 7:38:30 PM - Client Database : Jainar
+10/15/2025 7:38:30 PM - Report Name : fsc_jainar
+10/15/2025 7:38:30 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 7:38:30 PM - Company ID : 57
+10/15/2025 7:38:30 PM - SSDT : CDATE(2025,04,01)
+10/15/2025 7:38:30 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 7:38:30 PM - DSN Name : dsn_111271
+10/15/2025 7:38:30 PM - Report Parameter parameter : 
+10/15/2025 7:58:42 PM - Client Server IP: 160.187.54.38,4545
+10/15/2025 7:58:42 PM - Client Multiple Database : Main,Jainar
+10/15/2025 7:58:42 PM - Client Database : Jainar
+10/15/2025 7:58:42 PM - Report Name : fsc_jainar
+10/15/2025 7:58:42 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 7:58:42 PM - Company ID : 57
+10/15/2025 7:58:42 PM - SSDT : CDATE(2025,04,01)
+10/15/2025 7:58:42 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 7:58:42 PM - DSN Name : dsn_111325
+10/15/2025 7:58:42 PM - Report Parameter parameter : 
+10/15/2025 7:58:57 PM - Client Server IP: 160.187.54.38,4545
+10/15/2025 7:58:57 PM - Client Multiple Database : Main,Jainar
+10/15/2025 7:58:57 PM - Client Database : Jainar
+10/15/2025 7:58:57 PM - Report Name : fsc_jainar
+10/15/2025 7:58:57 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 7:58:57 PM - Company ID : 57
+10/15/2025 7:58:57 PM - SSDT : CDATE(2025,10,15)
+10/15/2025 7:58:57 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 7:58:57 PM - DSN Name : dsn_111327
+10/15/2025 7:58:57 PM - Report Parameter parameter : 
+10/15/2025 8:18:58 PM - Client Server IP: 160.187.54.38,4545
+10/15/2025 8:18:58 PM - Client Multiple Database : Main,Jainar
+10/15/2025 8:18:58 PM - Client Database : Jainar
+10/15/2025 8:18:58 PM - Report Name : fsc_jainar
+10/15/2025 8:18:58 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 8:18:58 PM - Company ID : 57
+10/15/2025 8:18:58 PM - SSDT : CDATE(2025,10,15)
+10/15/2025 8:18:58 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 8:18:58 PM - DSN Name : dsn_111364
+10/15/2025 8:18:58 PM - Report Parameter parameter : 
+10/15/2025 8:34:38 PM - Client Server IP: 160.187.54.38,4545
+10/15/2025 8:34:38 PM - Client Multiple Database : Main,Jainar
+10/15/2025 8:34:38 PM - Client Database : Jainar
+10/15/2025 8:34:38 PM - Report Name : fjw_jainar
+10/15/2025 8:34:38 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 8:34:38 PM - Company ID : 57
+10/15/2025 8:34:38 PM - SSDT : CDATE(2025,04,01)
+10/15/2025 8:34:38 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 8:34:38 PM - DSN Name : dsn_111394
+10/15/2025 8:34:38 PM - Report Parameter parameter : 
+10/15/2025 8:39:37 PM - Client Server IP: 160.187.54.38,4545
+10/15/2025 8:39:37 PM - Client Multiple Database : Main,Jainar
+10/15/2025 8:39:37 PM - Client Database : Jainar
+10/15/2025 8:39:37 PM - Report Name : fsc_jainar
+10/15/2025 8:39:37 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 8:39:37 PM - Company ID : 57
+10/15/2025 8:39:37 PM - SSDT : CDATE(2025,10,15)
+10/15/2025 8:39:37 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 8:39:37 PM - DSN Name : dsn_111403
+10/15/2025 8:39:37 PM - Report Parameter parameter : 
+10/15/2025 8:40:06 PM - Client Server IP: 160.187.54.38,4545
+10/15/2025 8:40:06 PM - Client Multiple Database : Main,Jainar
+10/15/2025 8:40:06 PM - Client Database : Jainar
+10/15/2025 8:40:06 PM - Report Name : fsc_jainar
+10/15/2025 8:40:06 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 8:40:06 PM - Company ID : 57
+10/15/2025 8:40:06 PM - SSDT : CDATE(2025,10,15)
+10/15/2025 8:40:06 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 8:40:06 PM - DSN Name : dsn_111405
+10/15/2025 8:40:06 PM - Report Parameter parameter : 
+10/15/2025 8:40:42 PM - Client Server IP: 160.187.54.38,4545
+10/15/2025 8:40:42 PM - Client Multiple Database : Main,Jainar
+10/15/2025 8:40:42 PM - Client Database : Jainar
+10/15/2025 8:40:42 PM - Report Name : fsc_jainar
+10/15/2025 8:40:42 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 8:40:42 PM - Company ID : 57
+10/15/2025 8:40:42 PM - SSDT : CDATE(2025,10,15)
+10/15/2025 8:40:42 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 8:40:42 PM - DSN Name : dsn_111408
+10/15/2025 8:40:42 PM - Report Parameter parameter : 
+10/15/2025 8:41:01 PM - Client Server IP: 160.187.54.38,4545
+10/15/2025 8:41:01 PM - Client Multiple Database : Main,Jainar
+10/15/2025 8:41:01 PM - Client Database : Jainar
+10/15/2025 8:41:01 PM - Report Name : fsc_jainar
+10/15/2025 8:41:01 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 8:41:01 PM - Company ID : 57
+10/15/2025 8:41:01 PM - SSDT : CDATE(2025,10,15)
+10/15/2025 8:41:01 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 8:41:01 PM - DSN Name : dsn_111410
+10/15/2025 8:41:01 PM - Report Parameter parameter : 
+10/15/2025 8:41:29 PM - Client Server IP: 160.187.54.38,4545
+10/15/2025 8:41:29 PM - Client Multiple Database : Main,Jainar
+10/15/2025 8:41:29 PM - Client Database : Jainar
+10/15/2025 8:41:29 PM - Report Name : fsc_jainar
+10/15/2025 8:41:29 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 8:41:29 PM - Company ID : 57
+10/15/2025 8:41:29 PM - SSDT : CDATE(2025,10,15)
+10/15/2025 8:41:29 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 8:41:29 PM - DSN Name : dsn_111411
+10/15/2025 8:41:29 PM - Report Parameter parameter : 
+10/15/2025 8:41:51 PM - Client Server IP: 160.187.54.38,4545
+10/15/2025 8:41:51 PM - Client Multiple Database : Main,Jainar
+10/15/2025 8:41:51 PM - Client Database : Jainar
+10/15/2025 8:41:51 PM - Report Name : fsc_jainar
+10/15/2025 8:41:51 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 8:41:51 PM - Company ID : 57
+10/15/2025 8:41:51 PM - SSDT : CDATE(2025,10,15)
+10/15/2025 8:41:51 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 8:41:51 PM - DSN Name : dsn_111412
+10/15/2025 8:41:51 PM - Report Parameter parameter : 
+10/16/2025 11:47:54 AM - Client Server IP: 160.187.54.38,4545
+10/16/2025 11:47:54 AM - Client Multiple Database : Main,Jainar
+10/16/2025 11:47:54 AM - Client Database : Jainar
+10/16/2025 11:47:54 AM - Report Name : fjw_jainar
+10/16/2025 11:47:54 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/16/2025 11:47:54 AM - Company ID : 57
+10/16/2025 11:47:54 AM - SSDT : CDATE(2025,04,01)
+10/16/2025 11:47:54 AM - LLDT : CDATE(2025,10,16)
+10/16/2025 11:47:54 AM - DSN Name : dsn_111933
+10/16/2025 11:47:54 AM - Report Parameter parameter : 
+10/16/2025 3:56:49 PM - Client Server IP: 160.187.54.38,4545
+10/16/2025 3:56:49 PM - Client Multiple Database : Main,Jainar
+10/16/2025 3:56:49 PM - Client Database : Jainar
+10/16/2025 3:56:49 PM - Report Name : fjw_jainar
+10/16/2025 3:56:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/16/2025 3:56:49 PM - Company ID : 57
+10/16/2025 3:56:49 PM - SSDT : CDATE(2025,04,01)
+10/16/2025 3:56:49 PM - LLDT : CDATE(2025,10,16)
+10/16/2025 3:56:49 PM - DSN Name : dsn_112907
+10/16/2025 3:56:49 PM - Report Parameter parameter : 
+10/16/2025 5:01:26 PM - Client Server IP: 160.187.54.38,4545
+10/16/2025 5:01:26 PM - Client Multiple Database : Main,Jainar
+10/16/2025 5:01:26 PM - Client Database : Jainar
+10/16/2025 5:01:26 PM - Report Name : fsc_jainar
+10/16/2025 5:01:26 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/16/2025 5:01:26 PM - Company ID : 57
+10/16/2025 5:01:26 PM - SSDT : CDATE(2025,04,01)
+10/16/2025 5:01:26 PM - LLDT : CDATE(2025,10,16)
+10/16/2025 5:01:26 PM - DSN Name : dsn_113117
+10/16/2025 5:01:26 PM - Report Parameter parameter : 
+10/16/2025 8:28:08 PM - Client Server IP: 160.187.54.38,4545
+10/16/2025 8:28:08 PM - Client Multiple Database : Main,Jainar
+10/16/2025 8:28:08 PM - Client Database : Jainar
+10/16/2025 8:28:08 PM - Report Name : fsc_jainar
+10/16/2025 8:28:08 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/16/2025 8:28:08 PM - Company ID : 57
+10/16/2025 8:28:08 PM - SSDT : CDATE(2025,04,01)
+10/16/2025 8:28:08 PM - LLDT : CDATE(2025,10,16)
+10/16/2025 8:28:08 PM - DSN Name : dsn_113818
+10/16/2025 8:28:08 PM - Report Parameter parameter : 
+10/16/2025 8:28:25 PM - Client Server IP: 160.187.54.38,4545
+10/16/2025 8:28:25 PM - Client Multiple Database : Main,Jainar
+10/16/2025 8:28:25 PM - Client Database : Jainar
+10/16/2025 8:28:25 PM - Report Name : fsc_jainar
+10/16/2025 8:28:25 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/16/2025 8:28:25 PM - Company ID : 57
+10/16/2025 8:28:25 PM - SSDT : CDATE(2025,10,15)
+10/16/2025 8:28:25 PM - LLDT : CDATE(2025,10,16)
+10/16/2025 8:28:25 PM - DSN Name : dsn_113819
+10/16/2025 8:28:25 PM - Report Parameter parameter : 
+10/18/2025 6:47:43 PM - Client Server IP: 160.187.54.38,4545
+10/18/2025 6:47:43 PM - Client Multiple Database : Main,Jainar
+10/18/2025 6:47:43 PM - Client Database : Jainar
+10/18/2025 6:47:43 PM - Report Name : fsc_jainar
+10/18/2025 6:47:43 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/18/2025 6:47:43 PM - Company ID : 57
+10/18/2025 6:47:43 PM - SSDT : CDATE(2025,04,01)
+10/18/2025 6:47:43 PM - LLDT : CDATE(2025,10,18)
+10/18/2025 6:47:43 PM - DSN Name : dsn_117224
+10/18/2025 6:47:43 PM - Report Parameter parameter : 
+10/22/2025 1:34:47 PM - Client Server IP: 160.187.54.38,4545
+10/22/2025 1:34:47 PM - Client Multiple Database : Main,Jainar
+10/22/2025 1:34:47 PM - Client Database : Jainar
+10/22/2025 1:34:47 PM - Report Name : fsc_jainar
+10/22/2025 1:34:47 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/22/2025 1:34:47 PM - Company ID : 57
+10/22/2025 1:34:47 PM - SSDT : CDATE(2025,04,01)
+10/22/2025 1:34:47 PM - LLDT : CDATE(2025,10,22)
+10/22/2025 1:34:47 PM - DSN Name : dsn_118254
+10/22/2025 1:34:47 PM - Report Parameter parameter : 
+10/23/2025 5:34:39 PM - Client Server IP: 160.187.54.38,4545
+10/23/2025 5:34:39 PM - Client Multiple Database : Main,Jainar
+10/23/2025 5:34:39 PM - Client Database : Jainar
+10/23/2025 5:34:39 PM - Report Name : fsc_jainar
+10/23/2025 5:34:39 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/23/2025 5:34:39 PM - Company ID : 57
+10/23/2025 5:34:39 PM - SSDT : CDATE(2025,04,01)
+10/23/2025 5:34:39 PM - LLDT : CDATE(2025,10,23)
+10/23/2025 5:34:39 PM - DSN Name : dsn_119508
+10/23/2025 5:34:39 PM - Report Parameter parameter : 
+10/23/2025 5:35:14 PM - Client Server IP: 160.187.54.38,4545
+10/23/2025 5:35:14 PM - Client Multiple Database : Main,Jainar
+10/23/2025 5:35:14 PM - Client Database : Jainar
+10/23/2025 5:35:14 PM - Report Name : fsc_jainar
+10/23/2025 5:35:14 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/23/2025 5:35:14 PM - Company ID : 57
+10/23/2025 5:35:14 PM - SSDT : CDATE(2025,04,01)
+10/23/2025 5:35:14 PM - LLDT : CDATE(2025,10,23)
+10/23/2025 5:35:14 PM - DSN Name : dsn_119513
+10/23/2025 5:35:14 PM - Report Parameter parameter : 
+10/24/2025 4:33:15 PM - Client Server IP: 160.187.54.38,4545
+10/24/2025 4:33:15 PM - Client Multiple Database : Main,Jainar
+10/24/2025 4:33:15 PM - Client Database : Jainar
+10/24/2025 4:33:15 PM - Report Name : fsc_jainar
+10/24/2025 4:33:15 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/24/2025 4:33:15 PM - Company ID : 57
+10/24/2025 4:33:15 PM - SSDT : CDATE(2025,04,01)
+10/24/2025 4:33:15 PM - LLDT : CDATE(2025,10,24)
+10/24/2025 4:33:15 PM - DSN Name : dsn_121139
+10/24/2025 4:33:15 PM - Report Parameter parameter : 
+10/27/2025 7:02:54 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 7:02:54 PM - Client Multiple Database : Main,Jainar
+10/27/2025 7:02:54 PM - Client Database : Jainar
+10/27/2025 7:02:54 PM - Report Name : fsc_jainar
+10/27/2025 7:02:54 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 7:02:54 PM - Company ID : 57
+10/27/2025 7:02:54 PM - SSDT : CDATE(2025,04,01)
+10/27/2025 7:02:54 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 7:02:54 PM - DSN Name : dsn_126076
+10/27/2025 7:02:54 PM - Report Parameter parameter : 
+10/27/2025 7:03:15 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 7:03:15 PM - Client Multiple Database : Main,Jainar
+10/27/2025 7:03:15 PM - Client Database : Jainar
+10/27/2025 7:03:15 PM - Report Name : fsc_jainar
+10/27/2025 7:03:15 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 7:03:15 PM - Company ID : 57
+10/27/2025 7:03:15 PM - SSDT : CDATE(2025,10,27)
+10/27/2025 7:03:15 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 7:03:15 PM - DSN Name : dsn_126078
+10/27/2025 7:03:15 PM - Report Parameter parameter : 
+10/27/2025 7:09:19 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 7:09:19 PM - Client Multiple Database : Main,Jainar
+10/27/2025 7:09:19 PM - Client Database : Jainar
+10/27/2025 7:09:19 PM - Report Name : fsc_jainar
+10/27/2025 7:09:19 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 7:09:19 PM - Company ID : 57
+10/27/2025 7:09:19 PM - SSDT : CDATE(2025,04,01)
+10/27/2025 7:09:19 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 7:09:19 PM - DSN Name : dsn_126099
+10/27/2025 7:09:19 PM - Report Parameter parameter : 
+10/27/2025 7:09:33 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 7:09:33 PM - Client Multiple Database : Main,Jainar
+10/27/2025 7:09:33 PM - Client Database : Jainar
+10/27/2025 7:09:33 PM - Report Name : fsc_jainar
+10/27/2025 7:09:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 7:09:33 PM - Company ID : 57
+10/27/2025 7:09:33 PM - SSDT : CDATE(2025,10,27)
+10/27/2025 7:09:33 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 7:09:33 PM - DSN Name : dsn_126101
+10/27/2025 7:09:33 PM - Report Parameter parameter : 
+10/27/2025 7:29:08 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 7:29:08 PM - Client Multiple Database : Main,Jainar
+10/27/2025 7:29:08 PM - Client Database : Jainar
+10/27/2025 7:29:08 PM - Report Name : fsc_jainar
+10/27/2025 7:29:08 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 7:29:08 PM - Company ID : 57
+10/27/2025 7:29:08 PM - SSDT : CDATE(2025,04,01)
+10/27/2025 7:29:08 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 7:29:08 PM - DSN Name : dsn_126170
+10/27/2025 7:29:08 PM - Report Parameter parameter : 
+10/27/2025 7:29:20 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 7:29:20 PM - Client Multiple Database : Main,Jainar
+10/27/2025 7:29:20 PM - Client Database : Jainar
+10/27/2025 7:29:20 PM - Report Name : fsc_jainar
+10/27/2025 7:29:20 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 7:29:20 PM - Company ID : 57
+10/27/2025 7:29:20 PM - SSDT : CDATE(2025,10,27)
+10/27/2025 7:29:20 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 7:29:20 PM - DSN Name : dsn_126172
+10/27/2025 7:29:20 PM - Report Parameter parameter : 
+10/27/2025 7:29:33 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 7:29:33 PM - Client Multiple Database : Main,Jainar
+10/27/2025 7:29:33 PM - Client Database : Jainar
+10/27/2025 7:29:33 PM - Report Name : fsc_jainar
+10/27/2025 7:29:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 7:29:33 PM - Company ID : 57
+10/27/2025 7:29:33 PM - SSDT : CDATE(2025,10,27)
+10/27/2025 7:29:33 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 7:29:33 PM - DSN Name : dsn_126174
+10/27/2025 7:29:33 PM - Report Parameter parameter : 
+10/28/2025 10:39:00 AM - Client Server IP: 160.187.54.38,4545
+10/28/2025 10:39:00 AM - Client Multiple Database : Main,Jainar
+10/28/2025 10:39:00 AM - Client Database : Jainar
+10/28/2025 10:39:00 AM - Report Name : fsc_jainar
+10/28/2025 10:39:00 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/28/2025 10:39:00 AM - Company ID : 57
+10/28/2025 10:39:00 AM - SSDT : CDATE(2025,04,01)
+10/28/2025 10:39:00 AM - LLDT : CDATE(2025,10,28)
+10/28/2025 10:39:00 AM - DSN Name : dsn_126465
+10/28/2025 10:39:00 AM - Report Parameter parameter : 
+10/28/2025 10:39:16 AM - Client Server IP: 160.187.54.38,4545
+10/28/2025 10:39:16 AM - Client Multiple Database : Main,Jainar
+10/28/2025 10:39:16 AM - Client Database : Jainar
+10/28/2025 10:39:16 AM - Report Name : fsc_jainar
+10/28/2025 10:39:16 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/28/2025 10:39:16 AM - Company ID : 57
+10/28/2025 10:39:16 AM - SSDT : CDATE(2025,10,25)
+10/28/2025 10:39:16 AM - LLDT : CDATE(2025,10,28)
+10/28/2025 10:39:16 AM - DSN Name : dsn_126467
+10/28/2025 10:39:16 AM - Report Parameter parameter : 
+10/28/2025 10:56:54 AM - Client Server IP: 160.187.54.38,4545
+10/28/2025 10:56:54 AM - Client Multiple Database : Main,Jainar
+10/28/2025 10:56:54 AM - Client Database : Jainar
+10/28/2025 10:56:54 AM - Report Name : fsc_jainar
+10/28/2025 10:56:54 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/28/2025 10:56:54 AM - Company ID : 57
+10/28/2025 10:56:54 AM - SSDT : CDATE(2025,04,01)
+10/28/2025 10:56:54 AM - LLDT : CDATE(2025,10,28)
+10/28/2025 10:56:54 AM - DSN Name : dsn_126517
+10/28/2025 10:56:54 AM - Report Parameter parameter : 
+10/28/2025 6:13:16 PM - Client Server IP: 160.187.54.38,4545
+10/28/2025 6:13:16 PM - Client Multiple Database : Main,Jainar
+10/28/2025 6:13:16 PM - Client Database : Jainar
+10/28/2025 6:13:16 PM - Report Name : fsc_jainar
+10/28/2025 6:13:16 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/28/2025 6:13:16 PM - Company ID : 57
+10/28/2025 6:13:16 PM - SSDT : CDATE(2025,04,01)
+10/28/2025 6:13:16 PM - LLDT : CDATE(2025,10,28)
+10/28/2025 6:13:16 PM - DSN Name : dsn_127828
+10/28/2025 6:13:16 PM - Report Parameter parameter : 
+10/28/2025 6:13:33 PM - Client Server IP: 160.187.54.38,4545
+10/28/2025 6:13:33 PM - Client Multiple Database : Main,Jainar
+10/28/2025 6:13:33 PM - Client Database : Jainar
+10/28/2025 6:13:33 PM - Report Name : fsc_jainar
+10/28/2025 6:13:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/28/2025 6:13:33 PM - Company ID : 57
+10/28/2025 6:13:33 PM - SSDT : CDATE(2025,10,28)
+10/28/2025 6:13:33 PM - LLDT : CDATE(2025,10,28)
+10/28/2025 6:13:33 PM - DSN Name : dsn_127831
+10/28/2025 6:13:33 PM - Report Parameter parameter : 
+10/28/2025 6:26:05 PM - Client Server IP: 160.187.54.38,4545
+10/28/2025 6:26:05 PM - Client Multiple Database : Main,Jainar
+10/28/2025 6:26:05 PM - Client Database : Jainar
+10/28/2025 6:26:05 PM - Report Name : fsc_jainar
+10/28/2025 6:26:05 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/28/2025 6:26:05 PM - Company ID : 57
+10/28/2025 6:26:05 PM - SSDT : CDATE(2025,04,01)
+10/28/2025 6:26:05 PM - LLDT : CDATE(2025,10,28)
+10/28/2025 6:26:05 PM - DSN Name : dsn_127877
+10/28/2025 6:26:05 PM - Report Parameter parameter : 
+10/28/2025 6:26:17 PM - Client Server IP: 160.187.54.38,4545
+10/28/2025 6:26:17 PM - Client Multiple Database : Main,Jainar
+10/28/2025 6:26:17 PM - Client Database : Jainar
+10/28/2025 6:26:17 PM - Report Name : fsc_jainar
+10/28/2025 6:26:17 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/28/2025 6:26:17 PM - Company ID : 57
+10/28/2025 6:26:17 PM - SSDT : CDATE(2025,10,28)
+10/28/2025 6:26:17 PM - LLDT : CDATE(2025,10,28)
+10/28/2025 6:26:17 PM - DSN Name : dsn_127880
+10/28/2025 6:26:17 PM - Report Parameter parameter : 
+10/28/2025 6:26:26 PM - Client Server IP: 160.187.54.38,4545
+10/28/2025 6:26:26 PM - Client Multiple Database : Main,Jainar
+10/28/2025 6:26:26 PM - Client Database : Jainar
+10/28/2025 6:26:26 PM - Report Name : fsc_jainar
+10/28/2025 6:26:26 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/28/2025 6:26:26 PM - Company ID : 57
+10/28/2025 6:26:26 PM - SSDT : CDATE(2025,10,28)
+10/28/2025 6:26:26 PM - LLDT : CDATE(2025,10,28)
+10/28/2025 6:26:26 PM - DSN Name : dsn_127881
+10/28/2025 6:26:26 PM - Report Parameter parameter : 
+10/29/2025 12:11:18 AM - Client Server IP: 160.187.54.38,4545
+10/29/2025 12:11:18 AM - Client Multiple Database : Main,Jainar
+10/29/2025 12:11:18 AM - Client Database : Jainar
+10/29/2025 12:11:18 AM - Report Name : fsc_jainar
+10/29/2025 12:11:18 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/29/2025 12:11:18 AM - Company ID : 57
+10/29/2025 12:11:18 AM - SSDT : CDATE(2025,04,01)
+10/29/2025 12:11:18 AM - LLDT : CDATE(2025,10,29)
+10/29/2025 12:11:18 AM - DSN Name : dsn_128340
+10/29/2025 12:11:18 AM - Report Parameter parameter : 
+10/29/2025 12:11:29 AM - Client Server IP: 160.187.54.38,4545
+10/29/2025 12:11:29 AM - Client Multiple Database : Main,Jainar
+10/29/2025 12:11:29 AM - Client Database : Jainar
+10/29/2025 12:11:29 AM - Report Name : fsc_jainar
+10/29/2025 12:11:29 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/29/2025 12:11:29 AM - Company ID : 57
+10/29/2025 12:11:29 AM - SSDT : CDATE(2025,04,01)
+10/29/2025 12:11:29 AM - LLDT : CDATE(2025,10,29)
+10/29/2025 12:11:29 AM - DSN Name : dsn_128341
+10/29/2025 12:11:29 AM - Report Parameter parameter : 
+10/29/2025 5:14:45 PM - Client Server IP: 160.187.54.38,4545
+10/29/2025 5:14:45 PM - Client Multiple Database : Main,Jainar
+10/29/2025 5:14:45 PM - Client Database : Jainar
+10/29/2025 5:14:45 PM - Report Name : fsc_jainar
+10/29/2025 5:14:45 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/29/2025 5:14:45 PM - Company ID : 57
+10/29/2025 5:14:45 PM - SSDT : CDATE(2025,04,01)
+10/29/2025 5:14:45 PM - LLDT : CDATE(2025,10,29)
+10/29/2025 5:14:45 PM - DSN Name : dsn_129766
+10/29/2025 5:14:45 PM - Report Parameter parameter : 
+10/29/2025 6:48:23 PM - Client Server IP: 160.187.54.38,4545
+10/29/2025 6:48:23 PM - Client Multiple Database : Main,Jainar
+10/29/2025 6:48:23 PM - Client Database : Jainar
+10/29/2025 6:48:23 PM - Report Name : fsc_jainar
+10/29/2025 6:48:23 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/29/2025 6:48:23 PM - Company ID : 57
+10/29/2025 6:48:23 PM - SSDT : CDATE(2025,04,01)
+10/29/2025 6:48:23 PM - LLDT : CDATE(2025,10,29)
+10/29/2025 6:48:23 PM - DSN Name : dsn_130086
+10/29/2025 6:48:23 PM - Report Parameter parameter : 
+10/29/2025 6:48:52 PM - Client Server IP: 160.187.54.38,4545
+10/29/2025 6:48:52 PM - Client Multiple Database : Main,Jainar
+10/29/2025 6:48:52 PM - Client Database : Jainar
+10/29/2025 6:48:52 PM - Report Name : fsc_jainar
+10/29/2025 6:48:52 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/29/2025 6:48:52 PM - Company ID : 57
+10/29/2025 6:48:52 PM - SSDT : CDATE(2025,10,29)
+10/29/2025 6:48:52 PM - LLDT : CDATE(2025,10,29)
+10/29/2025 6:48:52 PM - DSN Name : dsn_130088
+10/29/2025 6:48:52 PM - Report Parameter parameter : 
+10/29/2025 6:52:26 PM - Client Server IP: 160.187.54.38,4545
+10/29/2025 6:52:26 PM - Client Multiple Database : Main,Jainar
+10/29/2025 6:52:26 PM - Client Database : Jainar
+10/29/2025 6:52:26 PM - Report Name : fsc_jainar
+10/29/2025 6:52:26 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/29/2025 6:52:26 PM - Company ID : 57
+10/29/2025 6:52:26 PM - SSDT : CDATE(2025,04,01)
+10/29/2025 6:52:26 PM - LLDT : CDATE(2025,10,29)
+10/29/2025 6:52:26 PM - DSN Name : dsn_130102
+10/29/2025 6:52:26 PM - Report Parameter parameter : 
+10/29/2025 6:52:32 PM - Client Server IP: 160.187.54.38,4545
+10/29/2025 6:52:32 PM - Client Multiple Database : Main,Jainar
+10/29/2025 6:52:32 PM - Client Database : Jainar
+10/29/2025 6:52:32 PM - Report Name : fsc_jainar
+10/29/2025 6:52:32 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/29/2025 6:52:32 PM - Company ID : 57
+10/29/2025 6:52:32 PM - SSDT : CDATE(2025,10,29)
+10/29/2025 6:52:32 PM - LLDT : CDATE(2025,10,29)
+10/29/2025 6:52:32 PM - DSN Name : dsn_130103
+10/29/2025 6:52:32 PM - Report Parameter parameter : 
+10/29/2025 7:03:21 PM - Client Server IP: 160.187.54.38,4545
+10/29/2025 7:03:21 PM - Client Multiple Database : Main,Jainar
+10/29/2025 7:03:21 PM - Client Database : Jainar
+10/29/2025 7:03:21 PM - Report Name : fsc_jainar
+10/29/2025 7:03:21 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/29/2025 7:03:21 PM - Company ID : 57
+10/29/2025 7:03:21 PM - SSDT : CDATE(2025,04,01)
+10/29/2025 7:03:21 PM - LLDT : CDATE(2025,10,29)
+10/29/2025 7:03:21 PM - DSN Name : dsn_130133
+10/29/2025 7:03:21 PM - Report Parameter parameter : 
+10/29/2025 7:03:33 PM - Client Server IP: 160.187.54.38,4545
+10/29/2025 7:03:33 PM - Client Multiple Database : Main,Jainar
+10/29/2025 7:03:33 PM - Client Database : Jainar
+10/29/2025 7:03:33 PM - Report Name : fsc_jainar
+10/29/2025 7:03:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/29/2025 7:03:33 PM - Company ID : 57
+10/29/2025 7:03:33 PM - SSDT : CDATE(2025,10,29)
+10/29/2025 7:03:33 PM - LLDT : CDATE(2025,10,29)
+10/29/2025 7:03:33 PM - DSN Name : dsn_130134
+10/29/2025 7:03:33 PM - Report Parameter parameter : 
+10/30/2025 2:04:47 PM - Client Server IP: 160.187.54.38,4545
+10/30/2025 2:04:47 PM - Client Multiple Database : Main,Jainar
+10/30/2025 2:04:47 PM - Client Database : Jainar
+10/30/2025 2:04:47 PM - Report Name : fsc_jainar
+10/30/2025 2:04:47 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/30/2025 2:04:47 PM - Company ID : 57
+10/30/2025 2:04:47 PM - SSDT : CDATE(2025,04,01)
+10/30/2025 2:04:47 PM - LLDT : CDATE(2025,10,30)
+10/30/2025 2:04:47 PM - DSN Name : dsn_130906
+10/30/2025 2:04:47 PM - Report Parameter parameter : 
+10/30/2025 7:09:11 PM - Client Server IP: 160.187.54.38,4545
+10/30/2025 7:09:11 PM - Client Multiple Database : Main,Jainar
+10/30/2025 7:09:11 PM - Client Database : Jainar
+10/30/2025 7:09:11 PM - Report Name : fsc_jainar
+10/30/2025 7:09:11 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/30/2025 7:09:11 PM - Company ID : 57
+10/30/2025 7:09:11 PM - SSDT : CDATE(2025,04,01)
+10/30/2025 7:09:11 PM - LLDT : CDATE(2025,10,30)
+10/30/2025 7:09:11 PM - DSN Name : dsn_132002
+10/30/2025 7:09:11 PM - Report Parameter parameter : 
+10/30/2025 7:09:19 PM - Client Server IP: 160.187.54.38,4545
+10/30/2025 7:09:19 PM - Client Multiple Database : Main,Jainar
+10/30/2025 7:09:19 PM - Client Database : Jainar
+10/30/2025 7:09:19 PM - Report Name : fsc_jainar
+10/30/2025 7:09:19 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/30/2025 7:09:19 PM - Company ID : 57
+10/30/2025 7:09:19 PM - SSDT : CDATE(2025,10,30)
+10/30/2025 7:09:19 PM - LLDT : CDATE(2025,10,30)
+10/30/2025 7:09:19 PM - DSN Name : dsn_132004
+10/30/2025 7:09:19 PM - Report Parameter parameter : 
+10/30/2025 7:14:14 PM - Client Server IP: 160.187.54.38,4545
+10/30/2025 7:14:14 PM - Client Multiple Database : Main,Jainar
+10/30/2025 7:14:14 PM - Client Database : Jainar
+10/30/2025 7:14:14 PM - Report Name : fsc_jainar
+10/30/2025 7:14:14 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/30/2025 7:14:14 PM - Company ID : 57
+10/30/2025 7:14:14 PM - SSDT : CDATE(2025,04,01)
+10/30/2025 7:14:14 PM - LLDT : CDATE(2025,10,30)
+10/30/2025 7:14:14 PM - DSN Name : dsn_132024
+10/30/2025 7:14:14 PM - Report Parameter parameter : 
+10/30/2025 7:22:23 PM - Client Server IP: 160.187.54.38,4545
+10/30/2025 7:22:23 PM - Client Multiple Database : Main,Jainar
+10/30/2025 7:22:23 PM - Client Database : Jainar
+10/30/2025 7:22:23 PM - Report Name : fsc_jainar
+10/30/2025 7:22:23 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/30/2025 7:22:23 PM - Company ID : 57
+10/30/2025 7:22:23 PM - SSDT : CDATE(2025,04,01)
+10/30/2025 7:22:23 PM - LLDT : CDATE(2025,10,30)
+10/30/2025 7:22:23 PM - DSN Name : dsn_132053
+10/30/2025 7:22:23 PM - Report Parameter parameter : 
+10/30/2025 7:22:37 PM - Client Server IP: 160.187.54.38,4545
+10/30/2025 7:22:37 PM - Client Multiple Database : Main,Jainar
+10/30/2025 7:22:37 PM - Client Database : Jainar
+10/30/2025 7:22:37 PM - Report Name : fsc_jainar
+10/30/2025 7:22:37 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/30/2025 7:22:37 PM - Company ID : 57
+10/30/2025 7:22:37 PM - SSDT : CDATE(2025,10,30)
+10/30/2025 7:22:37 PM - LLDT : CDATE(2025,10,30)
+10/30/2025 7:22:37 PM - DSN Name : dsn_132054
+10/30/2025 7:22:37 PM - Report Parameter parameter : 
+10/30/2025 7:25:52 PM - Client Server IP: 160.187.54.38,4545
+10/30/2025 7:25:52 PM - Client Multiple Database : Main,Jainar
+10/30/2025 7:25:52 PM - Client Database : Jainar
+10/30/2025 7:25:52 PM - Report Name : fsc_jainar
+10/30/2025 7:25:52 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/30/2025 7:25:52 PM - Company ID : 57
+10/30/2025 7:25:52 PM - SSDT : CDATE(2025,04,01)
+10/30/2025 7:25:52 PM - LLDT : CDATE(2025,10,30)
+10/30/2025 7:25:52 PM - DSN Name : dsn_132067
+10/30/2025 7:25:52 PM - Report Parameter parameter : 
+10/30/2025 7:26:05 PM - Client Server IP: 160.187.54.38,4545
+10/30/2025 7:26:05 PM - Client Multiple Database : Main,Jainar
+10/30/2025 7:26:05 PM - Client Database : Jainar
+10/30/2025 7:26:05 PM - Report Name : fsc_jainar
+10/30/2025 7:26:05 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/30/2025 7:26:05 PM - Company ID : 57
+10/30/2025 7:26:05 PM - SSDT : CDATE(2025,10,30)
+10/30/2025 7:26:05 PM - LLDT : CDATE(2025,10,30)
+10/30/2025 7:26:05 PM - DSN Name : dsn_132069
+10/30/2025 7:26:05 PM - Report Parameter parameter : 
+10/31/2025 6:03:01 PM - Client Server IP: 160.187.54.38,4545
+10/31/2025 6:03:01 PM - Client Multiple Database : Main,Jainar
+10/31/2025 6:03:01 PM - Client Database : Jainar
+10/31/2025 6:03:01 PM - Report Name : fsc_jainar
+10/31/2025 6:03:01 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/31/2025 6:03:01 PM - Company ID : 57
+10/31/2025 6:03:01 PM - SSDT : CDATE(2025,04,01)
+10/31/2025 6:03:01 PM - LLDT : CDATE(2025,10,31)
+10/31/2025 6:03:01 PM - DSN Name : dsn_134266
+10/31/2025 6:03:01 PM - Report Parameter parameter : 
+10/31/2025 6:58:19 PM - Client Server IP: 160.187.54.38,4545
+10/31/2025 6:58:19 PM - Client Multiple Database : Main,Jainar
+10/31/2025 6:58:19 PM - Client Database : Jainar
+10/31/2025 6:58:19 PM - Report Name : fsc_jainar
+10/31/2025 6:58:19 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/31/2025 6:58:19 PM - Company ID : 57
+10/31/2025 6:58:19 PM - SSDT : CDATE(2025,10,31)
+10/31/2025 6:58:19 PM - LLDT : CDATE(2025,10,31)
+10/31/2025 6:58:19 PM - DSN Name : dsn_134444
+10/31/2025 6:58:19 PM - Report Parameter parameter : 
+10/31/2025 7:52:16 PM - Client Server IP: 160.187.54.38,4545
+10/31/2025 7:52:16 PM - Client Multiple Database : Main,Jainar
+10/31/2025 7:52:16 PM - Client Database : Jainar
+10/31/2025 7:52:16 PM - Report Name : fsc_jainar
+10/31/2025 7:52:16 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/31/2025 7:52:16 PM - Company ID : 57
+10/31/2025 7:52:16 PM - SSDT : CDATE(2025,04,01)
+10/31/2025 7:52:16 PM - LLDT : CDATE(2025,10,31)
+10/31/2025 7:52:16 PM - DSN Name : dsn_134565
+10/31/2025 7:52:16 PM - Report Parameter parameter : 
+10/31/2025 7:52:33 PM - Client Server IP: 160.187.54.38,4545
+10/31/2025 7:52:33 PM - Client Multiple Database : Main,Jainar
+10/31/2025 7:52:33 PM - Client Database : Jainar
+10/31/2025 7:52:33 PM - Report Name : fsc_jainar
+10/31/2025 7:52:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/31/2025 7:52:33 PM - Company ID : 57
+10/31/2025 7:52:33 PM - SSDT : CDATE(2025,04,01)
+10/31/2025 7:52:33 PM - LLDT : CDATE(2025,10,31)
+10/31/2025 7:52:33 PM - DSN Name : dsn_134567
+10/31/2025 7:52:33 PM - Report Parameter parameter : 
+10/31/2025 7:52:56 PM - Client Server IP: 160.187.54.38,4545
+10/31/2025 7:52:56 PM - Client Multiple Database : Main,Jainar
+10/31/2025 7:52:56 PM - Client Database : Jainar
+10/31/2025 7:52:56 PM - Report Name : fsc_jainar
+10/31/2025 7:52:56 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/31/2025 7:52:56 PM - Company ID : 57
+10/31/2025 7:52:56 PM - SSDT : CDATE(2025,10,31)
+10/31/2025 7:52:56 PM - LLDT : CDATE(2025,11,01)
+10/31/2025 7:52:56 PM - DSN Name : dsn_134568
+10/31/2025 7:52:56 PM - Report Parameter parameter : 
+10/31/2025 8:02:48 PM - Client Server IP: 160.187.54.38,4545
+10/31/2025 8:02:48 PM - Client Multiple Database : Main,Jainar
+10/31/2025 8:02:48 PM - Client Database : Jainar
+10/31/2025 8:02:48 PM - Report Name : fsc_jainar
+10/31/2025 8:02:48 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/31/2025 8:02:48 PM - Company ID : 57
+10/31/2025 8:02:48 PM - SSDT : CDATE(2025,04,01)
+10/31/2025 8:02:48 PM - LLDT : CDATE(2025,10,31)
+10/31/2025 8:02:48 PM - DSN Name : dsn_134583
+10/31/2025 8:02:48 PM - Report Parameter parameter : 
+11/1/2025 1:11:43 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 1:11:43 PM - Client Multiple Database : Main,Jainar
+11/1/2025 1:11:43 PM - Client Database : Jainar
+11/1/2025 1:11:43 PM - Report Name : fsc_jainar
+11/1/2025 1:11:43 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 1:11:43 PM - Company ID : 57
+11/1/2025 1:11:43 PM - SSDT : CDATE(2025,04,01)
+11/1/2025 1:11:43 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 1:11:43 PM - DSN Name : dsn_135313
+11/1/2025 1:11:43 PM - Report Parameter parameter : 
+11/1/2025 1:11:49 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 1:11:49 PM - Client Multiple Database : Main,Jainar
+11/1/2025 1:11:49 PM - Client Database : Jainar
+11/1/2025 1:11:49 PM - Report Name : fsc_jainar
+11/1/2025 1:11:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 1:11:49 PM - Company ID : 57
+11/1/2025 1:11:49 PM - SSDT : CDATE(2025,04,01)
+11/1/2025 1:11:49 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 1:11:49 PM - DSN Name : dsn_135314
+11/1/2025 1:11:49 PM - Report Parameter parameter : 
+11/1/2025 1:12:02 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 1:12:02 PM - Client Multiple Database : Main,Jainar
+11/1/2025 1:12:02 PM - Client Database : Jainar
+11/1/2025 1:12:02 PM - Report Name : fsc_jainar
+11/1/2025 1:12:02 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 1:12:02 PM - Company ID : 57
+11/1/2025 1:12:02 PM - SSDT : CDATE(2025,11,01)
+11/1/2025 1:12:02 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 1:12:02 PM - DSN Name : dsn_135316
+11/1/2025 1:12:02 PM - Report Parameter parameter : 
+11/1/2025 1:12:45 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 1:12:45 PM - Client Multiple Database : Main,Jainar
+11/1/2025 1:12:45 PM - Client Database : Jainar
+11/1/2025 1:12:45 PM - Report Name : fsc_jainar
+11/1/2025 1:12:45 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 1:12:45 PM - Company ID : 57
+11/1/2025 1:12:45 PM - SSDT : CDATE(2025,04,01)
+11/1/2025 1:12:45 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 1:12:45 PM - DSN Name : dsn_135317
+11/1/2025 1:12:45 PM - Report Parameter parameter : 
+11/1/2025 1:13:06 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 1:13:06 PM - Client Multiple Database : Main,Jainar
+11/1/2025 1:13:06 PM - Client Database : Jainar
+11/1/2025 1:13:06 PM - Report Name : fsc_jainar
+11/1/2025 1:13:06 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 1:13:06 PM - Company ID : 57
+11/1/2025 1:13:06 PM - SSDT : CDATE(2025,11,01)
+11/1/2025 1:13:06 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 1:13:06 PM - DSN Name : dsn_135319
+11/1/2025 1:13:06 PM - Report Parameter parameter : 
+11/1/2025 1:13:15 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 1:13:15 PM - Client Multiple Database : Main,Jainar
+11/1/2025 1:13:15 PM - Client Database : Jainar
+11/1/2025 1:13:15 PM - Report Name : fsc_jainar
+11/1/2025 1:13:15 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 1:13:15 PM - Company ID : 57
+11/1/2025 1:13:15 PM - SSDT : CDATE(2025,11,01)
+11/1/2025 1:13:15 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 1:13:15 PM - DSN Name : dsn_135321
+11/1/2025 1:13:15 PM - Report Parameter parameter : 
+11/1/2025 1:21:12 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 1:21:12 PM - Client Multiple Database : Main,Jainar
+11/1/2025 1:21:12 PM - Client Database : Jainar
+11/1/2025 1:21:12 PM - Report Name : fsc_jainar
+11/1/2025 1:21:12 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 1:21:12 PM - Company ID : 57
+11/1/2025 1:21:12 PM - SSDT : CDATE(2025,04,01)
+11/1/2025 1:21:12 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 1:21:12 PM - DSN Name : dsn_135339
+11/1/2025 1:21:12 PM - Report Parameter parameter : 
+11/1/2025 1:21:18 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 1:21:18 PM - Client Multiple Database : Main,Jainar
+11/1/2025 1:21:18 PM - Client Database : Jainar
+11/1/2025 1:21:18 PM - Report Name : fsc_jainar
+11/1/2025 1:21:18 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 1:21:18 PM - Company ID : 57
+11/1/2025 1:21:18 PM - SSDT : CDATE(2025,04,01)
+11/1/2025 1:21:18 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 1:21:18 PM - DSN Name : dsn_135340
+11/1/2025 1:21:18 PM - Report Parameter parameter : 
+11/1/2025 1:21:34 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 1:21:34 PM - Client Multiple Database : Main,Jainar
+11/1/2025 1:21:34 PM - Client Database : Jainar
+11/1/2025 1:21:34 PM - Report Name : fsc_jainar
+11/1/2025 1:21:34 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 1:21:34 PM - Company ID : 57
+11/1/2025 1:21:34 PM - SSDT : CDATE(2025,04,01)
+11/1/2025 1:21:34 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 1:21:34 PM - DSN Name : dsn_135342
+11/1/2025 1:21:34 PM - Report Parameter parameter : 
+11/1/2025 1:21:41 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 1:21:41 PM - Client Multiple Database : Main,Jainar
+11/1/2025 1:21:41 PM - Client Database : Jainar
+11/1/2025 1:21:41 PM - Report Name : fsc_jainar
+11/1/2025 1:21:41 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 1:21:41 PM - Company ID : 57
+11/1/2025 1:21:41 PM - SSDT : CDATE(2025,04,01)
+11/1/2025 1:21:41 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 1:21:41 PM - DSN Name : dsn_135343
+11/1/2025 1:21:41 PM - Report Parameter parameter : 
+11/1/2025 1:21:58 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 1:21:58 PM - Client Multiple Database : Main,Jainar
+11/1/2025 1:21:58 PM - Client Database : Jainar
+11/1/2025 1:21:58 PM - Report Name : fsc_jainar
+11/1/2025 1:21:58 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 1:21:58 PM - Company ID : 57
+11/1/2025 1:21:58 PM - SSDT : CDATE(2025,04,01)
+11/1/2025 1:21:58 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 1:21:58 PM - DSN Name : dsn_135344
+11/1/2025 1:21:58 PM - Report Parameter parameter : 
+11/1/2025 1:22:31 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 1:22:31 PM - Client Multiple Database : Main,Jainar
+11/1/2025 1:22:31 PM - Client Database : Jainar
+11/1/2025 1:22:31 PM - Report Name : fsc_jainar
+11/1/2025 1:22:31 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 1:22:31 PM - Company ID : 57
+11/1/2025 1:22:31 PM - SSDT : CDATE(2025,11,01)
+11/1/2025 1:22:31 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 1:22:31 PM - DSN Name : dsn_135348
+11/1/2025 1:22:31 PM - Report Parameter parameter : 
+11/1/2025 1:45:10 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 1:45:10 PM - Client Multiple Database : Main,Jainar
+11/1/2025 1:45:10 PM - Client Database : Jainar
+11/1/2025 1:45:10 PM - Report Name : fsc_jainar
+11/1/2025 1:45:10 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 1:45:10 PM - Company ID : 57
+11/1/2025 1:45:10 PM - SSDT : CDATE(2025,04,01)
+11/1/2025 1:45:10 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 1:45:10 PM - DSN Name : dsn_135433
+11/1/2025 1:45:10 PM - Report Parameter parameter : 
+11/1/2025 1:45:19 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 1:45:19 PM - Client Multiple Database : Main,Jainar
+11/1/2025 1:45:19 PM - Client Database : Jainar
+11/1/2025 1:45:19 PM - Report Name : fsc_jainar
+11/1/2025 1:45:19 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 1:45:19 PM - Company ID : 57
+11/1/2025 1:45:19 PM - SSDT : CDATE(2025,11,01)
+11/1/2025 1:45:19 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 1:45:19 PM - DSN Name : dsn_135434
+11/1/2025 1:45:19 PM - Report Parameter parameter : 
+11/1/2025 7:21:49 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 7:21:49 PM - Client Multiple Database : Main,Jainar
+11/1/2025 7:21:49 PM - Client Database : Jainar
+11/1/2025 7:21:49 PM - Report Name : fsc_jainar
+11/1/2025 7:21:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 7:21:49 PM - Company ID : 57
+11/1/2025 7:21:49 PM - SSDT : CDATE(2025,04,01)
+11/1/2025 7:21:49 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 7:21:49 PM - DSN Name : dsn_136568
+11/1/2025 7:21:49 PM - Report Parameter parameter : 
+11/1/2025 7:22:00 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 7:22:00 PM - Client Multiple Database : Main,Jainar
+11/1/2025 7:22:00 PM - Client Database : Jainar
+11/1/2025 7:22:00 PM - Report Name : fsc_jainar
+11/1/2025 7:22:00 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 7:22:00 PM - Company ID : 57
+11/1/2025 7:22:00 PM - SSDT : CDATE(2025,11,01)
+11/1/2025 7:22:00 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 7:22:00 PM - DSN Name : dsn_136569
+11/1/2025 7:22:00 PM - Report Parameter parameter : 
+11/1/2025 7:31:26 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 7:31:26 PM - Client Multiple Database : Main,Jainar
+11/1/2025 7:31:26 PM - Client Database : Jainar
+11/1/2025 7:31:26 PM - Report Name : fsc_jainar
+11/1/2025 7:31:26 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 7:31:26 PM - Company ID : 57
+11/1/2025 7:31:26 PM - SSDT : CDATE(2025,04,01)
+11/1/2025 7:31:26 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 7:31:26 PM - DSN Name : dsn_136607
+11/1/2025 7:31:26 PM - Report Parameter parameter : 
+11/1/2025 7:31:49 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 7:31:49 PM - Client Multiple Database : Main,Jainar
+11/1/2025 7:31:49 PM - Client Database : Jainar
+11/1/2025 7:31:49 PM - Report Name : fsc_jainar
+11/1/2025 7:31:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 7:31:49 PM - Company ID : 57
+11/1/2025 7:31:49 PM - SSDT : CDATE(2025,11,01)
+11/1/2025 7:31:49 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 7:31:49 PM - DSN Name : dsn_136609
+11/1/2025 7:31:49 PM - Report Parameter parameter : 
+11/1/2025 7:32:25 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 7:32:25 PM - Client Multiple Database : Main,Jainar
+11/1/2025 7:32:25 PM - Client Database : Jainar
+11/1/2025 7:32:25 PM - Report Name : fsc_jainar
+11/1/2025 7:32:25 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 7:32:25 PM - Company ID : 57
+11/1/2025 7:32:25 PM - SSDT : CDATE(2025,04,01)
+11/1/2025 7:32:25 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 7:32:25 PM - DSN Name : dsn_136613
+11/1/2025 7:32:25 PM - Report Parameter parameter : 
+11/3/2025 3:32:54 PM - Client Server IP: 160.187.54.38,4545
+11/3/2025 3:32:54 PM - Client Multiple Database : Main,Jainar
+11/3/2025 3:32:54 PM - Client Database : Jainar
+11/3/2025 3:32:54 PM - Report Name : fsc_jainar
+11/3/2025 3:32:54 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/3/2025 3:32:54 PM - Company ID : 57
+11/3/2025 3:32:54 PM - SSDT : CDATE(2025,04,01)
+11/3/2025 3:32:54 PM - LLDT : CDATE(2025,11,03)
+11/3/2025 3:32:54 PM - DSN Name : dsn_138305
+11/3/2025 3:32:54 PM - Report Parameter parameter : 
+11/3/2025 3:33:09 PM - Client Server IP: 160.187.54.38,4545
+11/3/2025 3:33:09 PM - Client Multiple Database : Main,Jainar
+11/3/2025 3:33:09 PM - Client Database : Jainar
+11/3/2025 3:33:09 PM - Report Name : fsc_jainar
+11/3/2025 3:33:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/3/2025 3:33:09 PM - Company ID : 57
+11/3/2025 3:33:09 PM - SSDT : CDATE(2025,11,03)
+11/3/2025 3:33:09 PM - LLDT : CDATE(2025,11,03)
+11/3/2025 3:33:09 PM - DSN Name : dsn_138307
+11/3/2025 3:33:09 PM - Report Parameter parameter : 
+11/3/2025 4:19:56 PM - Client Server IP: 160.187.54.38,4545
+11/3/2025 4:19:56 PM - Client Multiple Database : Main,Jainar
+11/3/2025 4:19:56 PM - Client Database : Jainar
+11/3/2025 4:19:56 PM - Report Name : fsc_jainar
+11/3/2025 4:19:56 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/3/2025 4:19:56 PM - Company ID : 57
+11/3/2025 4:19:56 PM - SSDT : CDATE(2025,04,01)
+11/3/2025 4:19:56 PM - LLDT : CDATE(2025,11,03)
+11/3/2025 4:19:56 PM - DSN Name : dsn_138467
+11/3/2025 4:19:56 PM - Report Parameter parameter : 
+11/3/2025 6:47:01 PM - Client Server IP: 160.187.54.38,4545
+11/3/2025 6:47:01 PM - Client Multiple Database : Main,Jainar
+11/3/2025 6:47:01 PM - Client Database : Jainar
+11/3/2025 6:47:01 PM - Report Name : fsc_jainar
+11/3/2025 6:47:01 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/3/2025 6:47:01 PM - Company ID : 57
+11/3/2025 6:47:01 PM - SSDT : CDATE(2025,04,01)
+11/3/2025 6:47:01 PM - LLDT : CDATE(2025,11,03)
+11/3/2025 6:47:01 PM - DSN Name : dsn_139103
+11/3/2025 6:47:01 PM - Report Parameter parameter : 
+11/3/2025 6:47:17 PM - Client Server IP: 160.187.54.38,4545
+11/3/2025 6:47:17 PM - Client Multiple Database : Main,Jainar
+11/3/2025 6:47:17 PM - Client Database : Jainar
+11/3/2025 6:47:17 PM - Report Name : fsc_jainar
+11/3/2025 6:47:17 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/3/2025 6:47:17 PM - Company ID : 57
+11/3/2025 6:47:17 PM - SSDT : CDATE(2025,11,03)
+11/3/2025 6:47:17 PM - LLDT : CDATE(2025,11,03)
+11/3/2025 6:47:17 PM - DSN Name : dsn_139105
+11/3/2025 6:47:17 PM - Report Parameter parameter : 
+11/3/2025 6:55:50 PM - Client Server IP: 160.187.54.38,4545
+11/3/2025 6:55:50 PM - Client Multiple Database : Main,Jainar
+11/3/2025 6:55:50 PM - Client Database : Jainar
+11/3/2025 6:55:50 PM - Report Name : fsc_jainar
+11/3/2025 6:55:50 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/3/2025 6:55:50 PM - Company ID : 57
+11/3/2025 6:55:50 PM - SSDT : CDATE(2025,04,01)
+11/3/2025 6:55:50 PM - LLDT : CDATE(2025,11,03)
+11/3/2025 6:55:50 PM - DSN Name : dsn_139144
+11/3/2025 6:55:50 PM - Report Parameter parameter : 
+11/3/2025 6:55:59 PM - Client Server IP: 160.187.54.38,4545
+11/3/2025 6:55:59 PM - Client Multiple Database : Main,Jainar
+11/3/2025 6:55:59 PM - Client Database : Jainar
+11/3/2025 6:55:59 PM - Report Name : fsc_jainar
+11/3/2025 6:55:59 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/3/2025 6:55:59 PM - Company ID : 57
+11/3/2025 6:55:59 PM - SSDT : CDATE(2025,11,03)
+11/3/2025 6:55:59 PM - LLDT : CDATE(2025,11,03)
+11/3/2025 6:55:59 PM - DSN Name : dsn_139146
+11/3/2025 6:55:59 PM - Report Parameter parameter : 
+11/3/2025 7:16:26 PM - Client Server IP: 160.187.54.38,4545
+11/3/2025 7:16:26 PM - Client Multiple Database : Main,Jainar
+11/3/2025 7:16:26 PM - Client Database : Jainar
+11/3/2025 7:16:26 PM - Report Name : fsc_jainar
+11/3/2025 7:16:26 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/3/2025 7:16:26 PM - Company ID : 57
+11/3/2025 7:16:26 PM - SSDT : CDATE(2025,04,01)
+11/3/2025 7:16:26 PM - LLDT : CDATE(2025,11,03)
+11/3/2025 7:16:26 PM - DSN Name : dsn_139247
+11/3/2025 7:16:26 PM - Report Parameter parameter : 
+11/3/2025 7:16:49 PM - Client Server IP: 160.187.54.38,4545
+11/3/2025 7:16:49 PM - Client Multiple Database : Main,Jainar
+11/3/2025 7:16:49 PM - Client Database : Jainar
+11/3/2025 7:16:49 PM - Report Name : fsc_jainar
+11/3/2025 7:16:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/3/2025 7:16:49 PM - Company ID : 57
+11/3/2025 7:16:49 PM - SSDT : CDATE(2025,11,03)
+11/3/2025 7:16:49 PM - LLDT : CDATE(2025,11,03)
+11/3/2025 7:16:49 PM - DSN Name : dsn_139250
+11/3/2025 7:16:49 PM - Report Parameter parameter : 
+11/3/2025 7:17:35 PM - Client Server IP: 160.187.54.38,4545
+11/3/2025 7:17:35 PM - Client Multiple Database : Main,Jainar
+11/3/2025 7:17:35 PM - Client Database : Jainar
+11/3/2025 7:17:35 PM - Report Name : fsc_jainar
+11/3/2025 7:17:35 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/3/2025 7:17:35 PM - Company ID : 57
+11/3/2025 7:17:35 PM - SSDT : CDATE(2025,04,01)
+11/3/2025 7:17:35 PM - LLDT : CDATE(2025,11,03)
+11/3/2025 7:17:35 PM - DSN Name : dsn_139258
+11/3/2025 7:17:35 PM - Report Parameter parameter : 
+11/3/2025 7:22:23 PM - Client Server IP: 160.187.54.38,4545
+11/3/2025 7:22:23 PM - Client Multiple Database : Main,Jainar
+11/3/2025 7:22:23 PM - Client Database : Jainar
+11/3/2025 7:22:23 PM - Report Name : fsc_jainar
+11/3/2025 7:22:23 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/3/2025 7:22:23 PM - Company ID : 57
+11/3/2025 7:22:23 PM - SSDT : CDATE(2025,04,01)
+11/3/2025 7:22:23 PM - LLDT : CDATE(2025,11,03)
+11/3/2025 7:22:23 PM - DSN Name : dsn_139279
+11/3/2025 7:22:23 PM - Report Parameter parameter : 
+11/3/2025 7:22:45 PM - Client Server IP: 160.187.54.38,4545
+11/3/2025 7:22:45 PM - Client Multiple Database : Main,Jainar
+11/3/2025 7:22:45 PM - Client Database : Jainar
+11/3/2025 7:22:45 PM - Report Name : fsc_jainar
+11/3/2025 7:22:45 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/3/2025 7:22:45 PM - Company ID : 57
+11/3/2025 7:22:45 PM - SSDT : CDATE(2025,04,01)
+11/3/2025 7:22:45 PM - LLDT : CDATE(2025,11,03)
+11/3/2025 7:22:45 PM - DSN Name : dsn_139280
+11/3/2025 7:22:45 PM - Report Parameter parameter : 
+11/3/2025 7:45:36 PM - Client Server IP: 160.187.54.38,4545
+11/3/2025 7:45:36 PM - Client Multiple Database : Main,Jainar
+11/3/2025 7:45:36 PM - Client Database : Jainar
+11/3/2025 7:45:36 PM - Report Name : fsc_jainar
+11/3/2025 7:45:36 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/3/2025 7:45:36 PM - Company ID : 57
+11/3/2025 7:45:36 PM - SSDT : CDATE(2025,04,01)
+11/3/2025 7:45:36 PM - LLDT : CDATE(2025,11,03)
+11/3/2025 7:45:36 PM - DSN Name : dsn_139368
+11/3/2025 7:45:36 PM - Report Parameter parameter : 
+11/3/2025 7:59:50 PM - Client Server IP: 160.187.54.38,4545
+11/3/2025 7:59:50 PM - Client Multiple Database : Main,Jainar
+11/3/2025 7:59:50 PM - Client Database : Jainar
+11/3/2025 7:59:50 PM - Report Name : fsc_jainar
+11/3/2025 7:59:50 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/3/2025 7:59:50 PM - Company ID : 57
+11/3/2025 7:59:50 PM - SSDT : CDATE(2025,11,03)
+11/3/2025 7:59:50 PM - LLDT : CDATE(2025,11,03)
+11/3/2025 7:59:50 PM - DSN Name : dsn_139417
+11/3/2025 7:59:50 PM - Report Parameter parameter : 
+11/3/2025 8:00:21 PM - Client Server IP: 160.187.54.38,4545
+11/3/2025 8:00:21 PM - Client Multiple Database : Main,Jainar
+11/3/2025 8:00:21 PM - Client Database : Jainar
+11/3/2025 8:00:21 PM - Report Name : fsc_jainar
+11/3/2025 8:00:21 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/3/2025 8:00:21 PM - Company ID : 57
+11/3/2025 8:00:21 PM - SSDT : CDATE(2025,11,03)
+11/3/2025 8:00:21 PM - LLDT : CDATE(2025,11,03)
+11/3/2025 8:00:21 PM - DSN Name : dsn_139419
+11/3/2025 8:00:21 PM - Report Parameter parameter : 
+11/4/2025 7:01:26 PM - Client Server IP: 160.187.54.38,4545
+11/4/2025 7:01:26 PM - Client Multiple Database : Main,Jainar
+11/4/2025 7:01:26 PM - Client Database : Jainar
+11/4/2025 7:01:26 PM - Report Name : fsc_jainar
+11/4/2025 7:01:26 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/4/2025 7:01:26 PM - Company ID : 57
+11/4/2025 7:01:26 PM - SSDT : CDATE(2025,04,01)
+11/4/2025 7:01:26 PM - LLDT : CDATE(2025,11,04)
+11/4/2025 7:01:26 PM - DSN Name : dsn_141188
+11/4/2025 7:01:26 PM - Report Parameter parameter : 
+11/4/2025 7:34:13 PM - Client Server IP: 160.187.54.38,4545
+11/4/2025 7:34:13 PM - Client Multiple Database : Main,Jainar
+11/4/2025 7:34:13 PM - Client Database : Jainar
+11/4/2025 7:34:13 PM - Report Name : fsc_jainar
+11/4/2025 7:34:13 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/4/2025 7:34:13 PM - Company ID : 57
+11/4/2025 7:34:13 PM - SSDT : CDATE(2025,04,01)
+11/4/2025 7:34:13 PM - LLDT : CDATE(2025,11,04)
+11/4/2025 7:34:13 PM - DSN Name : dsn_141320
+11/4/2025 7:34:13 PM - Report Parameter parameter : 
+11/4/2025 7:34:35 PM - Client Server IP: 160.187.54.38,4545
+11/4/2025 7:34:35 PM - Client Multiple Database : Main,Jainar
+11/4/2025 7:34:35 PM - Client Database : Jainar
+11/4/2025 7:34:35 PM - Report Name : fsc_jainar
+11/4/2025 7:34:35 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/4/2025 7:34:35 PM - Company ID : 57
+11/4/2025 7:34:35 PM - SSDT : CDATE(2025,11,04)
+11/4/2025 7:34:35 PM - LLDT : CDATE(2025,11,04)
+11/4/2025 7:34:35 PM - DSN Name : dsn_141322
+11/4/2025 7:34:35 PM - Report Parameter parameter : 
+11/5/2025 5:20:41 PM - Client Server IP: 160.187.54.38,4545
+11/5/2025 5:20:41 PM - Client Multiple Database : Main,Jainar
+11/5/2025 5:20:41 PM - Client Database : Jainar
+11/5/2025 5:20:41 PM - Report Name : fsc_jainar
+11/5/2025 5:20:41 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/5/2025 5:20:41 PM - Company ID : 57
+11/5/2025 5:20:41 PM - SSDT : CDATE(2025,04,01)
+11/5/2025 5:20:41 PM - LLDT : CDATE(2025,11,05)
+11/5/2025 5:20:41 PM - DSN Name : dsn_142974
+11/5/2025 5:20:41 PM - Report Parameter parameter : 
+11/5/2025 7:35:14 PM - Client Server IP: 160.187.54.38,4545
+11/5/2025 7:35:14 PM - Client Multiple Database : Main,Jainar
+11/5/2025 7:35:14 PM - Client Database : Jainar
+11/5/2025 7:35:14 PM - Report Name : fsc_jainar
+11/5/2025 7:35:14 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/5/2025 7:35:14 PM - Company ID : 57
+11/5/2025 7:35:14 PM - SSDT : CDATE(2025,11,05)
+11/5/2025 7:35:14 PM - LLDT : CDATE(2025,11,05)
+11/5/2025 7:35:14 PM - DSN Name : dsn_143475
+11/5/2025 7:35:14 PM - Report Parameter parameter : 
+11/5/2025 7:38:07 PM - Client Server IP: 160.187.54.38,4545
+11/5/2025 7:38:07 PM - Client Multiple Database : Main,Jainar
+11/5/2025 7:38:07 PM - Client Database : Jainar
+11/5/2025 7:38:07 PM - Report Name : fsc_jainar
+11/5/2025 7:38:07 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/5/2025 7:38:07 PM - Company ID : 57
+11/5/2025 7:38:07 PM - SSDT : CDATE(2025,11,05)
+11/5/2025 7:38:07 PM - LLDT : CDATE(2025,11,05)
+11/5/2025 7:38:07 PM - DSN Name : dsn_143484
+11/5/2025 7:38:07 PM - Report Parameter parameter : 
+11/7/2025 2:07:22 PM - Client Server IP: 160.187.54.38,4545
+11/7/2025 2:07:22 PM - Client Multiple Database : Main,Jainar
+11/7/2025 2:07:22 PM - Client Database : Jainar
+11/7/2025 2:07:22 PM - Report Name : fsc_jainar
+11/7/2025 2:07:22 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/7/2025 2:07:22 PM - Company ID : 57
+11/7/2025 2:07:22 PM - SSDT : CDATE(2025,04,01)
+11/7/2025 2:07:22 PM - LLDT : CDATE(2025,11,07)
+11/7/2025 2:07:22 PM - DSN Name : dsn_146299
+11/7/2025 2:07:22 PM - Report Parameter parameter : 
+11/10/2025 4:39:49 PM - Client Server IP: 160.187.54.38,4545
+11/10/2025 4:39:49 PM - Client Multiple Database : Main,Jainar
+11/10/2025 4:39:49 PM - Client Database : Jainar
+11/10/2025 4:39:49 PM - Report Name : fsc_jainar
+11/10/2025 4:39:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 4:39:49 PM - Company ID : 57
+11/10/2025 4:39:49 PM - SSDT : CDATE(2025,11,10)
+11/10/2025 4:39:49 PM - LLDT : CDATE(2025,11,10)
+11/10/2025 4:39:49 PM - DSN Name : dsn_151435
+11/10/2025 4:39:49 PM - Report Parameter parameter : 
+11/10/2025 5:21:27 PM - Client Server IP: 160.187.54.38,4545
+11/10/2025 5:21:27 PM - Client Multiple Database : Main,Jainar
+11/10/2025 5:21:27 PM - Client Database : Jainar
+11/10/2025 5:21:27 PM - Report Name : fsc_jainar
+11/10/2025 5:21:27 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 5:21:27 PM - Company ID : 57
+11/10/2025 5:21:27 PM - SSDT : CDATE(2025,04,01)
+11/10/2025 5:21:27 PM - LLDT : CDATE(2025,11,10)
+11/10/2025 5:21:27 PM - DSN Name : dsn_151608
+11/10/2025 5:21:27 PM - Report Parameter parameter : 
+11/10/2025 5:21:36 PM - Client Server IP: 160.187.54.38,4545
+11/10/2025 5:21:36 PM - Client Multiple Database : Main,Jainar
+11/10/2025 5:21:36 PM - Client Database : Jainar
+11/10/2025 5:21:36 PM - Report Name : fsc_jainar
+11/10/2025 5:21:36 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 5:21:36 PM - Company ID : 57
+11/10/2025 5:21:36 PM - SSDT : CDATE(2025,11,10)
+11/10/2025 5:21:36 PM - LLDT : CDATE(2025,11,10)
+11/10/2025 5:21:36 PM - DSN Name : dsn_151610
+11/10/2025 5:21:36 PM - Report Parameter parameter : 
+11/10/2025 7:09:23 PM - Client Server IP: 160.187.54.38,4545
+11/10/2025 7:09:23 PM - Client Multiple Database : Main,Jainar
+11/10/2025 7:09:23 PM - Client Database : Jainar
+11/10/2025 7:09:23 PM - Report Name : fsc_jainar
+11/10/2025 7:09:23 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 7:09:23 PM - Company ID : 57
+11/10/2025 7:09:23 PM - SSDT : CDATE(2025,11,10)
+11/10/2025 7:09:23 PM - LLDT : CDATE(2025,11,10)
+11/10/2025 7:09:23 PM - DSN Name : dsn_152082
+11/10/2025 7:09:23 PM - Report Parameter parameter : 
+11/10/2025 7:45:18 PM - Client Server IP: 160.187.54.38,4545
+11/10/2025 7:45:18 PM - Client Multiple Database : Main,Jainar
+11/10/2025 7:45:18 PM - Client Database : Jainar
+11/10/2025 7:45:18 PM - Report Name : fsc_jainar
+11/10/2025 7:45:18 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 7:45:18 PM - Company ID : 57
+11/10/2025 7:45:18 PM - SSDT : CDATE(2025,04,01)
+11/10/2025 7:45:18 PM - LLDT : CDATE(2025,11,10)
+11/10/2025 7:45:18 PM - DSN Name : dsn_152184
+11/10/2025 7:45:18 PM - Report Parameter parameter : 
+11/10/2025 7:45:26 PM - Client Server IP: 160.187.54.38,4545
+11/10/2025 7:45:26 PM - Client Multiple Database : Main,Jainar
+11/10/2025 7:45:26 PM - Client Database : Jainar
+11/10/2025 7:45:26 PM - Report Name : fsc_jainar
+11/10/2025 7:45:26 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 7:45:26 PM - Company ID : 57
+11/10/2025 7:45:26 PM - SSDT : CDATE(2025,11,10)
+11/10/2025 7:45:26 PM - LLDT : CDATE(2025,11,10)
+11/10/2025 7:45:26 PM - DSN Name : dsn_152185
+11/10/2025 7:45:26 PM - Report Parameter parameter : 
+11/10/2025 7:51:46 PM - Client Server IP: 160.187.54.38,4545
+11/10/2025 7:51:46 PM - Client Multiple Database : Main,Jainar
+11/10/2025 7:51:46 PM - Client Database : Jainar
+11/10/2025 7:51:46 PM - Report Name : fsc_jainar
+11/10/2025 7:51:46 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 7:51:46 PM - Company ID : 57
+11/10/2025 7:51:46 PM - SSDT : CDATE(2025,04,01)
+11/10/2025 7:51:46 PM - LLDT : CDATE(2025,11,10)
+11/10/2025 7:51:46 PM - DSN Name : dsn_152208
+11/10/2025 7:51:46 PM - Report Parameter parameter : 
+11/10/2025 7:51:57 PM - Client Server IP: 160.187.54.38,4545
+11/10/2025 7:51:57 PM - Client Multiple Database : Main,Jainar
+11/10/2025 7:51:57 PM - Client Database : Jainar
+11/10/2025 7:51:57 PM - Report Name : fsc_jainar
+11/10/2025 7:51:57 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 7:51:57 PM - Company ID : 57
+11/10/2025 7:51:57 PM - SSDT : CDATE(2025,11,10)
+11/10/2025 7:51:57 PM - LLDT : CDATE(2025,11,10)
+11/10/2025 7:51:57 PM - DSN Name : dsn_152209
+11/10/2025 7:51:57 PM - Report Parameter parameter : 
+11/10/2025 7:55:49 PM - Client Server IP: 160.187.54.38,4545
+11/10/2025 7:55:49 PM - Client Multiple Database : Main,Jainar
+11/10/2025 7:55:49 PM - Client Database : Jainar
+11/10/2025 7:55:49 PM - Report Name : fsc_jainar
+11/10/2025 7:55:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 7:55:49 PM - Company ID : 57
+11/10/2025 7:55:49 PM - SSDT : CDATE(2025,04,01)
+11/10/2025 7:55:49 PM - LLDT : CDATE(2025,11,10)
+11/10/2025 7:55:49 PM - DSN Name : dsn_152223
+11/10/2025 7:55:49 PM - Report Parameter parameter : 
+11/10/2025 7:56:01 PM - Client Server IP: 160.187.54.38,4545
+11/10/2025 7:56:01 PM - Client Multiple Database : Main,Jainar
+11/10/2025 7:56:01 PM - Client Database : Jainar
+11/10/2025 7:56:01 PM - Report Name : fsc_jainar
+11/10/2025 7:56:01 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 7:56:01 PM - Company ID : 57
+11/10/2025 7:56:01 PM - SSDT : CDATE(2025,11,10)
+11/10/2025 7:56:01 PM - LLDT : CDATE(2025,11,10)
+11/10/2025 7:56:01 PM - DSN Name : dsn_152226
+11/10/2025 7:56:01 PM - Report Parameter parameter : 
+11/10/2025 8:11:24 PM - Client Server IP: 160.187.54.38,4545
+11/10/2025 8:11:24 PM - Client Multiple Database : Main,Jainar
+11/10/2025 8:11:24 PM - Client Database : Jainar
+11/10/2025 8:11:24 PM - Report Name : fsc_jainar
+11/10/2025 8:11:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 8:11:24 PM - Company ID : 57
+11/10/2025 8:11:24 PM - SSDT : CDATE(2025,04,01)
+11/10/2025 8:11:24 PM - LLDT : CDATE(2025,11,10)
+11/10/2025 8:11:24 PM - DSN Name : dsn_152274
+11/10/2025 8:11:24 PM - Report Parameter parameter : 
+11/10/2025 8:11:36 PM - Client Server IP: 160.187.54.38,4545
+11/10/2025 8:11:36 PM - Client Multiple Database : Main,Jainar
+11/10/2025 8:11:36 PM - Client Database : Jainar
+11/10/2025 8:11:36 PM - Report Name : fsc_jainar
+11/10/2025 8:11:36 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 8:11:36 PM - Company ID : 57
+11/10/2025 8:11:36 PM - SSDT : CDATE(2025,11,10)
+11/10/2025 8:11:36 PM - LLDT : CDATE(2025,11,10)
+11/10/2025 8:11:36 PM - DSN Name : dsn_152275
+11/10/2025 8:11:36 PM - Report Parameter parameter : 
+11/10/2025 8:13:24 PM - Client Server IP: 160.187.54.38,4545
+11/10/2025 8:13:24 PM - Client Multiple Database : Main,Jainar
+11/10/2025 8:13:24 PM - Client Database : Jainar
+11/10/2025 8:13:24 PM - Report Name : fsc_jainar
+11/10/2025 8:13:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 8:13:24 PM - Company ID : 57
+11/10/2025 8:13:24 PM - SSDT : CDATE(2025,04,01)
+11/10/2025 8:13:24 PM - LLDT : CDATE(2025,11,10)
+11/10/2025 8:13:24 PM - DSN Name : dsn_152278
+11/10/2025 8:13:24 PM - Report Parameter parameter : 
+11/10/2025 8:13:31 PM - Client Server IP: 160.187.54.38,4545
+11/10/2025 8:13:31 PM - Client Multiple Database : Main,Jainar
+11/10/2025 8:13:31 PM - Client Database : Jainar
+11/10/2025 8:13:31 PM - Report Name : fsc_jainar
+11/10/2025 8:13:31 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 8:13:31 PM - Company ID : 57
+11/10/2025 8:13:31 PM - SSDT : CDATE(2025,11,10)
+11/10/2025 8:13:31 PM - LLDT : CDATE(2025,11,10)
+11/10/2025 8:13:31 PM - DSN Name : dsn_152279
+11/10/2025 8:13:31 PM - Report Parameter parameter : 
+11/11/2025 10:23:18 AM - Client Server IP: 160.187.54.38,4545
+11/11/2025 10:23:18 AM - Client Multiple Database : Main,Jainar
+11/11/2025 10:23:18 AM - Client Database : Jainar
+11/11/2025 10:23:18 AM - Report Name : fsc_jainar
+11/11/2025 10:23:18 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 10:23:18 AM - Company ID : 57
+11/11/2025 10:23:18 AM - SSDT : CDATE(2025,04,01)
+11/11/2025 10:23:18 AM - LLDT : CDATE(2025,11,11)
+11/11/2025 10:23:18 AM - DSN Name : dsn_152451
+11/11/2025 10:23:18 AM - Report Parameter parameter : 
+11/11/2025 11:55:12 AM - Client Server IP: 160.187.54.38,4545
+11/11/2025 11:55:12 AM - Client Multiple Database : Main,Jainar
+11/11/2025 11:55:12 AM - Client Database : Jainar
+11/11/2025 11:55:12 AM - Report Name : fsc_jainar
+11/11/2025 11:55:12 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 11:55:12 AM - Company ID : 57
+11/11/2025 11:55:12 AM - SSDT : CDATE(2025,04,01)
+11/11/2025 11:55:12 AM - LLDT : CDATE(2025,11,11)
+11/11/2025 11:55:12 AM - DSN Name : dsn_152791
+11/11/2025 11:55:12 AM - Report Parameter parameter : 
+11/11/2025 11:55:20 AM - Client Server IP: 160.187.54.38,4545
+11/11/2025 11:55:20 AM - Client Multiple Database : Main,Jainar
+11/11/2025 11:55:20 AM - Client Database : Jainar
+11/11/2025 11:55:20 AM - Report Name : fsc_jainar
+11/11/2025 11:55:20 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 11:55:20 AM - Company ID : 57
+11/11/2025 11:55:20 AM - SSDT : CDATE(2025,11,11)
+11/11/2025 11:55:20 AM - LLDT : CDATE(2025,11,11)
+11/11/2025 11:55:20 AM - DSN Name : dsn_152793
+11/11/2025 11:55:20 AM - Report Parameter parameter : 
+11/11/2025 12:00:23 PM - Client Server IP: 160.187.54.38,4545
+11/11/2025 12:00:23 PM - Client Multiple Database : Main,Jainar
+11/11/2025 12:00:23 PM - Client Database : Jainar
+11/11/2025 12:00:23 PM - Report Name : fsc_jainar
+11/11/2025 12:00:23 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 12:00:23 PM - Company ID : 57
+11/11/2025 12:00:23 PM - SSDT : CDATE(2025,11,11)
+11/11/2025 12:00:23 PM - LLDT : CDATE(2025,11,11)
+11/11/2025 12:00:23 PM - DSN Name : dsn_152820
+11/11/2025 12:00:23 PM - Report Parameter parameter : 
+11/11/2025 12:02:43 PM - Client Server IP: 160.187.54.38,4545
+11/11/2025 12:02:43 PM - Client Multiple Database : Main,Jainar
+11/11/2025 12:02:43 PM - Client Database : Jainar
+11/11/2025 12:02:43 PM - Report Name : fsc_jainar
+11/11/2025 12:02:43 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 12:02:43 PM - Company ID : 57
+11/11/2025 12:02:43 PM - SSDT : CDATE(2025,11,11)
+11/11/2025 12:02:43 PM - LLDT : CDATE(2025,11,11)
+11/11/2025 12:02:43 PM - DSN Name : dsn_152834
+11/11/2025 12:02:43 PM - Report Parameter parameter : 
+11/11/2025 12:06:18 PM - Client Server IP: 160.187.54.38,4545
+11/11/2025 12:06:18 PM - Client Multiple Database : Main,Jainar
+11/11/2025 12:06:18 PM - Client Database : Jainar
+11/11/2025 12:06:18 PM - Report Name : fsc_jainar
+11/11/2025 12:06:18 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 12:06:18 PM - Company ID : 57
+11/11/2025 12:06:18 PM - SSDT : CDATE(2025,11,11)
+11/11/2025 12:06:18 PM - LLDT : CDATE(2025,11,11)
+11/11/2025 12:06:18 PM - DSN Name : dsn_152862
+11/11/2025 12:06:18 PM - Report Parameter parameter : 
+11/11/2025 12:56:40 PM - Client Server IP: 160.187.54.38,4545
+11/11/2025 12:56:40 PM - Client Multiple Database : Main,Jainar
+11/11/2025 12:56:40 PM - Client Database : Jainar
+11/11/2025 12:56:40 PM - Report Name : fsc_jainar
+11/11/2025 12:56:40 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 12:56:40 PM - Company ID : 57
+11/11/2025 12:56:40 PM - SSDT : CDATE(2025,04,01)
+11/11/2025 12:56:40 PM - LLDT : CDATE(2025,11,11)
+11/11/2025 12:56:40 PM - DSN Name : dsn_153079
+11/11/2025 12:56:40 PM - Report Parameter parameter : 
+11/11/2025 12:56:55 PM - Client Server IP: 160.187.54.38,4545
+11/11/2025 12:56:55 PM - Client Multiple Database : Main,Jainar
+11/11/2025 12:56:55 PM - Client Database : Jainar
+11/11/2025 12:56:55 PM - Report Name : fsc_jainar
+11/11/2025 12:56:55 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 12:56:55 PM - Company ID : 57
+11/11/2025 12:56:55 PM - SSDT : CDATE(2025,04,01)
+11/11/2025 12:56:55 PM - LLDT : CDATE(2025,11,11)
+11/11/2025 12:56:55 PM - DSN Name : dsn_153080
+11/11/2025 12:56:55 PM - Report Parameter parameter : 
+11/11/2025 12:57:47 PM - Client Server IP: 160.187.54.38,4545
+11/11/2025 12:57:47 PM - Client Multiple Database : Main,Jainar
+11/11/2025 12:57:47 PM - Client Database : Jainar
+11/11/2025 12:57:47 PM - Report Name : fsc_jainar
+11/11/2025 12:57:47 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 12:57:47 PM - Company ID : 57
+11/11/2025 12:57:47 PM - SSDT : CDATE(2025,11,11)
+11/11/2025 12:57:47 PM - LLDT : CDATE(2025,11,11)
+11/11/2025 12:57:47 PM - DSN Name : dsn_153087
+11/11/2025 12:57:47 PM - Report Parameter parameter : 
+11/11/2025 1:02:38 PM - Client Server IP: 160.187.54.38,4545
+11/11/2025 1:02:38 PM - Client Multiple Database : Main,Jainar
+11/11/2025 1:02:38 PM - Client Database : Jainar
+11/11/2025 1:02:38 PM - Report Name : fsc_jainar
+11/11/2025 1:02:38 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 1:02:38 PM - Company ID : 57
+11/11/2025 1:02:38 PM - SSDT : CDATE(2025,11,11)
+11/11/2025 1:02:38 PM - LLDT : CDATE(2025,11,11)
+11/11/2025 1:02:38 PM - DSN Name : dsn_153107
+11/11/2025 1:02:38 PM - Report Parameter parameter : 
+11/11/2025 2:22:15 PM - Client Server IP: 160.187.54.38,4545
+11/11/2025 2:22:15 PM - Client Multiple Database : Main,Jainar
+11/11/2025 2:22:15 PM - Client Database : Jainar
+11/11/2025 2:22:15 PM - Report Name : fsc_jainar
+11/11/2025 2:22:15 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 2:22:15 PM - Company ID : 57
+11/11/2025 2:22:15 PM - SSDT : CDATE(2025,04,01)
+11/11/2025 2:22:15 PM - LLDT : CDATE(2025,11,11)
+11/11/2025 2:22:15 PM - DSN Name : dsn_153316
+11/11/2025 2:22:15 PM - Report Parameter parameter : 
+11/11/2025 2:22:24 PM - Client Server IP: 160.187.54.38,4545
+11/11/2025 2:22:24 PM - Client Multiple Database : Main,Jainar
+11/11/2025 2:22:24 PM - Client Database : Jainar
+11/11/2025 2:22:24 PM - Report Name : fsc_jainar
+11/11/2025 2:22:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 2:22:24 PM - Company ID : 57
+11/11/2025 2:22:24 PM - SSDT : CDATE(2025,11,11)
+11/11/2025 2:22:24 PM - LLDT : CDATE(2025,11,11)
+11/11/2025 2:22:24 PM - DSN Name : dsn_153317
+11/11/2025 2:22:24 PM - Report Parameter parameter : 
+11/11/2025 2:53:24 PM - Client Server IP: 160.187.54.38,4545
+11/11/2025 2:53:24 PM - Client Multiple Database : Main,Jainar
+11/11/2025 2:53:24 PM - Client Database : Jainar
+11/11/2025 2:53:24 PM - Report Name : fsc_jainar
+11/11/2025 2:53:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 2:53:24 PM - Company ID : 57
+11/11/2025 2:53:24 PM - SSDT : CDATE(2025,11,11)
+11/11/2025 2:53:24 PM - LLDT : CDATE(2025,11,11)
+11/11/2025 2:53:24 PM - DSN Name : dsn_153407
+11/11/2025 2:53:24 PM - Report Parameter parameter : 
+11/11/2025 4:08:42 PM - Client Server IP: 160.187.54.38,4545
+11/11/2025 4:08:42 PM - Client Multiple Database : Main,Jainar
+11/11/2025 4:08:42 PM - Client Database : Jainar
+11/11/2025 4:08:42 PM - Report Name : fsc_jainar
+11/11/2025 4:08:42 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 4:08:42 PM - Company ID : 57
+11/11/2025 4:08:42 PM - SSDT : CDATE(2025,04,01)
+11/11/2025 4:08:42 PM - LLDT : CDATE(2025,11,11)
+11/11/2025 4:08:42 PM - DSN Name : dsn_153735
+11/11/2025 4:08:42 PM - Report Parameter parameter : 
+11/11/2025 5:35:55 PM - Client Server IP: 160.187.54.38,4545
+11/11/2025 5:35:55 PM - Client Multiple Database : Main,Jainar
+11/11/2025 5:35:55 PM - Client Database : Jainar
+11/11/2025 5:35:55 PM - Report Name : fsc_jainar
+11/11/2025 5:35:55 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 5:35:55 PM - Company ID : 57
+11/11/2025 5:35:55 PM - SSDT : CDATE(2025,11,11)
+11/11/2025 5:35:55 PM - LLDT : CDATE(2025,11,11)
+11/11/2025 5:35:55 PM - DSN Name : dsn_154053
+11/11/2025 5:35:55 PM - Report Parameter parameter : 
+11/11/2025 8:04:47 PM - Client Server IP: 160.187.54.38,4545
+11/11/2025 8:04:47 PM - Client Multiple Database : Main,Jainar
+11/11/2025 8:04:47 PM - Client Database : Jainar
+11/11/2025 8:04:47 PM - Report Name : fsc_jainar
+11/11/2025 8:04:47 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/11/2025 8:04:47 PM - Company ID : 57
+11/11/2025 8:04:47 PM - SSDT : CDATE(2025,11,11)
+11/11/2025 8:04:47 PM - LLDT : CDATE(2025,11,11)
+11/11/2025 8:04:47 PM - DSN Name : dsn_154526
+11/11/2025 8:04:47 PM - Report Parameter parameter : 
+11/12/2025 6:22:18 PM - Client Server IP: 160.187.54.38,4545
+11/12/2025 6:22:18 PM - Client Multiple Database : Main,Jainar
+11/12/2025 6:22:18 PM - Client Database : Jainar
+11/12/2025 6:22:18 PM - Report Name : fsc_jainar
+11/12/2025 6:22:18 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/12/2025 6:22:18 PM - Company ID : 57
+11/12/2025 6:22:18 PM - SSDT : CDATE(2025,04,01)
+11/12/2025 6:22:18 PM - LLDT : CDATE(2025,11,12)
+11/12/2025 6:22:18 PM - DSN Name : dsn_156316
+11/12/2025 6:22:18 PM - Report Parameter parameter : 
+11/13/2025 6:18:41 PM - Client Server IP: 160.187.54.38,4545
+11/13/2025 6:18:41 PM - Client Multiple Database : Main,Jainar
+11/13/2025 6:18:41 PM - Client Database : Jainar
+11/13/2025 6:18:41 PM - Report Name : fsc_jainar
+11/13/2025 6:18:41 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 6:18:41 PM - Company ID : 57
+11/13/2025 6:18:41 PM - SSDT : CDATE(2025,04,01)
+11/13/2025 6:18:41 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 6:18:41 PM - DSN Name : dsn_158454
+11/13/2025 6:18:41 PM - Report Parameter parameter : 
+11/13/2025 6:21:40 PM - Client Server IP: 160.187.54.38,4545
+11/13/2025 6:21:40 PM - Client Multiple Database : Main,Jainar
+11/13/2025 6:21:40 PM - Client Database : Jainar
+11/13/2025 6:21:40 PM - Report Name : fsc_jainar
+11/13/2025 6:21:40 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 6:21:40 PM - Company ID : 57
+11/13/2025 6:21:40 PM - SSDT : CDATE(2025,04,01)
+11/13/2025 6:21:40 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 6:21:40 PM - DSN Name : dsn_158466
+11/13/2025 6:21:40 PM - Report Parameter parameter : 
+11/13/2025 7:19:34 PM - Client Server IP: 160.187.54.38,4545
+11/13/2025 7:19:34 PM - Client Multiple Database : Main,Jainar
+11/13/2025 7:19:34 PM - Client Database : Jainar
+11/13/2025 7:19:34 PM - Report Name : fsc_jainar
+11/13/2025 7:19:34 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 7:19:34 PM - Company ID : 57
+11/13/2025 7:19:34 PM - SSDT : CDATE(2025,04,01)
+11/13/2025 7:19:34 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 7:19:34 PM - DSN Name : dsn_158689
+11/13/2025 7:19:34 PM - Report Parameter parameter : 
+11/13/2025 7:19:48 PM - Client Server IP: 160.187.54.38,4545
+11/13/2025 7:19:48 PM - Client Multiple Database : Main,Jainar
+11/13/2025 7:19:48 PM - Client Database : Jainar
+11/13/2025 7:19:48 PM - Report Name : fsc_jainar
+11/13/2025 7:19:48 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 7:19:48 PM - Company ID : 57
+11/13/2025 7:19:48 PM - SSDT : CDATE(2025,11,13)
+11/13/2025 7:19:48 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 7:19:48 PM - DSN Name : dsn_158690
+11/13/2025 7:19:48 PM - Report Parameter parameter : 
+11/13/2025 7:22:15 PM - Client Server IP: 160.187.54.38,4545
+11/13/2025 7:22:15 PM - Client Multiple Database : Main,Jainar
+11/13/2025 7:22:15 PM - Client Database : Jainar
+11/13/2025 7:22:15 PM - Report Name : fsc_jainar
+11/13/2025 7:22:15 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 7:22:15 PM - Company ID : 57
+11/13/2025 7:22:15 PM - SSDT : CDATE(2025,11,13)
+11/13/2025 7:22:15 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 7:22:15 PM - DSN Name : dsn_158699
+11/13/2025 7:22:15 PM - Report Parameter parameter : 
+11/13/2025 7:23:22 PM - Client Server IP: 160.187.54.38,4545
+11/13/2025 7:23:22 PM - Client Multiple Database : Main,Jainar
+11/13/2025 7:23:22 PM - Client Database : Jainar
+11/13/2025 7:23:22 PM - Report Name : fsc_jainar
+11/13/2025 7:23:22 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 7:23:22 PM - Company ID : 57
+11/13/2025 7:23:22 PM - SSDT : CDATE(2025,11,13)
+11/13/2025 7:23:22 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 7:23:22 PM - DSN Name : dsn_158702
+11/13/2025 7:23:22 PM - Report Parameter parameter : 
+11/13/2025 7:24:20 PM - Client Server IP: 160.187.54.38,4545
+11/13/2025 7:24:20 PM - Client Multiple Database : Main,Jainar
+11/13/2025 7:24:20 PM - Client Database : Jainar
+11/13/2025 7:24:20 PM - Report Name : fsc_jainar
+11/13/2025 7:24:20 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 7:24:20 PM - Company ID : 57
+11/13/2025 7:24:20 PM - SSDT : CDATE(2025,11,13)
+11/13/2025 7:24:20 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 7:24:20 PM - DSN Name : dsn_158707
+11/13/2025 7:24:20 PM - Report Parameter parameter : 
+11/13/2025 7:33:00 PM - Client Server IP: 160.187.54.38,4545
+11/13/2025 7:33:00 PM - Client Multiple Database : Main,Jainar
+11/13/2025 7:33:00 PM - Client Database : Jainar
+11/13/2025 7:33:00 PM - Report Name : fsc_jainar
+11/13/2025 7:33:00 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 7:33:00 PM - Company ID : 57
+11/13/2025 7:33:00 PM - SSDT : CDATE(2025,11,13)
+11/13/2025 7:33:00 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 7:33:00 PM - DSN Name : dsn_158729
+11/13/2025 7:33:00 PM - Report Parameter parameter : 
+11/13/2025 7:39:03 PM - Client Server IP: 160.187.54.38,4545
+11/13/2025 7:39:03 PM - Client Multiple Database : Main,Jainar
+11/13/2025 7:39:03 PM - Client Database : Jainar
+11/13/2025 7:39:03 PM - Report Name : fsc_jainar
+11/13/2025 7:39:03 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 7:39:03 PM - Company ID : 57
+11/13/2025 7:39:03 PM - SSDT : CDATE(2025,11,13)
+11/13/2025 7:39:03 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 7:39:03 PM - DSN Name : dsn_158751
+11/13/2025 7:39:03 PM - Report Parameter parameter : 
+11/13/2025 7:44:40 PM - Client Server IP: 160.187.54.38,4545
+11/13/2025 7:44:40 PM - Client Multiple Database : Main,Jainar
+11/13/2025 7:44:40 PM - Client Database : Jainar
+11/13/2025 7:44:40 PM - Report Name : fsc_jainar
+11/13/2025 7:44:40 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 7:44:40 PM - Company ID : 57
+11/13/2025 7:44:40 PM - SSDT : CDATE(2025,04,01)
+11/13/2025 7:44:40 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 7:44:40 PM - DSN Name : dsn_158782
+11/13/2025 7:44:40 PM - Report Parameter parameter : 
+11/13/2025 7:44:54 PM - Client Server IP: 160.187.54.38,4545
+11/13/2025 7:44:54 PM - Client Multiple Database : Main,Jainar
+11/13/2025 7:44:54 PM - Client Database : Jainar
+11/13/2025 7:44:54 PM - Report Name : fsc_jainar
+11/13/2025 7:44:54 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 7:44:54 PM - Company ID : 57
+11/13/2025 7:44:54 PM - SSDT : CDATE(2025,11,13)
+11/13/2025 7:44:54 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 7:44:54 PM - DSN Name : dsn_158783
+11/13/2025 7:44:54 PM - Report Parameter parameter : 
+11/13/2025 7:48:50 PM - Client Server IP: 160.187.54.38,4545
+11/13/2025 7:48:50 PM - Client Multiple Database : Main,Jainar
+11/13/2025 7:48:50 PM - Client Database : Jainar
+11/13/2025 7:48:50 PM - Report Name : fsc_jainar
+11/13/2025 7:48:50 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 7:48:50 PM - Company ID : 57
+11/13/2025 7:48:50 PM - SSDT : CDATE(2025,11,13)
+11/13/2025 7:48:50 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 7:48:50 PM - DSN Name : dsn_158794
+11/13/2025 7:48:50 PM - Report Parameter parameter : 
+11/13/2025 7:55:06 PM - Client Server IP: 160.187.54.38,4545
+11/13/2025 7:55:06 PM - Client Multiple Database : Main,Jainar
+11/13/2025 7:55:06 PM - Client Database : Jainar
+11/13/2025 7:55:06 PM - Report Name : fsc_jainar
+11/13/2025 7:55:06 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 7:55:06 PM - Company ID : 57
+11/13/2025 7:55:06 PM - SSDT : CDATE(2025,11,13)
+11/13/2025 7:55:06 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 7:55:06 PM - DSN Name : dsn_158827
+11/13/2025 7:55:06 PM - Report Parameter parameter : 
+11/13/2025 7:55:31 PM - Client Server IP: 160.187.54.38,4545
+11/13/2025 7:55:31 PM - Client Multiple Database : Main,Jainar
+11/13/2025 7:55:31 PM - Client Database : Jainar
+11/13/2025 7:55:31 PM - Report Name : fsc_jainar
+11/13/2025 7:55:31 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 7:55:31 PM - Company ID : 57
+11/13/2025 7:55:31 PM - SSDT : CDATE(2025,11,13)
+11/13/2025 7:55:31 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 7:55:31 PM - DSN Name : dsn_158829
+11/13/2025 7:55:31 PM - Report Parameter parameter : 
+11/13/2025 8:26:07 PM - Client Server IP: 160.187.54.38,4545
+11/13/2025 8:26:07 PM - Client Multiple Database : Main,Jainar
+11/13/2025 8:26:07 PM - Client Database : Jainar
+11/13/2025 8:26:07 PM - Report Name : fsc_jainar
+11/13/2025 8:26:07 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 8:26:07 PM - Company ID : 57
+11/13/2025 8:26:07 PM - SSDT : CDATE(2025,04,01)
+11/13/2025 8:26:07 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 8:26:07 PM - DSN Name : dsn_158873
+11/13/2025 8:26:07 PM - Report Parameter parameter : 
+11/17/2025 6:45:46 PM - Client Server IP: 160.187.54.38,4545
+11/17/2025 6:45:46 PM - Client Multiple Database : Main,Jainar
+11/17/2025 6:45:46 PM - Client Database : Jainar
+11/17/2025 6:45:46 PM - Report Name : fsc_jainar
+11/17/2025 6:45:46 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/17/2025 6:45:46 PM - Company ID : 57
+11/17/2025 6:45:46 PM - SSDT : CDATE(2025,04,01)
+11/17/2025 6:45:46 PM - LLDT : CDATE(2025,11,17)
+11/17/2025 6:45:46 PM - DSN Name : dsn_165686
+11/17/2025 6:45:46 PM - Report Parameter parameter : 
+11/17/2025 6:45:56 PM - Client Server IP: 160.187.54.38,4545
+11/17/2025 6:45:56 PM - Client Multiple Database : Main,Jainar
+11/17/2025 6:45:56 PM - Client Database : Jainar
+11/17/2025 6:45:56 PM - Report Name : fsc_jainar
+11/17/2025 6:45:56 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/17/2025 6:45:56 PM - Company ID : 57
+11/17/2025 6:45:56 PM - SSDT : CDATE(2025,11,17)
+11/17/2025 6:45:56 PM - LLDT : CDATE(2025,11,17)
+11/17/2025 6:45:56 PM - DSN Name : dsn_165688
+11/17/2025 6:45:56 PM - Report Parameter parameter : 
+11/17/2025 7:37:03 PM - Client Server IP: 160.187.54.38,4545
+11/17/2025 7:37:03 PM - Client Multiple Database : Main,Jainar
+11/17/2025 7:37:03 PM - Client Database : Jainar
+11/17/2025 7:37:03 PM - Report Name : fsc_jainar
+11/17/2025 7:37:03 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/17/2025 7:37:03 PM - Company ID : 57
+11/17/2025 7:37:03 PM - SSDT : CDATE(2025,11,17)
+11/17/2025 7:37:03 PM - LLDT : CDATE(2025,11,17)
+11/17/2025 7:37:03 PM - DSN Name : dsn_165860
+11/17/2025 7:37:03 PM - Report Parameter parameter : 
+11/17/2025 8:02:24 PM - Client Server IP: 160.187.54.38,4545
+11/17/2025 8:02:24 PM - Client Multiple Database : Main,Jainar
+11/17/2025 8:02:24 PM - Client Database : Jainar
+11/17/2025 8:02:24 PM - Report Name : fsc_jainar
+11/17/2025 8:02:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/17/2025 8:02:24 PM - Company ID : 57
+11/17/2025 8:02:24 PM - SSDT : CDATE(2025,04,01)
+11/17/2025 8:02:24 PM - LLDT : CDATE(2025,11,17)
+11/17/2025 8:02:24 PM - DSN Name : dsn_165941
+11/17/2025 8:02:24 PM - Report Parameter parameter : 
+11/17/2025 8:02:32 PM - Client Server IP: 160.187.54.38,4545
+11/17/2025 8:02:32 PM - Client Multiple Database : Main,Jainar
+11/17/2025 8:02:32 PM - Client Database : Jainar
+11/17/2025 8:02:32 PM - Report Name : fsc_jainar
+11/17/2025 8:02:32 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/17/2025 8:02:32 PM - Company ID : 57
+11/17/2025 8:02:32 PM - SSDT : CDATE(2025,11,17)
+11/17/2025 8:02:32 PM - LLDT : CDATE(2025,11,17)
+11/17/2025 8:02:32 PM - DSN Name : dsn_165942
+11/17/2025 8:02:32 PM - Report Parameter parameter : 
+11/19/2025 6:36:12 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 6:36:12 PM - Client Multiple Database : Main,Jainar
+11/19/2025 6:36:12 PM - Client Database : Jainar
+11/19/2025 6:36:12 PM - Report Name : fsc_jainar
+11/19/2025 6:36:12 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 6:36:12 PM - Company ID : 57
+11/19/2025 6:36:12 PM - SSDT : CDATE(2025,11,19)
+11/19/2025 6:36:12 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 6:36:12 PM - DSN Name : dsn_170006
+11/19/2025 6:36:12 PM - Report Parameter parameter : 
+11/19/2025 7:21:04 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 7:21:04 PM - Client Multiple Database : Main,Jainar
+11/19/2025 7:21:04 PM - Client Database : Jainar
+11/19/2025 7:21:04 PM - Report Name : fsc_jainar
+11/19/2025 7:21:04 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 7:21:04 PM - Company ID : 57
+11/19/2025 7:21:04 PM - SSDT : CDATE(2025,11,19)
+11/19/2025 7:21:04 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 7:21:04 PM - DSN Name : dsn_170189
+11/19/2025 7:21:04 PM - Report Parameter parameter : 
+11/19/2025 7:23:00 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 7:23:00 PM - Client Multiple Database : Main,Jainar
+11/19/2025 7:23:00 PM - Client Database : Jainar
+11/19/2025 7:23:00 PM - Report Name : fsc_jainar
+11/19/2025 7:23:00 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 7:23:00 PM - Company ID : 57
+11/19/2025 7:23:00 PM - SSDT : CDATE(2025,11,19)
+11/19/2025 7:23:00 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 7:23:00 PM - DSN Name : dsn_170195
+11/19/2025 7:23:00 PM - Report Parameter parameter : 
+11/19/2025 7:24:43 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 7:24:43 PM - Client Multiple Database : Main,Jainar
+11/19/2025 7:24:43 PM - Client Database : Jainar
+11/19/2025 7:24:43 PM - Report Name : fsc_jainar
+11/19/2025 7:24:43 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 7:24:43 PM - Company ID : 57
+11/19/2025 7:24:43 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 7:24:43 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 7:24:43 PM - DSN Name : dsn_170201
+11/19/2025 7:24:43 PM - Report Parameter parameter : 
+11/19/2025 7:25:06 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 7:25:06 PM - Client Multiple Database : Main,Jainar
+11/19/2025 7:25:06 PM - Client Database : Jainar
+11/19/2025 7:25:06 PM - Report Name : fsc_jainar
+11/19/2025 7:25:06 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 7:25:06 PM - Company ID : 57
+11/19/2025 7:25:06 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 7:25:06 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 7:25:06 PM - DSN Name : dsn_170203
+11/19/2025 7:25:06 PM - Report Parameter parameter : 
+11/19/2025 7:26:18 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 7:26:18 PM - Client Multiple Database : Main,Jainar
+11/19/2025 7:26:18 PM - Client Database : Jainar
+11/19/2025 7:26:18 PM - Report Name : fsc_jainar
+11/19/2025 7:26:18 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 7:26:18 PM - Company ID : 57
+11/19/2025 7:26:18 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 7:26:18 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 7:26:18 PM - DSN Name : dsn_170208
+11/19/2025 7:26:18 PM - Report Parameter parameter : 
+11/19/2025 7:26:29 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 7:26:29 PM - Client Multiple Database : Main,Jainar
+11/19/2025 7:26:29 PM - Client Database : Jainar
+11/19/2025 7:26:29 PM - Report Name : fsc_jainar
+11/19/2025 7:26:29 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 7:26:29 PM - Company ID : 57
+11/19/2025 7:26:29 PM - SSDT : CDATE(2025,11,19)
+11/19/2025 7:26:29 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 7:26:29 PM - DSN Name : dsn_170209
+11/19/2025 7:26:29 PM - Report Parameter parameter : 
+11/19/2025 7:29:50 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 7:29:50 PM - Client Multiple Database : Main,Jainar
+11/19/2025 7:29:50 PM - Client Database : Jainar
+11/19/2025 7:29:50 PM - Report Name : fsc_jainar
+11/19/2025 7:29:50 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 7:29:50 PM - Company ID : 57
+11/19/2025 7:29:50 PM - SSDT : CDATE(2025,11,19)
+11/19/2025 7:29:50 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 7:29:50 PM - DSN Name : dsn_170219
+11/19/2025 7:29:50 PM - Report Parameter parameter : 
+11/20/2025 1:44:08 PM - Client Server IP: 160.187.54.38,4545
+11/20/2025 1:44:08 PM - Client Multiple Database : Main,Jainar
+11/20/2025 1:44:08 PM - Client Database : Jainar
+11/20/2025 1:44:08 PM - Report Name : fjw_jainar
+11/20/2025 1:44:08 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 1:44:08 PM - Company ID : 57
+11/20/2025 1:44:08 PM - SSDT : CDATE(2025,04,01)
+11/20/2025 1:44:08 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 1:44:08 PM - DSN Name : dsn_171073
+11/20/2025 1:44:08 PM - Report Parameter parameter : 
+11/20/2025 1:45:34 PM - Client Server IP: 160.187.54.38,4545
+11/20/2025 1:45:34 PM - Client Multiple Database : Main,Jainar
+11/20/2025 1:45:34 PM - Client Database : Jainar
+11/20/2025 1:45:34 PM - Report Name : fjw_jainar
+11/20/2025 1:45:34 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 1:45:34 PM - Company ID : 57
+11/20/2025 1:45:34 PM - SSDT : CDATE(2025,04,01)
+11/20/2025 1:45:34 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 1:45:34 PM - DSN Name : dsn_171079
+11/20/2025 1:45:34 PM - Report Parameter parameter : 
+11/20/2025 6:03:22 PM - Client Server IP: 160.187.54.38,4545
+11/20/2025 6:03:22 PM - Client Multiple Database : Main,Jainar
+11/20/2025 6:03:22 PM - Client Database : Jainar
+11/20/2025 6:03:22 PM - Report Name : fsc_jainar
+11/20/2025 6:03:22 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 6:03:22 PM - Company ID : 57
+11/20/2025 6:03:22 PM - SSDT : CDATE(2025,04,01)
+11/20/2025 6:03:22 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 6:03:22 PM - DSN Name : dsn_172204
+11/20/2025 6:03:22 PM - Report Parameter parameter : 
+11/20/2025 6:04:36 PM - Client Server IP: 160.187.54.38,4545
+11/20/2025 6:04:36 PM - Client Multiple Database : Main,Jainar
+11/20/2025 6:04:36 PM - Client Database : Jainar
+11/20/2025 6:04:36 PM - Report Name : fsc_jainar
+11/20/2025 6:04:36 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 6:04:36 PM - Company ID : 57
+11/20/2025 6:04:36 PM - SSDT : CDATE(2025,04,01)
+11/20/2025 6:04:36 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 6:04:36 PM - DSN Name : dsn_172214
+11/20/2025 6:04:36 PM - Report Parameter parameter : 
+11/20/2025 6:13:35 PM - Client Server IP: 160.187.54.38,4545
+11/20/2025 6:13:35 PM - Client Multiple Database : Main,Jainar
+11/20/2025 6:13:35 PM - Client Database : Jainar
+11/20/2025 6:13:35 PM - Report Name : fsc_jainar
+11/20/2025 6:13:35 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 6:13:35 PM - Company ID : 57
+11/20/2025 6:13:35 PM - SSDT : CDATE(2025,04,01)
+11/20/2025 6:13:35 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 6:13:35 PM - DSN Name : dsn_172247
+11/20/2025 6:13:35 PM - Report Parameter parameter : 
+11/20/2025 6:13:42 PM - Client Server IP: 160.187.54.38,4545
+11/20/2025 6:13:42 PM - Client Multiple Database : Main,Jainar
+11/20/2025 6:13:42 PM - Client Database : Jainar
+11/20/2025 6:13:42 PM - Report Name : fsc_jainar
+11/20/2025 6:13:42 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 6:13:42 PM - Company ID : 57
+11/20/2025 6:13:42 PM - SSDT : CDATE(2025,11,20)
+11/20/2025 6:13:42 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 6:13:42 PM - DSN Name : dsn_172248
+11/20/2025 6:13:42 PM - Report Parameter parameter : 
+11/20/2025 6:16:58 PM - Client Server IP: 160.187.54.38,4545
+11/20/2025 6:16:58 PM - Client Multiple Database : Main,Jainar
+11/20/2025 6:16:58 PM - Client Database : Jainar
+11/20/2025 6:16:58 PM - Report Name : fsc_jainar
+11/20/2025 6:16:58 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 6:16:58 PM - Company ID : 57
+11/20/2025 6:16:58 PM - SSDT : CDATE(2025,04,01)
+11/20/2025 6:16:58 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 6:16:58 PM - DSN Name : dsn_172267
+11/20/2025 6:16:58 PM - Report Parameter parameter : 
+11/20/2025 6:17:15 PM - Client Server IP: 160.187.54.38,4545
+11/20/2025 6:17:15 PM - Client Multiple Database : Main,Jainar
+11/20/2025 6:17:15 PM - Client Database : Jainar
+11/20/2025 6:17:15 PM - Report Name : fsc_jainar
+11/20/2025 6:17:15 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 6:17:15 PM - Company ID : 57
+11/20/2025 6:17:15 PM - SSDT : CDATE(2025,04,01)
+11/20/2025 6:17:15 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 6:17:15 PM - DSN Name : dsn_172272
+11/20/2025 6:17:15 PM - Report Parameter parameter : 
+11/20/2025 6:17:28 PM - Client Server IP: 160.187.54.38,4545
+11/20/2025 6:17:28 PM - Client Multiple Database : Main,Jainar
+11/20/2025 6:17:28 PM - Client Database : Jainar
+11/20/2025 6:17:28 PM - Report Name : fsc_jainar
+11/20/2025 6:17:28 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 6:17:28 PM - Company ID : 57
+11/20/2025 6:17:28 PM - SSDT : CDATE(2025,04,01)
+11/20/2025 6:17:28 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 6:17:28 PM - DSN Name : dsn_172273
+11/20/2025 6:17:28 PM - Report Parameter parameter : 
+11/20/2025 6:17:44 PM - Client Server IP: 160.187.54.38,4545
+11/20/2025 6:17:44 PM - Client Multiple Database : Main,Jainar
+11/20/2025 6:17:44 PM - Client Database : Jainar
+11/20/2025 6:17:44 PM - Report Name : fsc_jainar
+11/20/2025 6:17:44 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 6:17:44 PM - Company ID : 57
+11/20/2025 6:17:44 PM - SSDT : CDATE(2025,11,20)
+11/20/2025 6:17:44 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 6:17:44 PM - DSN Name : dsn_172275
+11/20/2025 6:17:44 PM - Report Parameter parameter : 
+11/20/2025 6:18:38 PM - Client Server IP: 160.187.54.38,4545
+11/20/2025 6:18:38 PM - Client Multiple Database : Main,Jainar
+11/20/2025 6:18:38 PM - Client Database : Jainar
+11/20/2025 6:18:38 PM - Report Name : fsc_jainar
+11/20/2025 6:18:38 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 6:18:38 PM - Company ID : 57
+11/20/2025 6:18:38 PM - SSDT : CDATE(2025,11,20)
+11/20/2025 6:18:38 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 6:18:38 PM - DSN Name : dsn_172278
+11/20/2025 6:18:38 PM - Report Parameter parameter : 
+11/20/2025 6:18:56 PM - Client Server IP: 160.187.54.38,4545
+11/20/2025 6:18:56 PM - Client Multiple Database : Main,Jainar
+11/20/2025 6:18:56 PM - Client Database : Jainar
+11/20/2025 6:18:56 PM - Report Name : fsc_jainar
+11/20/2025 6:18:56 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 6:18:56 PM - Company ID : 57
+11/20/2025 6:18:56 PM - SSDT : CDATE(2025,11,20)
+11/20/2025 6:18:56 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 6:18:56 PM - DSN Name : dsn_172282
+11/20/2025 6:18:56 PM - Report Parameter parameter : 
+11/20/2025 7:32:05 PM - Client Server IP: 160.187.54.38,4545
+11/20/2025 7:32:05 PM - Client Multiple Database : Main,Jainar
+11/20/2025 7:32:05 PM - Client Database : Jainar
+11/20/2025 7:32:05 PM - Report Name : fsc_jainar
+11/20/2025 7:32:05 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 7:32:05 PM - Company ID : 57
+11/20/2025 7:32:05 PM - SSDT : CDATE(2025,04,01)
+11/20/2025 7:32:05 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 7:32:05 PM - DSN Name : dsn_172591
+11/20/2025 7:32:05 PM - Report Parameter parameter : 
+11/21/2025 1:19:32 PM - Client Server IP: 160.187.54.38,4545
+11/21/2025 1:19:32 PM - Client Multiple Database : Main,Jainar
+11/21/2025 1:19:32 PM - Client Database : Jainar
+11/21/2025 1:19:32 PM - Report Name : fsc_jainar
+11/21/2025 1:19:32 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/21/2025 1:19:32 PM - Company ID : 57
+11/21/2025 1:19:32 PM - SSDT : CDATE(2025,04,01)
+11/21/2025 1:19:32 PM - LLDT : CDATE(2025,11,21)
+11/21/2025 1:19:32 PM - DSN Name : dsn_173270
+11/21/2025 1:19:32 PM - Report Parameter parameter : 
+11/21/2025 1:19:43 PM - Client Server IP: 160.187.54.38,4545
+11/21/2025 1:19:43 PM - Client Multiple Database : Main,Jainar
+11/21/2025 1:19:43 PM - Client Database : Jainar
+11/21/2025 1:19:43 PM - Report Name : fsc_jainar
+11/21/2025 1:19:43 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/21/2025 1:19:43 PM - Company ID : 57
+11/21/2025 1:19:43 PM - SSDT : CDATE(2025,04,01)
+11/21/2025 1:19:43 PM - LLDT : CDATE(2025,11,21)
+11/21/2025 1:19:43 PM - DSN Name : dsn_173272
+11/21/2025 1:19:43 PM - Report Parameter parameter : 
+11/21/2025 3:54:51 PM - Client Server IP: 160.187.54.38,4545
+11/21/2025 3:54:51 PM - Client Multiple Database : Main,Jainar
+11/21/2025 3:54:51 PM - Client Database : Jainar
+11/21/2025 3:54:51 PM - Report Name : fsc_jainar
+11/21/2025 3:54:51 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/21/2025 3:54:51 PM - Company ID : 57
+11/21/2025 3:54:51 PM - SSDT : CDATE(2025,11,21)
+11/21/2025 3:54:51 PM - LLDT : CDATE(2025,11,21)
+11/21/2025 3:54:51 PM - DSN Name : dsn_173930
+11/21/2025 3:54:51 PM - Report Parameter parameter : 
+11/21/2025 4:09:33 PM - Client Server IP: 160.187.54.38,4545
+11/21/2025 4:09:33 PM - Client Multiple Database : Main,Jainar
+11/21/2025 4:09:33 PM - Client Database : Jainar
+11/21/2025 4:09:33 PM - Report Name : fsc_jainar
+11/21/2025 4:09:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/21/2025 4:09:33 PM - Company ID : 57
+11/21/2025 4:09:33 PM - SSDT : CDATE(2025,11,21)
+11/21/2025 4:09:33 PM - LLDT : CDATE(2025,11,21)
+11/21/2025 4:09:33 PM - DSN Name : dsn_174007
+11/21/2025 4:09:33 PM - Report Parameter parameter : 
+11/21/2025 5:51:52 PM - Client Server IP: 160.187.54.38,4545
+11/21/2025 5:51:52 PM - Client Multiple Database : Main,Jainar
+11/21/2025 5:51:52 PM - Client Database : Jainar
+11/21/2025 5:51:52 PM - Report Name : fsc_jainar
+11/21/2025 5:51:52 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/21/2025 5:51:52 PM - Company ID : 57
+11/21/2025 5:51:52 PM - SSDT : CDATE(2025,04,01)
+11/21/2025 5:51:52 PM - LLDT : CDATE(2025,11,21)
+11/21/2025 5:51:52 PM - DSN Name : dsn_174410
+11/21/2025 5:51:52 PM - Report Parameter parameter : 
+11/21/2025 5:53:28 PM - Client Server IP: 160.187.54.38,4545
+11/21/2025 5:53:28 PM - Client Multiple Database : Main,Jainar
+11/21/2025 5:53:28 PM - Client Database : Jainar
+11/21/2025 5:53:28 PM - Report Name : fsc_jainar
+11/21/2025 5:53:28 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/21/2025 5:53:28 PM - Company ID : 57
+11/21/2025 5:53:28 PM - SSDT : CDATE(2025,04,01)
+11/21/2025 5:53:28 PM - LLDT : CDATE(2025,11,21)
+11/21/2025 5:53:28 PM - DSN Name : dsn_174417
+11/21/2025 5:53:28 PM - Report Parameter parameter : 

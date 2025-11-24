@@ -1,0 +1,690 @@
+5/8/2025 11:38:05 AM - Client Server IP: 160.187.54.114,4545
+5/8/2025 11:38:05 AM - Client Multiple Database : valjierp
+5/8/2025 11:38:05 AM - Client Database : valjierp
+5/8/2025 11:38:05 AM - Report Name : grc_valji
+5/8/2025 11:38:05 AM - Report Path : V:\xampp\htdocs\tex\reports\
+5/8/2025 11:38:05 AM - Company ID : 24
+5/8/2025 11:38:05 AM - SSDT : CDATE(2025,04,01)
+5/8/2025 11:38:05 AM - LLDT : CDATE(2025,05,08)
+5/8/2025 11:38:05 AM - DSN Name : dsn_6734
+5/8/2025 11:38:05 AM - Report Parameter parameter : 
+5/8/2025 11:38:47 AM - Client Server IP: 160.187.54.114,4545
+5/8/2025 11:38:47 AM - Client Multiple Database : valjierp
+5/8/2025 11:38:47 AM - Client Database : valjierp
+5/8/2025 11:38:47 AM - Report Name : frc_valji
+5/8/2025 11:38:47 AM - Report Path : V:\xampp\htdocs\tex\reports\
+5/8/2025 11:38:47 AM - Company ID : 24
+5/8/2025 11:38:47 AM - SSDT : CDATE(2025,04,01)
+5/8/2025 11:38:47 AM - LLDT : CDATE(2025,05,08)
+5/8/2025 11:38:47 AM - DSN Name : dsn_6736
+5/8/2025 11:38:47 AM - Report Parameter parameter : 
+5/10/2025 11:24:31 AM - Client Server IP: 139.5.190.101,8546
+5/10/2025 11:24:31 AM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 11:24:31 AM - Client Database : Valiant_INV
+5/10/2025 11:24:31 AM - Report Name : gporder_valiant
+5/10/2025 11:24:31 AM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 11:24:31 AM - Company ID : 22
+5/10/2025 11:24:31 AM - SSDT : CDATE(2025,04,01)
+5/10/2025 11:24:31 AM - LLDT : CDATE(2025,05,10)
+5/10/2025 11:24:31 AM - DSN Name : dsn_6912
+5/10/2025 11:24:31 AM - Report Parameter parameter : 
+5/10/2025 11:26:21 AM - Client Server IP: 139.5.190.101,8546
+5/10/2025 11:26:21 AM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 11:26:21 AM - Client Database : Valiant_INV
+5/10/2025 11:26:21 AM - Report Name : gprs12_valiant
+5/10/2025 11:26:21 AM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 11:26:21 AM - Company ID : 22
+5/10/2025 11:26:21 AM - SSDT : CDATE(2025,04,01)
+5/10/2025 11:26:21 AM - LLDT : CDATE(2025,05,10)
+5/10/2025 11:26:21 AM - DSN Name : dsn_6914
+5/10/2025 11:26:21 AM - Report Parameter parameter : 
+5/10/2025 11:36:11 AM - Client Server IP: 139.5.190.101,8546
+5/10/2025 11:36:11 AM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 11:36:11 AM - Client Database : Valiant_INV
+5/10/2025 11:36:11 AM - Report Name : gche_valiant
+5/10/2025 11:36:11 AM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 11:36:11 AM - Company ID : 22
+5/10/2025 11:36:11 AM - SSDT : CDATE(2025,04,01)
+5/10/2025 11:36:11 AM - LLDT : CDATE(2025,05,10)
+5/10/2025 11:36:11 AM - DSN Name : dsn_6917
+5/10/2025 11:36:11 AM - Report Parameter parameter : 
+5/10/2025 11:36:59 AM - Client Server IP: 139.5.190.101,8546
+5/10/2025 11:36:59 AM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 11:36:59 AM - Client Database : Valiant_INV
+5/10/2025 11:36:59 AM - Report Name : GCHE1_valiant
+5/10/2025 11:36:59 AM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 11:36:59 AM - Company ID : 22
+5/10/2025 11:36:59 AM - SSDT : CDATE(2025,04,01)
+5/10/2025 11:36:59 AM - LLDT : CDATE(2025,05,10)
+5/10/2025 11:36:59 AM - DSN Name : dsn_6918
+5/10/2025 11:36:59 AM - Report Parameter parameter : 
+5/10/2025 11:38:42 AM - Client Server IP: 139.5.190.101,8546
+5/10/2025 11:38:42 AM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 11:38:42 AM - Client Database : Valiant_INV
+5/10/2025 11:38:42 AM - Report Name : Gryrtch_valiant
+5/10/2025 11:38:42 AM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 11:38:42 AM - Company ID : 22
+5/10/2025 11:38:42 AM - SSDT : CDATE(2025,04,01)
+5/10/2025 11:38:42 AM - LLDT : CDATE(2025,05,10)
+5/10/2025 11:38:42 AM - DSN Name : dsn_6919
+5/10/2025 11:38:42 AM - Report Parameter parameter : 
+5/10/2025 11:39:23 AM - Client Server IP: 139.5.190.101,8546
+5/10/2025 11:39:23 AM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 11:39:23 AM - Client Database : Valiant_INV
+5/10/2025 11:39:23 AM - Report Name : Jobord_valiant
+5/10/2025 11:39:23 AM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 11:39:23 AM - Company ID : 22
+5/10/2025 11:39:23 AM - SSDT : CDATE(2025,04,01)
+5/10/2025 11:39:23 AM - LLDT : CDATE(2025,05,10)
+5/10/2025 11:39:23 AM - DSN Name : dsn_6920
+5/10/2025 11:39:23 AM - Report Parameter parameter : 
+5/10/2025 11:40:09 AM - Client Server IP: 139.5.190.101,8546
+5/10/2025 11:40:09 AM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 11:40:09 AM - Client Database : Valiant_INV
+5/10/2025 11:40:09 AM - Report Name : Finord_valiant
+5/10/2025 11:40:09 AM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 11:40:09 AM - Company ID : 22
+5/10/2025 11:40:09 AM - SSDT : CDATE(2025,04,01)
+5/10/2025 11:40:09 AM - LLDT : CDATE(2025,05,10)
+5/10/2025 11:40:09 AM - DSN Name : dsn_6921
+5/10/2025 11:40:09 AM - Report Parameter parameter : 
+5/10/2025 11:40:53 AM - Client Server IP: 139.5.190.101,8546
+5/10/2025 11:40:53 AM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 11:40:53 AM - Client Database : Valiant_INV
+5/10/2025 11:40:53 AM - Report Name : Fso_valiant
+5/10/2025 11:40:53 AM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 11:40:53 AM - Company ID : 22
+5/10/2025 11:40:53 AM - SSDT : CDATE(2025,04,01)
+5/10/2025 11:40:53 AM - LLDT : CDATE(2025,05,10)
+5/10/2025 11:40:53 AM - DSN Name : dsn_6922
+5/10/2025 11:40:53 AM - Report Parameter parameter : 
+5/10/2025 1:25:43 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:25:43 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 1:25:43 PM - Client Database : Valiant_INV
+5/10/2025 1:25:43 PM - Report Name : Fso_valiant
+5/10/2025 1:25:43 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:25:43 PM - Company ID : 22
+5/10/2025 1:25:43 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:25:43 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:25:43 PM - DSN Name : dsn_6942
+5/10/2025 1:25:43 PM - Report Parameter parameter : 
+5/10/2025 1:26:16 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:26:16 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 1:26:16 PM - Client Database : Valiant_INV
+5/10/2025 1:26:16 PM - Report Name : Dpo_valiant
+5/10/2025 1:26:16 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:26:16 PM - Company ID : 22
+5/10/2025 1:26:16 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:26:16 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:26:16 PM - DSN Name : dsn_6943
+5/10/2025 1:26:16 PM - Report Parameter parameter : 
+5/10/2025 1:27:13 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:27:13 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 1:27:13 PM - Client Database : Valiant_INV
+5/10/2025 1:27:13 PM - Report Name : Retilssal_valiant
+5/10/2025 1:27:13 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:27:13 PM - Company ID : 22
+5/10/2025 1:27:13 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:27:13 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:27:13 PM - DSN Name : dsn_6944
+5/10/2025 1:27:13 PM - Report Parameter parameter : 
+5/10/2025 1:28:22 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:28:22 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 1:28:22 PM - Client Database : Valiant_INV
+5/10/2025 1:28:22 PM - Report Name : SALECHALLAN_valiant
+5/10/2025 1:28:22 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:28:22 PM - Company ID : 22
+5/10/2025 1:28:22 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:28:22 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:28:22 PM - DSN Name : dsn_6945
+5/10/2025 1:28:22 PM - Report Parameter parameter : 
+5/10/2025 1:28:39 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:28:39 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 1:28:39 PM - Client Database : Valiant_INV
+5/10/2025 1:28:39 PM - Report Name : PACKSLIPBLUCK_valiant
+5/10/2025 1:28:39 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:28:39 PM - Company ID : 22
+5/10/2025 1:28:39 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:28:39 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:28:39 PM - DSN Name : dsn_6946
+5/10/2025 1:28:39 PM - Report Parameter parameter : 
+5/10/2025 1:30:46 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:30:46 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 1:30:46 PM - Client Database : Valiant_INV
+5/10/2025 1:30:46 PM - Report Name : Gpuri_valiant
+5/10/2025 1:30:46 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:30:46 PM - Company ID : 22
+5/10/2025 1:30:46 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:30:46 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:30:46 PM - DSN Name : dsn_6947
+5/10/2025 1:30:46 PM - Report Parameter parameter : 
+5/10/2025 1:31:43 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:31:43 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 1:31:43 PM - Client Database : Valiant_INV
+5/10/2025 1:31:43 PM - Report Name : ORDER_valiant
+5/10/2025 1:31:43 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:31:43 PM - Company ID : 22
+5/10/2025 1:31:43 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:31:43 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:31:43 PM - DSN Name : dsn_6948
+5/10/2025 1:31:43 PM - Report Parameter parameter : 
+5/10/2025 1:32:48 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:32:48 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 1:32:48 PM - Client Database : Valiant_INV
+5/10/2025 1:32:48 PM - Report Name : C5_valiant
+5/10/2025 1:32:48 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:32:48 PM - Company ID : 22
+5/10/2025 1:32:48 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:32:48 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:32:48 PM - DSN Name : dsn_6949
+5/10/2025 1:32:48 PM - Report Parameter parameter : 
+5/10/2025 1:33:36 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:33:36 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 1:33:36 PM - Client Database : Valiant_INV
+5/10/2025 1:33:36 PM - Report Name : Gpuri_valiant
+5/10/2025 1:33:36 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:33:36 PM - Company ID : 22
+5/10/2025 1:33:36 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:33:36 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:33:36 PM - DSN Name : dsn_6950
+5/10/2025 1:33:36 PM - Report Parameter parameter : 
+5/10/2025 1:34:08 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:34:08 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 1:34:08 PM - Client Database : Valiant_INV
+5/10/2025 1:34:08 PM - Report Name : C5_valiant
+5/10/2025 1:34:08 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:34:08 PM - Company ID : 22
+5/10/2025 1:34:08 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:34:08 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:34:08 PM - DSN Name : dsn_6951
+5/10/2025 1:34:08 PM - Report Parameter parameter : 
+5/10/2025 1:39:37 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:39:37 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 1:39:37 PM - Client Database : Valiant_INV
+5/10/2025 1:39:37 PM - Report Name : Valiant_valiant
+5/10/2025 1:39:37 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:39:37 PM - Company ID : 22
+5/10/2025 1:39:37 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:39:37 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:39:37 PM - DSN Name : dsn_6952
+5/10/2025 1:39:37 PM - Report Parameter parameter : 
+5/10/2025 1:49:15 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:49:15 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 1:49:15 PM - Client Database : Valiant_INV
+5/10/2025 1:49:15 PM - Report Name : Storein_valiant
+5/10/2025 1:49:15 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:49:15 PM - Company ID : 22
+5/10/2025 1:49:15 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:49:15 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:49:15 PM - DSN Name : dsn_6953
+5/10/2025 1:49:15 PM - Report Parameter parameter : 
+5/10/2025 1:50:00 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:50:00 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 1:50:00 PM - Client Database : Valiant_INV
+5/10/2025 1:50:00 PM - Report Name : Strcmp_valiant
+5/10/2025 1:50:00 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:50:00 PM - Company ID : 22
+5/10/2025 1:50:00 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:50:00 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:50:00 PM - DSN Name : dsn_6954
+5/10/2025 1:50:00 PM - Report Parameter parameter : 
+5/10/2025 1:51:09 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:51:09 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 1:51:09 PM - Client Database : Valiant_INV
+5/10/2025 1:51:09 PM - Report Name : Striss_valiant
+5/10/2025 1:51:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:51:09 PM - Company ID : 22
+5/10/2025 1:51:09 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:51:09 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:51:09 PM - DSN Name : dsn_6955
+5/10/2025 1:51:09 PM - Report Parameter parameter : 
+5/10/2025 1:51:29 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:51:29 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 1:51:29 PM - Client Database : Valiant_INV
+5/10/2025 1:51:29 PM - Report Name : Striss_valiant
+5/10/2025 1:51:29 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:51:29 PM - Company ID : 22
+5/10/2025 1:51:29 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:51:29 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:51:29 PM - DSN Name : dsn_6956
+5/10/2025 1:51:29 PM - Report Parameter parameter : 
+5/10/2025 1:52:18 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:52:18 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 1:52:18 PM - Client Database : Valiant_INV
+5/10/2025 1:52:18 PM - Report Name : Summ_valiant
+5/10/2025 1:52:18 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:52:18 PM - Company ID : 22
+5/10/2025 1:52:18 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:52:18 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:52:18 PM - DSN Name : dsn_6957
+5/10/2025 1:52:18 PM - Report Parameter parameter : 
+5/10/2025 1:52:55 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:52:55 PM - Client Multiple Database : saberp_main_mf
+5/10/2025 1:52:55 PM - Client Database : saberp_main_mf
+5/10/2025 1:52:55 PM - Report Name : Jobord_valiant
+5/10/2025 1:52:55 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:52:55 PM - Company ID : 21
+5/10/2025 1:52:55 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:52:55 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:52:55 PM - DSN Name : dsn_6959
+5/10/2025 1:52:55 PM - Report Parameter parameter : 
+5/10/2025 1:54:08 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:54:08 PM - Client Multiple Database : saberp_main_mf
+5/10/2025 1:54:08 PM - Client Database : saberp_main_mf
+5/10/2025 1:54:08 PM - Report Name : Fso_valiant
+5/10/2025 1:54:08 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:54:08 PM - Company ID : 21
+5/10/2025 1:54:08 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:54:08 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:54:08 PM - DSN Name : dsn_6960
+5/10/2025 1:54:08 PM - Report Parameter parameter : 
+5/10/2025 1:54:33 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:54:33 PM - Client Multiple Database : saberp_main_mf
+5/10/2025 1:54:33 PM - Client Database : saberp_main_mf
+5/10/2025 1:54:33 PM - Report Name : Finord_valiant
+5/10/2025 1:54:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:54:33 PM - Company ID : 21
+5/10/2025 1:54:33 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:54:33 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:54:33 PM - DSN Name : dsn_6961
+5/10/2025 1:54:33 PM - Report Parameter parameter : 
+5/10/2025 1:55:04 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 1:55:04 PM - Client Multiple Database : saberp_main_mf
+5/10/2025 1:55:04 PM - Client Database : saberp_main_mf
+5/10/2025 1:55:04 PM - Report Name : Retilssal_valiant
+5/10/2025 1:55:04 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:55:04 PM - Company ID : 21
+5/10/2025 1:55:04 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:55:04 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:55:04 PM - DSN Name : dsn_6962
+5/10/2025 1:55:04 PM - Report Parameter parameter : 
+5/10/2025 1:56:19 PM - Client Server IP: 160.187.54.69,4545
+5/10/2025 1:56:19 PM - Client Multiple Database : main,Kapil
+5/10/2025 1:56:19 PM - Client Database : Kapil
+5/10/2025 1:56:19 PM - Report Name : gsp
+5/10/2025 1:56:19 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:56:19 PM - Company ID : 17
+5/10/2025 1:56:19 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:56:19 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:56:19 PM - DSN Name : dsn_6963
+5/10/2025 1:56:19 PM - Report Parameter parameter : 
+5/10/2025 1:59:16 PM - Client Server IP: 160.187.54.69,4545
+5/10/2025 1:59:16 PM - Client Multiple Database : main,Kapil
+5/10/2025 1:59:16 PM - Client Database : Kapil
+5/10/2025 1:59:16 PM - Report Name : gsp
+5/10/2025 1:59:16 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:59:16 PM - Company ID : 17
+5/10/2025 1:59:16 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:59:16 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:59:16 PM - DSN Name : dsn_6965
+5/10/2025 1:59:16 PM - Report Parameter parameter : 
+5/10/2025 1:59:55 PM - Client Server IP: 160.187.54.69,4545
+5/10/2025 1:59:55 PM - Client Multiple Database : main,Kapil
+5/10/2025 1:59:55 PM - Client Database : Kapil
+5/10/2025 1:59:55 PM - Report Name : gsp
+5/10/2025 1:59:55 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 1:59:55 PM - Company ID : 17
+5/10/2025 1:59:55 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 1:59:55 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 1:59:55 PM - DSN Name : dsn_6966
+5/10/2025 1:59:55 PM - Report Parameter parameter : 
+5/10/2025 3:15:01 PM - Client Server IP: 160.187.54.69,4545
+5/10/2025 3:15:01 PM - Client Multiple Database : main,Kapil
+5/10/2025 3:15:01 PM - Client Database : Kapil
+5/10/2025 3:15:01 PM - Report Name : fose
+5/10/2025 3:15:01 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 3:15:01 PM - Company ID : 17
+5/10/2025 3:15:01 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 3:15:01 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 3:15:01 PM - DSN Name : dsn_6977
+5/10/2025 3:15:01 PM - Report Parameter parameter : 
+5/10/2025 3:15:56 PM - Client Server IP: 160.187.54.69,4545
+5/10/2025 3:15:56 PM - Client Multiple Database : main,Kapil
+5/10/2025 3:15:56 PM - Client Database : Kapil
+5/10/2025 3:15:56 PM - Report Name : fose
+5/10/2025 3:15:56 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 3:15:56 PM - Company ID : 17
+5/10/2025 3:15:56 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 3:15:56 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 3:15:56 PM - DSN Name : dsn_6980
+5/10/2025 3:15:56 PM - Report Parameter parameter : 
+5/10/2025 3:29:02 PM - Client Server IP: 160.187.54.69,4545
+5/10/2025 3:29:02 PM - Client Multiple Database : main,Kapil
+5/10/2025 3:29:02 PM - Client Database : Kapil
+5/10/2025 3:29:02 PM - Report Name : fose
+5/10/2025 3:29:02 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 3:29:02 PM - Company ID : 17
+5/10/2025 3:29:02 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 3:29:02 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 3:29:02 PM - DSN Name : dsn_6981
+5/10/2025 3:29:02 PM - Report Parameter parameter : 
+5/10/2025 3:30:59 PM - Client Server IP: 160.187.54.69,4545
+5/10/2025 3:30:59 PM - Client Multiple Database : main,Kapil
+5/10/2025 3:30:59 PM - Client Database : Kapil
+5/10/2025 3:30:59 PM - Report Name : fose
+5/10/2025 3:30:59 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 3:30:59 PM - Company ID : 17
+5/10/2025 3:30:59 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 3:30:59 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 3:30:59 PM - DSN Name : dsn_6982
+5/10/2025 3:30:59 PM - Report Parameter parameter : 
+5/10/2025 3:34:27 PM - Client Server IP: 160.187.54.69,4545
+5/10/2025 3:34:27 PM - Client Multiple Database : main,Kapil
+5/10/2025 3:34:27 PM - Client Database : Kapil
+5/10/2025 3:34:27 PM - Report Name : fsc_kapil
+5/10/2025 3:34:27 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 3:34:27 PM - Company ID : 17
+5/10/2025 3:34:27 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 3:34:27 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 3:34:27 PM - DSN Name : dsn_6983
+5/10/2025 3:34:27 PM - Report Parameter parameter : 
+5/10/2025 3:44:41 PM - Client Server IP: 160.187.54.69,4545
+5/10/2025 3:44:41 PM - Client Multiple Database : main,Kapil
+5/10/2025 3:44:41 PM - Client Database : Kapil
+5/10/2025 3:44:41 PM - Report Name : fsc_kapil
+5/10/2025 3:44:41 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 3:44:41 PM - Company ID : 17
+5/10/2025 3:44:41 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 3:44:41 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 3:44:41 PM - DSN Name : dsn_6984
+5/10/2025 3:44:41 PM - Report Parameter parameter : 
+5/10/2025 3:45:23 PM - Client Server IP: 160.187.54.69,4545
+5/10/2025 3:45:23 PM - Client Multiple Database : main,Kapil
+5/10/2025 3:45:23 PM - Client Database : Kapil
+5/10/2025 3:45:23 PM - Report Name : gate_kapil
+5/10/2025 3:45:23 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 3:45:23 PM - Company ID : 17
+5/10/2025 3:45:23 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 3:45:23 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 3:45:23 PM - DSN Name : dsn_6985
+5/10/2025 3:45:23 PM - Report Parameter parameter : 
+5/10/2025 3:46:23 PM - Client Server IP: 160.187.54.69,4545
+5/10/2025 3:46:23 PM - Client Multiple Database : main,Kapil
+5/10/2025 3:46:23 PM - Client Database : Kapil
+5/10/2025 3:46:23 PM - Report Name : fsc_bar_kapil
+5/10/2025 3:46:23 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 3:46:23 PM - Company ID : 17
+5/10/2025 3:46:23 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 3:46:23 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 3:46:23 PM - DSN Name : dsn_6986
+5/10/2025 3:46:23 PM - Report Parameter parameter : 
+5/10/2025 3:46:32 PM - Client Server IP: 160.187.54.69,4545
+5/10/2025 3:46:32 PM - Client Multiple Database : main,Kapil
+5/10/2025 3:46:32 PM - Client Database : Kapil
+5/10/2025 3:46:32 PM - Report Name : gsp
+5/10/2025 3:46:32 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 3:46:32 PM - Company ID : 17
+5/10/2025 3:46:32 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 3:46:32 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 3:46:32 PM - DSN Name : dsn_6987
+5/10/2025 3:46:32 PM - Report Parameter parameter : 
+5/10/2025 3:46:45 PM - Client Server IP: 160.187.54.69,4545
+5/10/2025 3:46:45 PM - Client Multiple Database : main,Kapil
+5/10/2025 3:46:45 PM - Client Database : Kapil
+5/10/2025 3:46:45 PM - Report Name : fsc_kapil
+5/10/2025 3:46:45 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 3:46:45 PM - Company ID : 17
+5/10/2025 3:46:45 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 3:46:45 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 3:46:45 PM - DSN Name : dsn_6988
+5/10/2025 3:46:45 PM - Report Parameter parameter : 
+5/10/2025 3:47:48 PM - Client Server IP: 160.187.54.114,4545
+5/10/2025 3:47:48 PM - Client Multiple Database : valjierp
+5/10/2025 3:47:48 PM - Client Database : valjierp
+5/10/2025 3:47:48 PM - Report Name : fso_valji
+5/10/2025 3:47:48 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 3:47:48 PM - Company ID : 24
+5/10/2025 3:47:48 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 3:47:48 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 3:47:48 PM - DSN Name : dsn_6989
+5/10/2025 3:47:48 PM - Report Parameter parameter : 
+5/10/2025 3:59:09 PM - Client Server IP: 160.187.54.114,4545
+5/10/2025 3:59:09 PM - Client Multiple Database : valjierp
+5/10/2025 3:59:09 PM - Client Database : valjierp
+5/10/2025 3:59:09 PM - Report Name : fso_valji
+5/10/2025 3:59:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 3:59:09 PM - Company ID : 24
+5/10/2025 3:59:09 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 3:59:09 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 3:59:09 PM - DSN Name : dsn_6990
+5/10/2025 3:59:09 PM - Report Parameter parameter : 
+5/10/2025 3:59:35 PM - Client Server IP: 160.187.54.114,4545
+5/10/2025 3:59:35 PM - Client Multiple Database : valjierp
+5/10/2025 3:59:35 PM - Client Database : valjierp
+5/10/2025 3:59:35 PM - Report Name : upo_valji
+5/10/2025 3:59:35 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 3:59:35 PM - Company ID : 24
+5/10/2025 3:59:35 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 3:59:35 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 3:59:35 PM - DSN Name : dsn_6991
+5/10/2025 3:59:35 PM - Report Parameter parameter : 
+5/10/2025 3:59:55 PM - Client Server IP: 160.187.54.114,4545
+5/10/2025 3:59:55 PM - Client Multiple Database : valjierp
+5/10/2025 3:59:55 PM - Client Database : valjierp
+5/10/2025 3:59:55 PM - Report Name : spo_valji
+5/10/2025 3:59:55 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 3:59:55 PM - Company ID : 24
+5/10/2025 3:59:55 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 3:59:55 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 3:59:55 PM - DSN Name : dsn_6992
+5/10/2025 3:59:55 PM - Report Parameter parameter : 
+5/10/2025 4:00:42 PM - Client Server IP: 160.187.54.114,4545
+5/10/2025 4:00:42 PM - Client Multiple Database : valjierp
+5/10/2025 4:00:42 PM - Client Database : valjierp
+5/10/2025 4:00:42 PM - Report Name : rttt_valji
+5/10/2025 4:00:42 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 4:00:42 PM - Company ID : 24
+5/10/2025 4:00:42 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 4:00:42 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 4:00:42 PM - DSN Name : dsn_6993
+5/10/2025 4:00:42 PM - Report Parameter parameter : 
+5/10/2025 4:01:10 PM - Client Server IP: 160.187.54.114,4545
+5/10/2025 4:01:10 PM - Client Multiple Database : valjierp
+5/10/2025 4:01:10 PM - Client Database : valjierp
+5/10/2025 4:01:10 PM - Report Name : Cutpck1_valji
+5/10/2025 4:01:10 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 4:01:10 PM - Company ID : 24
+5/10/2025 4:01:10 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 4:01:10 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 4:01:10 PM - DSN Name : dsn_6994
+5/10/2025 4:01:10 PM - Report Parameter parameter : 
+5/10/2025 4:02:35 PM - Client Server IP: 160.187.54.114,4545
+5/10/2025 4:02:35 PM - Client Multiple Database : valjierp
+5/10/2025 4:02:35 PM - Client Database : valjierp
+5/10/2025 4:02:35 PM - Report Name : Cutpck1_valji
+5/10/2025 4:02:35 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 4:02:35 PM - Company ID : 24
+5/10/2025 4:02:35 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 4:02:35 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 4:02:35 PM - DSN Name : dsn_6995
+5/10/2025 4:02:35 PM - Report Parameter parameter : 
+5/10/2025 4:25:04 PM - Client Server IP: 160.187.54.114,4545
+5/10/2025 4:25:04 PM - Client Multiple Database : valjierp
+5/10/2025 4:25:04 PM - Client Database : valjierp
+5/10/2025 4:25:04 PM - Report Name : grc_valji
+5/10/2025 4:25:04 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 4:25:04 PM - Company ID : 24
+5/10/2025 4:25:04 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 4:25:04 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 4:25:04 PM - DSN Name : dsn_6999
+5/10/2025 4:25:04 PM - Report Parameter parameter : 
+5/10/2025 4:25:41 PM - Client Server IP: 160.187.54.114,4545
+5/10/2025 4:25:41 PM - Client Multiple Database : valjierp
+5/10/2025 4:25:41 PM - Client Database : valjierp
+5/10/2025 4:25:41 PM - Report Name : scl_valji
+5/10/2025 4:25:41 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 4:25:41 PM - Company ID : 24
+5/10/2025 4:25:41 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 4:25:41 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 4:25:41 PM - DSN Name : dsn_7000
+5/10/2025 4:25:41 PM - Report Parameter parameter : 
+5/10/2025 4:26:40 PM - Client Server IP: 160.187.54.114,4545
+5/10/2025 4:26:40 PM - Client Multiple Database : valjierp
+5/10/2025 4:26:40 PM - Client Database : valjierp
+5/10/2025 4:26:40 PM - Report Name : frc_valji
+5/10/2025 4:26:40 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 4:26:40 PM - Company ID : 24
+5/10/2025 4:26:40 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 4:26:40 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 4:26:40 PM - DSN Name : dsn_7001
+5/10/2025 4:26:40 PM - Report Parameter parameter : 
+5/10/2025 4:27:00 PM - Client Server IP: 160.187.54.114,4545
+5/10/2025 4:27:00 PM - Client Multiple Database : valjierp
+5/10/2025 4:27:00 PM - Client Database : valjierp
+5/10/2025 4:27:00 PM - Report Name : strf_valji
+5/10/2025 4:27:00 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 4:27:00 PM - Company ID : 24
+5/10/2025 4:27:00 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 4:27:00 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 4:27:00 PM - DSN Name : dsn_7002
+5/10/2025 4:27:00 PM - Report Parameter parameter : 
+5/10/2025 4:27:23 PM - Client Server IP: 160.187.54.114,4545
+5/10/2025 4:27:23 PM - Client Multiple Database : valjierp
+5/10/2025 4:27:23 PM - Client Database : valjierp
+5/10/2025 4:27:23 PM - Report Name : 
+5/10/2025 4:27:23 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 4:27:23 PM - Company ID : 24
+5/10/2025 4:27:23 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 4:27:23 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 4:27:23 PM - DSN Name : dsn_7003
+5/10/2025 4:27:23 PM - Report Parameter parameter : 
+5/10/2025 4:28:56 PM - Client Server IP: 160.187.54.114,4545
+5/10/2025 4:28:56 PM - Client Multiple Database : valjierp
+5/10/2025 4:28:56 PM - Client Database : valjierp
+5/10/2025 4:28:56 PM - Report Name : fco_valji
+5/10/2025 4:28:56 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 4:28:56 PM - Company ID : 24
+5/10/2025 4:28:56 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 4:28:56 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 4:28:56 PM - DSN Name : dsn_7004
+5/10/2025 4:28:56 PM - Report Parameter parameter : 
+5/10/2025 4:33:14 PM - Client Server IP: 160.187.54.114,4545
+5/10/2025 4:33:14 PM - Client Multiple Database : valjierp
+5/10/2025 4:33:14 PM - Client Database : valjierp
+5/10/2025 4:33:14 PM - Report Name : fco_valji
+5/10/2025 4:33:14 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 4:33:14 PM - Company ID : 24
+5/10/2025 4:33:14 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 4:33:14 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 4:33:14 PM - DSN Name : dsn_7005
+5/10/2025 4:33:14 PM - Report Parameter parameter : 
+5/10/2025 4:43:42 PM - Client Server IP: 160.187.54.114,4545
+5/10/2025 4:43:42 PM - Client Multiple Database : valjierp
+5/10/2025 4:43:42 PM - Client Database : valjierp
+5/10/2025 4:43:42 PM - Report Name : Cutpck1_valji
+5/10/2025 4:43:42 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 4:43:42 PM - Company ID : 24
+5/10/2025 4:43:42 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 4:43:42 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 4:43:42 PM - DSN Name : dsn_7007
+5/10/2025 4:43:42 PM - Report Parameter parameter : 
+5/10/2025 4:52:07 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 4:52:07 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 4:52:07 PM - Client Database : Valiant_INV
+5/10/2025 4:52:07 PM - Report Name : Retilssal_valiant
+5/10/2025 4:52:07 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 4:52:07 PM - Company ID : 22
+5/10/2025 4:52:07 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 4:52:07 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 4:52:07 PM - DSN Name : dsn_7008
+5/10/2025 4:52:07 PM - Report Parameter parameter : 
+5/10/2025 4:54:50 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 4:54:50 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 4:54:50 PM - Client Database : Valiant_INV
+5/10/2025 4:54:50 PM - Report Name : Valiant_valiant
+5/10/2025 4:54:50 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 4:54:50 PM - Company ID : 22
+5/10/2025 4:54:50 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 4:54:50 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 4:54:50 PM - DSN Name : dsn_7009
+5/10/2025 4:54:50 PM - Report Parameter parameter : 
+5/10/2025 4:55:28 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 4:55:28 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 4:55:28 PM - Client Database : Valiant_INV
+5/10/2025 4:55:28 PM - Report Name : C5_valiant
+5/10/2025 4:55:28 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 4:55:28 PM - Company ID : 22
+5/10/2025 4:55:28 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 4:55:28 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 4:55:28 PM - DSN Name : dsn_7010
+5/10/2025 4:55:28 PM - Report Parameter parameter : 
+5/10/2025 4:55:58 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 4:55:58 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 4:55:58 PM - Client Database : Valiant_INV
+5/10/2025 4:55:58 PM - Report Name : C5_valiant
+5/10/2025 4:55:58 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 4:55:58 PM - Company ID : 22
+5/10/2025 4:55:58 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 4:55:58 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 4:55:58 PM - DSN Name : dsn_7011
+5/10/2025 4:55:58 PM - Report Parameter parameter : 
+5/10/2025 4:56:44 PM - Client Server IP: 139.5.190.101,8546
+5/10/2025 4:56:44 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/10/2025 4:56:44 PM - Client Database : Valiant_INV
+5/10/2025 4:56:44 PM - Report Name : Striss_valiant
+5/10/2025 4:56:44 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/10/2025 4:56:44 PM - Company ID : 22
+5/10/2025 4:56:44 PM - SSDT : CDATE(2025,04,01)
+5/10/2025 4:56:44 PM - LLDT : CDATE(2025,05,10)
+5/10/2025 4:56:44 PM - DSN Name : dsn_7013
+5/10/2025 4:56:44 PM - Report Parameter parameter : 
+5/12/2025 12:22:54 PM - Client Server IP: 160.187.54.69,4545
+5/12/2025 12:22:54 PM - Client Multiple Database : main,Kapil
+5/12/2025 12:22:54 PM - Client Database : Kapil
+5/12/2025 12:22:54 PM - Report Name : gsp
+5/12/2025 12:22:54 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/12/2025 12:22:54 PM - Company ID : 17
+5/12/2025 12:22:54 PM - SSDT : CDATE(2025,04,01)
+5/12/2025 12:22:54 PM - LLDT : CDATE(2025,05,12)
+5/12/2025 12:22:54 PM - DSN Name : dsn_7223
+5/12/2025 12:22:54 PM - Report Parameter parameter : 
+6/14/2025 12:31:48 PM - Client Server IP: 160.187.54.38,4545
+6/14/2025 12:31:48 PM - Client Multiple Database : Main,Shubh
+6/14/2025 12:31:48 PM - Client Database : Shubh
+6/14/2025 12:31:48 PM - Report Name : fsc_kapil
+6/14/2025 12:31:48 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/14/2025 12:31:48 PM - Company ID : 52
+6/14/2025 12:31:48 PM - SSDT : CDATE(2025,04,01)
+6/14/2025 12:31:48 PM - LLDT : CDATE(2025,06,14)
+6/14/2025 12:31:48 PM - DSN Name : dsn_13654
+6/14/2025 12:31:48 PM - Report Parameter parameter : 
+6/14/2025 6:46:13 PM - Client Server IP: 160.187.54.114,4545
+6/14/2025 6:46:13 PM - Client Multiple Database : valjierp
+6/14/2025 6:46:13 PM - Client Database : valjierp
+6/14/2025 6:46:13 PM - Report Name : gsp_valji
+6/14/2025 6:46:13 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/14/2025 6:46:13 PM - Company ID : 24
+6/14/2025 6:46:13 PM - SSDT : CDATE(2025,04,01)
+6/14/2025 6:46:13 PM - LLDT : CDATE(2025,06,14)
+6/14/2025 6:46:13 PM - DSN Name : dsn_13841
+6/14/2025 6:46:13 PM - Report Parameter parameter : 
+6/14/2025 6:47:39 PM - Client Server IP: 160.187.54.114,4545
+6/14/2025 6:47:39 PM - Client Multiple Database : valjierp
+6/14/2025 6:47:39 PM - Client Database : valjierp
+6/14/2025 6:47:39 PM - Report Name : gsp_valji
+6/14/2025 6:47:39 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/14/2025 6:47:39 PM - Company ID : 24
+6/14/2025 6:47:39 PM - SSDT : CDATE(2025,04,01)
+6/14/2025 6:47:39 PM - LLDT : CDATE(2025,06,14)
+6/14/2025 6:47:39 PM - DSN Name : dsn_13842
+6/14/2025 6:47:39 PM - Report Parameter parameter : 
+6/14/2025 7:01:20 PM - Client Server IP: 160.187.54.114,4545
+6/14/2025 7:01:20 PM - Client Multiple Database : valjierp
+6/14/2025 7:01:20 PM - Client Database : valjierp
+6/14/2025 7:01:20 PM - Report Name : gsp_valji
+6/14/2025 7:01:20 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/14/2025 7:01:20 PM - Company ID : 24
+6/14/2025 7:01:20 PM - SSDT : CDATE(2025,04,01)
+6/14/2025 7:01:20 PM - LLDT : CDATE(2025,06,14)
+6/14/2025 7:01:20 PM - DSN Name : dsn_13858
+6/14/2025 7:01:20 PM - Report Parameter parameter : 
+6/16/2025 11:27:46 AM - Client Server IP: 160.187.54.114,4545
+6/16/2025 11:27:46 AM - Client Multiple Database : valjierp
+6/16/2025 11:27:46 AM - Client Database : valjierp
+6/16/2025 11:27:46 AM - Report Name : gsp_valji
+6/16/2025 11:27:46 AM - Report Path : V:\xampp\htdocs\tex\reports\
+6/16/2025 11:27:46 AM - Company ID : 24
+6/16/2025 11:27:46 AM - SSDT : CDATE(2025,04,01)
+6/16/2025 11:27:46 AM - LLDT : CDATE(2025,06,16)
+6/16/2025 11:27:46 AM - DSN Name : dsn_14010
+6/16/2025 11:27:46 AM - Report Parameter parameter : 

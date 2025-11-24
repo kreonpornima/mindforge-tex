@@ -1,0 +1,7 @@
+<?php
+    session_start();
+    require_once('../dbClass.php');
+    db::getInstanceMaster()->db_update("Update tmp111 set divisionid=0 where id=1");
+    exit;
+?>
+

@@ -1,0 +1,597 @@
+﻿<XtraSerializer version="1.0" application="PivotGrid">
+  <property name="#LayoutVersion" />
+  <property name="#LayoutScaleFactor">@1,Width=1@1,Height=1</property>
+  <property name="Appearance" isnull="true" iskey="true">
+    <property name="SelectedCell" iskey="true" value="SelectedCell">
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseFont">true</property>
+      </property>
+      <property name="Font">Segoe UI, 9pt, style=Bold</property>
+    </property>
+    <property name="CustomTotalCell" iskey="true" value="CustomTotalCell">
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseFont">true</property>
+      </property>
+      <property name="Font">Segoe UI, 9pt, style=Bold</property>
+    </property>
+    <property name="FieldValueTotal" iskey="true" value="FieldValueTotal">
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseFont">true</property>
+      </property>
+      <property name="Font">Segoe UI, 9pt, style=Bold</property>
+    </property>
+    <property name="GrandTotalCell" iskey="true" value="GrandTotalCell">
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseFont">true</property>
+      </property>
+      <property name="Font">Segoe UI, 9pt, style=Bold</property>
+    </property>
+    <property name="FieldValueGrandTotal" iskey="true" value="FieldValueGrandTotal">
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseFont">true</property>
+      </property>
+      <property name="Font">Segoe UI, 9pt, style=Bold</property>
+    </property>
+    <property name="FilterHeaderArea" iskey="true" value="FilterHeaderArea">
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseFont">true</property>
+      </property>
+      <property name="Font">Segoe UI, 9pt, style=Bold</property>
+    </property>
+    <property name="TotalCell" iskey="true" value="TotalCell">
+      <property name="Options" isnull="true" iskey="true">
+        <property name="UseFont">true</property>
+      </property>
+      <property name="Font">Segoe UI, 9pt, style=Bold</property>
+    </property>
+  </property>
+  <property name="Fields" iskey="true" value="35">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">entno</property>
+      <property name="Caption">entno</property>
+      <property name="Index">0</property>
+      <property name="AreaIndex">0</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">entdt</property>
+      <property name="Caption">entdt</property>
+      <property name="Index">1</property>
+      <property name="AreaIndex">1</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">division</property>
+      <property name="Caption">division</property>
+      <property name="Index">2</property>
+      <property name="AreaIndex">2</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">comp</property>
+      <property name="Caption">comp</property>
+      <property name="Index">3</property>
+      <property name="AreaIndex">3</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">ycode</property>
+      <property name="Caption">ycode</property>
+      <property name="Index">4</property>
+      <property name="AreaIndex">4</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">MACNO</property>
+      <property name="Caption">Macno</property>
+      <property name="Index">5</property>
+      <property name="CellFormat" isnull="true" iskey="true">
+        <property name="FormatString">#,##0.00</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="AreaIndex">6</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">MAINACNAME</property>
+      <property name="Caption">Mainacname</property>
+      <property name="Index">6</property>
+      <property name="AreaIndex">8</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">CNTL</property>
+      <property name="Caption">Cntl</property>
+      <property name="Index">7</property>
+      <property name="AreaIndex">5</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">TYPE</property>
+      <property name="Caption">Type</property>
+      <property name="Index">8</property>
+      <property name="AreaIndex">7</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">TYPENAME</property>
+      <property name="Caption">Typename</property>
+      <property name="Index">9</property>
+      <property name="AreaIndex">9</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">ACNO</property>
+      <property name="Caption">Acno</property>
+      <property name="Index">10</property>
+      <property name="AreaIndex">10</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="Area">RowArea</property>
+      <property name="FieldName">PARTYNAME</property>
+      <property name="Caption">Partyname</property>
+      <property name="Index">11</property>
+      <property name="AreaIndex">0</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">169</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">SLIPNO</property>
+      <property name="Caption">Slipno</property>
+      <property name="Index">12</property>
+      <property name="AreaIndex">11</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">SLIPDT</property>
+      <property name="Caption">Slipdt</property>
+      <property name="Index">13</property>
+      <property name="AreaIndex">12</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">CHQNO</property>
+      <property name="Caption">Chqno</property>
+      <property name="Index">14</property>
+      <property name="AreaIndex">13</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">CHQDT</property>
+      <property name="Caption">Chqdt</property>
+      <property name="Index">15</property>
+      <property name="AreaIndex">14</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">BANKID</property>
+      <property name="Caption">Bankid</property>
+      <property name="Index">16</property>
+      <property name="AreaIndex">15</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">BANKNAME</property>
+      <property name="Caption">Bankname</property>
+      <property name="Index">17</property>
+      <property name="AreaIndex">16</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item19" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">BROKID</property>
+      <property name="Caption">Brokid</property>
+      <property name="Index">18</property>
+      <property name="AreaIndex">17</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item20" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">BROKERNAME</property>
+      <property name="Caption">Brokername</property>
+      <property name="Index">19</property>
+      <property name="AreaIndex">18</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item21" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="Area">DataArea</property>
+      <property name="FieldName">DRAMOUNT</property>
+      <property name="Caption">Dramount</property>
+      <property name="Index">20</property>
+      <property name="CellFormat" isnull="true" iskey="true">
+        <property name="FormatString">#,##0.00</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="AreaIndex">0</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item22" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="Area">DataArea</property>
+      <property name="FieldName">CRAMOUNT</property>
+      <property name="Caption">Cramount</property>
+      <property name="Index">21</property>
+      <property name="CellFormat" isnull="true" iskey="true">
+        <property name="FormatString">#,##0.00</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="AreaIndex">1</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item23" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">AMOUNT</property>
+      <property name="Caption">Amount</property>
+      <property name="Index">22</property>
+      <property name="CellFormat" isnull="true" iskey="true">
+        <property name="FormatString">#,##0.00</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="AreaIndex">20</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item24" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">sabid</property>
+      <property name="Caption">Sabid</property>
+      <property name="Index">23</property>
+      <property name="CellFormat" isnull="true" iskey="true">
+        <property name="FormatString">#,##0.00</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="AreaIndex">19</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item25" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">sabrowid</property>
+      <property name="Caption">Sabrowid</property>
+      <property name="Index">24</property>
+      <property name="CellFormat" isnull="true" iskey="true">
+        <property name="FormatString">#,##0.00</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="AreaIndex">21</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item26" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">pid</property>
+      <property name="Caption">Pid</property>
+      <property name="Index">25</property>
+      <property name="CellFormat" isnull="true" iskey="true">
+        <property name="FormatString">#,##0.00</property>
+        <property name="FormatType">Numeric</property>
+      </property>
+      <property name="AreaIndex">22</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item27" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">clrdt</property>
+      <property name="Caption">Clrdt</property>
+      <property name="Index">26</property>
+      <property name="AreaIndex">23</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item28" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">REMARK</property>
+      <property name="Caption">Remark</property>
+      <property name="Index">27</property>
+      <property name="AreaIndex">24</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item29" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">SNO</property>
+      <property name="Caption">Sno</property>
+      <property name="Index">28</property>
+      <property name="AreaIndex">25</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item30" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">narration</property>
+      <property name="Caption">Narration</property>
+      <property name="Index">29</property>
+      <property name="AreaIndex">26</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item31" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">ORD</property>
+      <property name="Caption">Ord</property>
+      <property name="Index">30</property>
+      <property name="AreaIndex">27</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item32" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">SSDT</property>
+      <property name="Caption">Ssdt</property>
+      <property name="Index">31</property>
+      <property name="AreaIndex">28</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item33" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">LLDT</property>
+      <property name="Caption">Lldt</property>
+      <property name="Index">32</property>
+      <property name="AreaIndex">29</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item34" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">BANKACNO</property>
+      <property name="Caption">Bankacno</property>
+      <property name="Index">33</property>
+      <property name="AreaIndex">30</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+    <property name="Item35" isnull="true" iskey="true">
+      <property name="ImageIndex">-1</property>
+      <property name="ToolTips" isnull="true" iskey="true">
+        <property name="HeaderText" />
+        <property name="ValueText" />
+      </property>
+      <property name="FieldEditName" />
+      <property name="FieldName">TYPECODE</property>
+      <property name="Caption">Typecode</property>
+      <property name="Index">34</property>
+      <property name="AreaIndex">31</property>
+      <property name="MinWidth">20</property>
+      <property name="Width">100</property>
+    </property>
+  </property>
+  <property name="Prefilter" isnull="true" iskey="true">
+    <property name="Criteria" isnull="true" />
+    <property name="ShowOperandTypeIcon">false</property>
+    <property name="Enabled">true</property>
+  </property>
+  <property name="DefaultFilterEditorView">Visual</property>
+  <property name="OptionsBehavior" isnull="true" iskey="true">
+    <property name="HorizontalScrolling">Control</property>
+  </property>
+  <property name="OptionsCustomization" isnull="true" iskey="true">
+    <property name="CustomizationFormStyle">Excel2007</property>
+    <property name="CustomizationFormLayout">BottomPanelOnly2by2</property>
+  </property>
+  <property name="OptionsPrint" isnull="true" iskey="true">
+    <property name="MergeRowFieldValues">false</property>
+  </property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowColumnGrandTotals">false</property>
+    <property name="ShowColumnGrandTotalHeader">false</property>
+    <property name="ShowDataHeaders">false</property>
+    <property name="ShowFilterHeaders">false</property>
+    <property name="ShowFilterSeparatorBar">false</property>
+  </property>
+  <property name="Groups" iskey="true" value="0" />
+  <property name="FormatRules" iskey="true" value="0" />
+  <property name="FormatConditions" iskey="true" value="0" />
+</XtraSerializer>

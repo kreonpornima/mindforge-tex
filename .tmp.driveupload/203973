@@ -1,0 +1,48 @@
+<?php 
+include '../dbClass.php';
+db::getInstanceMaster()->db_update("Update tmp111 set divisionid=1 where id=1");
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Server-Sent Events Example</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <script>
+        window.addEventListener('beforeunload', function (event) {
+            // Send an asynchronous request to the server
+            fetch('testingLockAPI.php', {
+                method: 'POST',
+                body: JSON.stringify({ message: 'Page is being closed' }),
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            }).catch(function (error) {
+                console.error('Error:', error);
+            });
+
+            // Note: ReturnValue is assigned for compatibility purposes.
+            event.returnValue = '';
+        });
+        /*
+        // This function sets up event listeners to detect when the page is being closed or reloaded
+        function setupPageStatusCheck() {
+            window.addEventListener('beforeunload', function (event) {
+                console.log('Page is about to be closed or reloaded.');
+            });
+
+            window.addEventListener('unload', function (event) {
+                console.log('Page is now closed.');
+            });
+        }
+
+        // Call the function to set up the event listeners
+        // setupPageStatusCheck();
+        */
+    </script>
+    <h1>Lock Enabled</h1>
+    <div id="messages"></div>
+</body>
+</html>

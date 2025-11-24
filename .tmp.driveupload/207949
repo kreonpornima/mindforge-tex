@@ -1,0 +1,170 @@
+05-10-2025 18:15:54 - Client Server IP: 
+05-10-2025 18:15:54 - Client Multiple Database : 
+05-10-2025 18:15:54 - Client Database : 
+05-10-2025 18:15:54 - Report Name : 
+05-10-2025 18:15:54 - Report Path : 
+05-10-2025 18:15:54 - Company ID : 
+05-10-2025 18:15:54 - SSDT : 
+05-10-2025 18:15:54 - LLDT : 
+05-10-2025 18:15:54 - DSN Name : 
+05-10-2025 18:15:54 - Report Parameter parameter : 
+05-10-2025 18:20:03 - Client Server IP: 
+05-10-2025 18:20:03 - Client Multiple Database : 
+05-10-2025 18:20:03 - Client Database : 
+05-10-2025 18:20:03 - Report Name : 
+05-10-2025 18:20:03 - Report Path : 
+05-10-2025 18:20:03 - Company ID : 
+05-10-2025 18:20:03 - SSDT : 
+05-10-2025 18:20:03 - LLDT : 
+05-10-2025 18:20:03 - DSN Name : 
+05-10-2025 18:20:03 - Report Parameter parameter : 
+10/24/2025 8:15:22 PM - Client Server IP: 160.187.54.114,4545
+10/24/2025 8:15:22 PM - Client Multiple Database : valjierp
+10/24/2025 8:15:22 PM - Client Database : valjierp
+10/24/2025 8:15:22 PM - Report Name : outbrok_valji
+10/24/2025 8:15:22 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/24/2025 8:15:22 PM - Company ID : 24
+10/24/2025 8:15:22 PM - SSDT : CDATE(2025,04,01)
+10/24/2025 8:15:22 PM - LLDT : CDATE(2025,10,24)
+10/24/2025 8:15:22 PM - DSN Name : dsn_121801
+10/24/2025 8:15:22 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY WISE|{?Select Type}=All|{?Credit}=No
+10/24/2025 8:15:32 PM - Client Server IP: 160.187.54.114,4545
+10/24/2025 8:15:32 PM - Client Multiple Database : valjierp
+10/24/2025 8:15:32 PM - Client Database : valjierp
+10/24/2025 8:15:32 PM - Report Name : outbrok
+10/24/2025 8:15:32 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/24/2025 8:15:32 PM - Company ID : 24
+10/24/2025 8:15:32 PM - SSDT : CDATE(2025,04,01)
+10/24/2025 8:15:32 PM - LLDT : CDATE(2025,10,24)
+10/24/2025 8:15:32 PM - DSN Name : dsn_121802
+10/24/2025 8:15:32 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+10/24/2025 8:15:52 PM - Client Server IP: 160.187.54.114,4545
+10/24/2025 8:15:52 PM - Client Multiple Database : valjierp
+10/24/2025 8:15:52 PM - Client Database : valjierp
+10/24/2025 8:15:52 PM - Report Name : outbrok_valji
+10/24/2025 8:15:52 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/24/2025 8:15:52 PM - Company ID : 24
+10/24/2025 8:15:52 PM - SSDT : CDATE(2025,04,01)
+10/24/2025 8:15:52 PM - LLDT : CDATE(2025,10,24)
+10/24/2025 8:15:52 PM - DSN Name : dsn_121803
+10/24/2025 8:15:52 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY WISE|{?Select Type}=All|{?Credit}=No
+10/24/2025 8:15:58 PM - Client Server IP: 160.187.54.114,4545
+10/24/2025 8:15:58 PM - Client Multiple Database : valjierp
+10/24/2025 8:15:58 PM - Client Database : valjierp
+10/24/2025 8:15:58 PM - Report Name : outbrok_valji
+10/24/2025 8:15:58 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/24/2025 8:15:58 PM - Company ID : 24
+10/24/2025 8:15:58 PM - SSDT : CDATE(2025,04,01)
+10/24/2025 8:15:58 PM - LLDT : CDATE(2025,10,24)
+10/24/2025 8:15:58 PM - DSN Name : dsn_121804
+10/24/2025 8:15:58 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY WISE|{?Select Type}=All|{?Credit}=Yes
+10/24/2025 8:16:11 PM - Client Server IP: 160.187.54.114,4545
+10/24/2025 8:16:11 PM - Client Multiple Database : valjierp
+10/24/2025 8:16:11 PM - Client Database : valjierp
+10/24/2025 8:16:11 PM - Report Name : outbrok_valji
+10/24/2025 8:16:11 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/24/2025 8:16:11 PM - Company ID : 24
+10/24/2025 8:16:11 PM - SSDT : CDATE(2025,04,01)
+10/24/2025 8:16:11 PM - LLDT : CDATE(2025,10,24)
+10/24/2025 8:16:11 PM - DSN Name : dsn_121805
+10/24/2025 8:16:11 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY WISE|{?Select Type}=All|{?Credit}=Yes
+10/24/2025 8:31:52 PM - Client Server IP: 160.187.54.114,4545
+10/24/2025 8:31:52 PM - Client Multiple Database : valjierp
+10/24/2025 8:31:52 PM - Client Database : valjierp
+10/24/2025 8:31:52 PM - Report Name : outbrok_valji
+10/24/2025 8:31:52 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/24/2025 8:31:52 PM - Company ID : 24
+10/24/2025 8:31:52 PM - SSDT : CDATE(2025,04,01)
+10/24/2025 8:31:52 PM - LLDT : CDATE(2025,10,24)
+10/24/2025 8:31:52 PM - DSN Name : dsn_121812
+10/24/2025 8:31:52 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY WISE|{?Select Type}=All|{?Credit}=No
+10/24/2025 8:33:01 PM - Client Server IP: 160.187.54.114,4545
+10/24/2025 8:33:01 PM - Client Multiple Database : valjierp
+10/24/2025 8:33:01 PM - Client Database : valjierp
+10/24/2025 8:33:01 PM - Report Name : outbrok_valji
+10/24/2025 8:33:01 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/24/2025 8:33:01 PM - Company ID : 24
+10/24/2025 8:33:01 PM - SSDT : CDATE(2025,04,01)
+10/24/2025 8:33:01 PM - LLDT : CDATE(2025,10,24)
+10/24/2025 8:33:01 PM - DSN Name : dsn_121814
+10/24/2025 8:33:01 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY WISE|{?Select Type}=All|{?Credit}=No
+10/25/2025 5:22:11 PM - Client Server IP: 160.187.54.114,4545
+10/25/2025 5:22:11 PM - Client Multiple Database : valjierp
+10/25/2025 5:22:11 PM - Client Database : valjierp
+10/25/2025 5:22:11 PM - Report Name : lotupdate_valji
+10/25/2025 5:22:11 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/25/2025 5:22:11 PM - Company ID : 24
+10/25/2025 5:22:11 PM - SSDT : CDATE(2025,10,24)
+10/25/2025 5:22:11 PM - LLDT : CDATE(2025,10,25)
+10/25/2025 5:22:11 PM - DSN Name : dsn_122852
+10/25/2025 5:22:11 PM - Report Parameter parameter : 
+10/25/2025 5:23:09 PM - Client Server IP: 160.187.54.114,4545
+10/25/2025 5:23:09 PM - Client Multiple Database : valjierp
+10/25/2025 5:23:09 PM - Client Database : valjierp
+10/25/2025 5:23:09 PM - Report Name : lotupdate_valji
+10/25/2025 5:23:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/25/2025 5:23:09 PM - Company ID : 24
+10/25/2025 5:23:09 PM - SSDT : CDATE(2025,04,01)
+10/25/2025 5:23:09 PM - LLDT : CDATE(2025,10,25)
+10/25/2025 5:23:09 PM - DSN Name : dsn_122856
+10/25/2025 5:23:09 PM - Report Parameter parameter : 
+11/1/2025 1:31:37 PM - Client Server IP: 160.187.54.38,4545
+11/1/2025 1:31:37 PM - Client Multiple Database : Main,Jainar
+11/1/2025 1:31:37 PM - Client Database : Jainar
+11/1/2025 1:31:37 PM - Report Name : fsc_jainar
+11/1/2025 1:31:37 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 1:31:37 PM - Company ID : 57
+11/1/2025 1:31:37 PM - SSDT : CDATE(2025,04,01)
+11/1/2025 1:31:37 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 1:31:37 PM - DSN Name : dsn_135397
+11/1/2025 1:31:37 PM - Report Parameter parameter : 
+11/17/2025 5:04:42 PM - Client Server IP: 139.5.190.101,8546
+11/17/2025 5:04:42 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+11/17/2025 5:04:42 PM - Client Database : Wintry_INV
+11/17/2025 5:04:42 PM - Report Name : outbrok
+11/17/2025 5:04:42 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/17/2025 5:04:42 PM - Company ID : 46
+11/17/2025 5:04:42 PM - SSDT : CDATE(2025,04,01)
+11/17/2025 5:04:42 PM - LLDT : CDATE(2025,11,17)
+11/17/2025 5:04:42 PM - DSN Name : dsn_165252
+11/17/2025 5:04:42 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+11/17/2025 5:05:14 PM - Client Server IP: 139.5.190.101,8546
+11/17/2025 5:05:14 PM - Client Multiple Database : Saberp_Main_MF,Wintry_INV
+11/17/2025 5:05:14 PM - Client Database : Wintry_INV
+11/17/2025 5:05:14 PM - Report Name : outbrok
+11/17/2025 5:05:14 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/17/2025 5:05:14 PM - Company ID : 46
+11/17/2025 5:05:14 PM - SSDT : CDATE(2025,04,01)
+11/17/2025 5:05:14 PM - LLDT : CDATE(2025,11,17)
+11/17/2025 5:05:14 PM - DSN Name : dsn_165255
+11/17/2025 5:05:14 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+11/19/2025 12:55:14 PM - Client Server IP: 160.187.54.69,4545
+11/19/2025 12:55:14 PM - Client Multiple Database : main,Kapil
+11/19/2025 12:55:14 PM - Client Database : Kapil
+11/19/2025 12:55:14 PM - Report Name : kapil_fs
+11/19/2025 12:55:14 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 12:55:14 PM - Company ID : 17
+11/19/2025 12:55:14 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 12:55:14 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 12:55:14 PM - DSN Name : dsn_168752
+11/19/2025 12:55:14 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 12:55:54 PM - Client Server IP: 160.187.54.69,4545
+11/19/2025 12:55:54 PM - Client Multiple Database : main,Kapil
+11/19/2025 12:55:54 PM - Client Database : Kapil
+11/19/2025 12:55:54 PM - Report Name : kapil_fs
+11/19/2025 12:55:54 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 12:55:54 PM - Company ID : 17
+11/19/2025 12:55:54 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 12:55:54 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 12:55:54 PM - DSN Name : dsn_168755
+11/19/2025 12:55:54 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 12:56:24 PM - Client Server IP: 160.187.54.69,4545
+11/19/2025 12:56:24 PM - Client Multiple Database : main,Kapil
+11/19/2025 12:56:24 PM - Client Database : Kapil
+11/19/2025 12:56:24 PM - Report Name : kapil_fs
+11/19/2025 12:56:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 12:56:24 PM - Company ID : 17
+11/19/2025 12:56:24 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 12:56:24 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 12:56:24 PM - DSN Name : dsn_168759
+11/19/2025 12:56:24 PM - Report Parameter parameter : {?SELECT}=NO

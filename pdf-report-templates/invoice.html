@@ -1,0 +1,56 @@
+<h2>{{ CompanyName }}</h2>
+<p>Invoice No: {{ InvoiceNo }} | Date: {{ InvoiceDate }}</p>
+<p>Customer: {{ CustomerName }} | GSTIN: {{ GSTIN }}</p>
+
+<h3>Item Details</h3>
+<table border="1" width="100%" cellspacing="0" cellpadding="5">
+  <tr>
+    {% for col in tables.Items[0]|keys %}
+      <th>{{ col }}</th>
+    {% endfor %}
+  </tr> 
+  {% for row in tables.Items %}
+  <tr>
+    {% for val in row %}
+      <td>{{ val }}</td>
+    {% endfor %}
+  </tr>
+  {% endfor %}
+</table> 
+
+<h3>HSN Summary</h3>
+<table border="1" width="100%" cellspacing="0" cellpadding="5">
+  <tr>
+    {% for col in tables.HSN[0]|keys %}
+      <th>{{ col }}</th>
+    {% endfor %}
+  </tr>
+  {% for row in tables.HSN %}
+  <tr>
+    {% for val in row %}
+      <td>{{ val }}</td>
+    {% endfor %}
+  </tr>
+  {% endfor %}
+</table>
+
+<p style="text-align:right;"><i>Generated on {{ GeneratedOn }}</i></p>
+
+
+<!-- <h1>Invoice {{ invoice_number }}</h1>
+<p>Customer: {{ customer }}</p>
+
+<table border="1" cellpadding="5" cellspacing="0" width="100%">
+  <tr>
+    <th>Description</th><th>Qty</th><th>Price</th>
+  </tr>
+  {% for item in items %}
+  <tr>
+    <td>{{ item.desc }}</td>
+    <td>{{ item.qty }}</td>
+    <td>{{ item.price }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+<p><strong>Total:</strong> {{ total }}</p> -->

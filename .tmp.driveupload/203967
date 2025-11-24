@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ag-Grid Example</title>
+    <!-- Include ag-Grid styles -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ag-grid-community/styles/ag-grid.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ag-grid-community/styles/ag-theme-alpine.css">
+    <link rel="stylesheet" href="style.css">
+    <!-- Include jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+	<!-- Include ag-Grid -->
+	<script src="https://cdn.jsdelivr.net/npm/ag-grid-enterprise/dist/ag-grid-enterprise.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/ag-charts-enterprise@9.0.0/dist/umd/ag-charts-enterprise.js"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/ag-grid-community/dist/ag-grid-community.noStyle.js"></script> -->
+	<!-- <script src="https://cdn.jsdelivr.net/npm/ag-charts-community@9.0.0/dist/umd/ag-charts-community.js"></script> -->
+</head>
+<body>
+    <!-- <h1>MasterDetail Individual cols</h1> -->
+    <div id="myGrid" class="ag-theme-alpine" style="height: 100vh; width: 100%;"></div>
+    <script src="data.js"></script>
+    <!-- <script src="DetailCellRenderer.js"></script> -->
+    <!-- <script src="CostDetail.js"></script> -->
+    <!-- <script src="SalesDetail.js"></script> -->
+    <!-- <script src="OrdersFormDetail.js"></script> -->
+    <!-- <script src="index.js"></script> -->
+	 <script>
+		class OrdersFormDetail {
+			constructor(params) {
+				this.params = params;
+
+				this.continents = {
+				Europe: {
+					countries: [
+					'Denmark',
+					'United Kingdom',
+					'Bulgaria',
+					'France',
+					'Germany',
+					'Latvia',
+					'Hungary',
+					'Ireland',
+					'Italy',
+					'Lithuania',
+					],
+				},
+				'South America': {
+					countries: [
+					'Argentina',
+					'Bolivia',
+					'Brazil',
+					'Chile',
+					'Colombia',
+					'Ecuador',
+					'Falkland Islands',
+					'French Guiana',
+					'Guyana',
+					'Paraguay',
+					],
+				},
+				'North America': {
+					countries: [
+					'United States',
+					'Mexico',
+					'Canada',
+					'Jamaica',
+					'Barbados',
+					'Dominica',
+					'Belize',
+					'Guadalupe',
+					'Trinidad and Tobago',
+					'Saint Vincent and the Grenadines',
+					],
+				},
+				Asia: {
+					countries: [
+					'China',
+					'Japan',
+					'India',
+					'Pakistan',
+					'Russia',
+					'Sri-Lanka',
+					'Iran',
+					'Vietnam',
+					'Bangladesh',
+					'Philippines',
+					],
+				},
+				Africa: {
+					countries: [
+					'Nigeria',
+					'Ethiopia',
+					'Egypt',
+					'Democratic Republic of the Congo',
+					'Tanzania',
+					'South Africa',
+					'Kenya',
+					'Uganda',
+					'Algeria',
+					'Sudan',
+					],
+				},
+				Australia: {
+					countries: [
+					'Australia',
+					'Micronesia',
+					'Fiji',
+					'Kiribati',
+					'Marshall Islands',
+					'Nauru',
+					'New Zealand',
+					'Palau',
+					'Papua New Guinea',
+					'Samoa',
+					],
+				},
+				Antarctica: {
+					countries: [
+					'Adélie Land',
+					'British Antarctic Territory',
+					'Ross Dependency',
+					'Peter I Island and Queen Maud Land',
+					'Australian Antarctic Territory',
+					'Chilean Antarctic Territory',
+					'Argentine Antarctica',
+					],
+				},
+				};
+			}
+
+			eGui() {
+				let eGui = document.createElement('div');
+				eGui.innerHTML = `<form id="formElement">
+				<div style="height:70px;">
+				<p>
+				<label>
+					Country: <br>
+					${this.getDropDownList()}
+				</label>
+				</p>
+				<p>
+					<label>
+					Product:<br>
+					<select name="products" id="productDropdown">
+					<option value="A">A</option>
+					<option value="B">B</option>
+					<option value="C">C</option>
+					</select>
+				</label>
+				</p>
+				<p>
+					<label>
+					Sales Amount:<br>
+					<input id="salesInput" type="number" min="0" placeholder="enter new sales here">
+					</label>
+				</p>
+				<p>
+					<label>
+					Cost:<br>
+					<input id="costInput" type="number" min="0" placeholder="enter new cost here">
+					</label>
+				</p>
+				<p>
+					<label>
+					<br>
+					<button type="button" id="applyBtn">Add Record</button>
+					</label>
+				</p>
+				</form>
+			</div>`;
+
+				let button = eGui.querySelector('#applyBtn');
+				button.addEventListener('click', () => {
+				this.buttonHandler();
+				});
+
+				return eGui;
+			}
+
+			buttonHandler() {
+				let chosenCountry = document.getElementById(
+				this.params.data.continent + 'Countries'
+				).value;
+				let chosenProduct = document.getElementById('productDropdown').value;
+				let chosenCost = document.getElementById('costInput').value;
+				let chosenSale = document.getElementById('salesInput').value;
+				let continent = this.params.data.continent;
+
+				if (!this.params.context.newRecords) {
+					this.params.context.newRecords = {
+						Europe: [],
+						'South America': [],
+						'North America': [],
+						Asia: [],
+						Africa: [],
+						Australia: [],
+						Antarctica: [],
+					};
+				}
+				let newRecord = {
+					country: chosenCountry,
+					sales: Number(chosenSale),
+					cost: Number(chosenCost),
+					product: chosenProduct,
+				};
+
+				this.params.context.newRecords[continent].push(newRecord);
+
+				const setNewMasterVal = (chosenVal, col) => {
+					let chosenNumber = Number(chosenVal);
+					if (chosenVal) {
+						if (isNaN(chosenNumber)) {
+							return;
+						}
+						let newVal = chosenNumber + Number(this.params.node.data[col]);
+						this.params.node.setDataValue(col, newVal);
+					}
+				};
+				setNewMasterVal(chosenCost, 'cost');
+				setNewMasterVal(chosenSale, 'sales');
+			}
+
+			getDropDownList() {
+				let continent = this.params.data.continent;
+				let countryList = this.continents[continent].countries;
+
+				let dropDownHtml = `<select name="countries" style="width: 100px;" id="${continent}Countries">`;
+				countryList.forEach((country) => {
+					dropDownHtml += `<option value="${country}">${country}</option>`;
+				});
+				dropDownHtml += '</select>';
+
+				return dropDownHtml;
+			}
+
+			getGui() {
+				return this.eGui;
+			}
+		}
+        async function getData(){
+            $.ajax({
+                url: `getDataForAGMasterDetail.php?ID=1`,
+                headers: {
+                    Accept: "application/json",
+                    "Content-Type": "application/json"
+                },
+                data: { } ,
+                type: "GET", 
+                dataType: "json",
+                success: function(data) {
+                    // d = data;
+                    console.log("Got Data frm API", data);
+                    return(data);
+                },
+                error: function(jqXHR, textStatus, errorThrown) {
+                    console.log("Got ERROR Data frm API", jqXHR);
+                    console.log("Got ERROR Data frm API", textStatus);
+                    console.log("Got ERROR Data frm API", errorThrown);
+                    return(new Error(textStatus || errorThrown));
+                }
+            });
+        }
+        async function getData1(par) {
+            console.log("params", par)
+            try {
+                const response = await fetch('getDataForAGMasterDetail.php?Design='+ par.id +'&ID=' + par.id);
+                const data = await response.json();
+                console.log('API->',data); 
+                return data;
+            } catch (error) {
+                console.error('Error fetching data:', error);
+                return [];
+            }
+        }
+
+		class SalesDetail {
+			constructor(params) {
+				console.log("in SalesDetail Class", params)
+				this.params = params;
+				// this.rowData = await getData();
+				this.rowData = params.data.data;
+				
+				if (params.context.newRecords) {
+					let continent = this.params.data.continent
+					this.rowData = this.rowData.concat(
+						params.context.newRecords[continent]
+					);
+				}
+			}
+
+			eGui() {
+				var eTemp = document.createElement('div');
+				eTemp.innerHTML = this.getTemplate();
+				this.eGui = eTemp.firstElementChild;
+
+				this.setupDetailGrid();
+				return this.eGui;
+			}
+
+			async setupDetailGrid() {
+                // setTimeout(async () => {
+                    // this.rowData = await getData1();
+                    // console.log("timout", this.rowData);
+                // }, 3000);
+                // this.rowData = await getData1(this.params.data);
+                // console.log(this.rowData);
+				var detailGridOptions = {
+					columnDefs: [
+						{ field: 'country', rowGroup: true },
+						{ field: 'sales', aggFunc: 'sum' },
+						{ field: 'cost' },
+						{ field: 'product', pivot: true },
+					],
+					defaultColDef: {
+						flex: 1,
+						minWidth: 150,
+					},
+					pivotMode: true,
+					rowData: this.rowData,
+				};
+
+				var eDetailGrid = this.eGui.querySelector('.full-width-grid');
+				// new agGrid.Grid(eDetailGrid, detailGridOptions);
+				// this.detailGridApi = detailGridOptions.api;
+				this.detailGridApi = agGrid.createGrid(eDetailGrid, detailGridOptions);
+
+				var masterGridApi = this.params.api;
+				var rowId = this.params.node.id;
+
+				var gridInfo = {
+					id: rowId,
+					api: detailGridOptions.api,
+					columnApi: detailGridOptions.columnApi,
+				};
+				masterGridApi.addDetailGridInfo(rowId, gridInfo);
+			}
+
+			getTemplate() {
+				var template = `<div class="full-width-panel">
+				<div class="full-width-details"></div>
+				<div class="full-width-grid ag-theme-alpine"></div>
+				</div>`;
+
+				return template;
+			}
+		}
+
+		class DetailCellRenderer {
+			init(params) {
+				console.log("in DetailCellRenderer Class")
+				this.params = params;
+				var colId = params.context.selectedDetail;
+				// console.log(params)
+
+				if (colId === "cost") {
+				var costDetail = new CostDetail(params);
+				this.eGui = costDetail.eGui();
+				} else if (colId === "orders") {
+				var ordersFormDetail = new OrdersFormDetail(params);
+				this.eGui = ordersFormDetail.eGui();
+				} else if (colId === "sales") {
+				var salesDetail = new SalesDetail(params);
+				this.eGui = salesDetail.eGui();
+				}
+			}
+			getGui() {
+				return this.eGui;
+			}
+		}
+
+		class CostDetail {
+			constructor(params) {
+				console.log("in CostDetail Class", params)
+				this.params = params;
+			}
+
+			eGui() {
+				return this.createChart();
+			}
+
+			createChart() {
+				let continent = this.params.data.continent;
+				let rowData = this.params.data.data;
+				let newRecords = this.params.context.newRecords;
+				let productACost = 0;
+				let productBCost = 0;
+				let productCCost = 0;
+
+				if (newRecords) {
+				rowData = rowData.concat(newRecords[continent]);
+				}
+
+				rowData.map(row => {
+					switch (row.product) {
+						case "A":
+							productACost += row.cost;
+							break;
+						case "B":
+							productBCost += row.cost;
+							break;
+						case "C":
+							productCCost += row.cost;
+							break;
+					}
+					return;
+				});
+
+				let container = document.createElement("div");
+				container.style.height = "310px"
+				var options = {
+					container: container,
+					autoSize: true,
+					title: {
+						text: `(${continent}) Costs by Product`,
+						fontSize: 18
+					},
+					series: [
+						{
+						data: [
+							{
+								product: "Product A",
+								cost: productACost
+							},
+							{
+								product: "Product B",
+								cost: productBCost
+							},
+							{
+								product: "Product C",
+								cost: productCCost
+							}
+						],
+						type: "pie",
+						labelKey: "product",
+						angleKey: "cost",
+						label: {
+							minAngle: 0
+						},
+						callout: {
+							strokeWidth: 1,
+							length: 5
+						}
+						}
+					],
+					legend: {
+						enabled: false
+					}
+				};
+
+				var chart = agCharts.AgChart.create(options);
+				return container;
+			}
+		}
+
+		const treeOpen = 'https://raw.githubusercontent.com/LouisMoore-agGrid/js-ag-grid-52eyso/50413f659cdfbe903ec14d9a5d4b7cf175b76637/tree-open.svg';
+		const treeClosed = 'https://raw.githubusercontent.com/LouisMoore-agGrid/js-ag-grid-52eyso/aacef9f45dae7ea5822c4b76bf1c981a74451435/tree-closed.svg';
+
+		var columnDefs = [
+			{ field: 'continent' },
+			{
+				field: 'sales',
+				cellRenderer: (params) => makeMasterCellRenderer(params, 'sales'),
+			},
+			{
+				field: 'cost',
+				cellRenderer: (params) => makeMasterCellRenderer(params, 'cost'),
+			},
+			{
+				field: 'orders',
+				cellRenderer: (params) => makeMasterCellRenderer(params, 'orders'),
+			},
+		];
+
+		const gridOptions = {
+			columnDefs: columnDefs,
+			detailRowAutoHeight: true,
+			rowData: rowData, 
+			masterDetail: true,
+			detailCellRenderer: 'myDetailCellRenderer',
+			components: {
+				myDetailCellRenderer: DetailCellRenderer, 
+			},
+			context:{
+				salesDetail:0,
+				chevKeyMap: {},
+			},
+			
+			// enableCharts: true,
+			// enableRangeSelection: true,
+		};
+
+		function makeMasterCellRenderer(params, col) {
+			console.log("in makeMasterCellRenderer", params)
+			let isExpanded = params.node.expanded;
+			let container = document.createElement('div');
+			let chevron = document.createElement('img');
+			let span = document.createElement('span');
+			let openCol = null;
+
+			chevron.classList.add(`row-${params.node.data.id}`);
+			chevron.classList.add('pointer-class');
+			container.classList.add('master-container');
+
+			console.log("params.context", params.context)
+			if (params.context) {
+				openCol = params.context.chevKeyMap[chevron.className];
+			}
+			let chevronState = isExpanded && col === openCol ? treeOpen : treeClosed;
+			chevron.setAttribute('src', chevronState);
+
+			switch (col) {
+				case 'orders':
+					span.innerText = 'Orders Form';
+					container.appendChild(chevron);
+					break;
+				default:
+					span.innerText = params.value;
+					container.appendChild(chevron);
+					break;
+			}
+
+			chevron.addEventListener('click', (event) => {
+				console.log("OPening")
+				let chevron = event.target;
+				openDetail(params, col, chevron);
+			});
+
+			container.appendChild(span);
+			return container;
+		}
+
+		const openDetail = (params, column, cellRenderer) => {
+			console.log("In Opendetail")
+			if (
+				gridOptions.context &&
+				gridOptions.context.chevKeyMap[cellRenderer.className] === column &&
+				params.node.expanded
+			) {
+				// console.log("==>>",gridOptions.context.chevKeyMap[cellRenderer.className])
+				params.node.setExpanded(false);
+				cellRenderer.setAttribute('src', treeClosed);
+				return;
+			}
+			//  gridApi.setGridOption("context", { reportingCurrency: value });
+			// gridOptions.context = { ...gridOptions.context, selectedDetail: column };
+			gridApi.setGridOption("context", { selectedDetail: column });
+			console.log(gridOptions)
+			// console.log(gridApi)
+			let className = '';
+			cellRenderer.classList.forEach((cssClass) => {
+				if (cssClass.indexOf('row') !== -1) {
+					className = cssClass;
+				}
+			});
+			let nodeRenderers = document.querySelectorAll(`.${className}`);
+			nodeRenderers.forEach((renderer) => {
+				renderer.setAttribute('src', treeClosed);
+			});
+			params.node.setExpanded(true);
+			if (gridOptions.context.chevKeyMap) {
+				gridOptions.context.chevKeyMap[cellRenderer.className] = column;
+			} else {
+				gridOptions.context.chevKeyMap = {};
+				gridOptions.context.chevKeyMap[cellRenderer.className] = column;
+			}
+			cellRenderer.setAttribute('src', treeOpen);
+
+			if (params.node.detailNode) {
+				params.api.redrawRows({ rowNodes: [params.node.detailNode] });
+			}
+		};
+
+		// new agGrid.Grid(document.querySelector('#myGrid'), gridOptions);
+		// Initialize the grid using the new createGrid method
+		const gridApi = agGrid.createGrid(document.querySelector('#myGrid'), gridOptions);
+
+		// You can now use gridApi for further API calls
+		// console.log(gridApi); // Example: logs the grid API object
+	 </script>
+</body>
+</html>

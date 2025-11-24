@@ -1,0 +1,270 @@
+7/10/2025 4:58:08 PM - Client Server IP: 160.187.54.69,4545
+7/10/2025 4:58:08 PM - Client Multiple Database : main,Kapil
+7/10/2025 4:58:08 PM - Client Database : Kapil
+7/10/2025 4:58:08 PM - Report Name : outsumm
+7/10/2025 4:58:08 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/10/2025 4:58:08 PM - Company ID : 17
+7/10/2025 4:58:08 PM - SSDT : CDATE(2025,04,01)
+7/10/2025 4:58:08 PM - LLDT : CDATE(2025,07,10)
+7/10/2025 4:58:08 PM - DSN Name : dsn_25559
+7/10/2025 4:58:08 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/10/2025 8:00:37 PM - Client Server IP: 160.187.54.69,4545
+7/10/2025 8:00:37 PM - Client Multiple Database : main,Kapil
+7/10/2025 8:00:37 PM - Client Database : Kapil
+7/10/2025 8:00:37 PM - Report Name : outsumm
+7/10/2025 8:00:37 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/10/2025 8:00:37 PM - Company ID : 17
+7/10/2025 8:00:37 PM - SSDT : CDATE(2025,04,01)
+7/10/2025 8:00:37 PM - LLDT : CDATE(2025,07,10)
+7/10/2025 8:00:37 PM - DSN Name : dsn_25747
+7/10/2025 8:00:37 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/11/2025 5:53:02 PM - Client Server IP: 160.187.54.69,4545
+7/11/2025 5:53:02 PM - Client Multiple Database : main,Kapil
+7/11/2025 5:53:02 PM - Client Database : Kapil
+7/11/2025 5:53:02 PM - Report Name : outsumm
+7/11/2025 5:53:02 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/11/2025 5:53:02 PM - Company ID : 17
+7/11/2025 5:53:02 PM - SSDT : CDATE(2025,04,01)
+7/11/2025 5:53:02 PM - LLDT : CDATE(2025,07,11)
+7/11/2025 5:53:02 PM - DSN Name : dsn_26302
+7/11/2025 5:53:02 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/11/2025 7:45:33 PM - Client Server IP: 160.187.54.69,4545
+7/11/2025 7:45:33 PM - Client Multiple Database : main,Kapil
+7/11/2025 7:45:33 PM - Client Database : Kapil
+7/11/2025 7:45:33 PM - Report Name : outsumm
+7/11/2025 7:45:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/11/2025 7:45:33 PM - Company ID : 17
+7/11/2025 7:45:33 PM - SSDT : CDATE(2025,04,01)
+7/11/2025 7:45:33 PM - LLDT : CDATE(2025,07,11)
+7/11/2025 7:45:33 PM - DSN Name : dsn_26391
+7/11/2025 7:45:33 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/15/2025 11:13:54 AM - Client Server IP: 160.187.54.69,4545
+7/15/2025 11:13:54 AM - Client Multiple Database : main,Kapil
+7/15/2025 11:13:54 AM - Client Database : Kapil
+7/15/2025 11:13:54 AM - Report Name : outsumm
+7/15/2025 11:13:54 AM - Report Path : V:\xampp\htdocs\tex\reports\
+7/15/2025 11:13:54 AM - Company ID : 17
+7/15/2025 11:13:54 AM - SSDT : CDATE(2025,04,01)
+7/15/2025 11:13:54 AM - LLDT : CDATE(2025,07,15)
+7/15/2025 11:13:54 AM - DSN Name : dsn_28426
+7/15/2025 11:13:54 AM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/16/2025 7:16:27 PM - Client Server IP: 160.187.54.69,4545
+7/16/2025 7:16:27 PM - Client Multiple Database : main,Kapil
+7/16/2025 7:16:27 PM - Client Database : Kapil
+7/16/2025 7:16:27 PM - Report Name : outsumm
+7/16/2025 7:16:27 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/16/2025 7:16:27 PM - Company ID : 17
+7/16/2025 7:16:27 PM - SSDT : CDATE(2025,04,01)
+7/16/2025 7:16:27 PM - LLDT : CDATE(2025,07,16)
+7/16/2025 7:16:27 PM - DSN Name : dsn_29800
+7/16/2025 7:16:27 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/19/2025 7:10:37 PM - Client Server IP: 160.187.54.69,4545
+7/19/2025 7:10:37 PM - Client Multiple Database : main,Kapil
+7/19/2025 7:10:37 PM - Client Database : Kapil
+7/19/2025 7:10:37 PM - Report Name : outbrok
+7/19/2025 7:10:37 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/19/2025 7:10:37 PM - Company ID : 17
+7/19/2025 7:10:37 PM - SSDT : CDATE(2025,04,01)
+7/19/2025 7:10:37 PM - LLDT : CDATE(2025,07,19)
+7/19/2025 7:10:37 PM - DSN Name : dsn_31684
+7/19/2025 7:10:37 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/22/2025 8:17:01 PM - Client Server IP: 160.187.54.69,4545
+7/22/2025 8:17:01 PM - Client Multiple Database : main,Kapil
+7/22/2025 8:17:01 PM - Client Database : Kapil
+7/22/2025 8:17:01 PM - Report Name : outsumm
+7/22/2025 8:17:01 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/22/2025 8:17:01 PM - Company ID : 17
+7/22/2025 8:17:01 PM - SSDT : CDATE(2025,04,01)
+7/22/2025 8:17:01 PM - LLDT : CDATE(2025,07,22)
+7/22/2025 8:17:01 PM - DSN Name : dsn_33474
+7/22/2025 8:17:01 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/24/2025 3:27:22 PM - Client Server IP: 160.187.54.69,4545
+7/24/2025 3:27:22 PM - Client Multiple Database : main,Kapil
+7/24/2025 3:27:22 PM - Client Database : Kapil
+7/24/2025 3:27:22 PM - Report Name : outsumm
+7/24/2025 3:27:22 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/24/2025 3:27:22 PM - Company ID : 17
+7/24/2025 3:27:22 PM - SSDT : CDATE(2025,04,01)
+7/24/2025 3:27:22 PM - LLDT : CDATE(2025,07,24)
+7/24/2025 3:27:22 PM - DSN Name : dsn_34754
+7/24/2025 3:27:22 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/26/2025 2:53:09 PM - Client Server IP: 160.187.54.69,4545
+7/26/2025 2:53:09 PM - Client Multiple Database : main,Kapil
+7/26/2025 2:53:09 PM - Client Database : Kapil
+7/26/2025 2:53:09 PM - Report Name : outsumm
+7/26/2025 2:53:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/26/2025 2:53:09 PM - Company ID : 17
+7/26/2025 2:53:09 PM - SSDT : CDATE(2025,04,01)
+7/26/2025 2:53:09 PM - LLDT : CDATE(2025,07,26)
+7/26/2025 2:53:09 PM - DSN Name : dsn_36186
+7/26/2025 2:53:09 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/28/2025 7:29:34 PM - Client Server IP: 160.187.54.69,4545
+7/28/2025 7:29:34 PM - Client Multiple Database : main,Kapil
+7/28/2025 7:29:34 PM - Client Database : Kapil
+7/28/2025 7:29:34 PM - Report Name : outsumm
+7/28/2025 7:29:34 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/28/2025 7:29:34 PM - Company ID : 17
+7/28/2025 7:29:34 PM - SSDT : CDATE(2025,04,01)
+7/28/2025 7:29:34 PM - LLDT : CDATE(2025,07,28)
+7/28/2025 7:29:34 PM - DSN Name : dsn_37625
+7/28/2025 7:29:34 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/29/2025 6:17:09 PM - Client Server IP: 160.187.54.69,4545
+7/29/2025 6:17:09 PM - Client Multiple Database : main,Kapil
+7/29/2025 6:17:09 PM - Client Database : Kapil
+7/29/2025 6:17:09 PM - Report Name : outsumm
+7/29/2025 6:17:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/29/2025 6:17:09 PM - Company ID : 17
+7/29/2025 6:17:09 PM - SSDT : CDATE(2025,04,01)
+7/29/2025 6:17:09 PM - LLDT : CDATE(2025,07,29)
+7/29/2025 6:17:09 PM - DSN Name : dsn_38332
+7/29/2025 6:17:09 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/30/2025 3:26:41 PM - Client Server IP: 160.187.54.69,4545
+7/30/2025 3:26:41 PM - Client Multiple Database : main,Kapil
+7/30/2025 3:26:41 PM - Client Database : Kapil
+7/30/2025 3:26:41 PM - Report Name : outsumm
+7/30/2025 3:26:41 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/30/2025 3:26:41 PM - Company ID : 17
+7/30/2025 3:26:41 PM - SSDT : CDATE(2025,04,01)
+7/30/2025 3:26:41 PM - LLDT : CDATE(2025,07,30)
+7/30/2025 3:26:41 PM - DSN Name : dsn_38947
+7/30/2025 3:26:41 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/30/2025 7:52:20 PM - Client Server IP: 160.187.54.69,4545
+7/30/2025 7:52:20 PM - Client Multiple Database : main,Kapil
+7/30/2025 7:52:20 PM - Client Database : Kapil
+7/30/2025 7:52:20 PM - Report Name : outsumm
+7/30/2025 7:52:20 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/30/2025 7:52:20 PM - Company ID : 17
+7/30/2025 7:52:20 PM - SSDT : CDATE(2025,04,01)
+7/30/2025 7:52:20 PM - LLDT : CDATE(2025,07,30)
+7/30/2025 7:52:20 PM - DSN Name : dsn_39218
+7/30/2025 7:52:20 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/31/2025 4:03:15 PM - Client Server IP: 160.187.54.69,4545
+7/31/2025 4:03:15 PM - Client Multiple Database : main,Kapil
+7/31/2025 4:03:15 PM - Client Database : Kapil
+7/31/2025 4:03:15 PM - Report Name : outsumm
+7/31/2025 4:03:15 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/31/2025 4:03:15 PM - Company ID : 17
+7/31/2025 4:03:15 PM - SSDT : CDATE(2025,04,01)
+7/31/2025 4:03:15 PM - LLDT : CDATE(2025,07,31)
+7/31/2025 4:03:15 PM - DSN Name : dsn_39793
+7/31/2025 4:03:15 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/31/2025 9:26:55 PM - Client Server IP: 160.187.54.69,4545
+7/31/2025 9:26:55 PM - Client Multiple Database : main,Kapil
+7/31/2025 9:26:55 PM - Client Database : Kapil
+7/31/2025 9:26:55 PM - Report Name : outsumm
+7/31/2025 9:26:55 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/31/2025 9:26:55 PM - Company ID : 17
+7/31/2025 9:26:55 PM - SSDT : CDATE(2025,04,01)
+7/31/2025 9:26:55 PM - LLDT : CDATE(2025,07,31)
+7/31/2025 9:26:55 PM - DSN Name : dsn_40114
+7/31/2025 9:26:55 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+8/1/2025 9:16:27 AM - Client Server IP: 160.187.54.69,4545
+8/1/2025 9:16:27 AM - Client Multiple Database : main,Kapil
+8/1/2025 9:16:27 AM - Client Database : Kapil
+8/1/2025 9:16:27 AM - Report Name : outsumm
+8/1/2025 9:16:27 AM - Report Path : V:\xampp\htdocs\tex\reports\
+8/1/2025 9:16:27 AM - Company ID : 17
+8/1/2025 9:16:27 AM - SSDT : CDATE(2025,04,01)
+8/1/2025 9:16:27 AM - LLDT : CDATE(2025,08,01)
+8/1/2025 9:16:27 AM - DSN Name : dsn_40146
+8/1/2025 9:16:27 AM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+8/4/2025 8:09:21 PM - Client Server IP: 160.187.54.69,4545
+8/4/2025 8:09:21 PM - Client Multiple Database : main,Kapil
+8/4/2025 8:09:21 PM - Client Database : Kapil
+8/4/2025 8:09:21 PM - Report Name : outsumm
+8/4/2025 8:09:21 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/4/2025 8:09:21 PM - Company ID : 17
+8/4/2025 8:09:21 PM - SSDT : CDATE(2025,04,01)
+8/4/2025 8:09:21 PM - LLDT : CDATE(2025,08,04)
+8/4/2025 8:09:21 PM - DSN Name : dsn_42937
+8/4/2025 8:09:21 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+8/13/2025 7:03:04 PM - Client Server IP: 160.187.54.69,4545
+8/13/2025 7:03:04 PM - Client Multiple Database : main,Kapil
+8/13/2025 7:03:04 PM - Client Database : Kapil
+8/13/2025 7:03:04 PM - Report Name : outsumm
+8/13/2025 7:03:04 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/13/2025 7:03:04 PM - Company ID : 17
+8/13/2025 7:03:04 PM - SSDT : CDATE(2025,04,01)
+8/13/2025 7:03:04 PM - LLDT : CDATE(2025,08,13)
+8/13/2025 7:03:04 PM - DSN Name : dsn_49398
+8/13/2025 7:03:04 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+8/15/2025 1:39:31 PM - Client Server IP: 160.187.54.69,4545
+8/15/2025 1:39:31 PM - Client Multiple Database : main,Kapil
+8/15/2025 1:39:31 PM - Client Database : Kapil
+8/15/2025 1:39:31 PM - Report Name : outsumm
+8/15/2025 1:39:31 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/15/2025 1:39:31 PM - Company ID : 17
+8/15/2025 1:39:31 PM - SSDT : CDATE(2025,04,01)
+8/15/2025 1:39:31 PM - LLDT : CDATE(2025,08,15)
+8/15/2025 1:39:31 PM - DSN Name : dsn_50632
+8/15/2025 1:39:31 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+8/20/2025 4:15:54 PM - Client Server IP: 160.187.54.69,4545
+8/20/2025 4:15:54 PM - Client Multiple Database : main,Kapil
+8/20/2025 4:15:54 PM - Client Database : Kapil
+8/20/2025 4:15:54 PM - Report Name : outsumm
+8/20/2025 4:15:54 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/20/2025 4:15:54 PM - Company ID : 17
+8/20/2025 4:15:54 PM - SSDT : CDATE(2025,04,01)
+8/20/2025 4:15:54 PM - LLDT : CDATE(2025,08,20)
+8/20/2025 4:15:54 PM - DSN Name : dsn_54667
+8/20/2025 4:15:54 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+8/23/2025 8:41:54 PM - Client Server IP: 160.187.54.69,4545
+8/23/2025 8:41:54 PM - Client Multiple Database : main,Kapil
+8/23/2025 8:41:54 PM - Client Database : Kapil
+8/23/2025 8:41:54 PM - Report Name : outsumm
+8/23/2025 8:41:54 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/23/2025 8:41:54 PM - Company ID : 17
+8/23/2025 8:41:54 PM - SSDT : CDATE(2025,04,01)
+8/23/2025 8:41:54 PM - LLDT : CDATE(2025,08,23)
+8/23/2025 8:41:54 PM - DSN Name : dsn_58085
+8/23/2025 8:41:54 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+8/25/2025 7:11:44 PM - Client Server IP: 160.187.54.69,4545
+8/25/2025 7:11:44 PM - Client Multiple Database : main,Kapil
+8/25/2025 7:11:44 PM - Client Database : Kapil
+8/25/2025 7:11:44 PM - Report Name : outsumm
+8/25/2025 7:11:44 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/25/2025 7:11:44 PM - Company ID : 17
+8/25/2025 7:11:44 PM - SSDT : CDATE(2025,04,01)
+8/25/2025 7:11:44 PM - LLDT : CDATE(2025,08,25)
+8/25/2025 7:11:44 PM - DSN Name : dsn_59677
+8/25/2025 7:11:44 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+8/26/2025 4:55:38 PM - Client Server IP: 160.187.54.69,4545
+8/26/2025 4:55:38 PM - Client Multiple Database : main,Kapil
+8/26/2025 4:55:38 PM - Client Database : Kapil
+8/26/2025 4:55:38 PM - Report Name : outsumm
+8/26/2025 4:55:38 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/26/2025 4:55:38 PM - Company ID : 17
+8/26/2025 4:55:38 PM - SSDT : CDATE(2025,04,01)
+8/26/2025 4:55:38 PM - LLDT : CDATE(2025,08,26)
+8/26/2025 4:55:38 PM - DSN Name : dsn_60449
+8/26/2025 4:55:38 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+8/29/2025 7:22:13 PM - Client Server IP: 160.187.54.69,4545
+8/29/2025 7:22:13 PM - Client Multiple Database : main,Kapil
+8/29/2025 7:22:13 PM - Client Database : Kapil
+8/29/2025 7:22:13 PM - Report Name : outsumm
+8/29/2025 7:22:13 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/29/2025 7:22:13 PM - Company ID : 17
+8/29/2025 7:22:13 PM - SSDT : CDATE(2025,04,01)
+8/29/2025 7:22:13 PM - LLDT : CDATE(2025,08,29)
+8/29/2025 7:22:13 PM - DSN Name : dsn_62780
+8/29/2025 7:22:13 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+9/8/2025 8:44:13 PM - Client Server IP: 160.187.54.69,4545
+9/8/2025 8:44:13 PM - Client Multiple Database : main,Kapil
+9/8/2025 8:44:13 PM - Client Database : Kapil
+9/8/2025 8:44:13 PM - Report Name : outsumm
+9/8/2025 8:44:13 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/8/2025 8:44:13 PM - Company ID : 17
+9/8/2025 8:44:13 PM - SSDT : CDATE(2025,04,01)
+9/8/2025 8:44:13 PM - LLDT : CDATE(2025,09,08)
+9/8/2025 8:44:13 PM - DSN Name : dsn_70256
+9/8/2025 8:44:13 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+10/3/2025 3:24:58 PM - Client Server IP: 160.187.54.69,4545
+10/3/2025 3:24:58 PM - Client Multiple Database : main,Kapil
+10/3/2025 3:24:58 PM - Client Database : Kapil
+10/3/2025 3:24:58 PM - Report Name : prof_kapil
+10/3/2025 3:24:58 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 3:24:58 PM - Company ID : 17
+10/3/2025 3:24:58 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 3:24:58 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 3:24:58 PM - DSN Name : dsn_91906
+10/3/2025 3:24:58 PM - Report Parameter parameter : 

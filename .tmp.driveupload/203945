@@ -1,0 +1,19 @@
+<?php
+header('Content-Type: text/event-stream');
+header('Cache-Control: no-cache');
+require_once('../dbClass.php');
+
+$ID = isset($_REQUEST['id']) ? $_REQUEST['id'] : 0;
+if($ID > 0){
+    db::getInstanceMaster()->db_update("Update tmp111 set divisionid=0 where id=1");
+    $data = [
+        'message' => 'Tab Close At : ',
+        'timestamp' => time()
+    ];
+    echo "data: " . json_encode($data) . "\n\n";
+    ob_flush();
+    flush();
+}
+    // sleep(10); // Send a message every 10 seconds
+// }while($i <= 20 );
+?>

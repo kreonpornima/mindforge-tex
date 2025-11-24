@@ -1,0 +1,130 @@
+10/10/2025 2:25:56 PM - Client Server IP: 160.187.54.38,4545
+10/10/2025 2:25:56 PM - Client Multiple Database : MohiniAcc
+10/10/2025 2:25:56 PM - Client Database : MohiniAcc
+10/10/2025 2:25:56 PM - Report Name : lpr
+10/10/2025 2:25:56 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/10/2025 2:25:56 PM - Company ID : 29
+10/10/2025 2:25:56 PM - SSDT : CDATE(2025,04,01)
+10/10/2025 2:25:56 PM - LLDT : CDATE(2025,10,10)
+10/10/2025 2:25:56 PM - DSN Name : dsn_100829
+10/10/2025 2:25:56 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=YES
+10/10/2025 2:49:13 PM - Client Server IP: 160.187.54.38,4545
+10/10/2025 2:49:13 PM - Client Multiple Database : MohiniAcc
+10/10/2025 2:49:13 PM - Client Database : MohiniAcc
+10/10/2025 2:49:13 PM - Report Name : PURGSTDETAILREPORT
+10/10/2025 2:49:13 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/10/2025 2:49:13 PM - Company ID : 29
+10/10/2025 2:49:13 PM - SSDT : CDATE(2025,04,01)
+10/10/2025 2:49:13 PM - LLDT : CDATE(2025,10,31)
+10/10/2025 2:49:13 PM - DSN Name : dsn_100881
+10/10/2025 2:49:13 PM - Report Parameter parameter : {?ORDER BY}=1|{?GROUP BY}=0
+10/10/2025 2:53:21 PM - Client Server IP: 160.187.54.38,4545
+10/10/2025 2:53:21 PM - Client Multiple Database : MohiniAcc
+10/10/2025 2:53:21 PM - Client Database : MohiniAcc
+10/10/2025 2:53:21 PM - Report Name : PURGSTREPORT
+10/10/2025 2:53:21 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/10/2025 2:53:21 PM - Company ID : 29
+10/10/2025 2:53:21 PM - SSDT : CDATE(2025,04,01)
+10/10/2025 2:53:21 PM - LLDT : CDATE(2025,09,30)
+10/10/2025 2:53:21 PM - DSN Name : dsn_100891
+10/10/2025 2:53:21 PM - Report Parameter parameter : {?ORDER BY}=1|{?GROUP BY}=1
+10/17/2025 12:14:27 PM - Client Server IP: 91.203.133.53,4545
+10/17/2025 12:14:27 PM - Client Multiple Database : MindforgeAcc
+10/17/2025 12:14:27 PM - Client Database : MindforgeAcc
+10/17/2025 12:14:27 PM - Report Name : bankbookrep
+10/17/2025 12:14:27 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/17/2025 12:14:27 PM - Company ID : 44
+10/17/2025 12:14:27 PM - SSDT : CDATE(2025,04,01)
+10/17/2025 12:14:27 PM - LLDT : CDATE(2025,10,17)
+10/17/2025 12:14:27 PM - DSN Name : dsn_114193
+10/17/2025 12:14:27 PM - Report Parameter parameter : {?SUMMARY OPTION}=NO|{?REMARK YES/NO}=NO
+10/27/2025 12:26:56 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 12:26:56 PM - Client Multiple Database : MohiniAcc
+10/27/2025 12:26:56 PM - Client Database : MohiniAcc
+10/27/2025 12:26:56 PM - Report Name : lpr
+10/27/2025 12:26:56 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 12:26:56 PM - Company ID : 29
+10/27/2025 12:26:56 PM - SSDT : CDATE(2025,04,01)
+10/27/2025 12:26:56 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 12:26:56 PM - DSN Name : dsn_124655
+10/27/2025 12:26:56 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/27/2025 12:31:05 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 12:31:05 PM - Client Multiple Database : MohiniAcc
+10/27/2025 12:31:05 PM - Client Database : MohiniAcc
+10/27/2025 12:31:05 PM - Report Name : lpr
+10/27/2025 12:31:05 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 12:31:05 PM - Company ID : 29
+10/27/2025 12:31:05 PM - SSDT : CDATE(2025,04,01)
+10/27/2025 12:31:05 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 12:31:05 PM - DSN Name : dsn_124671
+10/27/2025 12:31:05 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/27/2025 12:36:41 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 12:36:41 PM - Client Multiple Database : MohiniAcc
+10/27/2025 12:36:41 PM - Client Database : MohiniAcc
+10/27/2025 12:36:41 PM - Report Name : lpr
+10/27/2025 12:36:41 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 12:36:41 PM - Company ID : 29
+10/27/2025 12:36:41 PM - SSDT : CDATE(2025,04,01)
+10/27/2025 12:36:41 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 12:36:41 PM - DSN Name : dsn_124696
+10/27/2025 12:36:41 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/27/2025 12:47:16 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 12:47:16 PM - Client Multiple Database : MohiniAcc
+10/27/2025 12:47:16 PM - Client Database : MohiniAcc
+10/27/2025 12:47:16 PM - Report Name : lpr
+10/27/2025 12:47:16 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 12:47:16 PM - Company ID : 29
+10/27/2025 12:47:16 PM - SSDT : CDATE(2025,04,01)
+10/27/2025 12:47:16 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 12:47:16 PM - DSN Name : dsn_124745
+10/27/2025 12:47:16 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/27/2025 12:49:42 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 12:49:42 PM - Client Multiple Database : MohiniAcc
+10/27/2025 12:49:42 PM - Client Database : MohiniAcc
+10/27/2025 12:49:42 PM - Report Name : lpr
+10/27/2025 12:49:42 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 12:49:42 PM - Company ID : 29
+10/27/2025 12:49:42 PM - SSDT : CDATE(2025,04,01)
+10/27/2025 12:49:42 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 12:49:42 PM - DSN Name : dsn_124756
+10/27/2025 12:49:42 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/27/2025 12:50:33 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 12:50:33 PM - Client Multiple Database : MohiniAcc
+10/27/2025 12:50:33 PM - Client Database : MohiniAcc
+10/27/2025 12:50:33 PM - Report Name : lpr
+10/27/2025 12:50:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 12:50:33 PM - Company ID : 29
+10/27/2025 12:50:33 PM - SSDT : CDATE(2025,04,01)
+10/27/2025 12:50:33 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 12:50:33 PM - DSN Name : dsn_124761
+10/27/2025 12:50:33 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/27/2025 12:51:35 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 12:51:35 PM - Client Multiple Database : MohiniAcc
+10/27/2025 12:51:35 PM - Client Database : MohiniAcc
+10/27/2025 12:51:35 PM - Report Name : lpr
+10/27/2025 12:51:35 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 12:51:35 PM - Company ID : 29
+10/27/2025 12:51:35 PM - SSDT : CDATE(2025,04,01)
+10/27/2025 12:51:35 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 12:51:35 PM - DSN Name : dsn_124769
+10/27/2025 12:51:35 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/27/2025 1:01:38 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 1:01:38 PM - Client Multiple Database : MohiniAcc
+10/27/2025 1:01:38 PM - Client Database : MohiniAcc
+10/27/2025 1:01:38 PM - Report Name : lpr
+10/27/2025 1:01:38 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 1:01:38 PM - Company ID : 29
+10/27/2025 1:01:38 PM - SSDT : CDATE(2025,04,01)
+10/27/2025 1:01:38 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 1:01:38 PM - DSN Name : dsn_124803
+10/27/2025 1:01:38 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/27/2025 3:03:39 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 3:03:39 PM - Client Multiple Database : MohiniAcc
+10/27/2025 3:03:39 PM - Client Database : MohiniAcc
+10/27/2025 3:03:39 PM - Report Name : lpr
+10/27/2025 3:03:39 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 3:03:39 PM - Company ID : 29
+10/27/2025 3:03:39 PM - SSDT : CDATE(2025,04,01)
+10/27/2025 3:03:39 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 3:03:39 PM - DSN Name : dsn_125111
+10/27/2025 3:03:39 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO

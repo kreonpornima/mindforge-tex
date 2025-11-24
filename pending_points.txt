@@ -1,0 +1,5 @@
+Adjustment Amunt 
+1)on escape button call save adjustment & close button
+2) Grid amount field some time getting 00000
+3) Remark get from sp & update in remark field 
+4) edit button show when edit mode

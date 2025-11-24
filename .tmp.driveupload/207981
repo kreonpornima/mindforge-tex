@@ -1,0 +1,840 @@
+5/8/2025 12:49:49 PM - Client Server IP: 160.187.54.69,4545
+5/8/2025 12:49:49 PM - Client Multiple Database : main,Kapil
+5/8/2025 12:49:49 PM - Client Database : Kapil
+5/8/2025 12:49:49 PM - Report Name : gwtb_mohini_fab
+5/8/2025 12:49:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/8/2025 12:49:49 PM - Company ID : 17
+5/8/2025 12:49:49 PM - SSDT : CDATE(2025,04,01)
+5/8/2025 12:49:49 PM - LLDT : CDATE(2025,05,08)
+5/8/2025 12:49:49 PM - DSN Name : dsn_6748
+5/8/2025 12:49:49 PM - Report Parameter parameter : {?Group1}=Party Wise   |{?Group2}=Party Wise
+5/8/2025 12:52:38 PM - Client Server IP: 160.187.54.69,4545
+5/8/2025 12:52:38 PM - Client Multiple Database : main,Kapil
+5/8/2025 12:52:38 PM - Client Database : Kapil
+5/8/2025 12:52:38 PM - Report Name : lpr
+5/8/2025 12:52:38 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/8/2025 12:52:38 PM - Company ID : 17
+5/8/2025 12:52:38 PM - SSDT : CDATE(2025,04,01)
+5/8/2025 12:52:38 PM - LLDT : CDATE(2025,05,08)
+5/8/2025 12:52:38 PM - DSN Name : dsn_6749
+5/8/2025 12:52:38 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=no
+5/8/2025 3:58:23 PM - Client Server IP: 160.187.54.69,4545
+5/8/2025 3:58:23 PM - Client Multiple Database : main,Kapil
+5/8/2025 3:58:23 PM - Client Database : Kapil
+5/8/2025 3:58:23 PM - Report Name : kapil_fs
+5/8/2025 3:58:23 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/8/2025 3:58:23 PM - Company ID : 17
+5/8/2025 3:58:23 PM - SSDT : CDATE(2025,04,01)
+5/8/2025 3:58:23 PM - LLDT : CDATE(2025,05,08)
+5/8/2025 3:58:23 PM - DSN Name : dsn_6779
+5/8/2025 3:58:23 PM - Report Parameter parameter : {?SELECT}=NO
+5/8/2025 4:04:34 PM - Client Server IP: 160.187.54.69,4545
+5/8/2025 4:04:34 PM - Client Multiple Database : main,Kapil
+5/8/2025 4:04:34 PM - Client Database : Kapil
+5/8/2025 4:04:34 PM - Report Name : kapil_fs
+5/8/2025 4:04:34 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/8/2025 4:04:34 PM - Company ID : 17
+5/8/2025 4:04:34 PM - SSDT : CDATE(2025,04,01)
+5/8/2025 4:04:34 PM - LLDT : CDATE(2025,05,08)
+5/8/2025 4:04:34 PM - DSN Name : dsn_6781
+5/8/2025 4:04:34 PM - Report Parameter parameter : {?SELECT}=NO
+5/8/2025 6:40:48 PM - Client Server IP: 160.187.54.69,4545
+5/8/2025 6:40:48 PM - Client Multiple Database : main,Kapil
+5/8/2025 6:40:48 PM - Client Database : Kapil
+5/8/2025 6:40:48 PM - Report Name : kapil_fs
+5/8/2025 6:40:48 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/8/2025 6:40:48 PM - Company ID : 17
+5/8/2025 6:40:48 PM - SSDT : CDATE(2025,04,01)
+5/8/2025 6:40:48 PM - LLDT : CDATE(2025,05,08)
+5/8/2025 6:40:48 PM - DSN Name : dsn_6803
+5/8/2025 6:40:48 PM - Report Parameter parameter : {?SELECT}=NO
+5/8/2025 6:45:20 PM - Client Server IP: 160.187.54.69,4545
+5/8/2025 6:45:20 PM - Client Multiple Database : main,Kapil
+5/8/2025 6:45:20 PM - Client Database : Kapil
+5/8/2025 6:45:20 PM - Report Name : kapil_fs
+5/8/2025 6:45:20 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/8/2025 6:45:20 PM - Company ID : 17
+5/8/2025 6:45:20 PM - SSDT : CDATE(2025,04,01)
+5/8/2025 6:45:20 PM - LLDT : CDATE(2025,05,08)
+5/8/2025 6:45:20 PM - DSN Name : dsn_6804
+5/8/2025 6:45:20 PM - Report Parameter parameter : {?SELECT}=NO
+5/17/2025 3:36:15 PM - Client Server IP: 139.5.190.101,8546
+5/17/2025 3:36:15 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/17/2025 3:36:15 PM - Client Database : Valiant_INV
+5/17/2025 3:36:15 PM - Report Name : fs_valiant
+5/17/2025 3:36:15 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/17/2025 3:36:15 PM - Company ID : 22
+5/17/2025 3:36:15 PM - SSDT : CDATE(2025,04,01)
+5/17/2025 3:36:15 PM - LLDT : CDATE(2025,05,17)
+5/17/2025 3:36:15 PM - DSN Name : dsn_8127
+5/17/2025 3:36:15 PM - Report Parameter parameter : 
+5/17/2025 4:12:54 PM - Client Server IP: 160.187.54.69,4545
+5/17/2025 4:12:54 PM - Client Multiple Database : main,Kapil
+5/17/2025 4:12:54 PM - Client Database : Kapil
+5/17/2025 4:12:54 PM - Report Name : kapil_fs
+5/17/2025 4:12:54 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/17/2025 4:12:54 PM - Company ID : 17
+5/17/2025 4:12:54 PM - SSDT : CDATE(2025,04,01)
+5/17/2025 4:12:54 PM - LLDT : CDATE(2025,05,17)
+5/17/2025 4:12:54 PM - DSN Name : dsn_8139
+5/17/2025 4:12:54 PM - Report Parameter parameter : {?SELECT}=NO
+5/17/2025 4:14:21 PM - Client Server IP: 160.187.54.69,4545
+5/17/2025 4:14:21 PM - Client Multiple Database : main,Kapil
+5/17/2025 4:14:21 PM - Client Database : Kapil
+5/17/2025 4:14:21 PM - Report Name : kapil_fs
+5/17/2025 4:14:21 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/17/2025 4:14:21 PM - Company ID : 17
+5/17/2025 4:14:21 PM - SSDT : CDATE(2025,04,01)
+5/17/2025 4:14:21 PM - LLDT : CDATE(2025,05,17)
+5/17/2025 4:14:21 PM - DSN Name : dsn_8142
+5/17/2025 4:14:21 PM - Report Parameter parameter : {?SELECT}=NO
+5/17/2025 4:28:03 PM - Client Server IP: 160.187.54.69,4545
+5/17/2025 4:28:03 PM - Client Multiple Database : main,Kapil
+5/17/2025 4:28:03 PM - Client Database : Kapil
+5/17/2025 4:28:03 PM - Report Name : kapil_fs
+5/17/2025 4:28:03 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/17/2025 4:28:03 PM - Company ID : 17
+5/17/2025 4:28:03 PM - SSDT : CDATE(2025,04,01)
+5/17/2025 4:28:03 PM - LLDT : CDATE(2025,05,17)
+5/17/2025 4:28:03 PM - DSN Name : dsn_8150
+5/17/2025 4:28:03 PM - Report Parameter parameter : {?SELECT}=NO
+5/17/2025 4:29:19 PM - Client Server IP: 160.187.54.69,4545
+5/17/2025 4:29:19 PM - Client Multiple Database : main,Kapil
+5/17/2025 4:29:19 PM - Client Database : Kapil
+5/17/2025 4:29:19 PM - Report Name : kapil_fs
+5/17/2025 4:29:19 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/17/2025 4:29:19 PM - Company ID : 17
+5/17/2025 4:29:19 PM - SSDT : CDATE(2025,04,01)
+5/17/2025 4:29:19 PM - LLDT : CDATE(2025,05,17)
+5/17/2025 4:29:19 PM - DSN Name : dsn_8151
+5/17/2025 4:29:19 PM - Report Parameter parameter : {?SELECT}=NO
+5/17/2025 4:29:51 PM - Client Server IP: 160.187.54.69,4545
+5/17/2025 4:29:51 PM - Client Multiple Database : main,Kapil
+5/17/2025 4:29:51 PM - Client Database : Kapil
+5/17/2025 4:29:51 PM - Report Name : kapil_fs
+5/17/2025 4:29:51 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/17/2025 4:29:51 PM - Company ID : 17
+5/17/2025 4:29:51 PM - SSDT : CDATE(2025,04,01)
+5/17/2025 4:29:51 PM - LLDT : CDATE(2025,05,17)
+5/17/2025 4:29:51 PM - DSN Name : dsn_8152
+5/17/2025 4:29:51 PM - Report Parameter parameter : {?SELECT}=NO
+5/21/2025 1:52:06 PM - Client Server IP: 160.187.54.69,4545
+5/21/2025 1:52:06 PM - Client Multiple Database : main,Kapil
+5/21/2025 1:52:06 PM - Client Database : Kapil
+5/21/2025 1:52:06 PM - Report Name : lpr
+5/21/2025 1:52:06 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/21/2025 1:52:06 PM - Company ID : 17
+5/21/2025 1:52:06 PM - SSDT : CDATE(2025,04,01)
+5/21/2025 1:52:06 PM - LLDT : CDATE(2025,05,21)
+5/21/2025 1:52:06 PM - DSN Name : dsn_8742
+5/21/2025 1:52:06 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=no
+5/26/2025 5:12:26 PM - Client Server IP: 139.5.190.101,8546
+5/26/2025 5:12:26 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/26/2025 5:12:26 PM - Client Database : Valiant_INV
+5/26/2025 5:12:26 PM - Report Name : valiant_lpr
+5/26/2025 5:12:26 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/26/2025 5:12:26 PM - Company ID : 22
+5/26/2025 5:12:26 PM - SSDT : CDATE(2025,04,01)
+5/26/2025 5:12:26 PM - LLDT : CDATE(2025,05,26)
+5/26/2025 5:12:26 PM - DSN Name : dsn_9662
+5/26/2025 5:12:26 PM - Report Parameter parameter : {?NEW PAGE WISE}=NO
+5/26/2025 5:12:50 PM - Client Server IP: 139.5.190.101,8546
+5/26/2025 5:12:50 PM - Client Multiple Database : valiant_inv
+5/26/2025 5:12:50 PM - Client Database : valiant_inv
+5/26/2025 5:12:50 PM - Report Name : valiant_lpr
+5/26/2025 5:12:50 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/26/2025 5:12:50 PM - Company ID : 22
+5/26/2025 5:12:50 PM - SSDT : CDATE(2025,04,01)
+5/26/2025 5:12:50 PM - LLDT : CDATE(2025,05,26)
+5/26/2025 5:12:51 PM - DSN Name : dsn_9664
+5/26/2025 5:12:51 PM - Report Parameter parameter : {?NEW PAGE WISE}=NO
+5/27/2025 4:44:17 PM - Client Server IP: 139.5.190.101,8546
+5/27/2025 4:44:17 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/27/2025 4:44:17 PM - Client Database : Valiant_INV
+5/27/2025 4:44:17 PM - Report Name : valiant_lpr
+5/27/2025 4:44:17 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/27/2025 4:44:17 PM - Company ID : 22
+5/27/2025 4:44:17 PM - SSDT : CDATE(2025,04,01)
+5/27/2025 4:44:17 PM - LLDT : CDATE(2025,05,27)
+5/27/2025 4:44:17 PM - DSN Name : dsn_9816
+5/27/2025 4:44:17 PM - Report Parameter parameter : {?NEW PAGE WISE}=NO
+5/28/2025 5:32:13 PM - Client Server IP: 160.187.54.69,4545
+5/28/2025 5:32:13 PM - Client Multiple Database : main,Kapil
+5/28/2025 5:32:13 PM - Client Database : Kapil
+5/28/2025 5:32:13 PM - Report Name : outbrok
+5/28/2025 5:32:13 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/28/2025 5:32:13 PM - Company ID : 17
+5/28/2025 5:32:13 PM - SSDT : CDATE(2025,04,01)
+5/28/2025 5:32:13 PM - LLDT : CDATE(2025,05,28)
+5/28/2025 5:32:13 PM - DSN Name : dsn_10040
+5/28/2025 5:32:13 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+5/28/2025 5:33:50 PM - Client Server IP: 160.187.54.69,4545
+5/28/2025 5:33:50 PM - Client Multiple Database : main,Kapil
+5/28/2025 5:33:50 PM - Client Database : Kapil
+5/28/2025 5:33:50 PM - Report Name : outbrok
+5/28/2025 5:33:50 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/28/2025 5:33:50 PM - Company ID : 17
+5/28/2025 5:33:50 PM - SSDT : CDATE(2025,04,01)
+5/28/2025 5:33:50 PM - LLDT : CDATE(2025,05,28)
+5/28/2025 5:33:50 PM - DSN Name : dsn_10041
+5/28/2025 5:33:50 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+5/30/2025 1:09:50 PM - Client Server IP: 139.5.190.101,8546
+5/30/2025 1:09:50 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+5/30/2025 1:09:50 PM - Client Database : Valiant_INV
+5/30/2025 1:09:50 PM - Report Name : lpr
+5/30/2025 1:09:50 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/30/2025 1:09:50 PM - Company ID : 22
+5/30/2025 1:09:50 PM - SSDT : CDATE(2025,04,01)
+5/30/2025 1:09:50 PM - LLDT : CDATE(2025,05,30)
+5/30/2025 1:09:50 PM - DSN Name : dsn_10367
+5/30/2025 1:09:50 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=no
+6/3/2025 2:52:17 PM - Client Server IP: 160.187.54.69,4545
+6/3/2025 2:52:17 PM - Client Multiple Database : main,Kapil
+6/3/2025 2:52:17 PM - Client Database : Kapil
+6/3/2025 2:52:17 PM - Report Name : kapil_fs
+6/3/2025 2:52:17 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/3/2025 2:52:17 PM - Company ID : 17
+6/3/2025 2:52:17 PM - SSDT : CDATE(2025,04,01)
+6/3/2025 2:52:17 PM - LLDT : CDATE(2025,06,03)
+6/3/2025 2:52:17 PM - DSN Name : dsn_11254
+6/3/2025 2:52:17 PM - Report Parameter parameter : {?SELECT}=NO
+6/3/2025 4:13:29 PM - Client Server IP: 160.187.54.69,4545
+6/3/2025 4:13:29 PM - Client Multiple Database : main,Kapil
+6/3/2025 4:13:29 PM - Client Database : Kapil
+6/3/2025 4:13:29 PM - Report Name : kapil_fs
+6/3/2025 4:13:29 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/3/2025 4:13:29 PM - Company ID : 17
+6/3/2025 4:13:29 PM - SSDT : CDATE(2025,04,01)
+6/3/2025 4:13:29 PM - LLDT : CDATE(2025,06,03)
+6/3/2025 4:13:29 PM - DSN Name : dsn_11306
+6/3/2025 4:13:29 PM - Report Parameter parameter : {?SELECT}=NO
+6/3/2025 4:37:09 PM - Client Server IP: 160.187.54.69,4545
+6/3/2025 4:37:09 PM - Client Multiple Database : main,Kapil
+6/3/2025 4:37:09 PM - Client Database : Kapil
+6/3/2025 4:37:09 PM - Report Name : kapil_fsr
+6/3/2025 4:37:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/3/2025 4:37:09 PM - Company ID : 17
+6/3/2025 4:37:09 PM - SSDT : CDATE(2025,04,01)
+6/3/2025 4:37:09 PM - LLDT : CDATE(2025,06,03)
+6/3/2025 4:37:09 PM - DSN Name : dsn_11315
+6/3/2025 4:37:09 PM - Report Parameter parameter : 
+6/3/2025 4:37:36 PM - Client Server IP: 160.187.54.69,4545
+6/3/2025 4:37:36 PM - Client Multiple Database : main,Kapil
+6/3/2025 4:37:36 PM - Client Database : Kapil
+6/3/2025 4:37:36 PM - Report Name : kapil_fsr
+6/3/2025 4:37:36 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/3/2025 4:37:36 PM - Company ID : 17
+6/3/2025 4:37:36 PM - SSDT : CDATE(2025,04,01)
+6/3/2025 4:37:36 PM - LLDT : CDATE(2025,06,03)
+6/3/2025 4:37:36 PM - DSN Name : dsn_11316
+6/3/2025 4:37:36 PM - Report Parameter parameter : 
+6/3/2025 4:40:36 PM - Client Server IP: 160.187.54.69,4545
+6/3/2025 4:40:36 PM - Client Multiple Database : main,Kapil
+6/3/2025 4:40:36 PM - Client Database : Kapil
+6/3/2025 4:40:36 PM - Report Name : kapil_fsr
+6/3/2025 4:40:36 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/3/2025 4:40:36 PM - Company ID : 17
+6/3/2025 4:40:36 PM - SSDT : CDATE(2025,04,01)
+6/3/2025 4:40:36 PM - LLDT : CDATE(2025,06,03)
+6/3/2025 4:40:36 PM - DSN Name : dsn_11317
+6/3/2025 4:40:36 PM - Report Parameter parameter : 
+6/3/2025 6:16:05 PM - Client Server IP: 160.187.54.69,4545
+6/3/2025 6:16:05 PM - Client Multiple Database : main,Kapil
+6/3/2025 6:16:05 PM - Client Database : Kapil
+6/3/2025 6:16:05 PM - Report Name : kapil_fsr
+6/3/2025 6:16:05 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/3/2025 6:16:05 PM - Company ID : 17
+6/3/2025 6:16:05 PM - SSDT : CDATE(2025,04,01)
+6/3/2025 6:16:05 PM - LLDT : CDATE(2025,06,03)
+6/3/2025 6:16:05 PM - DSN Name : dsn_11419
+6/3/2025 6:16:05 PM - Report Parameter parameter : 
+6/3/2025 6:21:12 PM - Client Server IP: 160.187.54.69,4545
+6/3/2025 6:21:12 PM - Client Multiple Database : main,Kapil
+6/3/2025 6:21:12 PM - Client Database : Kapil
+6/3/2025 6:21:12 PM - Report Name : kapil_fsr
+6/3/2025 6:21:12 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/3/2025 6:21:12 PM - Company ID : 17
+6/3/2025 6:21:12 PM - SSDT : CDATE(2025,04,01)
+6/3/2025 6:21:12 PM - LLDT : CDATE(2025,06,03)
+6/3/2025 6:21:12 PM - DSN Name : dsn_11424
+6/3/2025 6:21:12 PM - Report Parameter parameter : {?SELECT}=NO
+6/5/2025 4:58:31 PM - Client Server IP: 160.187.54.38,4545
+6/5/2025 4:58:31 PM - Client Multiple Database : Main,Shubh
+6/5/2025 4:58:31 PM - Client Database : Shubh
+6/5/2025 4:58:31 PM - Report Name : kapil_fs
+6/5/2025 4:58:31 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/5/2025 4:58:31 PM - Company ID : 52
+6/5/2025 4:58:31 PM - SSDT : CDATE(2025,04,01)
+6/5/2025 4:58:31 PM - LLDT : CDATE(2025,06,05)
+6/5/2025 4:58:31 PM - DSN Name : dsn_11980
+6/5/2025 4:58:31 PM - Report Parameter parameter : {?SELECT}=NO
+6/9/2025 3:11:35 PM - Client Server IP: 139.5.190.101,8546
+6/9/2025 3:11:35 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+6/9/2025 3:11:35 PM - Client Database : Valiant_INV
+6/9/2025 3:11:35 PM - Report Name : outbrok
+6/9/2025 3:11:35 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/9/2025 3:11:35 PM - Company ID : 22
+6/9/2025 3:11:35 PM - SSDT : CDATE(2025,03,31)
+6/9/2025 3:11:35 PM - LLDT : CDATE(2025,03,31)
+6/9/2025 3:11:35 PM - DSN Name : dsn_12593
+6/9/2025 3:11:35 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+6/17/2025 2:28:55 PM - Client Server IP: 139.5.190.101,8546
+6/17/2025 2:28:55 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+6/17/2025 2:28:55 PM - Client Database : Valiant_INV
+6/17/2025 2:28:55 PM - Report Name : fs_valiant
+6/17/2025 2:28:55 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 2:28:55 PM - Company ID : 22
+6/17/2025 2:28:55 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 2:28:55 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 2:28:55 PM - DSN Name : dsn_14297
+6/17/2025 2:28:55 PM - Report Parameter parameter : 
+6/17/2025 4:24:48 PM - Client Server IP: 160.187.54.38,4545
+6/17/2025 4:24:48 PM - Client Multiple Database : Main,Shubh
+6/17/2025 4:24:48 PM - Client Database : Shubh
+6/17/2025 4:24:48 PM - Report Name : kapil_fs
+6/17/2025 4:24:48 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 4:24:48 PM - Company ID : 52
+6/17/2025 4:24:48 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 4:24:48 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 4:24:48 PM - DSN Name : dsn_14326
+6/17/2025 4:24:48 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 4:25:02 PM - Client Server IP: 160.187.54.38,4545
+6/17/2025 4:25:02 PM - Client Multiple Database : Main,Shubh
+6/17/2025 4:25:02 PM - Client Database : Shubh
+6/17/2025 4:25:02 PM - Report Name : kapil_fs
+6/17/2025 4:25:02 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 4:25:02 PM - Company ID : 52
+6/17/2025 4:25:02 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 4:25:02 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 4:25:02 PM - DSN Name : dsn_14327
+6/17/2025 4:25:02 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 4:25:36 PM - Client Server IP: 160.187.54.38,4545
+6/17/2025 4:25:36 PM - Client Multiple Database : Main,Shubh
+6/17/2025 4:25:36 PM - Client Database : Shubh
+6/17/2025 4:25:36 PM - Report Name : kapil_fs
+6/17/2025 4:25:36 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 4:25:36 PM - Company ID : 52
+6/17/2025 4:25:36 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 4:25:36 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 4:25:36 PM - DSN Name : dsn_14328
+6/17/2025 4:25:36 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 4:25:52 PM - Client Server IP: 160.187.54.38,4545
+6/17/2025 4:25:52 PM - Client Multiple Database : Main,Shubh
+6/17/2025 4:25:52 PM - Client Database : Shubh
+6/17/2025 4:25:52 PM - Report Name : kapil_fs
+6/17/2025 4:25:52 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 4:25:52 PM - Company ID : 52
+6/17/2025 4:25:52 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 4:25:52 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 4:25:52 PM - DSN Name : dsn_14329
+6/17/2025 4:25:52 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 4:30:11 PM - Client Server IP: 160.187.54.38,4545
+6/17/2025 4:30:11 PM - Client Multiple Database : Main,Shubh
+6/17/2025 4:30:11 PM - Client Database : Shubh
+6/17/2025 4:30:11 PM - Report Name : kapil_fs
+6/17/2025 4:30:11 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 4:30:11 PM - Company ID : 52
+6/17/2025 4:30:11 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 4:30:11 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 4:30:11 PM - DSN Name : dsn_14332
+6/17/2025 4:30:11 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 4:32:09 PM - Client Server IP: 160.187.54.38,4545
+6/17/2025 4:32:09 PM - Client Multiple Database : Main,Shubh
+6/17/2025 4:32:09 PM - Client Database : Shubh
+6/17/2025 4:32:09 PM - Report Name : kapil_fs
+6/17/2025 4:32:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 4:32:09 PM - Company ID : 52
+6/17/2025 4:32:09 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 4:32:09 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 4:32:09 PM - DSN Name : dsn_14334
+6/17/2025 4:32:09 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 4:35:41 PM - Client Server IP: 160.187.54.38,4545
+6/17/2025 4:35:41 PM - Client Multiple Database : Main,Shubh
+6/17/2025 4:35:41 PM - Client Database : Shubh
+6/17/2025 4:35:41 PM - Report Name : kapil_fs
+6/17/2025 4:35:41 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 4:35:41 PM - Company ID : 52
+6/17/2025 4:35:41 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 4:35:41 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 4:35:41 PM - DSN Name : dsn_14336
+6/17/2025 4:35:41 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 4:42:33 PM - Client Server IP: 160.187.54.38,4545
+6/17/2025 4:42:33 PM - Client Multiple Database : Main,Shubh
+6/17/2025 4:42:33 PM - Client Database : Shubh
+6/17/2025 4:42:33 PM - Report Name : kapil_fs
+6/17/2025 4:42:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 4:42:33 PM - Company ID : 52
+6/17/2025 4:42:33 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 4:42:33 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 4:42:33 PM - DSN Name : dsn_14341
+6/17/2025 4:42:33 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 7:11:27 PM - Client Server IP: 160.187.54.69,4545
+6/17/2025 7:11:27 PM - Client Multiple Database : main,Kapil
+6/17/2025 7:11:27 PM - Client Database : Kapil
+6/17/2025 7:11:27 PM - Report Name : kapil_fs
+6/17/2025 7:11:27 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 7:11:27 PM - Company ID : 17
+6/17/2025 7:11:27 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 7:11:27 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 7:11:27 PM - DSN Name : dsn_14433
+6/17/2025 7:11:27 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 7:12:48 PM - Client Server IP: 160.187.54.69,4545
+6/17/2025 7:12:48 PM - Client Multiple Database : main,Kapil
+6/17/2025 7:12:48 PM - Client Database : Kapil
+6/17/2025 7:12:48 PM - Report Name : kapil_fs
+6/17/2025 7:12:48 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 7:12:48 PM - Company ID : 17
+6/17/2025 7:12:48 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 7:12:48 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 7:12:48 PM - DSN Name : dsn_14436
+6/17/2025 7:12:48 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 7:16:01 PM - Client Server IP: 160.187.54.69,4545
+6/17/2025 7:16:01 PM - Client Multiple Database : main,Kapil
+6/17/2025 7:16:01 PM - Client Database : Kapil
+6/17/2025 7:16:01 PM - Report Name : kapil_fs
+6/17/2025 7:16:01 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 7:16:01 PM - Company ID : 17
+6/17/2025 7:16:01 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 7:16:01 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 7:16:01 PM - DSN Name : dsn_14439
+6/17/2025 7:16:01 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 7:18:29 PM - Client Server IP: 160.187.54.69,4545
+6/17/2025 7:18:29 PM - Client Multiple Database : main,Kapil
+6/17/2025 7:18:29 PM - Client Database : Kapil
+6/17/2025 7:18:29 PM - Report Name : kapil_fs
+6/17/2025 7:18:29 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 7:18:29 PM - Company ID : 17
+6/17/2025 7:18:29 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 7:18:29 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 7:18:29 PM - DSN Name : dsn_14444
+6/17/2025 7:18:29 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 7:18:48 PM - Client Server IP: 160.187.54.69,4545
+6/17/2025 7:18:48 PM - Client Multiple Database : main,Kapil
+6/17/2025 7:18:48 PM - Client Database : Kapil
+6/17/2025 7:18:48 PM - Report Name : kapil_fs
+6/17/2025 7:18:48 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 7:18:48 PM - Company ID : 17
+6/17/2025 7:18:48 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 7:18:48 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 7:18:48 PM - DSN Name : dsn_14445
+6/17/2025 7:18:48 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 7:30:06 PM - Client Server IP: 160.187.54.69,4545
+6/17/2025 7:30:06 PM - Client Multiple Database : main,Kapil
+6/17/2025 7:30:06 PM - Client Database : Kapil
+6/17/2025 7:30:06 PM - Report Name : kapil_fs
+6/17/2025 7:30:06 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 7:30:06 PM - Company ID : 17
+6/17/2025 7:30:06 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 7:30:06 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 7:30:06 PM - DSN Name : dsn_14456
+6/17/2025 7:30:06 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 7:43:04 PM - Client Server IP: 160.187.54.69,4545
+6/17/2025 7:43:04 PM - Client Multiple Database : main,Kapil
+6/17/2025 7:43:04 PM - Client Database : Kapil
+6/17/2025 7:43:04 PM - Report Name : kapil_fs
+6/17/2025 7:43:04 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 7:43:04 PM - Company ID : 17
+6/17/2025 7:43:04 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 7:43:04 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 7:43:04 PM - DSN Name : dsn_14463
+6/17/2025 7:43:04 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 7:44:27 PM - Client Server IP: 160.187.54.38,4545
+6/17/2025 7:44:27 PM - Client Multiple Database : Main,Shubh
+6/17/2025 7:44:27 PM - Client Database : Shubh
+6/17/2025 7:44:27 PM - Report Name : kapil_fs
+6/17/2025 7:44:27 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 7:44:27 PM - Company ID : 52
+6/17/2025 7:44:27 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 7:44:27 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 7:44:27 PM - DSN Name : dsn_14464
+6/17/2025 7:44:27 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 7:47:33 PM - Client Server IP: 160.187.54.38,4545
+6/17/2025 7:47:33 PM - Client Multiple Database : Main,Shubh
+6/17/2025 7:47:33 PM - Client Database : Shubh
+6/17/2025 7:47:33 PM - Report Name : kapil_fs
+6/17/2025 7:47:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 7:47:33 PM - Company ID : 52
+6/17/2025 7:47:33 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 7:47:33 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 7:47:33 PM - DSN Name : dsn_14466
+6/17/2025 7:47:33 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 7:49:44 PM - Client Server IP: 160.187.54.38,4545
+6/17/2025 7:49:44 PM - Client Multiple Database : Main,Shubh
+6/17/2025 7:49:44 PM - Client Database : Shubh
+6/17/2025 7:49:44 PM - Report Name : kapil_fs
+6/17/2025 7:49:44 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 7:49:44 PM - Company ID : 52
+6/17/2025 7:49:44 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 7:49:44 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 7:49:44 PM - DSN Name : dsn_14467
+6/17/2025 7:49:44 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 7:50:03 PM - Client Server IP: 160.187.54.38,4545
+6/17/2025 7:50:03 PM - Client Multiple Database : Main,Shubh
+6/17/2025 7:50:03 PM - Client Database : Shubh
+6/17/2025 7:50:03 PM - Report Name : kapil_fs
+6/17/2025 7:50:03 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 7:50:03 PM - Company ID : 52
+6/17/2025 7:50:03 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 7:50:03 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 7:50:03 PM - DSN Name : dsn_14468
+6/17/2025 7:50:03 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 8:03:36 PM - Client Server IP: 160.187.54.38,4545
+6/17/2025 8:03:36 PM - Client Multiple Database : Main,Shubh
+6/17/2025 8:03:36 PM - Client Database : Shubh
+6/17/2025 8:03:36 PM - Report Name : kapil_fs
+6/17/2025 8:03:36 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 8:03:36 PM - Company ID : 52
+6/17/2025 8:03:36 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 8:03:36 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 8:03:36 PM - DSN Name : dsn_14475
+6/17/2025 8:03:36 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 8:07:22 PM - Client Server IP: 160.187.54.69,4545
+6/17/2025 8:07:22 PM - Client Multiple Database : main,Kapil
+6/17/2025 8:07:22 PM - Client Database : Kapil
+6/17/2025 8:07:22 PM - Report Name : kapil_fs
+6/17/2025 8:07:22 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 8:07:22 PM - Company ID : 17
+6/17/2025 8:07:22 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 8:07:22 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 8:07:22 PM - DSN Name : dsn_14477
+6/17/2025 8:07:22 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 8:07:52 PM - Client Server IP: 160.187.54.69,4545
+6/17/2025 8:07:52 PM - Client Multiple Database : main,Kapil
+6/17/2025 8:07:52 PM - Client Database : Kapil
+6/17/2025 8:07:52 PM - Report Name : kapil_fs
+6/17/2025 8:07:52 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 8:07:52 PM - Company ID : 17
+6/17/2025 8:07:52 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 8:07:52 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 8:07:52 PM - DSN Name : dsn_14478
+6/17/2025 8:07:52 PM - Report Parameter parameter : {?SELECT}=NO
+6/17/2025 8:08:41 PM - Client Server IP: 160.187.54.38,4545
+6/17/2025 8:08:41 PM - Client Multiple Database : Main,Shubh
+6/17/2025 8:08:41 PM - Client Database : Shubh
+6/17/2025 8:08:41 PM - Report Name : kapil_fs
+6/17/2025 8:08:41 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/17/2025 8:08:41 PM - Company ID : 52
+6/17/2025 8:08:41 PM - SSDT : CDATE(2025,04,01)
+6/17/2025 8:08:41 PM - LLDT : CDATE(2025,06,17)
+6/17/2025 8:08:41 PM - DSN Name : dsn_14479
+6/17/2025 8:08:41 PM - Report Parameter parameter : {?SELECT}=NO
+6/18/2025 1:49:04 PM - Client Server IP: 160.187.54.38,4545
+6/18/2025 1:49:04 PM - Client Multiple Database : Main,Shubh
+6/18/2025 1:49:04 PM - Client Database : Shubh
+6/18/2025 1:49:04 PM - Report Name : kapil_fs
+6/18/2025 1:49:04 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/18/2025 1:49:04 PM - Company ID : 52
+6/18/2025 1:49:04 PM - SSDT : CDATE(2025,04,01)
+6/18/2025 1:49:04 PM - LLDT : CDATE(2025,06,18)
+6/18/2025 1:49:04 PM - DSN Name : dsn_14585
+6/18/2025 1:49:04 PM - Report Parameter parameter : {?SELECT}=NO
+6/18/2025 6:42:45 PM - Client Server IP: 160.187.54.38,4545
+6/18/2025 6:42:45 PM - Client Multiple Database : Main,Shubh
+6/18/2025 6:42:45 PM - Client Database : Shubh
+6/18/2025 6:42:45 PM - Report Name : shubh_fs
+6/18/2025 6:42:45 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/18/2025 6:42:45 PM - Company ID : 52
+6/18/2025 6:42:45 PM - SSDT : CDATE(2025,04,01)
+6/18/2025 6:42:45 PM - LLDT : CDATE(2025,06,18)
+6/18/2025 6:42:45 PM - DSN Name : dsn_14683
+6/18/2025 6:42:45 PM - Report Parameter parameter : {?SELECT}=NO
+6/18/2025 6:46:43 PM - Client Server IP: 160.187.54.38,4545
+6/18/2025 6:46:43 PM - Client Multiple Database : Main,Shubh
+6/18/2025 6:46:43 PM - Client Database : Shubh
+6/18/2025 6:46:43 PM - Report Name : shubh_fs
+6/18/2025 6:46:43 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/18/2025 6:46:43 PM - Company ID : 52
+6/18/2025 6:46:43 PM - SSDT : CDATE(2025,04,01)
+6/18/2025 6:46:43 PM - LLDT : CDATE(2025,06,18)
+6/18/2025 6:46:43 PM - DSN Name : dsn_14685
+6/18/2025 6:46:43 PM - Report Parameter parameter : {?SELECT}=NO
+6/18/2025 7:29:44 PM - Client Server IP: 160.187.54.38,4545
+6/18/2025 7:29:44 PM - Client Multiple Database : Main,Shubh
+6/18/2025 7:29:44 PM - Client Database : Shubh
+6/18/2025 7:29:44 PM - Report Name : shubh_fs
+6/18/2025 7:29:44 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/18/2025 7:29:44 PM - Company ID : 52
+6/18/2025 7:29:44 PM - SSDT : CDATE(2025,04,01)
+6/18/2025 7:29:44 PM - LLDT : CDATE(2025,06,18)
+6/18/2025 7:29:44 PM - DSN Name : dsn_14702
+6/18/2025 7:29:44 PM - Report Parameter parameter : {?SELECT}=NO
+6/18/2025 7:34:24 PM - Client Server IP: 160.187.54.38,4545
+6/18/2025 7:34:24 PM - Client Multiple Database : Main,Shubh
+6/18/2025 7:34:24 PM - Client Database : Shubh
+6/18/2025 7:34:24 PM - Report Name : shubh_fs
+6/18/2025 7:34:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/18/2025 7:34:24 PM - Company ID : 52
+6/18/2025 7:34:24 PM - SSDT : CDATE(2025,04,01)
+6/18/2025 7:34:24 PM - LLDT : CDATE(2025,06,18)
+6/18/2025 7:34:24 PM - DSN Name : dsn_14704
+6/18/2025 7:34:24 PM - Report Parameter parameter : {?SELECT}=NO
+6/18/2025 7:50:52 PM - Client Server IP: 160.187.54.38,4545
+6/18/2025 7:50:52 PM - Client Multiple Database : Main,Shubh
+6/18/2025 7:50:52 PM - Client Database : Shubh
+6/18/2025 7:50:52 PM - Report Name : shubh_fs
+6/18/2025 7:50:52 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/18/2025 7:50:52 PM - Company ID : 52
+6/18/2025 7:50:52 PM - SSDT : CDATE(2025,04,01)
+6/18/2025 7:50:52 PM - LLDT : CDATE(2025,06,18)
+6/18/2025 7:50:52 PM - DSN Name : dsn_14710
+6/18/2025 7:50:52 PM - Report Parameter parameter : {?SELECT}=NO
+6/18/2025 8:05:54 PM - Client Server IP: 139.5.190.101,8546
+6/18/2025 8:05:54 PM - Client Multiple Database : Saberp_Main_MF,wintry_inv
+6/18/2025 8:05:54 PM - Client Database : wintry_inv
+6/18/2025 8:05:54 PM - Report Name : fs_valiant
+6/18/2025 8:05:54 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/18/2025 8:05:54 PM - Company ID : 45
+6/18/2025 8:05:54 PM - SSDT : CDATE(2025,04,01)
+6/18/2025 8:05:54 PM - LLDT : CDATE(2025,06,18)
+6/18/2025 8:05:54 PM - DSN Name : dsn_14714
+6/18/2025 8:05:54 PM - Report Parameter parameter : 
+6/18/2025 8:12:49 PM - Client Server IP: 139.5.190.101,8546
+6/18/2025 8:12:49 PM - Client Multiple Database : Saberp_Main_MF,wintry_inv
+6/18/2025 8:12:49 PM - Client Database : wintry_inv
+6/18/2025 8:12:49 PM - Report Name : fs_valiant
+6/18/2025 8:12:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/18/2025 8:12:49 PM - Company ID : 45
+6/18/2025 8:12:49 PM - SSDT : CDATE(2025,04,01)
+6/18/2025 8:12:49 PM - LLDT : CDATE(2025,06,18)
+6/18/2025 8:12:49 PM - DSN Name : dsn_14720
+6/18/2025 8:12:49 PM - Report Parameter parameter : 
+6/18/2025 8:15:29 PM - Client Server IP: 139.5.190.101,8546
+6/18/2025 8:15:29 PM - Client Multiple Database : Saberp_Main_MF,wintry_inv
+6/18/2025 8:15:29 PM - Client Database : wintry_inv
+6/18/2025 8:15:29 PM - Report Name : fs_valiant
+6/18/2025 8:15:29 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/18/2025 8:15:29 PM - Company ID : 45
+6/18/2025 8:15:29 PM - SSDT : CDATE(2025,04,01)
+6/18/2025 8:15:29 PM - LLDT : CDATE(2025,06,18)
+6/18/2025 8:15:29 PM - DSN Name : dsn_14724
+6/18/2025 8:15:29 PM - Report Parameter parameter : 
+6/18/2025 9:04:06 PM - Client Server IP: 139.5.190.101,8546
+6/18/2025 9:04:06 PM - Client Multiple Database : Saberp_Main_MF,wintry_inv
+6/18/2025 9:04:06 PM - Client Database : wintry_inv
+6/18/2025 9:04:06 PM - Report Name : fs_valiant
+6/18/2025 9:04:06 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/18/2025 9:04:06 PM - Company ID : 45
+6/18/2025 9:04:06 PM - SSDT : CDATE(2025,04,01)
+6/18/2025 9:04:06 PM - LLDT : CDATE(2025,06,18)
+6/18/2025 9:04:06 PM - DSN Name : dsn_14732
+6/18/2025 9:04:06 PM - Report Parameter parameter : 
+6/18/2025 9:04:42 PM - Client Server IP: 139.5.190.101,8546
+6/18/2025 9:04:42 PM - Client Multiple Database : Saberp_Main_MF,wintry_inv
+6/18/2025 9:04:42 PM - Client Database : wintry_inv
+6/18/2025 9:04:42 PM - Report Name : fs_valiant
+6/18/2025 9:04:42 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/18/2025 9:04:42 PM - Company ID : 45
+6/18/2025 9:04:42 PM - SSDT : CDATE(2025,04,01)
+6/18/2025 9:04:42 PM - LLDT : CDATE(2025,06,18)
+6/18/2025 9:04:42 PM - DSN Name : dsn_14733
+6/18/2025 9:04:42 PM - Report Parameter parameter : 
+6/18/2025 9:09:33 PM - Client Server IP: 139.5.190.101,8546
+6/18/2025 9:09:33 PM - Client Multiple Database : Saberp_Main_MF,wintry_inv
+6/18/2025 9:09:33 PM - Client Database : wintry_inv
+6/18/2025 9:09:33 PM - Report Name : fs_valiant
+6/18/2025 9:09:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/18/2025 9:09:33 PM - Company ID : 45
+6/18/2025 9:09:33 PM - SSDT : CDATE(2025,04,01)
+6/18/2025 9:09:33 PM - LLDT : CDATE(2025,06,18)
+6/18/2025 9:09:33 PM - DSN Name : dsn_14736
+6/18/2025 9:09:33 PM - Report Parameter parameter : 
+6/18/2025 9:10:36 PM - Client Server IP: 139.5.190.101,8546
+6/18/2025 9:10:36 PM - Client Multiple Database : Saberp_Main_MF,wintry_inv
+6/18/2025 9:10:36 PM - Client Database : wintry_inv
+6/18/2025 9:10:36 PM - Report Name : fs_valiant
+6/18/2025 9:10:36 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/18/2025 9:10:36 PM - Company ID : 45
+6/18/2025 9:10:36 PM - SSDT : CDATE(2025,04,01)
+6/18/2025 9:10:36 PM - LLDT : CDATE(2025,06,18)
+6/18/2025 9:10:36 PM - DSN Name : dsn_14737
+6/18/2025 9:10:36 PM - Report Parameter parameter : 
+6/19/2025 11:54:33 AM - Client Server IP: 160.187.54.38,4545
+6/19/2025 11:54:33 AM - Client Multiple Database : Main,Shubh
+6/19/2025 11:54:33 AM - Client Database : Shubh
+6/19/2025 11:54:33 AM - Report Name : shubh_fs
+6/19/2025 11:54:33 AM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 11:54:33 AM - Company ID : 52
+6/19/2025 11:54:33 AM - SSDT : CDATE(2025,04,01)
+6/19/2025 11:54:33 AM - LLDT : CDATE(2025,06,19)
+6/19/2025 11:54:33 AM - DSN Name : dsn_14761
+6/19/2025 11:54:33 AM - Report Parameter parameter : {?SELECT}=NO
+6/19/2025 11:58:06 AM - Client Server IP: 160.187.54.38,4545
+6/19/2025 11:58:06 AM - Client Multiple Database : Main,Shubh
+6/19/2025 11:58:06 AM - Client Database : Shubh
+6/19/2025 11:58:06 AM - Report Name : shubh_fs
+6/19/2025 11:58:06 AM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 11:58:06 AM - Company ID : 52
+6/19/2025 11:58:06 AM - SSDT : CDATE(2025,04,01)
+6/19/2025 11:58:06 AM - LLDT : CDATE(2025,06,19)
+6/19/2025 11:58:06 AM - DSN Name : dsn_14762
+6/19/2025 11:58:06 AM - Report Parameter parameter : {?SELECT}=NO
+6/19/2025 12:09:47 PM - Client Server IP: 160.187.54.38,4545
+6/19/2025 12:09:47 PM - Client Multiple Database : Main,Shubh
+6/19/2025 12:09:47 PM - Client Database : Shubh
+6/19/2025 12:09:47 PM - Report Name : shubh_gs
+6/19/2025 12:09:47 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 12:09:47 PM - Company ID : 52
+6/19/2025 12:09:47 PM - SSDT : CDATE(2025,04,01)
+6/19/2025 12:09:47 PM - LLDT : CDATE(2025,06,19)
+6/19/2025 12:09:47 PM - DSN Name : dsn_14766
+6/19/2025 12:09:47 PM - Report Parameter parameter : {?SELECT}=NO
+6/19/2025 12:13:03 PM - Client Server IP: 160.187.54.38,4545
+6/19/2025 12:13:03 PM - Client Multiple Database : Main,Shubh
+6/19/2025 12:13:03 PM - Client Database : Shubh
+6/19/2025 12:13:03 PM - Report Name : shubh_gs
+6/19/2025 12:13:03 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 12:13:03 PM - Company ID : 52
+6/19/2025 12:13:03 PM - SSDT : CDATE(2025,04,01)
+6/19/2025 12:13:03 PM - LLDT : CDATE(2025,06,19)
+6/19/2025 12:13:03 PM - DSN Name : dsn_14768
+6/19/2025 12:13:03 PM - Report Parameter parameter : {?SELECT}=NO
+6/19/2025 12:14:02 PM - Client Server IP: 160.187.54.38,4545
+6/19/2025 12:14:02 PM - Client Multiple Database : Main,Shubh
+6/19/2025 12:14:02 PM - Client Database : Shubh
+6/19/2025 12:14:02 PM - Report Name : shubh_gs
+6/19/2025 12:14:02 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 12:14:02 PM - Company ID : 52
+6/19/2025 12:14:02 PM - SSDT : CDATE(2025,04,01)
+6/19/2025 12:14:02 PM - LLDT : CDATE(2025,06,19)
+6/19/2025 12:14:02 PM - DSN Name : dsn_14771
+6/19/2025 12:14:02 PM - Report Parameter parameter : {?SELECT}=NO
+6/19/2025 12:14:38 PM - Client Server IP: 160.187.54.38,4545
+6/19/2025 12:14:38 PM - Client Multiple Database : Main,Shubh
+6/19/2025 12:14:38 PM - Client Database : Shubh
+6/19/2025 12:14:38 PM - Report Name : shubh_gs
+6/19/2025 12:14:38 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 12:14:38 PM - Company ID : 52
+6/19/2025 12:14:38 PM - SSDT : CDATE(2025,04,01)
+6/19/2025 12:14:38 PM - LLDT : CDATE(2025,06,19)
+6/19/2025 12:14:38 PM - DSN Name : dsn_14772
+6/19/2025 12:14:38 PM - Report Parameter parameter : {?SELECT}=NO
+6/19/2025 12:27:46 PM - Client Server IP: 160.187.54.38,4545
+6/19/2025 12:27:46 PM - Client Multiple Database : Main,Shubh
+6/19/2025 12:27:46 PM - Client Database : Shubh
+6/19/2025 12:27:46 PM - Report Name : shubh_gs
+6/19/2025 12:27:46 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 12:27:46 PM - Company ID : 52
+6/19/2025 12:27:46 PM - SSDT : CDATE(2025,04,01)
+6/19/2025 12:27:46 PM - LLDT : CDATE(2025,06,19)
+6/19/2025 12:27:46 PM - DSN Name : dsn_14787
+6/19/2025 12:27:46 PM - Report Parameter parameter : {?SELECT}=NO
+6/19/2025 12:31:40 PM - Client Server IP: 160.187.54.38,4545
+6/19/2025 12:31:40 PM - Client Multiple Database : Main,Shubh
+6/19/2025 12:31:40 PM - Client Database : Shubh
+6/19/2025 12:31:40 PM - Report Name : shubh_fs
+6/19/2025 12:31:40 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 12:31:40 PM - Company ID : 52
+6/19/2025 12:31:40 PM - SSDT : CDATE(2025,04,01)
+6/19/2025 12:31:40 PM - LLDT : CDATE(2025,06,19)
+6/19/2025 12:31:40 PM - DSN Name : dsn_14790
+6/19/2025 12:31:40 PM - Report Parameter parameter : {?SELECT}=NO
+6/19/2025 12:32:23 PM - Client Server IP: 160.187.54.38,4545
+6/19/2025 12:32:23 PM - Client Multiple Database : Main,Shubh
+6/19/2025 12:32:23 PM - Client Database : Shubh
+6/19/2025 12:32:23 PM - Report Name : shubh_gs
+6/19/2025 12:32:23 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 12:32:23 PM - Company ID : 52
+6/19/2025 12:32:23 PM - SSDT : CDATE(2025,04,01)
+6/19/2025 12:32:23 PM - LLDT : CDATE(2025,06,19)
+6/19/2025 12:32:23 PM - DSN Name : dsn_14791
+6/19/2025 12:32:23 PM - Report Parameter parameter : {?SELECT}=NO
+6/19/2025 12:38:22 PM - Client Server IP: 160.187.54.38,4545
+6/19/2025 12:38:22 PM - Client Multiple Database : Main,Shubh
+6/19/2025 12:38:22 PM - Client Database : Shubh
+6/19/2025 12:38:22 PM - Report Name : shubh_gs
+6/19/2025 12:38:22 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 12:38:22 PM - Company ID : 52
+6/19/2025 12:38:22 PM - SSDT : CDATE(2025,04,01)
+6/19/2025 12:38:22 PM - LLDT : CDATE(2025,06,19)
+6/19/2025 12:38:22 PM - DSN Name : dsn_14794
+6/19/2025 12:38:22 PM - Report Parameter parameter : {?SELECT}=NO
+6/19/2025 1:08:47 PM - Client Server IP: 160.187.54.38,4545
+6/19/2025 1:08:47 PM - Client Multiple Database : Main,Shubh
+6/19/2025 1:08:47 PM - Client Database : Shubh
+6/19/2025 1:08:47 PM - Report Name : shubh_fs
+6/19/2025 1:08:47 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 1:08:47 PM - Company ID : 52
+6/19/2025 1:08:47 PM - SSDT : CDATE(2025,04,01)
+6/19/2025 1:08:47 PM - LLDT : CDATE(2025,06,19)
+6/19/2025 1:08:47 PM - DSN Name : dsn_14803
+6/19/2025 1:08:47 PM - Report Parameter parameter : {?SELECT}=NO
+6/19/2025 1:09:26 PM - Client Server IP: 160.187.54.38,4545
+6/19/2025 1:09:26 PM - Client Multiple Database : Main,Shubh
+6/19/2025 1:09:26 PM - Client Database : Shubh
+6/19/2025 1:09:26 PM - Report Name : shubh_gs
+6/19/2025 1:09:26 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 1:09:26 PM - Company ID : 52
+6/19/2025 1:09:26 PM - SSDT : CDATE(2025,04,01)
+6/19/2025 1:09:26 PM - LLDT : CDATE(2025,06,19)
+6/19/2025 1:09:26 PM - DSN Name : dsn_14804
+6/19/2025 1:09:26 PM - Report Parameter parameter : {?SELECT}=NO
+6/19/2025 1:58:23 PM - Client Server IP: 139.5.190.101,8546
+6/19/2025 1:58:23 PM - Client Multiple Database : Saberp_Main_MF,wintry_inv
+6/19/2025 1:58:23 PM - Client Database : wintry_inv
+6/19/2025 1:58:23 PM - Report Name : fs_valiant
+6/19/2025 1:58:23 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 1:58:23 PM - Company ID : 45
+6/19/2025 1:58:23 PM - SSDT : CDATE(2025,04,01)
+6/19/2025 1:58:23 PM - LLDT : CDATE(2025,06,19)
+6/19/2025 1:58:23 PM - DSN Name : dsn_14833
+6/19/2025 1:58:23 PM - Report Parameter parameter : 
+6/19/2025 1:58:43 PM - Client Server IP: 139.5.190.101,8546
+6/19/2025 1:58:43 PM - Client Multiple Database : Saberp_Main_MF,wintry_inv
+6/19/2025 1:58:43 PM - Client Database : wintry_inv
+6/19/2025 1:58:43 PM - Report Name : fs_valiant
+6/19/2025 1:58:43 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 1:58:43 PM - Company ID : 45
+6/19/2025 1:58:43 PM - SSDT : CDATE(2025,04,01)
+6/19/2025 1:58:43 PM - LLDT : CDATE(2025,06,19)
+6/19/2025 1:58:43 PM - DSN Name : dsn_14834
+6/19/2025 1:58:43 PM - Report Parameter parameter : 
+6/19/2025 2:01:22 PM - Client Server IP: 139.5.190.101,8546
+6/19/2025 2:01:22 PM - Client Multiple Database : Saberp_Main_MF,wintry_inv
+6/19/2025 2:01:22 PM - Client Database : wintry_inv
+6/19/2025 2:01:22 PM - Report Name : fs_valiant
+6/19/2025 2:01:22 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 2:01:22 PM - Company ID : 45
+6/19/2025 2:01:22 PM - SSDT : CDATE(2025,04,01)
+6/19/2025 2:01:22 PM - LLDT : CDATE(2025,06,19)
+6/19/2025 2:01:22 PM - DSN Name : dsn_14836
+6/19/2025 2:01:22 PM - Report Parameter parameter : 
+6/19/2025 2:02:18 PM - Client Server IP: 139.5.190.101,8546
+6/19/2025 2:02:18 PM - Client Multiple Database : Saberp_Main_MF,wintry_inv
+6/19/2025 2:02:18 PM - Client Database : wintry_inv
+6/19/2025 2:02:18 PM - Report Name : fs_valiant
+6/19/2025 2:02:18 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 2:02:18 PM - Company ID : 45
+6/19/2025 2:02:18 PM - SSDT : CDATE(2025,04,01)
+6/19/2025 2:02:18 PM - LLDT : CDATE(2025,06,19)
+6/19/2025 2:02:18 PM - DSN Name : dsn_14837
+6/19/2025 2:02:18 PM - Report Parameter parameter : 
+6/19/2025 2:02:47 PM - Client Server IP: 139.5.190.101,8546
+6/19/2025 2:02:47 PM - Client Multiple Database : Saberp_Main_MF,wintry_inv
+6/19/2025 2:02:47 PM - Client Database : wintry_inv
+6/19/2025 2:02:47 PM - Report Name : fs_valiant
+6/19/2025 2:02:47 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 2:02:47 PM - Company ID : 45
+6/19/2025 2:02:47 PM - SSDT : CDATE(2025,04,01)
+6/19/2025 2:02:47 PM - LLDT : CDATE(2025,06,19)
+6/19/2025 2:02:47 PM - DSN Name : dsn_14839
+6/19/2025 2:02:47 PM - Report Parameter parameter : 
+6/19/2025 2:10:10 PM - Client Server IP: 139.5.190.101,8546
+6/19/2025 2:10:10 PM - Client Multiple Database : Saberp_Main_MF,wintry_inv
+6/19/2025 2:10:10 PM - Client Database : wintry_inv
+6/19/2025 2:10:10 PM - Report Name : fs_valiant
+6/19/2025 2:10:10 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 2:10:10 PM - Company ID : 45
+6/19/2025 2:10:10 PM - SSDT : CDATE(2025,04,01)
+6/19/2025 2:10:10 PM - LLDT : CDATE(2025,06,19)
+6/19/2025 2:10:10 PM - DSN Name : dsn_14843
+6/19/2025 2:10:10 PM - Report Parameter parameter : 
+6/19/2025 2:17:17 PM - Client Server IP: 139.5.190.101,8546
+6/19/2025 2:17:17 PM - Client Multiple Database : Saberp_Main_MF,wintry_inv
+6/19/2025 2:17:17 PM - Client Database : wintry_inv
+6/19/2025 2:17:17 PM - Report Name : fs_valiant
+6/19/2025 2:17:17 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/19/2025 2:17:17 PM - Company ID : 45
+6/19/2025 2:17:17 PM - SSDT : CDATE(2025,04,01)
+6/19/2025 2:17:17 PM - LLDT : CDATE(2025,06,19)
+6/19/2025 2:17:17 PM - DSN Name : dsn_14845
+6/19/2025 2:17:17 PM - Report Parameter parameter : 

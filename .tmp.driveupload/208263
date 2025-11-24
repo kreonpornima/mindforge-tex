@@ -1,0 +1,540 @@
+11/13/2025 12:59:40 PM - Client Server IP: 160.187.54.38,4545
+11/13/2025 12:59:40 PM - Client Multiple Database : MohiniAcc
+11/13/2025 12:59:40 PM - Client Database : MohiniAcc
+11/13/2025 12:59:40 PM - Report Name : FSI
+11/13/2025 12:59:40 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 12:59:40 PM - Company ID : 29
+11/13/2025 12:59:40 PM - SSDT : CDATE(2025,04,01)
+11/13/2025 12:59:40 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 12:59:40 PM - DSN Name : dsn_157179
+11/13/2025 12:59:40 PM - Report Parameter parameter : 
+11/13/2025 1:02:00 PM - Client Server IP: 160.187.54.38,4545
+11/13/2025 1:02:00 PM - Client Multiple Database : MohiniAcc
+11/13/2025 1:02:00 PM - Client Database : MohiniAcc
+11/13/2025 1:02:00 PM - Report Name : FSI
+11/13/2025 1:02:00 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 1:02:00 PM - Company ID : 29
+11/13/2025 1:02:00 PM - SSDT : CDATE(2025,04,01)
+11/13/2025 1:02:00 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 1:02:00 PM - DSN Name : dsn_157187
+11/13/2025 1:02:00 PM - Report Parameter parameter : 
+11/13/2025 1:04:04 PM - Client Server IP: 160.187.54.38,4545
+11/13/2025 1:04:04 PM - Client Multiple Database : MohiniAcc
+11/13/2025 1:04:04 PM - Client Database : MohiniAcc
+11/13/2025 1:04:04 PM - Report Name : FSI
+11/13/2025 1:04:04 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 1:04:04 PM - Company ID : 29
+11/13/2025 1:04:04 PM - SSDT : CDATE(2025,04,01)
+11/13/2025 1:04:04 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 1:04:04 PM - DSN Name : dsn_157191
+11/13/2025 1:04:04 PM - Report Parameter parameter : 
+11/15/2025 4:51:48 PM - Client Server IP: 160.187.54.38,4545
+11/15/2025 4:51:48 PM - Client Multiple Database : MohiniAcc
+11/15/2025 4:51:48 PM - Client Database : MohiniAcc
+11/15/2025 4:51:48 PM - Report Name : purchase_out
+11/15/2025 4:51:48 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 4:51:48 PM - Company ID : 29
+11/15/2025 4:51:48 PM - SSDT : CDATE(2025,04,01)
+11/15/2025 4:51:48 PM - LLDT : CDATE(2025,11,15)
+11/15/2025 4:51:48 PM - DSN Name : dsn_162270
+11/15/2025 4:51:48 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+11/15/2025 4:53:00 PM - Client Server IP: 160.187.54.38,4545
+11/15/2025 4:53:00 PM - Client Multiple Database : MohiniAcc
+11/15/2025 4:53:00 PM - Client Database : MohiniAcc
+11/15/2025 4:53:00 PM - Report Name : purchase_out
+11/15/2025 4:53:00 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 4:53:00 PM - Company ID : 29
+11/15/2025 4:53:00 PM - SSDT : CDATE(2025,04,01)
+11/15/2025 4:53:00 PM - LLDT : CDATE(2025,11,15)
+11/15/2025 4:53:00 PM - DSN Name : dsn_162277
+11/15/2025 4:53:00 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+11/15/2025 4:53:22 PM - Client Server IP: 160.187.54.38,4545
+11/15/2025 4:53:22 PM - Client Multiple Database : MohiniAcc
+11/15/2025 4:53:22 PM - Client Database : MohiniAcc
+11/15/2025 4:53:22 PM - Report Name : purchase_out
+11/15/2025 4:53:22 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 4:53:22 PM - Company ID : 29
+11/15/2025 4:53:22 PM - SSDT : CDATE(2025,04,01)
+11/15/2025 4:53:22 PM - LLDT : CDATE(2025,11,15)
+11/15/2025 4:53:22 PM - DSN Name : dsn_162280
+11/15/2025 4:53:22 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+11/15/2025 4:56:16 PM - Client Server IP: 160.187.54.38,4545
+11/15/2025 4:56:16 PM - Client Multiple Database : MohiniAcc
+11/15/2025 4:56:16 PM - Client Database : MohiniAcc
+11/15/2025 4:56:16 PM - Report Name : mohini_pgr
+11/15/2025 4:56:16 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 4:56:16 PM - Company ID : 29
+11/15/2025 4:56:16 PM - SSDT : CDATE(2025,04,01)
+11/15/2025 4:56:16 PM - LLDT : CDATE(2025,11,15)
+11/15/2025 4:56:16 PM - DSN Name : dsn_162288
+11/15/2025 4:56:16 PM - Report Parameter parameter : {?SELECT}=NO
+11/15/2025 5:01:27 PM - Client Server IP: 160.187.54.38,4545
+11/15/2025 5:01:27 PM - Client Multiple Database : MohiniAcc
+11/15/2025 5:01:27 PM - Client Database : MohiniAcc
+11/15/2025 5:01:27 PM - Report Name : purchase_out
+11/15/2025 5:01:27 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 5:01:27 PM - Company ID : 29
+11/15/2025 5:01:27 PM - SSDT : CDATE(2025,04,01)
+11/15/2025 5:01:27 PM - LLDT : CDATE(2025,11,15)
+11/15/2025 5:01:27 PM - DSN Name : dsn_162307
+11/15/2025 5:01:27 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+11/15/2025 5:01:42 PM - Client Server IP: 160.187.54.38,4545
+11/15/2025 5:01:42 PM - Client Multiple Database : MohiniAcc
+11/15/2025 5:01:42 PM - Client Database : MohiniAcc
+11/15/2025 5:01:42 PM - Report Name : mohini_pgr
+11/15/2025 5:01:42 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 5:01:42 PM - Company ID : 29
+11/15/2025 5:01:42 PM - SSDT : CDATE(2025,04,01)
+11/15/2025 5:01:42 PM - LLDT : CDATE(2025,11,15)
+11/15/2025 5:01:42 PM - DSN Name : dsn_162309
+11/15/2025 5:01:42 PM - Report Parameter parameter : {?SELECT}=NO
+11/15/2025 5:06:47 PM - Client Server IP: 160.187.54.38,4545
+11/15/2025 5:06:47 PM - Client Multiple Database : MohiniAcc
+11/15/2025 5:06:47 PM - Client Database : MohiniAcc
+11/15/2025 5:06:47 PM - Report Name : mohini_pgr
+11/15/2025 5:06:47 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 5:06:47 PM - Company ID : 29
+11/15/2025 5:06:47 PM - SSDT : CDATE(2025,04,01)
+11/15/2025 5:06:47 PM - LLDT : CDATE(2025,11,15)
+11/15/2025 5:06:47 PM - DSN Name : dsn_162332
+11/15/2025 5:06:47 PM - Report Parameter parameter : {?SELECT}=NO
+11/15/2025 5:08:19 PM - Client Server IP: 160.187.54.38,4545
+11/15/2025 5:08:19 PM - Client Multiple Database : MohiniAcc
+11/15/2025 5:08:19 PM - Client Database : MohiniAcc
+11/15/2025 5:08:19 PM - Report Name : mohini_pgr
+11/15/2025 5:08:19 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 5:08:19 PM - Company ID : 29
+11/15/2025 5:08:19 PM - SSDT : CDATE(2025,04,01)
+11/15/2025 5:08:19 PM - LLDT : CDATE(2025,11,15)
+11/15/2025 5:08:19 PM - DSN Name : dsn_162339
+11/15/2025 5:08:19 PM - Report Parameter parameter : {?SELECT}=NO
+11/15/2025 5:08:53 PM - Client Server IP: 160.187.54.38,4545
+11/15/2025 5:08:53 PM - Client Multiple Database : MohiniAcc
+11/15/2025 5:08:53 PM - Client Database : MohiniAcc
+11/15/2025 5:08:53 PM - Report Name : purchase_out
+11/15/2025 5:08:53 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 5:08:53 PM - Company ID : 29
+11/15/2025 5:08:53 PM - SSDT : CDATE(2025,04,01)
+11/15/2025 5:08:53 PM - LLDT : CDATE(2025,11,15)
+11/15/2025 5:08:53 PM - DSN Name : dsn_162343
+11/15/2025 5:08:53 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+11/15/2025 5:09:57 PM - Client Server IP: 160.187.54.38,4545
+11/15/2025 5:09:57 PM - Client Multiple Database : MohiniAcc
+11/15/2025 5:09:57 PM - Client Database : MohiniAcc
+11/15/2025 5:09:57 PM - Report Name : purchase_out
+11/15/2025 5:09:57 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 5:09:57 PM - Company ID : 29
+11/15/2025 5:09:57 PM - SSDT : CDATE(2025,04,01)
+11/15/2025 5:09:57 PM - LLDT : CDATE(2025,11,15)
+11/15/2025 5:09:57 PM - DSN Name : dsn_162349
+11/15/2025 5:09:57 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+11/15/2025 5:12:37 PM - Client Server IP: 160.187.54.38,4545
+11/15/2025 5:12:37 PM - Client Multiple Database : MohiniAcc
+11/15/2025 5:12:37 PM - Client Database : MohiniAcc
+11/15/2025 5:12:37 PM - Report Name : purchase_out
+11/15/2025 5:12:37 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 5:12:37 PM - Company ID : 29
+11/15/2025 5:12:37 PM - SSDT : CDATE(2025,04,01)
+11/15/2025 5:12:37 PM - LLDT : CDATE(2025,11,15)
+11/15/2025 5:12:37 PM - DSN Name : dsn_162358
+11/15/2025 5:12:37 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+11/15/2025 5:13:58 PM - Client Server IP: 160.187.54.38,4545
+11/15/2025 5:13:58 PM - Client Multiple Database : MohiniAcc
+11/15/2025 5:13:58 PM - Client Database : MohiniAcc
+11/15/2025 5:13:58 PM - Report Name : purchase_out
+11/15/2025 5:13:58 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 5:13:58 PM - Company ID : 29
+11/15/2025 5:13:58 PM - SSDT : CDATE(2025,04,01)
+11/15/2025 5:13:58 PM - LLDT : CDATE(2025,11,15)
+11/15/2025 5:13:58 PM - DSN Name : dsn_162367
+11/15/2025 5:13:58 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+11/15/2025 5:14:49 PM - Client Server IP: 160.187.54.38,4545
+11/15/2025 5:14:49 PM - Client Multiple Database : MohiniAcc
+11/15/2025 5:14:49 PM - Client Database : MohiniAcc
+11/15/2025 5:14:49 PM - Report Name : purchase_out
+11/15/2025 5:14:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 5:14:49 PM - Company ID : 29
+11/15/2025 5:14:49 PM - SSDT : CDATE(2025,04,01)
+11/15/2025 5:14:49 PM - LLDT : CDATE(2025,11,15)
+11/15/2025 5:14:49 PM - DSN Name : dsn_162371
+11/15/2025 5:14:49 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+11/15/2025 5:24:09 PM - Client Server IP: 160.187.54.38,4545
+11/15/2025 5:24:09 PM - Client Multiple Database : MohiniAcc
+11/15/2025 5:24:09 PM - Client Database : MohiniAcc
+11/15/2025 5:24:09 PM - Report Name : purchase_out
+11/15/2025 5:24:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 5:24:09 PM - Company ID : 29
+11/15/2025 5:24:09 PM - SSDT : CDATE(2025,04,01)
+11/15/2025 5:24:09 PM - LLDT : CDATE(2025,11,15)
+11/15/2025 5:24:09 PM - DSN Name : dsn_162423
+11/15/2025 5:24:09 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+11/15/2025 5:26:30 PM - Client Server IP: 160.187.54.38,4545
+11/15/2025 5:26:30 PM - Client Multiple Database : MohiniAcc
+11/15/2025 5:26:30 PM - Client Database : MohiniAcc
+11/15/2025 5:26:30 PM - Report Name : purchase_out
+11/15/2025 5:26:30 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 5:26:30 PM - Company ID : 29
+11/15/2025 5:26:30 PM - SSDT : CDATE(2025,04,01)
+11/15/2025 5:26:30 PM - LLDT : CDATE(2025,11,15)
+11/15/2025 5:26:30 PM - DSN Name : dsn_162433
+11/15/2025 5:26:30 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+11/15/2025 5:27:37 PM - Client Server IP: 160.187.54.38,4545
+11/15/2025 5:27:37 PM - Client Multiple Database : MohiniAcc
+11/15/2025 5:27:37 PM - Client Database : MohiniAcc
+11/15/2025 5:27:37 PM - Report Name : purchase_out
+11/15/2025 5:27:37 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 5:27:37 PM - Company ID : 29
+11/15/2025 5:27:37 PM - SSDT : CDATE(2025,04,01)
+11/15/2025 5:27:37 PM - LLDT : CDATE(2025,11,15)
+11/15/2025 5:27:37 PM - DSN Name : dsn_162440
+11/15/2025 5:27:37 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+11/15/2025 5:28:17 PM - Client Server IP: 160.187.54.38,4545
+11/15/2025 5:28:17 PM - Client Multiple Database : MohiniAcc
+11/15/2025 5:28:17 PM - Client Database : MohiniAcc
+11/15/2025 5:28:17 PM - Report Name : purchase_out
+11/15/2025 5:28:17 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/15/2025 5:28:17 PM - Company ID : 29
+11/15/2025 5:28:17 PM - SSDT : CDATE(2025,04,01)
+11/15/2025 5:28:17 PM - LLDT : CDATE(2025,11,15)
+11/15/2025 5:28:17 PM - DSN Name : dsn_162441
+11/15/2025 5:28:17 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+11/17/2025 11:53:01 AM - Client Server IP: 160.187.54.38,4545
+11/17/2025 11:53:01 AM - Client Multiple Database : MohiniAcc
+11/17/2025 11:53:01 AM - Client Database : MohiniAcc
+11/17/2025 11:53:01 AM - Report Name : mohini_fsr
+11/17/2025 11:53:01 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/17/2025 11:53:01 AM - Company ID : 29
+11/17/2025 11:53:01 AM - SSDT : CDATE(2025,04,01)
+11/17/2025 11:53:01 AM - LLDT : CDATE(2025,11,17)
+11/17/2025 11:53:01 AM - DSN Name : dsn_164017
+11/17/2025 11:53:01 AM - Report Parameter parameter : {?SELECT}=NO
+11/18/2025 2:30:25 PM - Client Server IP: 160.187.54.38,4545
+11/18/2025 2:30:25 PM - Client Multiple Database : MohiniAcc
+11/18/2025 2:30:25 PM - Client Database : MohiniAcc
+11/18/2025 2:30:25 PM - Report Name : FSI
+11/18/2025 2:30:25 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/18/2025 2:30:25 PM - Company ID : 29
+11/18/2025 2:30:25 PM - SSDT : CDATE(2025,04,01)
+11/18/2025 2:30:25 PM - LLDT : CDATE(2025,11,18)
+11/18/2025 2:30:25 PM - DSN Name : dsn_166850
+11/18/2025 2:30:25 PM - Report Parameter parameter : 
+11/18/2025 2:32:24 PM - Client Server IP: 160.187.54.38,4545
+11/18/2025 2:32:24 PM - Client Multiple Database : MohiniAcc
+11/18/2025 2:32:24 PM - Client Database : MohiniAcc
+11/18/2025 2:32:24 PM - Report Name : FSI
+11/18/2025 2:32:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/18/2025 2:32:24 PM - Company ID : 29
+11/18/2025 2:32:24 PM - SSDT : CDATE(2025,04,01)
+11/18/2025 2:32:24 PM - LLDT : CDATE(2025,11,18)
+11/18/2025 2:32:24 PM - DSN Name : dsn_166861
+11/18/2025 2:32:24 PM - Report Parameter parameter : 
+11/18/2025 2:32:36 PM - Client Server IP: 160.187.54.38,4545
+11/18/2025 2:32:36 PM - Client Multiple Database : MohiniAcc
+11/18/2025 2:32:36 PM - Client Database : MohiniAcc
+11/18/2025 2:32:36 PM - Report Name : FSI
+11/18/2025 2:32:36 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/18/2025 2:32:36 PM - Company ID : 29
+11/18/2025 2:32:36 PM - SSDT : CDATE(2025,04,01)
+11/18/2025 2:32:36 PM - LLDT : CDATE(2025,11,18)
+11/18/2025 2:32:36 PM - DSN Name : dsn_166863
+11/18/2025 2:32:36 PM - Report Parameter parameter : 
+11/18/2025 5:06:18 PM - Client Server IP: 160.187.54.38,4545
+11/18/2025 5:06:18 PM - Client Multiple Database : MohiniAcc
+11/18/2025 5:06:18 PM - Client Database : MohiniAcc
+11/18/2025 5:06:18 PM - Report Name : lpr
+11/18/2025 5:06:18 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/18/2025 5:06:18 PM - Company ID : 29
+11/18/2025 5:06:18 PM - SSDT : CDATE(2025,10,01)
+11/18/2025 5:06:18 PM - LLDT : CDATE(2025,10,31)
+11/18/2025 5:06:18 PM - DSN Name : dsn_167514
+11/18/2025 5:06:18 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+11/19/2025 12:12:57 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 12:12:57 PM - Client Multiple Database : MohiniAcc
+11/19/2025 12:12:57 PM - Client Database : MohiniAcc
+11/19/2025 12:12:57 PM - Report Name : mohini_fsr
+11/19/2025 12:12:57 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 12:12:57 PM - Company ID : 29
+11/19/2025 12:12:57 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 12:12:57 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 12:12:57 PM - DSN Name : dsn_168578
+11/19/2025 12:12:57 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 12:15:03 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 12:15:03 PM - Client Multiple Database : MohiniAcc
+11/19/2025 12:15:03 PM - Client Database : MohiniAcc
+11/19/2025 12:15:03 PM - Report Name : mohini_fsr
+11/19/2025 12:15:03 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 12:15:03 PM - Company ID : 29
+11/19/2025 12:15:03 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 12:15:03 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 12:15:03 PM - DSN Name : dsn_168586
+11/19/2025 12:15:03 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 12:16:26 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 12:16:26 PM - Client Multiple Database : MohiniAcc
+11/19/2025 12:16:26 PM - Client Database : MohiniAcc
+11/19/2025 12:16:26 PM - Report Name : mohini_fsr
+11/19/2025 12:16:26 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 12:16:26 PM - Company ID : 29
+11/19/2025 12:16:26 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 12:16:26 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 12:16:26 PM - DSN Name : dsn_168589
+11/19/2025 12:16:26 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 12:16:45 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 12:16:45 PM - Client Multiple Database : MohiniAcc
+11/19/2025 12:16:45 PM - Client Database : MohiniAcc
+11/19/2025 12:16:45 PM - Report Name : mohini_fsr
+11/19/2025 12:16:45 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 12:16:45 PM - Company ID : 29
+11/19/2025 12:16:45 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 12:16:45 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 12:16:45 PM - DSN Name : dsn_168590
+11/19/2025 12:16:45 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 12:17:10 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 12:17:10 PM - Client Multiple Database : MohiniAcc
+11/19/2025 12:17:10 PM - Client Database : MohiniAcc
+11/19/2025 12:17:10 PM - Report Name : mohini_fsr
+11/19/2025 12:17:10 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 12:17:10 PM - Company ID : 29
+11/19/2025 12:17:10 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 12:17:10 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 12:17:10 PM - DSN Name : dsn_168592
+11/19/2025 12:17:10 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 12:18:49 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 12:18:49 PM - Client Multiple Database : MohiniAcc
+11/19/2025 12:18:49 PM - Client Database : MohiniAcc
+11/19/2025 12:18:49 PM - Report Name : mohini_fsr
+11/19/2025 12:18:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 12:18:49 PM - Company ID : 29
+11/19/2025 12:18:49 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 12:18:49 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 12:18:49 PM - DSN Name : dsn_168595
+11/19/2025 12:18:49 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 12:19:18 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 12:19:18 PM - Client Multiple Database : MohiniAcc
+11/19/2025 12:19:18 PM - Client Database : MohiniAcc
+11/19/2025 12:19:18 PM - Report Name : mohini_fsr
+11/19/2025 12:19:18 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 12:19:18 PM - Company ID : 29
+11/19/2025 12:19:18 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 12:19:18 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 12:19:18 PM - DSN Name : dsn_168600
+11/19/2025 12:19:18 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 12:20:04 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 12:20:04 PM - Client Multiple Database : MohiniAcc
+11/19/2025 12:20:04 PM - Client Database : MohiniAcc
+11/19/2025 12:20:04 PM - Report Name : mohini_fsr
+11/19/2025 12:20:04 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 12:20:04 PM - Company ID : 29
+11/19/2025 12:20:04 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 12:20:04 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 12:20:04 PM - DSN Name : dsn_168607
+11/19/2025 12:20:04 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 12:20:36 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 12:20:36 PM - Client Multiple Database : MohiniAcc
+11/19/2025 12:20:36 PM - Client Database : MohiniAcc
+11/19/2025 12:20:36 PM - Report Name : mohini_fsr
+11/19/2025 12:20:36 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 12:20:36 PM - Company ID : 29
+11/19/2025 12:20:36 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 12:20:36 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 12:20:36 PM - DSN Name : dsn_168610
+11/19/2025 12:20:36 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 12:38:44 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 12:38:44 PM - Client Multiple Database : MohiniAcc
+11/19/2025 12:38:44 PM - Client Database : MohiniAcc
+11/19/2025 12:38:44 PM - Report Name : FSI
+11/19/2025 12:38:44 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 12:38:44 PM - Company ID : 29
+11/19/2025 12:38:44 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 12:38:44 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 12:38:44 PM - DSN Name : dsn_168679
+11/19/2025 12:38:44 PM - Report Parameter parameter : 
+11/19/2025 12:56:46 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 12:56:46 PM - Client Multiple Database : MohiniAcc
+11/19/2025 12:56:46 PM - Client Database : MohiniAcc
+11/19/2025 12:56:46 PM - Report Name : FSI
+11/19/2025 12:56:46 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 12:56:46 PM - Company ID : 29
+11/19/2025 12:56:46 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 12:56:46 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 12:56:46 PM - DSN Name : dsn_168760
+11/19/2025 12:56:46 PM - Report Parameter parameter : 
+11/19/2025 12:57:16 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 12:57:16 PM - Client Multiple Database : MohiniAcc
+11/19/2025 12:57:16 PM - Client Database : MohiniAcc
+11/19/2025 12:57:16 PM - Report Name : FSI
+11/19/2025 12:57:16 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 12:57:16 PM - Company ID : 29
+11/19/2025 12:57:16 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 12:57:16 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 12:57:16 PM - DSN Name : dsn_168761
+11/19/2025 12:57:16 PM - Report Parameter parameter : 
+11/19/2025 12:58:47 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 12:58:47 PM - Client Multiple Database : MohiniAcc
+11/19/2025 12:58:47 PM - Client Database : MohiniAcc
+11/19/2025 12:58:47 PM - Report Name : mohini_fsr
+11/19/2025 12:58:47 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 12:58:47 PM - Company ID : 29
+11/19/2025 12:58:47 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 12:58:47 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 12:58:47 PM - DSN Name : dsn_168769
+11/19/2025 12:58:47 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 1:02:07 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 1:02:07 PM - Client Multiple Database : MohiniAcc
+11/19/2025 1:02:07 PM - Client Database : MohiniAcc
+11/19/2025 1:02:07 PM - Report Name : mohini_fsr
+11/19/2025 1:02:07 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 1:02:07 PM - Company ID : 29
+11/19/2025 1:02:07 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 1:02:07 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 1:02:07 PM - DSN Name : dsn_168786
+11/19/2025 1:02:07 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 1:02:47 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 1:02:47 PM - Client Multiple Database : MohiniAcc
+11/19/2025 1:02:47 PM - Client Database : MohiniAcc
+11/19/2025 1:02:47 PM - Report Name : mohini_fsr
+11/19/2025 1:02:47 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 1:02:47 PM - Company ID : 29
+11/19/2025 1:02:47 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 1:02:47 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 1:02:47 PM - DSN Name : dsn_168789
+11/19/2025 1:02:47 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 1:12:06 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 1:12:06 PM - Client Multiple Database : MohiniAcc
+11/19/2025 1:12:06 PM - Client Database : MohiniAcc
+11/19/2025 1:12:06 PM - Report Name : mohini_fsr
+11/19/2025 1:12:06 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 1:12:06 PM - Company ID : 29
+11/19/2025 1:12:06 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 1:12:06 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 1:12:06 PM - DSN Name : dsn_168832
+11/19/2025 1:12:06 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 1:12:46 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 1:12:46 PM - Client Multiple Database : MohiniAcc
+11/19/2025 1:12:46 PM - Client Database : MohiniAcc
+11/19/2025 1:12:46 PM - Report Name : mohini_fsr
+11/19/2025 1:12:46 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 1:12:46 PM - Company ID : 29
+11/19/2025 1:12:46 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 1:12:46 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 1:12:46 PM - DSN Name : dsn_168838
+11/19/2025 1:12:46 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 1:13:19 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 1:13:19 PM - Client Multiple Database : MohiniAcc
+11/19/2025 1:13:19 PM - Client Database : MohiniAcc
+11/19/2025 1:13:19 PM - Report Name : mohini_fsr
+11/19/2025 1:13:19 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 1:13:19 PM - Company ID : 29
+11/19/2025 1:13:19 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 1:13:19 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 1:13:19 PM - DSN Name : dsn_168841
+11/19/2025 1:13:19 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 1:15:27 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 1:15:27 PM - Client Multiple Database : MohiniAcc
+11/19/2025 1:15:27 PM - Client Database : MohiniAcc
+11/19/2025 1:15:27 PM - Report Name : mohini_fsr
+11/19/2025 1:15:27 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 1:15:27 PM - Company ID : 29
+11/19/2025 1:15:27 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 1:15:27 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 1:15:27 PM - DSN Name : dsn_168852
+11/19/2025 1:15:27 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 1:16:55 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 1:16:55 PM - Client Multiple Database : MohiniAcc
+11/19/2025 1:16:55 PM - Client Database : MohiniAcc
+11/19/2025 1:16:55 PM - Report Name : mohini_fsr
+11/19/2025 1:16:55 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 1:16:55 PM - Company ID : 29
+11/19/2025 1:16:55 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 1:16:55 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 1:16:55 PM - DSN Name : dsn_168865
+11/19/2025 1:16:55 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 1:17:55 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 1:17:55 PM - Client Multiple Database : MohiniAcc
+11/19/2025 1:17:55 PM - Client Database : MohiniAcc
+11/19/2025 1:17:55 PM - Report Name : mohini_fsr
+11/19/2025 1:17:55 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 1:17:55 PM - Company ID : 29
+11/19/2025 1:17:55 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 1:17:55 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 1:17:55 PM - DSN Name : dsn_168870
+11/19/2025 1:17:55 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 1:18:47 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 1:18:47 PM - Client Multiple Database : MohiniAcc
+11/19/2025 1:18:47 PM - Client Database : MohiniAcc
+11/19/2025 1:18:47 PM - Report Name : mohini_fsr
+11/19/2025 1:18:47 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 1:18:47 PM - Company ID : 29
+11/19/2025 1:18:47 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 1:18:47 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 1:18:47 PM - DSN Name : dsn_168878
+11/19/2025 1:18:47 PM - Report Parameter parameter : {?SELECT}=NO
+11/19/2025 1:20:03 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 1:20:03 PM - Client Multiple Database : MohiniAcc
+11/19/2025 1:20:03 PM - Client Database : MohiniAcc
+11/19/2025 1:20:03 PM - Report Name : outbrok
+11/19/2025 1:20:03 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 1:20:03 PM - Company ID : 29
+11/19/2025 1:20:03 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 1:20:03 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 1:20:03 PM - DSN Name : dsn_168883
+11/19/2025 1:20:03 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+11/19/2025 2:45:45 PM - Client Server IP: 160.187.54.38,4545
+11/19/2025 2:45:45 PM - Client Multiple Database : MohiniAcc
+11/19/2025 2:45:45 PM - Client Database : MohiniAcc
+11/19/2025 2:45:45 PM - Report Name : mohini_fsr
+11/19/2025 2:45:45 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/19/2025 2:45:45 PM - Company ID : 29
+11/19/2025 2:45:45 PM - SSDT : CDATE(2025,04,01)
+11/19/2025 2:45:45 PM - LLDT : CDATE(2025,11,19)
+11/19/2025 2:45:45 PM - DSN Name : dsn_169172
+11/19/2025 2:45:45 PM - Report Parameter parameter : {?SELECT}=NO
+11/21/2025 4:28:20 PM - Client Server IP: 160.187.54.38,4545
+11/21/2025 4:28:20 PM - Client Multiple Database : MohiniAcc
+11/21/2025 4:28:20 PM - Client Database : MohiniAcc
+11/21/2025 4:28:20 PM - Report Name : outsumm_pt
+11/21/2025 4:28:20 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/21/2025 4:28:20 PM - Company ID : 29
+11/21/2025 4:28:20 PM - SSDT : CDATE(2025,04,01)
+11/21/2025 4:28:20 PM - LLDT : CDATE(2025,11,21)
+11/21/2025 4:28:20 PM - DSN Name : dsn_174071
+11/21/2025 4:28:20 PM - Report Parameter parameter : {?PART PAYMENT YES/NO}=YES|{?GROUP OPTION}=PARTY+BROKER WISE|{?page option}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE|{?Select Type}=All
+11/22/2025 12:39:58 PM - Client Server IP: 160.187.54.38,4545
+11/22/2025 12:39:58 PM - Client Multiple Database : MohiniAcc
+11/22/2025 12:39:58 PM - Client Database : MohiniAcc
+11/22/2025 12:39:58 PM - Report Name : outbrok
+11/22/2025 12:39:58 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/22/2025 12:39:58 PM - Company ID : 29
+11/22/2025 12:39:58 PM - SSDT : CDATE(2025,04,01)
+11/22/2025 12:39:58 PM - LLDT : CDATE(2025,11,22)
+11/22/2025 12:39:58 PM - DSN Name : dsn_175445
+11/22/2025 12:39:58 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+11/22/2025 12:53:31 PM - Client Server IP: 160.187.54.38,4545
+11/22/2025 12:53:31 PM - Client Multiple Database : MohiniAcc
+11/22/2025 12:53:31 PM - Client Database : MohiniAcc
+11/22/2025 12:53:31 PM - Report Name : outbrok
+11/22/2025 12:53:31 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/22/2025 12:53:31 PM - Company ID : 29
+11/22/2025 12:53:31 PM - SSDT : CDATE(2025,04,01)
+11/22/2025 12:53:31 PM - LLDT : CDATE(2025,11,22)
+11/22/2025 12:53:31 PM - DSN Name : dsn_175528
+11/22/2025 12:53:31 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+11/22/2025 1:32:13 PM - Client Server IP: 160.187.54.38,4545
+11/22/2025 1:32:13 PM - Client Multiple Database : MohiniAcc
+11/22/2025 1:32:13 PM - Client Database : MohiniAcc
+11/22/2025 1:32:13 PM - Report Name : outbrok
+11/22/2025 1:32:13 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/22/2025 1:32:13 PM - Company ID : 29
+11/22/2025 1:32:13 PM - SSDT : CDATE(2025,04,01)
+11/22/2025 1:32:13 PM - LLDT : CDATE(2025,11,22)
+11/22/2025 1:32:13 PM - DSN Name : dsn_175668
+11/22/2025 1:32:13 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+11/22/2025 2:48:05 PM - Client Server IP: 160.187.54.38,4545
+11/22/2025 2:48:05 PM - Client Multiple Database : MohiniAcc
+11/22/2025 2:48:05 PM - Client Database : MohiniAcc
+11/22/2025 2:48:05 PM - Report Name : FSI
+11/22/2025 2:48:05 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/22/2025 2:48:05 PM - Company ID : 29
+11/22/2025 2:48:05 PM - SSDT : CDATE(2025,04,01)
+11/22/2025 2:48:05 PM - LLDT : CDATE(2025,11,22)
+11/22/2025 2:48:05 PM - DSN Name : dsn_175886
+11/22/2025 2:48:05 PM - Report Parameter parameter : 

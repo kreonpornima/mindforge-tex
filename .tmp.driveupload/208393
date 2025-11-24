@@ -1,0 +1,2534 @@
+6/20/2025 5:19:27 PM - Client Server IP: 160.187.54.245,4545
+6/20/2025 5:19:27 PM - Client Multiple Database : Montana
+6/20/2025 5:19:27 PM - Client Database : Montana
+6/20/2025 5:19:27 PM - Report Name : fso_montana
+6/20/2025 5:19:27 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/20/2025 5:19:27 PM - Company ID : 33
+6/20/2025 5:19:27 PM - SSDT : CDATE(2025,04,01)
+6/20/2025 5:19:27 PM - LLDT : CDATE(2025,06,20)
+6/20/2025 5:19:27 PM - DSN Name : dsn_15147
+6/20/2025 5:19:27 PM - Report Parameter parameter : 
+6/20/2025 5:44:52 PM - Client Server IP: 160.187.54.38,4545
+6/20/2025 5:44:52 PM - Client Multiple Database : Main,Shubh
+6/20/2025 5:44:52 PM - Client Database : Shubh
+6/20/2025 5:44:52 PM - Report Name : kapil_fs
+6/20/2025 5:44:52 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/20/2025 5:44:52 PM - Company ID : 52
+6/20/2025 5:44:52 PM - SSDT : CDATE(2025,04,01)
+6/20/2025 5:44:52 PM - LLDT : CDATE(2025,06,20)
+6/20/2025 5:44:52 PM - DSN Name : dsn_15180
+6/20/2025 5:44:52 PM - Report Parameter parameter : {?SELECT}=NO
+6/20/2025 5:45:56 PM - Client Server IP: 160.187.54.38,4545
+6/20/2025 5:45:56 PM - Client Multiple Database : Main,Shubh
+6/20/2025 5:45:56 PM - Client Database : Shubh
+6/20/2025 5:45:56 PM - Report Name : shubh_fs
+6/20/2025 5:45:56 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/20/2025 5:45:56 PM - Company ID : 52
+6/20/2025 5:45:56 PM - SSDT : CDATE(2025,04,01)
+6/20/2025 5:45:56 PM - LLDT : CDATE(2025,06,20)
+6/20/2025 5:45:56 PM - DSN Name : dsn_15182
+6/20/2025 5:45:56 PM - Report Parameter parameter : {?SELECT}=NO
+6/20/2025 5:47:52 PM - Client Server IP: 160.187.54.38,4545
+6/20/2025 5:47:52 PM - Client Multiple Database : Main,Shubh
+6/20/2025 5:47:52 PM - Client Database : Shubh
+6/20/2025 5:47:52 PM - Report Name : kapil_fs
+6/20/2025 5:47:52 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/20/2025 5:47:52 PM - Company ID : 52
+6/20/2025 5:47:52 PM - SSDT : CDATE(2025,04,01)
+6/20/2025 5:47:52 PM - LLDT : CDATE(2025,06,20)
+6/20/2025 5:47:52 PM - DSN Name : dsn_15183
+6/20/2025 5:47:52 PM - Report Parameter parameter : {?SELECT}=NO
+6/21/2025 1:04:20 PM - Client Server IP: 160.187.54.38,4545
+6/21/2025 1:04:20 PM - Client Multiple Database : Main,Shubh
+6/21/2025 1:04:20 PM - Client Database : Shubh
+6/21/2025 1:04:20 PM - Report Name : kapil_fs
+6/21/2025 1:04:20 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/21/2025 1:04:20 PM - Company ID : 52
+6/21/2025 1:04:20 PM - SSDT : CDATE(2025,04,01)
+6/21/2025 1:04:20 PM - LLDT : CDATE(2025,06,21)
+6/21/2025 1:04:20 PM - DSN Name : dsn_15488
+6/21/2025 1:04:20 PM - Report Parameter parameter : {?SELECT}=NO
+6/23/2025 6:58:21 PM - Client Server IP: 160.187.54.245,4545
+6/23/2025 6:58:21 PM - Client Multiple Database : Montana
+6/23/2025 6:58:21 PM - Client Database : Montana
+6/23/2025 6:58:21 PM - Report Name : fso_montana
+6/23/2025 6:58:21 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/23/2025 6:58:21 PM - Company ID : 33
+6/23/2025 6:58:21 PM - SSDT : CDATE(2025,04,01)
+6/23/2025 6:58:21 PM - LLDT : CDATE(2025,06,23)
+6/23/2025 6:58:21 PM - DSN Name : dsn_16277
+6/23/2025 6:58:21 PM - Report Parameter parameter : 
+6/23/2025 6:58:37 PM - Client Server IP: 160.187.54.245,4545
+6/23/2025 6:58:37 PM - Client Multiple Database : Montana
+6/23/2025 6:58:37 PM - Client Database : Montana
+6/23/2025 6:58:37 PM - Report Name : fso_montana
+6/23/2025 6:58:37 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/23/2025 6:58:37 PM - Company ID : 33
+6/23/2025 6:58:37 PM - SSDT : CDATE(2025,04,01)
+6/23/2025 6:58:37 PM - LLDT : CDATE(2025,06,23)
+6/23/2025 6:58:37 PM - DSN Name : dsn_16278
+6/23/2025 6:58:37 PM - Report Parameter parameter : 
+7/15/2025 1:59:55 PM - Client Server IP: 160.187.54.69,4545
+7/15/2025 1:59:55 PM - Client Multiple Database : main,Kapil
+7/15/2025 1:59:55 PM - Client Database : Kapil
+7/15/2025 1:59:55 PM - Report Name : outbrok
+7/15/2025 1:59:55 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/15/2025 1:59:55 PM - Company ID : 17
+7/15/2025 1:59:55 PM - SSDT : CDATE(2025,04,01)
+7/15/2025 1:59:55 PM - LLDT : CDATE(2025,07,15)
+7/15/2025 1:59:55 PM - DSN Name : dsn_28697
+7/15/2025 1:59:55 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE
+7/19/2025 8:06:09 PM - Client Server IP: 160.187.54.208,4545
+7/19/2025 8:06:09 PM - Client Multiple Database : JR
+7/19/2025 8:06:09 PM - Client Database : JR
+7/19/2025 8:06:09 PM - Report Name : srr_jr
+7/19/2025 8:06:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/19/2025 8:06:09 PM - Company ID : 28
+7/19/2025 8:06:09 PM - SSDT : CDATE(2024,04,01)
+7/19/2025 8:06:09 PM - LLDT : CDATE(2025,07,19)
+7/19/2025 8:06:09 PM - DSN Name : dsn_31715
+7/19/2025 8:06:09 PM - Report Parameter parameter : 
+7/31/2025 5:12:49 PM - Client Server IP: 160.187.54.69,4545
+7/31/2025 5:12:49 PM - Client Multiple Database : main,Kapil
+7/31/2025 5:12:49 PM - Client Database : Kapil
+7/31/2025 5:12:49 PM - Report Name : gate_kapil
+7/31/2025 5:12:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/31/2025 5:12:49 PM - Company ID : 17
+7/31/2025 5:12:49 PM - SSDT : CDATE(2025,04,01)
+7/31/2025 5:12:49 PM - LLDT : CDATE(2025,07,31)
+7/31/2025 5:12:49 PM - DSN Name : dsn_39884
+7/31/2025 5:12:49 PM - Report Parameter parameter : 
+7/31/2025 5:13:14 PM - Client Server IP: 160.187.54.69,4545
+7/31/2025 5:13:14 PM - Client Multiple Database : main,Kapil
+7/31/2025 5:13:14 PM - Client Database : Kapil
+7/31/2025 5:13:14 PM - Report Name : fsc_kapil
+7/31/2025 5:13:14 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/31/2025 5:13:14 PM - Company ID : 17
+7/31/2025 5:13:14 PM - SSDT : CDATE(2025,04,01)
+7/31/2025 5:13:14 PM - LLDT : CDATE(2025,07,31)
+7/31/2025 5:13:14 PM - DSN Name : dsn_39885
+7/31/2025 5:13:14 PM - Report Parameter parameter : 
+7/31/2025 5:51:40 PM - Client Server IP: 160.187.54.69,4545
+7/31/2025 5:51:40 PM - Client Multiple Database : main,Kapil
+7/31/2025 5:51:40 PM - Client Database : Kapil
+7/31/2025 5:51:40 PM - Report Name : fsc_kapil
+7/31/2025 5:51:40 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/31/2025 5:51:40 PM - Company ID : 17
+7/31/2025 5:51:40 PM - SSDT : CDATE(2025,04,01)
+7/31/2025 5:51:40 PM - LLDT : CDATE(2025,07,31)
+7/31/2025 5:51:40 PM - DSN Name : dsn_39925
+7/31/2025 5:51:40 PM - Report Parameter parameter : 
+7/31/2025 6:07:34 PM - Client Server IP: 160.187.54.69,4545
+7/31/2025 6:07:34 PM - Client Multiple Database : main,Kapil
+7/31/2025 6:07:34 PM - Client Database : Kapil
+7/31/2025 6:07:34 PM - Report Name : kapil_fs
+7/31/2025 6:07:34 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/31/2025 6:07:34 PM - Company ID : 17
+7/31/2025 6:07:34 PM - SSDT : CDATE(2025,04,01)
+7/31/2025 6:07:34 PM - LLDT : CDATE(2025,07,31)
+7/31/2025 6:07:34 PM - DSN Name : dsn_39935
+7/31/2025 6:07:34 PM - Report Parameter parameter : {?SELECT}=NO
+7/31/2025 6:22:30 PM - Client Server IP: 160.187.54.69,4545
+7/31/2025 6:22:30 PM - Client Multiple Database : main,Kapil
+7/31/2025 6:22:30 PM - Client Database : Kapil
+7/31/2025 6:22:30 PM - Report Name : fsc_kapil
+7/31/2025 6:22:30 PM - Report Path : V:\xampp\htdocs\tex\reports\
+7/31/2025 6:22:30 PM - Company ID : 17
+7/31/2025 6:22:30 PM - SSDT : CDATE(2025,04,01)
+7/31/2025 6:22:30 PM - LLDT : CDATE(2025,07,31)
+7/31/2025 6:22:30 PM - DSN Name : dsn_39945
+7/31/2025 6:22:30 PM - Report Parameter parameter : 
+8/1/2025 12:46:12 PM - Client Server IP: 160.187.54.69,4545
+8/1/2025 12:46:12 PM - Client Multiple Database : main,Kapil
+8/1/2025 12:46:12 PM - Client Database : Kapil
+8/1/2025 12:46:12 PM - Report Name : fsc_kapil
+8/1/2025 12:46:12 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/1/2025 12:46:12 PM - Company ID : 17
+8/1/2025 12:46:12 PM - SSDT : CDATE(2025,04,01)
+8/1/2025 12:46:12 PM - LLDT : CDATE(2025,08,01)
+8/1/2025 12:46:12 PM - DSN Name : dsn_40424
+8/1/2025 12:46:12 PM - Report Parameter parameter : 
+8/1/2025 1:29:25 PM - Client Server IP: 160.187.54.69,4545
+8/1/2025 1:29:25 PM - Client Multiple Database : main,Kapil
+8/1/2025 1:29:25 PM - Client Database : Kapil
+8/1/2025 1:29:25 PM - Report Name : fsc_kapil
+8/1/2025 1:29:25 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/1/2025 1:29:25 PM - Company ID : 17
+8/1/2025 1:29:25 PM - SSDT : CDATE(2025,04,01)
+8/1/2025 1:29:25 PM - LLDT : CDATE(2025,08,01)
+8/1/2025 1:29:25 PM - DSN Name : dsn_40495
+8/1/2025 1:29:25 PM - Report Parameter parameter : 
+8/1/2025 1:30:32 PM - Client Server IP: 160.187.54.69,4545
+8/1/2025 1:30:32 PM - Client Multiple Database : main,Kapil
+8/1/2025 1:30:32 PM - Client Database : Kapil
+8/1/2025 1:30:32 PM - Report Name : fsc_kapil
+8/1/2025 1:30:32 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/1/2025 1:30:32 PM - Company ID : 17
+8/1/2025 1:30:32 PM - SSDT : CDATE(2025,04,01)
+8/1/2025 1:30:32 PM - LLDT : CDATE(2025,08,01)
+8/1/2025 1:30:32 PM - DSN Name : dsn_40496
+8/1/2025 1:30:32 PM - Report Parameter parameter : 
+8/2/2025 5:30:54 PM - Client Server IP: 160.187.54.69,4545
+8/2/2025 5:30:54 PM - Client Multiple Database : main,Kapil
+8/2/2025 5:30:54 PM - Client Database : Kapil
+8/2/2025 5:30:54 PM - Report Name : fsc_kapil
+8/2/2025 5:30:54 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/2/2025 5:30:54 PM - Company ID : 17
+8/2/2025 5:30:54 PM - SSDT : CDATE(2025,04,01)
+8/2/2025 5:30:54 PM - LLDT : CDATE(2025,08,02)
+8/2/2025 5:30:54 PM - DSN Name : dsn_41467
+8/2/2025 5:30:54 PM - Report Parameter parameter : 
+8/5/2025 12:27:29 PM - Client Server IP: 160.187.54.38,4545
+8/5/2025 12:27:29 PM - Client Multiple Database : Main,Shubh
+8/5/2025 12:27:29 PM - Client Database : Shubh
+8/5/2025 12:27:29 PM - Report Name : kapil_fs
+8/5/2025 12:27:29 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/5/2025 12:27:29 PM - Company ID : 52
+8/5/2025 12:27:29 PM - SSDT : CDATE(2025,04,01)
+8/5/2025 12:27:29 PM - LLDT : CDATE(2025,08,05)
+8/5/2025 12:27:29 PM - DSN Name : dsn_43256
+8/5/2025 12:27:29 PM - Report Parameter parameter : {?SELECT}=YES
+8/5/2025 12:34:42 PM - Client Server IP: 160.187.54.38,4545
+8/5/2025 12:34:42 PM - Client Multiple Database : Main,Shubh
+8/5/2025 12:34:42 PM - Client Database : Shubh
+8/5/2025 12:34:42 PM - Report Name : kapil_fs
+8/5/2025 12:34:42 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/5/2025 12:34:42 PM - Company ID : 52
+8/5/2025 12:34:42 PM - SSDT : CDATE(2025,04,01)
+8/5/2025 12:34:42 PM - LLDT : CDATE(2025,08,05)
+8/5/2025 12:34:42 PM - DSN Name : dsn_43258
+8/5/2025 12:34:42 PM - Report Parameter parameter : {?SELECT}=NO
+8/5/2025 12:40:41 PM - Client Server IP: 160.187.54.69,4545
+8/5/2025 12:40:41 PM - Client Multiple Database : main,Kapil
+8/5/2025 12:40:41 PM - Client Database : Kapil
+8/5/2025 12:40:41 PM - Report Name : kapil_fs
+8/5/2025 12:40:41 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/5/2025 12:40:41 PM - Company ID : 17
+8/5/2025 12:40:41 PM - SSDT : CDATE(2025,04,01)
+8/5/2025 12:40:41 PM - LLDT : CDATE(2025,08,05)
+8/5/2025 12:40:41 PM - DSN Name : dsn_43264
+8/5/2025 12:40:41 PM - Report Parameter parameter : {?SELECT}=NO
+8/5/2025 12:41:31 PM - Client Server IP: 160.187.54.38,4545
+8/5/2025 12:41:31 PM - Client Multiple Database : Main,Shubh
+8/5/2025 12:41:31 PM - Client Database : Shubh
+8/5/2025 12:41:31 PM - Report Name : kapil_fs
+8/5/2025 12:41:31 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/5/2025 12:41:31 PM - Company ID : 52
+8/5/2025 12:41:31 PM - SSDT : CDATE(2025,04,01)
+8/5/2025 12:41:31 PM - LLDT : CDATE(2025,08,05)
+8/5/2025 12:41:31 PM - DSN Name : dsn_43269
+8/5/2025 12:41:31 PM - Report Parameter parameter : {?SELECT}=NO
+8/5/2025 1:22:49 PM - Client Server IP: 160.187.54.38,4545
+8/5/2025 1:22:49 PM - Client Multiple Database : Main,Shubh
+8/5/2025 1:22:49 PM - Client Database : Shubh
+8/5/2025 1:22:49 PM - Report Name : kapil_fs
+8/5/2025 1:22:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/5/2025 1:22:49 PM - Company ID : 52
+8/5/2025 1:22:49 PM - SSDT : CDATE(2025,04,01)
+8/5/2025 1:22:49 PM - LLDT : CDATE(2025,08,05)
+8/5/2025 1:22:49 PM - DSN Name : dsn_43353
+8/5/2025 1:22:49 PM - Report Parameter parameter : {?SELECT}=NO
+8/5/2025 1:28:06 PM - Client Server IP: 160.187.54.38,4545
+8/5/2025 1:28:06 PM - Client Multiple Database : Main,Shubh
+8/5/2025 1:28:06 PM - Client Database : Shubh
+8/5/2025 1:28:06 PM - Report Name : shubh_fs
+8/5/2025 1:28:06 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/5/2025 1:28:06 PM - Company ID : 52
+8/5/2025 1:28:06 PM - SSDT : CDATE(2025,04,01)
+8/5/2025 1:28:06 PM - LLDT : CDATE(2025,08,05)
+8/5/2025 1:28:06 PM - DSN Name : dsn_43366
+8/5/2025 1:28:06 PM - Report Parameter parameter : {?SELECT}=NO
+8/11/2025 5:27:03 PM - Client Server IP: 160.187.54.69,4545
+8/11/2025 5:27:03 PM - Client Multiple Database : main,Kapil
+8/11/2025 5:27:03 PM - Client Database : Kapil
+8/11/2025 5:27:03 PM - Report Name : kapil_gstcrn
+8/11/2025 5:27:03 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/11/2025 5:27:03 PM - Company ID : 17
+8/11/2025 5:27:03 PM - SSDT : CDATE(2025,04,01)
+8/11/2025 5:27:03 PM - LLDT : CDATE(2025,08,11)
+8/11/2025 5:27:03 PM - DSN Name : dsn_47596
+8/11/2025 5:27:03 PM - Report Parameter parameter : {?SELECT}=NO
+8/11/2025 5:31:26 PM - Client Server IP: 160.187.54.69,4545
+8/11/2025 5:31:26 PM - Client Multiple Database : main,Kapil
+8/11/2025 5:31:26 PM - Client Database : Kapil
+8/11/2025 5:31:26 PM - Report Name : kapil_gstcrn
+8/11/2025 5:31:26 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/11/2025 5:31:26 PM - Company ID : 17
+8/11/2025 5:31:26 PM - SSDT : CDATE(2025,04,01)
+8/11/2025 5:31:26 PM - LLDT : CDATE(2025,08,11)
+8/11/2025 5:31:26 PM - DSN Name : dsn_47602
+8/11/2025 5:31:26 PM - Report Parameter parameter : {?SELECT}=NO
+8/11/2025 5:53:39 PM - Client Server IP: 160.187.54.69,4545
+8/11/2025 5:53:39 PM - Client Multiple Database : main,Kapil
+8/11/2025 5:53:39 PM - Client Database : Kapil
+8/11/2025 5:53:39 PM - Report Name : kapil_gstcrn
+8/11/2025 5:53:39 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/11/2025 5:53:39 PM - Company ID : 17
+8/11/2025 5:53:39 PM - SSDT : CDATE(2025,04,01)
+8/11/2025 5:53:39 PM - LLDT : CDATE(2025,08,11)
+8/11/2025 5:53:39 PM - DSN Name : dsn_47637
+8/11/2025 5:53:39 PM - Report Parameter parameter : {?SELECT}=NO
+8/11/2025 6:01:10 PM - Client Server IP: 160.187.54.69,4545
+8/11/2025 6:01:10 PM - Client Multiple Database : main,Kapil
+8/11/2025 6:01:10 PM - Client Database : Kapil
+8/11/2025 6:01:10 PM - Report Name : kapil_gstcrn
+8/11/2025 6:01:10 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/11/2025 6:01:10 PM - Company ID : 17
+8/11/2025 6:01:10 PM - SSDT : CDATE(2025,04,01)
+8/11/2025 6:01:10 PM - LLDT : CDATE(2025,08,11)
+8/11/2025 6:01:10 PM - DSN Name : dsn_47645
+8/11/2025 6:01:10 PM - Report Parameter parameter : {?SELECT}=NO
+8/11/2025 6:01:35 PM - Client Server IP: 160.187.54.69,4545
+8/11/2025 6:01:35 PM - Client Multiple Database : main,Kapil
+8/11/2025 6:01:35 PM - Client Database : Kapil
+8/11/2025 6:01:35 PM - Report Name : shubh_credit
+8/11/2025 6:01:35 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/11/2025 6:01:35 PM - Company ID : 17
+8/11/2025 6:01:35 PM - SSDT : CDATE(2025,04,01)
+8/11/2025 6:01:35 PM - LLDT : CDATE(2025,08,11)
+8/11/2025 6:01:35 PM - DSN Name : dsn_47647
+8/11/2025 6:01:35 PM - Report Parameter parameter : {?SELECT}=NO
+8/11/2025 6:06:09 PM - Client Server IP: 160.187.54.69,4545
+8/11/2025 6:06:09 PM - Client Multiple Database : main,Kapil
+8/11/2025 6:06:09 PM - Client Database : Kapil
+8/11/2025 6:06:09 PM - Report Name : shubh_credit
+8/11/2025 6:06:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/11/2025 6:06:09 PM - Company ID : 17
+8/11/2025 6:06:09 PM - SSDT : CDATE(2025,04,01)
+8/11/2025 6:06:09 PM - LLDT : CDATE(2025,08,11)
+8/11/2025 6:06:09 PM - DSN Name : dsn_47664
+8/11/2025 6:06:09 PM - Report Parameter parameter : {?SELECT}=NO
+8/12/2025 4:22:49 PM - Client Server IP: 160.187.54.69,4545
+8/12/2025 4:22:49 PM - Client Multiple Database : main,Kapil
+8/12/2025 4:22:49 PM - Client Database : Kapil
+8/12/2025 4:22:49 PM - Report Name : lpr
+8/12/2025 4:22:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/12/2025 4:22:49 PM - Company ID : 17
+8/12/2025 4:22:49 PM - SSDT : CDATE(2025,04,01)
+8/12/2025 4:22:49 PM - LLDT : CDATE(2025,04,02)
+8/12/2025 4:22:49 PM - DSN Name : dsn_48376
+8/12/2025 4:22:49 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=no
+8/14/2025 1:51:33 PM - Client Server IP: 160.187.54.38,4545
+8/14/2025 1:51:33 PM - Client Multiple Database : Main,Shubh
+8/14/2025 1:51:33 PM - Client Database : Shubh
+8/14/2025 1:51:33 PM - Report Name : shubh_pudebit
+8/14/2025 1:51:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/14/2025 1:51:33 PM - Company ID : 52
+8/14/2025 1:51:33 PM - SSDT : CDATE(2025,04,01)
+8/14/2025 1:51:33 PM - LLDT : CDATE(2025,08,14)
+8/14/2025 1:51:33 PM - DSN Name : dsn_49892
+8/14/2025 1:51:33 PM - Report Parameter parameter : {?SELECT}=NO
+8/14/2025 4:02:38 PM - Client Server IP: 160.187.54.38,4545
+8/14/2025 4:02:38 PM - Client Multiple Database : Main,Shubh
+8/14/2025 4:02:38 PM - Client Database : Shubh
+8/14/2025 4:02:38 PM - Report Name : shubh_greydebit
+8/14/2025 4:02:38 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/14/2025 4:02:38 PM - Company ID : 52
+8/14/2025 4:02:38 PM - SSDT : CDATE(2025,04,01)
+8/14/2025 4:02:38 PM - LLDT : CDATE(2025,08,14)
+8/14/2025 4:02:38 PM - DSN Name : dsn_50034
+8/14/2025 4:02:38 PM - Report Parameter parameter : {?SELECT}=NO
+8/14/2025 4:05:39 PM - Client Server IP: 160.187.54.38,4545
+8/14/2025 4:05:39 PM - Client Multiple Database : Main,Shubh
+8/14/2025 4:05:39 PM - Client Database : Shubh
+8/14/2025 4:05:39 PM - Report Name : shubh_greydebit
+8/14/2025 4:05:39 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/14/2025 4:05:39 PM - Company ID : 52
+8/14/2025 4:05:39 PM - SSDT : CDATE(2025,04,01)
+8/14/2025 4:05:39 PM - LLDT : CDATE(2025,08,14)
+8/14/2025 4:05:39 PM - DSN Name : dsn_50036
+8/14/2025 4:05:39 PM - Report Parameter parameter : {?SELECT}=NO
+8/14/2025 4:07:34 PM - Client Server IP: 160.187.54.38,4545
+8/14/2025 4:07:34 PM - Client Multiple Database : Main,Shubh
+8/14/2025 4:07:34 PM - Client Database : Shubh
+8/14/2025 4:07:34 PM - Report Name : shubh_greydebit
+8/14/2025 4:07:34 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/14/2025 4:07:34 PM - Company ID : 52
+8/14/2025 4:07:34 PM - SSDT : CDATE(2025,04,01)
+8/14/2025 4:07:34 PM - LLDT : CDATE(2025,08,14)
+8/14/2025 4:07:34 PM - DSN Name : dsn_50039
+8/14/2025 4:07:34 PM - Report Parameter parameter : {?SELECT}=NO
+8/14/2025 4:15:37 PM - Client Server IP: 160.187.54.38,4545
+8/14/2025 4:15:37 PM - Client Multiple Database : Main,Shubh
+8/14/2025 4:15:37 PM - Client Database : Shubh
+8/14/2025 4:15:37 PM - Report Name : shubh_greydebit
+8/14/2025 4:15:37 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/14/2025 4:15:37 PM - Company ID : 52
+8/14/2025 4:15:37 PM - SSDT : CDATE(2025,04,01)
+8/14/2025 4:15:37 PM - LLDT : CDATE(2025,08,14)
+8/14/2025 4:15:37 PM - DSN Name : dsn_50063
+8/14/2025 4:15:37 PM - Report Parameter parameter : {?SELECT}=NO
+8/15/2025 1:39:54 PM - Client Server IP: 160.187.54.245,4545
+8/15/2025 1:39:54 PM - Client Multiple Database : Montana
+8/15/2025 1:39:54 PM - Client Database : Montana
+8/15/2025 1:39:54 PM - Report Name : gepo_montana
+8/15/2025 1:39:54 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/15/2025 1:39:54 PM - Company ID : 33
+8/15/2025 1:39:54 PM - SSDT : CDATE(2025,04,01)
+8/15/2025 1:39:54 PM - LLDT : CDATE(2025,08,15)
+8/15/2025 1:39:54 PM - DSN Name : dsn_50634
+8/15/2025 1:39:54 PM - Report Parameter parameter : 
+8/15/2025 1:42:34 PM - Client Server IP: 160.187.54.245,4545
+8/15/2025 1:42:34 PM - Client Multiple Database : Montana
+8/15/2025 1:42:34 PM - Client Database : Montana
+8/15/2025 1:42:34 PM - Report Name : gepo_montana
+8/15/2025 1:42:34 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/15/2025 1:42:34 PM - Company ID : 33
+8/15/2025 1:42:34 PM - SSDT : CDATE(2025,04,01)
+8/15/2025 1:42:34 PM - LLDT : CDATE(2025,08,15)
+8/15/2025 1:42:34 PM - DSN Name : dsn_50637
+8/15/2025 1:42:34 PM - Report Parameter parameter : 
+8/15/2025 2:06:09 PM - Client Server IP: 160.187.54.245,4545
+8/15/2025 2:06:09 PM - Client Multiple Database : Montana
+8/15/2025 2:06:09 PM - Client Database : Montana
+8/15/2025 2:06:09 PM - Report Name : grc_montana
+8/15/2025 2:06:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/15/2025 2:06:09 PM - Company ID : 33
+8/15/2025 2:06:09 PM - SSDT : CDATE(2025,04,01)
+8/15/2025 2:06:09 PM - LLDT : CDATE(2025,08,15)
+8/15/2025 2:06:09 PM - DSN Name : dsn_50648
+8/15/2025 2:06:09 PM - Report Parameter parameter : 
+8/15/2025 2:07:08 PM - Client Server IP: 160.187.54.245,4545
+8/15/2025 2:07:08 PM - Client Multiple Database : Montana
+8/15/2025 2:07:08 PM - Client Database : Montana
+8/15/2025 2:07:08 PM - Report Name : grc_montana
+8/15/2025 2:07:08 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/15/2025 2:07:08 PM - Company ID : 33
+8/15/2025 2:07:08 PM - SSDT : CDATE(2025,04,01)
+8/15/2025 2:07:08 PM - LLDT : CDATE(2025,08,15)
+8/15/2025 2:07:08 PM - DSN Name : dsn_50649
+8/15/2025 2:07:08 PM - Report Parameter parameter : 
+8/18/2025 8:01:21 PM - Client Server IP: 160.187.54.245,4545
+8/18/2025 8:01:21 PM - Client Multiple Database : Montana
+8/18/2025 8:01:21 PM - Client Database : Montana
+8/18/2025 8:01:21 PM - Report Name : grc_montana
+8/18/2025 8:01:21 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/18/2025 8:01:21 PM - Company ID : 33
+8/18/2025 8:01:21 PM - SSDT : CDATE(2025,04,01)
+8/18/2025 8:01:21 PM - LLDT : CDATE(2025,08,18)
+8/18/2025 8:01:21 PM - DSN Name : dsn_53649
+8/18/2025 8:01:21 PM - Report Parameter parameter : 
+8/18/2025 8:02:38 PM - Client Server IP: 160.187.54.245,4545
+8/18/2025 8:02:38 PM - Client Multiple Database : Montana
+8/18/2025 8:02:38 PM - Client Database : Montana
+8/18/2025 8:02:38 PM - Report Name : gepo_montana
+8/18/2025 8:02:38 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/18/2025 8:02:38 PM - Company ID : 33
+8/18/2025 8:02:38 PM - SSDT : CDATE(2025,04,01)
+8/18/2025 8:02:38 PM - LLDT : CDATE(2025,08,18)
+8/18/2025 8:02:38 PM - DSN Name : dsn_53652
+8/18/2025 8:02:38 PM - Report Parameter parameter : 
+8/20/2025 2:53:19 PM - Client Server IP: 160.187.54.69,4545
+8/20/2025 2:53:19 PM - Client Multiple Database : main,Kapil
+8/20/2025 2:53:19 PM - Client Database : Kapil
+8/20/2025 2:53:19 PM - Report Name : disrd
+8/20/2025 2:53:19 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/20/2025 2:53:19 PM - Company ID : 17
+8/20/2025 2:53:19 PM - SSDT : CDATE(2025,04,01)
+8/20/2025 2:53:19 PM - LLDT : CDATE(2025,08,20)
+8/20/2025 2:53:19 PM - DSN Name : dsn_54597
+8/20/2025 2:53:19 PM - Report Parameter parameter : 
+8/21/2025 4:35:02 PM - Client Server IP: 160.187.54.38,4545
+8/21/2025 4:35:02 PM - Client Multiple Database : Main,Shubh
+8/21/2025 4:35:02 PM - Client Database : Shubh
+8/21/2025 4:35:02 PM - Report Name : shubh_debit
+8/21/2025 4:35:02 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/21/2025 4:35:02 PM - Company ID : 52
+8/21/2025 4:35:02 PM - SSDT : CDATE(2025,04,01)
+8/21/2025 4:35:02 PM - LLDT : CDATE(2025,08,21)
+8/21/2025 4:35:02 PM - DSN Name : dsn_55661
+8/21/2025 4:35:02 PM - Report Parameter parameter : {?SELECT}=NO
+8/21/2025 4:45:09 PM - Client Server IP: 160.187.54.38,4545
+8/21/2025 4:45:09 PM - Client Multiple Database : Main,Shubh
+8/21/2025 4:45:09 PM - Client Database : Shubh
+8/21/2025 4:45:09 PM - Report Name : shubh_debit
+8/21/2025 4:45:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/21/2025 4:45:09 PM - Company ID : 52
+8/21/2025 4:45:09 PM - SSDT : CDATE(2025,04,01)
+8/21/2025 4:45:09 PM - LLDT : CDATE(2025,08,21)
+8/21/2025 4:45:09 PM - DSN Name : dsn_55684
+8/21/2025 4:45:09 PM - Report Parameter parameter : {?SELECT}=NO
+8/21/2025 4:51:08 PM - Client Server IP: 160.187.54.38,4545
+8/21/2025 4:51:08 PM - Client Multiple Database : Main,Shubh
+8/21/2025 4:51:08 PM - Client Database : Shubh
+8/21/2025 4:51:08 PM - Report Name : shubh_debit
+8/21/2025 4:51:08 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/21/2025 4:51:08 PM - Company ID : 52
+8/21/2025 4:51:08 PM - SSDT : CDATE(2025,04,01)
+8/21/2025 4:51:08 PM - LLDT : CDATE(2025,08,21)
+8/21/2025 4:51:08 PM - DSN Name : dsn_55702
+8/21/2025 4:51:08 PM - Report Parameter parameter : {?SELECT}=NO
+8/22/2025 1:35:12 PM - Client Server IP: 160.187.54.38,4545
+8/22/2025 1:35:12 PM - Client Multiple Database : Main,Shubh
+8/22/2025 1:35:12 PM - Client Database : Shubh
+8/22/2025 1:35:12 PM - Report Name : lpr
+8/22/2025 1:35:12 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/22/2025 1:35:12 PM - Company ID : 52
+8/22/2025 1:35:12 PM - SSDT : CDATE(2025,04,01)
+8/22/2025 1:35:12 PM - LLDT : CDATE(2025,08,22)
+8/22/2025 1:35:12 PM - DSN Name : dsn_56433
+8/22/2025 1:35:12 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=no
+8/22/2025 1:37:43 PM - Client Server IP: 160.187.54.38,4545
+8/22/2025 1:37:43 PM - Client Multiple Database : Main,Shubh
+8/22/2025 1:37:43 PM - Client Database : Shubh
+8/22/2025 1:37:43 PM - Report Name : purchase_out
+8/22/2025 1:37:43 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/22/2025 1:37:43 PM - Company ID : 52
+8/22/2025 1:37:43 PM - SSDT : CDATE(2025,04,01)
+8/22/2025 1:37:43 PM - LLDT : CDATE(2025,08,22)
+8/22/2025 1:37:43 PM - DSN Name : dsn_56440
+8/22/2025 1:37:43 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+8/22/2025 1:38:07 PM - Client Server IP: 160.187.54.38,4545
+8/22/2025 1:38:07 PM - Client Multiple Database : Main,Shubh
+8/22/2025 1:38:07 PM - Client Database : Shubh
+8/22/2025 1:38:07 PM - Report Name : purchase_out
+8/22/2025 1:38:07 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/22/2025 1:38:07 PM - Company ID : 52
+8/22/2025 1:38:07 PM - SSDT : CDATE(2025,04,01)
+8/22/2025 1:38:07 PM - LLDT : CDATE(2025,08,22)
+8/22/2025 1:38:07 PM - DSN Name : dsn_56441
+8/22/2025 1:38:07 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+8/22/2025 1:43:56 PM - Client Server IP: 160.187.54.38,4545
+8/22/2025 1:43:56 PM - Client Multiple Database : Main,Shubh
+8/22/2025 1:43:56 PM - Client Database : Shubh
+8/22/2025 1:43:56 PM - Report Name : lpr
+8/22/2025 1:43:56 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/22/2025 1:43:56 PM - Company ID : 52
+8/22/2025 1:43:56 PM - SSDT : CDATE(2025,04,01)
+8/22/2025 1:43:56 PM - LLDT : CDATE(2025,08,22)
+8/22/2025 1:43:56 PM - DSN Name : dsn_56454
+8/22/2025 1:43:56 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=no
+8/22/2025 1:44:53 PM - Client Server IP: 160.187.54.38,4545
+8/22/2025 1:44:53 PM - Client Multiple Database : Main,Shubh
+8/22/2025 1:44:53 PM - Client Database : Shubh
+8/22/2025 1:44:53 PM - Report Name : purchase_out
+8/22/2025 1:44:53 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/22/2025 1:44:53 PM - Company ID : 52
+8/22/2025 1:44:53 PM - SSDT : CDATE(2025,04,01)
+8/22/2025 1:44:53 PM - LLDT : CDATE(2025,08,22)
+8/22/2025 1:44:53 PM - DSN Name : dsn_56457
+8/22/2025 1:44:53 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY+BROKER WISE|{?SELECT DAYS DATE}=SELECT DATE|{?PART PAYMENT YES/NO}=YES
+8/22/2025 6:07:16 PM - Client Server IP: 160.187.54.69,4545
+8/22/2025 6:07:16 PM - Client Multiple Database : main,Kapil
+8/22/2025 6:07:16 PM - Client Database : Kapil
+8/22/2025 6:07:16 PM - Report Name : shubh_credit
+8/22/2025 6:07:16 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/22/2025 6:07:16 PM - Company ID : 17
+8/22/2025 6:07:16 PM - SSDT : CDATE(2025,04,01)
+8/22/2025 6:07:16 PM - LLDT : CDATE(2025,08,22)
+8/22/2025 6:07:16 PM - DSN Name : dsn_56906
+8/22/2025 6:07:16 PM - Report Parameter parameter : {?SELECT}=NO
+8/22/2025 6:07:28 PM - Client Server IP: 160.187.54.69,4545
+8/22/2025 6:07:28 PM - Client Multiple Database : main,Kapil
+8/22/2025 6:07:28 PM - Client Database : Kapil
+8/22/2025 6:07:28 PM - Report Name : kapil_gstcrn
+8/22/2025 6:07:28 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/22/2025 6:07:28 PM - Company ID : 17
+8/22/2025 6:07:28 PM - SSDT : CDATE(2025,04,01)
+8/22/2025 6:07:28 PM - LLDT : CDATE(2025,08,22)
+8/22/2025 6:07:28 PM - DSN Name : dsn_56907
+8/22/2025 6:07:28 PM - Report Parameter parameter : {?SELECT}=NO
+8/22/2025 6:13:37 PM - Client Server IP: 160.187.54.69,4545
+8/22/2025 6:13:37 PM - Client Multiple Database : main,Kapil
+8/22/2025 6:13:37 PM - Client Database : Kapil
+8/22/2025 6:13:37 PM - Report Name : kapil_gstcrn
+8/22/2025 6:13:37 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/22/2025 6:13:37 PM - Company ID : 17
+8/22/2025 6:13:37 PM - SSDT : CDATE(2025,04,01)
+8/22/2025 6:13:37 PM - LLDT : CDATE(2025,08,22)
+8/22/2025 6:13:37 PM - DSN Name : dsn_56915
+8/22/2025 6:13:37 PM - Report Parameter parameter : {?SELECT}=NO
+8/22/2025 6:25:09 PM - Client Server IP: 160.187.54.69,4545
+8/22/2025 6:25:09 PM - Client Multiple Database : main,Kapil
+8/22/2025 6:25:09 PM - Client Database : Kapil
+8/22/2025 6:25:09 PM - Report Name : kapil_gstcrn
+8/22/2025 6:25:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/22/2025 6:25:09 PM - Company ID : 17
+8/22/2025 6:25:09 PM - SSDT : CDATE(2025,04,01)
+8/22/2025 6:25:09 PM - LLDT : CDATE(2025,08,22)
+8/22/2025 6:25:09 PM - DSN Name : dsn_56933
+8/22/2025 6:25:09 PM - Report Parameter parameter : {?SELECT}=NO
+8/22/2025 6:29:56 PM - Client Server IP: 160.187.54.69,4545
+8/22/2025 6:29:56 PM - Client Multiple Database : main,Kapil
+8/22/2025 6:29:56 PM - Client Database : Kapil
+8/22/2025 6:29:56 PM - Report Name : kapil_gstcrn
+8/22/2025 6:29:56 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/22/2025 6:29:56 PM - Company ID : 17
+8/22/2025 6:29:56 PM - SSDT : CDATE(2025,04,01)
+8/22/2025 6:29:56 PM - LLDT : CDATE(2025,08,22)
+8/22/2025 6:29:56 PM - DSN Name : dsn_56944
+8/22/2025 6:29:56 PM - Report Parameter parameter : {?SELECT}=NO
+8/22/2025 6:30:59 PM - Client Server IP: 160.187.54.69,4545
+8/22/2025 6:30:59 PM - Client Multiple Database : main,Kapil
+8/22/2025 6:30:59 PM - Client Database : Kapil
+8/22/2025 6:30:59 PM - Report Name : kapil_gstcrn
+8/22/2025 6:30:59 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/22/2025 6:30:59 PM - Company ID : 17
+8/22/2025 6:30:59 PM - SSDT : CDATE(2025,04,01)
+8/22/2025 6:30:59 PM - LLDT : CDATE(2025,08,22)
+8/22/2025 6:30:59 PM - DSN Name : dsn_56948
+8/22/2025 6:30:59 PM - Report Parameter parameter : {?SELECT}=NO
+8/22/2025 6:31:20 PM - Client Server IP: 160.187.54.69,4545
+8/22/2025 6:31:20 PM - Client Multiple Database : main,Kapil
+8/22/2025 6:31:20 PM - Client Database : Kapil
+8/22/2025 6:31:20 PM - Report Name : kapil_gstcrn
+8/22/2025 6:31:20 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/22/2025 6:31:20 PM - Company ID : 17
+8/22/2025 6:31:20 PM - SSDT : CDATE(2025,04,01)
+8/22/2025 6:31:20 PM - LLDT : CDATE(2025,08,22)
+8/22/2025 6:31:20 PM - DSN Name : dsn_56950
+8/22/2025 6:31:20 PM - Report Parameter parameter : {?SELECT}=NO
+8/22/2025 6:31:57 PM - Client Server IP: 160.187.54.69,4545
+8/22/2025 6:31:57 PM - Client Multiple Database : main,Kapil
+8/22/2025 6:31:57 PM - Client Database : Kapil
+8/22/2025 6:31:57 PM - Report Name : kapil_gstcrn
+8/22/2025 6:31:57 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/22/2025 6:31:57 PM - Company ID : 17
+8/22/2025 6:31:57 PM - SSDT : CDATE(2025,04,01)
+8/22/2025 6:31:57 PM - LLDT : CDATE(2025,08,22)
+8/22/2025 6:31:57 PM - DSN Name : dsn_56953
+8/22/2025 6:31:57 PM - Report Parameter parameter : {?SELECT}=NO
+8/22/2025 6:44:21 PM - Client Server IP: 160.187.54.69,4545
+8/22/2025 6:44:21 PM - Client Multiple Database : main,Kapil
+8/22/2025 6:44:21 PM - Client Database : Kapil
+8/22/2025 6:44:21 PM - Report Name : kapil_gstcrn
+8/22/2025 6:44:21 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/22/2025 6:44:21 PM - Company ID : 17
+8/22/2025 6:44:21 PM - SSDT : CDATE(2025,04,01)
+8/22/2025 6:44:21 PM - LLDT : CDATE(2025,08,22)
+8/22/2025 6:44:21 PM - DSN Name : dsn_56974
+8/22/2025 6:44:21 PM - Report Parameter parameter : {?SELECT}=NO
+8/22/2025 7:40:58 PM - Client Server IP: 160.187.54.69,4545
+8/22/2025 7:40:58 PM - Client Multiple Database : main,Kapil
+8/22/2025 7:40:58 PM - Client Database : Kapil
+8/22/2025 7:40:58 PM - Report Name : kapil_gstcrn
+8/22/2025 7:40:58 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/22/2025 7:40:58 PM - Company ID : 17
+8/22/2025 7:40:58 PM - SSDT : CDATE(2025,04,01)
+8/22/2025 7:40:58 PM - LLDT : CDATE(2025,08,22)
+8/22/2025 7:40:58 PM - DSN Name : dsn_57026
+8/22/2025 7:40:58 PM - Report Parameter parameter : {?SELECT}=NO
+8/23/2025 3:17:40 PM - Client Server IP: 160.187.54.69,4545
+8/23/2025 3:17:40 PM - Client Multiple Database : main,Kapil
+8/23/2025 3:17:40 PM - Client Database : Kapil
+8/23/2025 3:17:40 PM - Report Name : kapil_gstcrn
+8/23/2025 3:17:40 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/23/2025 3:17:40 PM - Company ID : 17
+8/23/2025 3:17:40 PM - SSDT : CDATE(2025,04,01)
+8/23/2025 3:17:40 PM - LLDT : CDATE(2025,08,23)
+8/23/2025 3:17:40 PM - DSN Name : dsn_57646
+8/23/2025 3:17:40 PM - Report Parameter parameter : {?SELECT}=NO
+8/23/2025 4:26:51 PM - Client Server IP: 160.187.54.38,4545
+8/23/2025 4:26:51 PM - Client Multiple Database : Main,Shubh
+8/23/2025 4:26:51 PM - Client Database : Shubh
+8/23/2025 4:26:51 PM - Report Name : shubh_greydebit
+8/23/2025 4:26:51 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/23/2025 4:26:51 PM - Company ID : 52
+8/23/2025 4:26:51 PM - SSDT : CDATE(2025,04,01)
+8/23/2025 4:26:51 PM - LLDT : CDATE(2025,08,23)
+8/23/2025 4:26:51 PM - DSN Name : dsn_57779
+8/23/2025 4:26:51 PM - Report Parameter parameter : {?SELECT}=NO
+8/23/2025 7:15:17 PM - Client Server IP: 160.187.54.69,4545
+8/23/2025 7:15:17 PM - Client Multiple Database : main,Kapil
+8/23/2025 7:15:17 PM - Client Database : Kapil
+8/23/2025 7:15:17 PM - Report Name : kapil_gstcrn
+8/23/2025 7:15:17 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/23/2025 7:15:17 PM - Company ID : 17
+8/23/2025 7:15:17 PM - SSDT : CDATE(2025,04,01)
+8/23/2025 7:15:17 PM - LLDT : CDATE(2025,08,23)
+8/23/2025 7:15:17 PM - DSN Name : dsn_58017
+8/23/2025 7:15:17 PM - Report Parameter parameter : {?SELECT}=NO
+8/23/2025 7:15:39 PM - Client Server IP: 160.187.54.69,4545
+8/23/2025 7:15:39 PM - Client Multiple Database : main,Kapil
+8/23/2025 7:15:39 PM - Client Database : Kapil
+8/23/2025 7:15:39 PM - Report Name : kapil_gstcrn
+8/23/2025 7:15:39 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/23/2025 7:15:39 PM - Company ID : 17
+8/23/2025 7:15:39 PM - SSDT : CDATE(2025,04,01)
+8/23/2025 7:15:39 PM - LLDT : CDATE(2025,08,23)
+8/23/2025 7:15:39 PM - DSN Name : dsn_58019
+8/23/2025 7:15:39 PM - Report Parameter parameter : {?SELECT}=NO
+8/23/2025 7:19:22 PM - Client Server IP: 160.187.54.69,4545
+8/23/2025 7:19:22 PM - Client Multiple Database : main,Kapil
+8/23/2025 7:19:22 PM - Client Database : Kapil
+8/23/2025 7:19:22 PM - Report Name : kapil_gstcrn
+8/23/2025 7:19:22 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/23/2025 7:19:22 PM - Company ID : 17
+8/23/2025 7:19:22 PM - SSDT : CDATE(2025,04,01)
+8/23/2025 7:19:22 PM - LLDT : CDATE(2025,08,23)
+8/23/2025 7:19:22 PM - DSN Name : dsn_58027
+8/23/2025 7:19:22 PM - Report Parameter parameter : {?SELECT}=NO
+8/23/2025 7:30:56 PM - Client Server IP: 160.187.54.69,4545
+8/23/2025 7:30:56 PM - Client Multiple Database : main,Kapil
+8/23/2025 7:30:56 PM - Client Database : Kapil
+8/23/2025 7:30:56 PM - Report Name : kapil_gstcrn
+8/23/2025 7:30:56 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/23/2025 7:30:56 PM - Company ID : 17
+8/23/2025 7:30:56 PM - SSDT : CDATE(2025,04,01)
+8/23/2025 7:30:56 PM - LLDT : CDATE(2025,08,23)
+8/23/2025 7:30:56 PM - DSN Name : dsn_58039
+8/23/2025 7:30:56 PM - Report Parameter parameter : {?SELECT}=NO
+8/23/2025 7:32:13 PM - Client Server IP: 160.187.54.69,4545
+8/23/2025 7:32:13 PM - Client Multiple Database : main,Kapil
+8/23/2025 7:32:13 PM - Client Database : Kapil
+8/23/2025 7:32:13 PM - Report Name : kapil_gstcrn
+8/23/2025 7:32:13 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/23/2025 7:32:13 PM - Company ID : 17
+8/23/2025 7:32:13 PM - SSDT : CDATE(2025,04,01)
+8/23/2025 7:32:13 PM - LLDT : CDATE(2025,08,23)
+8/23/2025 7:32:13 PM - DSN Name : dsn_58040
+8/23/2025 7:32:13 PM - Report Parameter parameter : {?SELECT}=NO
+8/23/2025 7:32:23 PM - Client Server IP: 160.187.54.69,4545
+8/23/2025 7:32:23 PM - Client Multiple Database : main,Kapil
+8/23/2025 7:32:23 PM - Client Database : Kapil
+8/23/2025 7:32:23 PM - Report Name : kapil_gstcrn
+8/23/2025 7:32:23 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/23/2025 7:32:23 PM - Company ID : 17
+8/23/2025 7:32:23 PM - SSDT : CDATE(2025,04,01)
+8/23/2025 7:32:23 PM - LLDT : CDATE(2025,08,23)
+8/23/2025 7:32:23 PM - DSN Name : dsn_58041
+8/23/2025 7:32:23 PM - Report Parameter parameter : {?SELECT}=NO
+8/25/2025 3:13:36 PM - Client Server IP: 160.187.54.69,4545
+8/25/2025 3:13:36 PM - Client Multiple Database : main,Kapil
+8/25/2025 3:13:36 PM - Client Database : Kapil
+8/25/2025 3:13:36 PM - Report Name : lpr
+8/25/2025 3:13:36 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/25/2025 3:13:36 PM - Company ID : 17
+8/25/2025 3:13:36 PM - SSDT : CDATE(2025,04,01)
+8/25/2025 3:13:36 PM - LLDT : CDATE(2025,08,25)
+8/25/2025 3:13:36 PM - DSN Name : dsn_59184
+8/25/2025 3:13:36 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+8/25/2025 3:15:36 PM - Client Server IP: 160.187.54.69,4545
+8/25/2025 3:15:36 PM - Client Multiple Database : main,Kapil
+8/25/2025 3:15:36 PM - Client Database : Kapil
+8/25/2025 3:15:36 PM - Report Name : lpr
+8/25/2025 3:15:36 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/25/2025 3:15:36 PM - Company ID : 17
+8/25/2025 3:15:36 PM - SSDT : CDATE(2025,04,01)
+8/25/2025 3:15:36 PM - LLDT : CDATE(2025,08,25)
+8/25/2025 3:15:36 PM - DSN Name : dsn_59191
+8/25/2025 3:15:36 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=YES
+8/25/2025 6:05:27 PM - Client Server IP: 160.187.54.69,4545
+8/25/2025 6:05:27 PM - Client Multiple Database : main,Kapil
+8/25/2025 6:05:27 PM - Client Database : Kapil
+8/25/2025 6:05:27 PM - Report Name : kapil_gstcrn
+8/25/2025 6:05:27 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/25/2025 6:05:27 PM - Company ID : 17
+8/25/2025 6:05:27 PM - SSDT : CDATE(2025,04,01)
+8/25/2025 6:05:27 PM - LLDT : CDATE(2025,08,25)
+8/25/2025 6:05:27 PM - DSN Name : dsn_59561
+8/25/2025 6:05:27 PM - Report Parameter parameter : {?SELECT}=NO
+8/25/2025 7:22:00 PM - Client Server IP: 160.187.54.69,4545
+8/25/2025 7:22:00 PM - Client Multiple Database : main,Kapil
+8/25/2025 7:22:00 PM - Client Database : Kapil
+8/25/2025 7:22:00 PM - Report Name : rfj_kapil
+8/25/2025 7:22:00 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/25/2025 7:22:00 PM - Company ID : 17
+8/25/2025 7:22:00 PM - SSDT : CDATE(2025,04,01)
+8/25/2025 7:22:00 PM - LLDT : CDATE(2025,08,25)
+8/25/2025 7:22:00 PM - DSN Name : dsn_59685
+8/25/2025 7:22:00 PM - Report Parameter parameter : 
+8/26/2025 12:03:53 PM - Client Server IP: 160.187.54.245,4545
+8/26/2025 12:03:53 PM - Client Multiple Database : Montana
+8/26/2025 12:03:53 PM - Client Database : Montana
+8/26/2025 12:03:53 PM - Report Name : gepo_montana
+8/26/2025 12:03:53 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/26/2025 12:03:53 PM - Company ID : 33
+8/26/2025 12:03:53 PM - SSDT : CDATE(2025,04,01)
+8/26/2025 12:03:53 PM - LLDT : CDATE(2025,08,26)
+8/26/2025 12:03:53 PM - DSN Name : dsn_60028
+8/26/2025 12:03:53 PM - Report Parameter parameter : 
+8/28/2025 1:40:07 PM - Client Server IP: 160.187.54.38,4545
+8/28/2025 1:40:07 PM - Client Multiple Database : Main,Shubh
+8/28/2025 1:40:07 PM - Client Database : Shubh
+8/28/2025 1:40:07 PM - Report Name : kapil_gstdrn
+8/28/2025 1:40:07 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/28/2025 1:40:07 PM - Company ID : 52
+8/28/2025 1:40:07 PM - SSDT : CDATE(2025,04,01)
+8/28/2025 1:40:07 PM - LLDT : CDATE(2025,08,28)
+8/28/2025 1:40:07 PM - DSN Name : dsn_61464
+8/28/2025 1:40:07 PM - Report Parameter parameter : {?SELECT}=NO
+8/28/2025 3:16:24 PM - Client Server IP: 160.187.54.38,4545
+8/28/2025 3:16:24 PM - Client Multiple Database : Main,Shubh
+8/28/2025 3:16:24 PM - Client Database : Shubh
+8/28/2025 3:16:24 PM - Report Name : shubh_debit
+8/28/2025 3:16:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/28/2025 3:16:24 PM - Company ID : 52
+8/28/2025 3:16:24 PM - SSDT : CDATE(2025,04,01)
+8/28/2025 3:16:24 PM - LLDT : CDATE(2025,08,28)
+8/28/2025 3:16:24 PM - DSN Name : dsn_61594
+8/28/2025 3:16:24 PM - Report Parameter parameter : {?SELECT}=NO
+8/28/2025 3:17:38 PM - Client Server IP: 160.187.54.38,4545
+8/28/2025 3:17:38 PM - Client Multiple Database : Main,Shubh
+8/28/2025 3:17:38 PM - Client Database : Shubh
+8/28/2025 3:17:38 PM - Report Name : shubh_credit
+8/28/2025 3:17:38 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/28/2025 3:17:38 PM - Company ID : 52
+8/28/2025 3:17:38 PM - SSDT : CDATE(2025,04,01)
+8/28/2025 3:17:38 PM - LLDT : CDATE(2025,08,28)
+8/28/2025 3:17:38 PM - DSN Name : dsn_61597
+8/28/2025 3:17:38 PM - Report Parameter parameter : {?SELECT}=NO
+8/28/2025 4:09:04 PM - Client Server IP: 160.187.54.38,4545
+8/28/2025 4:09:04 PM - Client Multiple Database : Main,Shubh
+8/28/2025 4:09:04 PM - Client Database : Shubh
+8/28/2025 4:09:04 PM - Report Name : shubh_fs
+8/28/2025 4:09:04 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/28/2025 4:09:04 PM - Company ID : 52
+8/28/2025 4:09:04 PM - SSDT : CDATE(2025,04,01)
+8/28/2025 4:09:04 PM - LLDT : CDATE(2025,08,28)
+8/28/2025 4:09:04 PM - DSN Name : dsn_61669
+8/28/2025 4:09:04 PM - Report Parameter parameter : {?SELECT}=NO
+8/28/2025 4:11:18 PM - Client Server IP: 160.187.54.38,4545
+8/28/2025 4:11:18 PM - Client Multiple Database : Main,Shubh
+8/28/2025 4:11:18 PM - Client Database : Shubh
+8/28/2025 4:11:18 PM - Report Name : shubh_fs
+8/28/2025 4:11:18 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/28/2025 4:11:18 PM - Company ID : 52
+8/28/2025 4:11:18 PM - SSDT : CDATE(2025,04,01)
+8/28/2025 4:11:18 PM - LLDT : CDATE(2025,08,28)
+8/28/2025 4:11:18 PM - DSN Name : dsn_61672
+8/28/2025 4:11:18 PM - Report Parameter parameter : {?SELECT}=NO
+8/28/2025 4:17:49 PM - Client Server IP: 160.187.54.38,4545
+8/28/2025 4:17:49 PM - Client Multiple Database : Main,Shubh
+8/28/2025 4:17:49 PM - Client Database : Shubh
+8/28/2025 4:17:49 PM - Report Name : shubh_gs
+8/28/2025 4:17:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/28/2025 4:17:49 PM - Company ID : 52
+8/28/2025 4:17:49 PM - SSDT : CDATE(2025,04,01)
+8/28/2025 4:17:49 PM - LLDT : CDATE(2025,08,28)
+8/28/2025 4:17:49 PM - DSN Name : dsn_61679
+8/28/2025 4:17:49 PM - Report Parameter parameter : {?SELECT}=NO
+8/28/2025 4:19:51 PM - Client Server IP: 160.187.54.38,4545
+8/28/2025 4:19:51 PM - Client Multiple Database : Main,Shubh
+8/28/2025 4:19:51 PM - Client Database : Shubh
+8/28/2025 4:19:51 PM - Report Name : rfj_kapil
+8/28/2025 4:19:51 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/28/2025 4:19:51 PM - Company ID : 52
+8/28/2025 4:19:51 PM - SSDT : CDATE(2025,04,01)
+8/28/2025 4:19:51 PM - LLDT : CDATE(2025,08,28)
+8/28/2025 4:19:51 PM - DSN Name : dsn_61681
+8/28/2025 4:19:51 PM - Report Parameter parameter : 
+8/28/2025 4:20:08 PM - Client Server IP: 160.187.54.38,4545
+8/28/2025 4:20:08 PM - Client Multiple Database : Main,Shubh
+8/28/2025 4:20:08 PM - Client Database : Shubh
+8/28/2025 4:20:08 PM - Report Name : rfj_kapil
+8/28/2025 4:20:08 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/28/2025 4:20:08 PM - Company ID : 52
+8/28/2025 4:20:08 PM - SSDT : CDATE(2025,04,01)
+8/28/2025 4:20:08 PM - LLDT : CDATE(2025,08,28)
+8/28/2025 4:20:08 PM - DSN Name : dsn_61682
+8/28/2025 4:20:08 PM - Report Parameter parameter : 
+8/28/2025 4:20:44 PM - Client Server IP: 160.187.54.38,4545
+8/28/2025 4:20:44 PM - Client Multiple Database : Main,Shubh
+8/28/2025 4:20:44 PM - Client Database : Shubh
+8/28/2025 4:20:44 PM - Report Name : gsp
+8/28/2025 4:20:44 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/28/2025 4:20:44 PM - Company ID : 52
+8/28/2025 4:20:44 PM - SSDT : CDATE(2025,04,01)
+8/28/2025 4:20:44 PM - LLDT : CDATE(2025,08,28)
+8/28/2025 4:20:44 PM - DSN Name : dsn_61684
+8/28/2025 4:20:44 PM - Report Parameter parameter : 
+8/28/2025 4:44:34 PM - Client Server IP: 160.187.54.69,4545
+8/28/2025 4:44:34 PM - Client Multiple Database : main,Kapil
+8/28/2025 4:44:34 PM - Client Database : Kapil
+8/28/2025 4:44:34 PM - Report Name : kapil_gstcrn
+8/28/2025 4:44:34 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/28/2025 4:44:34 PM - Company ID : 17
+8/28/2025 4:44:34 PM - SSDT : CDATE(2025,04,01)
+8/28/2025 4:44:34 PM - LLDT : CDATE(2025,08,28)
+8/28/2025 4:44:34 PM - DSN Name : dsn_61731
+8/28/2025 4:44:34 PM - Report Parameter parameter : {?SELECT}=NO
+8/28/2025 4:44:59 PM - Client Server IP: 160.187.54.69,4545
+8/28/2025 4:44:59 PM - Client Multiple Database : main,Kapil
+8/28/2025 4:44:59 PM - Client Database : Kapil
+8/28/2025 4:44:59 PM - Report Name : kapil_gstdrn
+8/28/2025 4:44:59 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/28/2025 4:44:59 PM - Company ID : 17
+8/28/2025 4:44:59 PM - SSDT : CDATE(2025,04,01)
+8/28/2025 4:44:59 PM - LLDT : CDATE(2025,08,28)
+8/28/2025 4:44:59 PM - DSN Name : dsn_61733
+8/28/2025 4:44:59 PM - Report Parameter parameter : {?SELECT}=NO
+8/28/2025 4:45:28 PM - Client Server IP: 160.187.54.69,4545
+8/28/2025 4:45:28 PM - Client Multiple Database : main,Kapil
+8/28/2025 4:45:28 PM - Client Database : Kapil
+8/28/2025 4:45:28 PM - Report Name : kapil_purdrn
+8/28/2025 4:45:28 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/28/2025 4:45:28 PM - Company ID : 17
+8/28/2025 4:45:28 PM - SSDT : CDATE(2025,04,01)
+8/28/2025 4:45:28 PM - LLDT : CDATE(2025,08,28)
+8/28/2025 4:45:28 PM - DSN Name : dsn_61734
+8/28/2025 4:45:28 PM - Report Parameter parameter : {?SELECT}=NO
+8/28/2025 4:59:26 PM - Client Server IP: 160.187.54.69,4545
+8/28/2025 4:59:26 PM - Client Multiple Database : main,Kapil
+8/28/2025 4:59:26 PM - Client Database : Kapil
+8/28/2025 4:59:26 PM - Report Name : kapil_gstcrn
+8/28/2025 4:59:26 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/28/2025 4:59:26 PM - Company ID : 17
+8/28/2025 4:59:26 PM - SSDT : CDATE(2025,04,01)
+8/28/2025 4:59:26 PM - LLDT : CDATE(2025,08,28)
+8/28/2025 4:59:26 PM - DSN Name : dsn_61766
+8/28/2025 4:59:26 PM - Report Parameter parameter : {?SELECT}=NO
+8/28/2025 5:08:38 PM - Client Server IP: 160.187.54.69,4545
+8/28/2025 5:08:38 PM - Client Multiple Database : main,Kapil
+8/28/2025 5:08:38 PM - Client Database : Kapil
+8/28/2025 5:08:38 PM - Report Name : kapil_fs
+8/28/2025 5:08:38 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/28/2025 5:08:38 PM - Company ID : 17
+8/28/2025 5:08:38 PM - SSDT : CDATE(2025,04,01)
+8/28/2025 5:08:38 PM - LLDT : CDATE(2025,08,28)
+8/28/2025 5:08:38 PM - DSN Name : dsn_61786
+8/28/2025 5:08:38 PM - Report Parameter parameter : {?SELECT}=NO
+8/28/2025 5:09:02 PM - Client Server IP: 160.187.54.69,4545
+8/28/2025 5:09:02 PM - Client Multiple Database : main,Kapil
+8/28/2025 5:09:02 PM - Client Database : Kapil
+8/28/2025 5:09:02 PM - Report Name : shubh_gs
+8/28/2025 5:09:02 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/28/2025 5:09:02 PM - Company ID : 17
+8/28/2025 5:09:02 PM - SSDT : CDATE(2025,04,01)
+8/28/2025 5:09:02 PM - LLDT : CDATE(2025,08,28)
+8/28/2025 5:09:02 PM - DSN Name : dsn_61788
+8/28/2025 5:09:02 PM - Report Parameter parameter : {?SELECT}=NO
+8/30/2025 3:27:49 PM - Client Server IP: 139.5.190.101,8546
+8/30/2025 3:27:49 PM - Client Multiple Database : Saberp_Main_MF,Valiant_INV
+8/30/2025 3:27:49 PM - Client Database : Valiant_INV
+8/30/2025 3:27:49 PM - Report Name : fs_valiant
+8/30/2025 3:27:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+8/30/2025 3:27:49 PM - Company ID : 22
+8/30/2025 3:27:49 PM - SSDT : CDATE(2025,04,01)
+8/30/2025 3:27:49 PM - LLDT : CDATE(2025,08,30)
+8/30/2025 3:27:49 PM - DSN Name : dsn_63435
+8/30/2025 3:27:49 PM - Report Parameter parameter : 
+9/1/2025 12:39:46 PM - Client Server IP: 160.187.54.69,4545
+9/1/2025 12:39:46 PM - Client Multiple Database : main,Kapil
+9/1/2025 12:39:46 PM - Client Database : Kapil
+9/1/2025 12:39:46 PM - Report Name : kapil_fs
+9/1/2025 12:39:46 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/1/2025 12:39:46 PM - Company ID : 17
+9/1/2025 12:39:46 PM - SSDT : CDATE(2025,04,01)
+9/1/2025 12:39:46 PM - LLDT : CDATE(2025,09,01)
+9/1/2025 12:39:46 PM - DSN Name : dsn_64584
+9/1/2025 12:39:46 PM - Report Parameter parameter : {?SELECT}=NO
+9/3/2025 4:52:24 PM - Client Server IP: 160.187.54.69,4545
+9/3/2025 4:52:24 PM - Client Multiple Database : main,Kapil_Demo
+9/3/2025 4:52:24 PM - Client Database : Kapil_Demo
+9/3/2025 4:52:24 PM - Report Name : fsc_kapil
+9/3/2025 4:52:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/3/2025 4:52:24 PM - Company ID : 51
+9/3/2025 4:52:24 PM - SSDT : CDATE(2025,04,01)
+9/3/2025 4:52:24 PM - LLDT : CDATE(2025,09,03)
+9/3/2025 4:52:24 PM - DSN Name : dsn_66342
+9/3/2025 4:52:24 PM - Report Parameter parameter : 
+9/12/2025 11:57:48 AM - Client Server IP: 160.187.54.38,4545
+9/12/2025 11:57:48 AM - Client Multiple Database : Rishab
+9/12/2025 11:57:48 AM - Client Database : Rishab
+9/12/2025 11:57:48 AM - Report Name : fso_rishab
+9/12/2025 11:57:48 AM - Report Path : V:\xampp\htdocs\tex\reports\
+9/12/2025 11:57:48 AM - Company ID : 16
+9/12/2025 11:57:48 AM - SSDT : CDATE(2025,04,01)
+9/12/2025 11:57:48 AM - LLDT : CDATE(2025,09,12)
+9/12/2025 11:57:48 AM - DSN Name : dsn_73325
+9/12/2025 11:57:48 AM - Report Parameter parameter : 
+9/12/2025 11:58:19 AM - Client Server IP: 160.187.54.38,4545
+9/12/2025 11:58:19 AM - Client Multiple Database : Rishab
+9/12/2025 11:58:19 AM - Client Database : Rishab
+9/12/2025 11:58:19 AM - Report Name : fso_rishab
+9/12/2025 11:58:19 AM - Report Path : V:\xampp\htdocs\tex\reports\
+9/12/2025 11:58:19 AM - Company ID : 16
+9/12/2025 11:58:19 AM - SSDT : CDATE(2025,04,01)
+9/12/2025 11:58:19 AM - LLDT : CDATE(2025,09,12)
+9/12/2025 11:58:19 AM - DSN Name : dsn_73326
+9/12/2025 11:58:19 AM - Report Parameter parameter : 
+9/12/2025 12:08:57 PM - Client Server IP: 160.187.54.38,4545
+9/12/2025 12:08:57 PM - Client Multiple Database : Rishab
+9/12/2025 12:08:57 PM - Client Database : Rishab
+9/12/2025 12:08:57 PM - Report Name : fso_rishab
+9/12/2025 12:08:57 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/12/2025 12:08:57 PM - Company ID : 16
+9/12/2025 12:08:57 PM - SSDT : CDATE(2025,04,01)
+9/12/2025 12:08:57 PM - LLDT : CDATE(2025,09,12)
+9/12/2025 12:08:57 PM - DSN Name : dsn_73349
+9/12/2025 12:08:57 PM - Report Parameter parameter : 
+9/12/2025 12:25:22 PM - Client Server IP: 160.187.54.38,4545
+9/12/2025 12:25:22 PM - Client Multiple Database : Rishab
+9/12/2025 12:25:22 PM - Client Database : Rishab
+9/12/2025 12:25:22 PM - Report Name : fso_rishab
+9/12/2025 12:25:22 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/12/2025 12:25:22 PM - Company ID : 16
+9/12/2025 12:25:22 PM - SSDT : CDATE(2025,04,01)
+9/12/2025 12:25:22 PM - LLDT : CDATE(2025,09,12)
+9/12/2025 12:25:22 PM - DSN Name : dsn_73376
+9/12/2025 12:25:22 PM - Report Parameter parameter : 
+9/12/2025 7:40:17 PM - Client Server IP: 160.187.54.38,4545
+9/12/2025 7:40:17 PM - Client Multiple Database : Rishab
+9/12/2025 7:40:17 PM - Client Database : Rishab
+9/12/2025 7:40:17 PM - Report Name : fpo_rishab
+9/12/2025 7:40:17 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/12/2025 7:40:17 PM - Company ID : 16
+9/12/2025 7:40:17 PM - SSDT : CDATE(2025,04,01)
+9/12/2025 7:40:17 PM - LLDT : CDATE(2025,09,12)
+9/12/2025 7:40:17 PM - DSN Name : dsn_73923
+9/12/2025 7:40:17 PM - Report Parameter parameter : 
+9/12/2025 7:40:37 PM - Client Server IP: 160.187.54.38,4545
+9/12/2025 7:40:37 PM - Client Multiple Database : Rishab
+9/12/2025 7:40:37 PM - Client Database : Rishab
+9/12/2025 7:40:37 PM - Report Name : fpo_rishab
+9/12/2025 7:40:37 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/12/2025 7:40:37 PM - Company ID : 16
+9/12/2025 7:40:37 PM - SSDT : CDATE(2025,04,01)
+9/12/2025 7:40:37 PM - LLDT : CDATE(2025,09,12)
+9/12/2025 7:40:37 PM - DSN Name : dsn_73925
+9/12/2025 7:40:37 PM - Report Parameter parameter : 
+9/12/2025 7:43:40 PM - Client Server IP: 160.187.54.38,4545
+9/12/2025 7:43:40 PM - Client Multiple Database : Rishab
+9/12/2025 7:43:40 PM - Client Database : Rishab
+9/12/2025 7:43:40 PM - Report Name : fpo_rishab
+9/12/2025 7:43:40 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/12/2025 7:43:40 PM - Company ID : 16
+9/12/2025 7:43:40 PM - SSDT : CDATE(2025,04,01)
+9/12/2025 7:43:40 PM - LLDT : CDATE(2025,09,12)
+9/12/2025 7:43:40 PM - DSN Name : dsn_73935
+9/12/2025 7:43:40 PM - Report Parameter parameter : 
+9/12/2025 7:51:08 PM - Client Server IP: 160.187.54.38,4545
+9/12/2025 7:51:08 PM - Client Multiple Database : Rishab
+9/12/2025 7:51:08 PM - Client Database : Rishab
+9/12/2025 7:51:08 PM - Report Name : fso_rishab
+9/12/2025 7:51:08 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/12/2025 7:51:08 PM - Company ID : 16
+9/12/2025 7:51:08 PM - SSDT : CDATE(2025,04,01)
+9/12/2025 7:51:08 PM - LLDT : CDATE(2025,09,12)
+9/12/2025 7:51:08 PM - DSN Name : dsn_73959
+9/12/2025 7:51:08 PM - Report Parameter parameter : 
+9/12/2025 7:53:00 PM - Client Server IP: 160.187.54.38,4545
+9/12/2025 7:53:00 PM - Client Multiple Database : Rishab
+9/12/2025 7:53:00 PM - Client Database : Rishab
+9/12/2025 7:53:00 PM - Report Name : fso_rishab
+9/12/2025 7:53:00 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/12/2025 7:53:00 PM - Company ID : 16
+9/12/2025 7:53:00 PM - SSDT : CDATE(2025,04,01)
+9/12/2025 7:53:00 PM - LLDT : CDATE(2025,09,12)
+9/12/2025 7:53:00 PM - DSN Name : dsn_73964
+9/12/2025 7:53:00 PM - Report Parameter parameter : 
+9/12/2025 7:59:29 PM - Client Server IP: 160.187.54.38,4545
+9/12/2025 7:59:29 PM - Client Multiple Database : Rishab
+9/12/2025 7:59:29 PM - Client Database : Rishab
+9/12/2025 7:59:29 PM - Report Name : fso_rishab
+9/12/2025 7:59:29 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/12/2025 7:59:29 PM - Company ID : 16
+9/12/2025 7:59:29 PM - SSDT : CDATE(2025,04,01)
+9/12/2025 7:59:29 PM - LLDT : CDATE(2025,09,12)
+9/12/2025 7:59:29 PM - DSN Name : dsn_73976
+9/12/2025 7:59:29 PM - Report Parameter parameter : 
+9/13/2025 4:05:08 PM - Client Server IP: 160.187.54.38,4545
+9/13/2025 4:05:08 PM - Client Multiple Database : Rishab
+9/13/2025 4:05:08 PM - Client Database : Rishab
+9/13/2025 4:05:08 PM - Report Name : fpo_rishab
+9/13/2025 4:05:08 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/13/2025 4:05:08 PM - Company ID : 16
+9/13/2025 4:05:08 PM - SSDT : CDATE(2025,04,01)
+9/13/2025 4:05:08 PM - LLDT : CDATE(2025,09,13)
+9/13/2025 4:05:08 PM - DSN Name : dsn_74809
+9/13/2025 4:05:08 PM - Report Parameter parameter : 
+9/13/2025 6:41:17 PM - Client Server IP: 160.187.54.38,4545
+9/13/2025 6:41:17 PM - Client Multiple Database : Rishab
+9/13/2025 6:41:17 PM - Client Database : Rishab
+9/13/2025 6:41:17 PM - Report Name : fso_rishab
+9/13/2025 6:41:17 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/13/2025 6:41:17 PM - Company ID : 16
+9/13/2025 6:41:17 PM - SSDT : CDATE(2025,04,01)
+9/13/2025 6:41:17 PM - LLDT : CDATE(2025,09,13)
+9/13/2025 6:41:17 PM - DSN Name : dsn_75141
+9/13/2025 6:41:17 PM - Report Parameter parameter : 
+9/16/2025 4:30:59 PM - Client Server IP: 160.187.54.244,4545
+9/16/2025 4:30:59 PM - Client Multiple Database : main,Empress
+9/16/2025 4:30:59 PM - Client Database : Empress
+9/16/2025 4:30:59 PM - Report Name : RMO_EMPRESS
+9/16/2025 4:30:59 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/16/2025 4:30:59 PM - Company ID : 50
+9/16/2025 4:30:59 PM - SSDT : CDATE(2025,04,01)
+9/16/2025 4:30:59 PM - LLDT : CDATE(2025,09,16)
+9/16/2025 4:30:59 PM - DSN Name : dsn_77580
+9/16/2025 4:30:59 PM - Report Parameter parameter : 
+9/16/2025 4:33:15 PM - Client Server IP: 160.187.54.245,4545
+9/16/2025 4:33:15 PM - Client Multiple Database : Montana
+9/16/2025 4:33:15 PM - Client Database : Montana
+9/16/2025 4:33:15 PM - Report Name : gepo_montana
+9/16/2025 4:33:15 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/16/2025 4:33:15 PM - Company ID : 33
+9/16/2025 4:33:15 PM - SSDT : CDATE(2025,04,01)
+9/16/2025 4:33:15 PM - LLDT : CDATE(2025,09,16)
+9/16/2025 4:33:15 PM - DSN Name : dsn_77586
+9/16/2025 4:33:15 PM - Report Parameter parameter : 
+9/16/2025 5:04:46 PM - Client Server IP: 160.187.54.38,4545
+9/16/2025 5:04:46 PM - Client Multiple Database : Rishab
+9/16/2025 5:04:46 PM - Client Database : Rishab
+9/16/2025 5:04:46 PM - Report Name : fpo_rishab
+9/16/2025 5:04:46 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/16/2025 5:04:46 PM - Company ID : 16
+9/16/2025 5:04:46 PM - SSDT : CDATE(2025,04,01)
+9/16/2025 5:04:46 PM - LLDT : CDATE(2025,09,16)
+9/16/2025 5:04:46 PM - DSN Name : dsn_77643
+9/16/2025 5:04:46 PM - Report Parameter parameter : 
+9/16/2025 5:20:08 PM - Client Server IP: 160.187.54.38,4545
+9/16/2025 5:20:08 PM - Client Multiple Database : Rishab
+9/16/2025 5:20:08 PM - Client Database : Rishab
+9/16/2025 5:20:08 PM - Report Name : fpo_rishab
+9/16/2025 5:20:08 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/16/2025 5:20:08 PM - Company ID : 16
+9/16/2025 5:20:08 PM - SSDT : CDATE(2025,04,01)
+9/16/2025 5:20:08 PM - LLDT : CDATE(2025,09,16)
+9/16/2025 5:20:08 PM - DSN Name : dsn_77689
+9/16/2025 5:20:08 PM - Report Parameter parameter : 
+9/16/2025 5:20:51 PM - Client Server IP: 160.187.54.38,4545
+9/16/2025 5:20:51 PM - Client Multiple Database : Rishab
+9/16/2025 5:20:51 PM - Client Database : Rishab
+9/16/2025 5:20:51 PM - Report Name : fso_rishab
+9/16/2025 5:20:51 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/16/2025 5:20:51 PM - Company ID : 16
+9/16/2025 5:20:51 PM - SSDT : CDATE(2025,04,01)
+9/16/2025 5:20:51 PM - LLDT : CDATE(2025,09,16)
+9/16/2025 5:20:51 PM - DSN Name : dsn_77693
+9/16/2025 5:20:51 PM - Report Parameter parameter : 
+9/16/2025 5:21:26 PM - Client Server IP: 160.187.54.38,4545
+9/16/2025 5:21:26 PM - Client Multiple Database : Rishab
+9/16/2025 5:21:26 PM - Client Database : Rishab
+9/16/2025 5:21:26 PM - Report Name : fso_rishab
+9/16/2025 5:21:26 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/16/2025 5:21:26 PM - Company ID : 16
+9/16/2025 5:21:26 PM - SSDT : CDATE(2025,04,01)
+9/16/2025 5:21:26 PM - LLDT : CDATE(2025,09,16)
+9/16/2025 5:21:26 PM - DSN Name : dsn_77696
+9/16/2025 5:21:26 PM - Report Parameter parameter : 
+9/16/2025 5:23:22 PM - Client Server IP: 160.187.54.38,4545
+9/16/2025 5:23:22 PM - Client Multiple Database : Rishab
+9/16/2025 5:23:22 PM - Client Database : Rishab
+9/16/2025 5:23:22 PM - Report Name : fso_rishab
+9/16/2025 5:23:22 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/16/2025 5:23:22 PM - Company ID : 16
+9/16/2025 5:23:22 PM - SSDT : CDATE(2025,04,01)
+9/16/2025 5:23:22 PM - LLDT : CDATE(2025,09,16)
+9/16/2025 5:23:22 PM - DSN Name : dsn_77700
+9/16/2025 5:23:22 PM - Report Parameter parameter : 
+9/16/2025 5:23:38 PM - Client Server IP: 160.187.54.38,4545
+9/16/2025 5:23:38 PM - Client Multiple Database : Rishab
+9/16/2025 5:23:38 PM - Client Database : Rishab
+9/16/2025 5:23:38 PM - Report Name : fso_rishab
+9/16/2025 5:23:38 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/16/2025 5:23:38 PM - Company ID : 16
+9/16/2025 5:23:38 PM - SSDT : CDATE(2025,04,01)
+9/16/2025 5:23:38 PM - LLDT : CDATE(2025,09,16)
+9/16/2025 5:23:38 PM - DSN Name : dsn_77703
+9/16/2025 5:23:38 PM - Report Parameter parameter : 
+9/16/2025 5:23:44 PM - Client Server IP: 160.187.54.38,4545
+9/16/2025 5:23:44 PM - Client Multiple Database : Rishab
+9/16/2025 5:23:44 PM - Client Database : Rishab
+9/16/2025 5:23:44 PM - Report Name : fso_rishab
+9/16/2025 5:23:44 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/16/2025 5:23:44 PM - Company ID : 16
+9/16/2025 5:23:44 PM - SSDT : CDATE(2025,04,01)
+9/16/2025 5:23:44 PM - LLDT : CDATE(2025,09,16)
+9/16/2025 5:23:44 PM - DSN Name : dsn_77704
+9/16/2025 5:23:44 PM - Report Parameter parameter : 
+9/16/2025 5:24:46 PM - Client Server IP: 160.187.54.38,4545
+9/16/2025 5:24:46 PM - Client Multiple Database : Rishab
+9/16/2025 5:24:46 PM - Client Database : Rishab
+9/16/2025 5:24:46 PM - Report Name : fso_rishab
+9/16/2025 5:24:46 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/16/2025 5:24:46 PM - Company ID : 16
+9/16/2025 5:24:46 PM - SSDT : CDATE(2025,04,01)
+9/16/2025 5:24:46 PM - LLDT : CDATE(2025,09,16)
+9/16/2025 5:24:46 PM - DSN Name : dsn_77706
+9/16/2025 5:24:46 PM - Report Parameter parameter : 
+9/16/2025 5:29:58 PM - Client Server IP: 160.187.54.38,4545
+9/16/2025 5:29:58 PM - Client Multiple Database : Rishab
+9/16/2025 5:29:58 PM - Client Database : Rishab
+9/16/2025 5:29:58 PM - Report Name : fso_rishab
+9/16/2025 5:29:58 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/16/2025 5:29:58 PM - Company ID : 16
+9/16/2025 5:29:58 PM - SSDT : CDATE(2025,04,01)
+9/16/2025 5:29:58 PM - LLDT : CDATE(2025,09,16)
+9/16/2025 5:29:58 PM - DSN Name : dsn_77723
+9/16/2025 5:29:58 PM - Report Parameter parameter : 
+9/17/2025 1:44:25 PM - Client Server IP: 160.187.54.245,4545
+9/17/2025 1:44:25 PM - Client Multiple Database : Montana
+9/17/2025 1:44:25 PM - Client Database : Montana
+9/17/2025 1:44:25 PM - Report Name : icm_montana
+9/17/2025 1:44:25 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/17/2025 1:44:25 PM - Company ID : 33
+9/17/2025 1:44:25 PM - SSDT : CDATE(2025,04,01)
+9/17/2025 1:44:25 PM - LLDT : CDATE(2025,09,17)
+9/17/2025 1:44:25 PM - DSN Name : dsn_78287
+9/17/2025 1:44:25 PM - Report Parameter parameter : 
+9/17/2025 1:45:13 PM - Client Server IP: 160.187.54.245,4545
+9/17/2025 1:45:13 PM - Client Multiple Database : Montana
+9/17/2025 1:45:13 PM - Client Database : Montana
+9/17/2025 1:45:13 PM - Report Name : icm_montana
+9/17/2025 1:45:13 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/17/2025 1:45:13 PM - Company ID : 33
+9/17/2025 1:45:13 PM - SSDT : CDATE(2025,04,01)
+9/17/2025 1:45:13 PM - LLDT : CDATE(2025,09,17)
+9/17/2025 1:45:13 PM - DSN Name : dsn_78288
+9/17/2025 1:45:13 PM - Report Parameter parameter : 
+9/17/2025 1:47:25 PM - Client Server IP: 160.187.54.245,4545
+9/17/2025 1:47:25 PM - Client Multiple Database : Montana
+9/17/2025 1:47:25 PM - Client Database : Montana
+9/17/2025 1:47:25 PM - Report Name : icm_montana
+9/17/2025 1:47:25 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/17/2025 1:47:25 PM - Company ID : 33
+9/17/2025 1:47:25 PM - SSDT : CDATE(2025,04,01)
+9/17/2025 1:47:25 PM - LLDT : CDATE(2025,09,17)
+9/17/2025 1:47:25 PM - DSN Name : dsn_78292
+9/17/2025 1:47:25 PM - Report Parameter parameter : 
+9/17/2025 5:53:15 PM - Client Server IP: 160.187.54.38,4545
+9/17/2025 5:53:15 PM - Client Multiple Database : Rishab
+9/17/2025 5:53:15 PM - Client Database : Rishab
+9/17/2025 5:53:15 PM - Report Name : fpo_rishab
+9/17/2025 5:53:15 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/17/2025 5:53:15 PM - Company ID : 16
+9/17/2025 5:53:15 PM - SSDT : CDATE(2025,04,01)
+9/17/2025 5:53:15 PM - LLDT : CDATE(2025,09,17)
+9/17/2025 5:53:15 PM - DSN Name : dsn_78753
+9/17/2025 5:53:15 PM - Report Parameter parameter : 
+9/17/2025 5:53:47 PM - Client Server IP: 160.187.54.38,4545
+9/17/2025 5:53:47 PM - Client Multiple Database : Rishab
+9/17/2025 5:53:47 PM - Client Database : Rishab
+9/17/2025 5:53:47 PM - Report Name : fso_rishab
+9/17/2025 5:53:47 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/17/2025 5:53:47 PM - Company ID : 16
+9/17/2025 5:53:47 PM - SSDT : CDATE(2025,04,01)
+9/17/2025 5:53:47 PM - LLDT : CDATE(2025,09,17)
+9/17/2025 5:53:47 PM - DSN Name : dsn_78754
+9/17/2025 5:53:47 PM - Report Parameter parameter : 
+9/17/2025 8:00:54 PM - Client Server IP: 160.187.54.244,4545
+9/17/2025 8:00:54 PM - Client Multiple Database : main,Empress
+9/17/2025 8:00:54 PM - Client Database : Empress
+9/17/2025 8:00:54 PM - Report Name : RMO_EMPRESS
+9/17/2025 8:00:54 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/17/2025 8:00:54 PM - Company ID : 50
+9/17/2025 8:00:54 PM - SSDT : CDATE(2025,04,01)
+9/17/2025 8:00:54 PM - LLDT : CDATE(2025,09,17)
+9/17/2025 8:00:54 PM - DSN Name : dsn_78883
+9/17/2025 8:00:54 PM - Report Parameter parameter : 
+9/17/2025 8:00:59 PM - Client Server IP: 160.187.54.244,4545
+9/17/2025 8:00:59 PM - Client Multiple Database : main,Empress
+9/17/2025 8:00:59 PM - Client Database : Empress
+9/17/2025 8:00:59 PM - Report Name : RMO_EMPRESS
+9/17/2025 8:00:59 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/17/2025 8:00:59 PM - Company ID : 50
+9/17/2025 8:00:59 PM - SSDT : CDATE(2025,04,01)
+9/17/2025 8:00:59 PM - LLDT : CDATE(2025,09,17)
+9/17/2025 8:00:59 PM - DSN Name : dsn_78884
+9/17/2025 8:00:59 PM - Report Parameter parameter : 
+9/17/2025 8:02:10 PM - Client Server IP: 160.187.54.244,4545
+9/17/2025 8:02:10 PM - Client Multiple Database : main,Empress
+9/17/2025 8:02:10 PM - Client Database : Empress
+9/17/2025 8:02:10 PM - Report Name : RMO_EMPRESS
+9/17/2025 8:02:10 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/17/2025 8:02:10 PM - Company ID : 50
+9/17/2025 8:02:10 PM - SSDT : CDATE(2025,04,01)
+9/17/2025 8:02:10 PM - LLDT : CDATE(2025,09,17)
+9/17/2025 8:02:10 PM - DSN Name : dsn_78885
+9/17/2025 8:02:10 PM - Report Parameter parameter : 
+9/17/2025 8:03:06 PM - Client Server IP: 160.187.54.244,4545
+9/17/2025 8:03:06 PM - Client Multiple Database : main,Empress
+9/17/2025 8:03:06 PM - Client Database : Empress
+9/17/2025 8:03:06 PM - Report Name : RMO_EMPRESS
+9/17/2025 8:03:06 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/17/2025 8:03:06 PM - Company ID : 50
+9/17/2025 8:03:06 PM - SSDT : CDATE(2025,04,01)
+9/17/2025 8:03:06 PM - LLDT : CDATE(2025,09,17)
+9/17/2025 8:03:06 PM - DSN Name : dsn_78887
+9/17/2025 8:03:06 PM - Report Parameter parameter : 
+9/17/2025 8:03:51 PM - Client Server IP: 160.187.54.244,4545
+9/17/2025 8:03:51 PM - Client Multiple Database : main,Empress
+9/17/2025 8:03:51 PM - Client Database : Empress
+9/17/2025 8:03:51 PM - Report Name : RMO_EMPRESS
+9/17/2025 8:03:51 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/17/2025 8:03:51 PM - Company ID : 50
+9/17/2025 8:03:51 PM - SSDT : CDATE(2025,04,01)
+9/17/2025 8:03:51 PM - LLDT : CDATE(2025,09,17)
+9/17/2025 8:03:51 PM - DSN Name : dsn_78891
+9/17/2025 8:03:51 PM - Report Parameter parameter : 
+9/17/2025 8:09:00 PM - Client Server IP: 160.187.54.244,4545
+9/17/2025 8:09:00 PM - Client Multiple Database : main,Empress
+9/17/2025 8:09:00 PM - Client Database : Empress
+9/17/2025 8:09:00 PM - Report Name : RMO_EMPRESS
+9/17/2025 8:09:00 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/17/2025 8:09:00 PM - Company ID : 50
+9/17/2025 8:09:00 PM - SSDT : CDATE(2025,04,01)
+9/17/2025 8:09:00 PM - LLDT : CDATE(2025,09,17)
+9/17/2025 8:09:00 PM - DSN Name : dsn_78904
+9/17/2025 8:09:00 PM - Report Parameter parameter : 
+9/17/2025 8:11:17 PM - Client Server IP: 160.187.54.244,4545
+9/17/2025 8:11:17 PM - Client Multiple Database : main,Empress
+9/17/2025 8:11:17 PM - Client Database : Empress
+9/17/2025 8:11:17 PM - Report Name : RMO_EMPRESS
+9/17/2025 8:11:17 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/17/2025 8:11:17 PM - Company ID : 50
+9/17/2025 8:11:17 PM - SSDT : CDATE(2025,04,01)
+9/17/2025 8:11:17 PM - LLDT : CDATE(2025,09,17)
+9/17/2025 8:11:17 PM - DSN Name : dsn_78908
+9/17/2025 8:11:17 PM - Report Parameter parameter : 
+9/17/2025 8:11:35 PM - Client Server IP: 160.187.54.244,4545
+9/17/2025 8:11:35 PM - Client Multiple Database : main,Empress
+9/17/2025 8:11:35 PM - Client Database : Empress
+9/17/2025 8:11:35 PM - Report Name : RMO_EMPRESS
+9/17/2025 8:11:35 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/17/2025 8:11:35 PM - Company ID : 50
+9/17/2025 8:11:35 PM - SSDT : CDATE(2025,04,01)
+9/17/2025 8:11:35 PM - LLDT : CDATE(2025,09,17)
+9/17/2025 8:11:35 PM - DSN Name : dsn_78909
+9/17/2025 8:11:35 PM - Report Parameter parameter : 
+9/17/2025 8:12:04 PM - Client Server IP: 160.187.54.244,4545
+9/17/2025 8:12:04 PM - Client Multiple Database : main,Empress
+9/17/2025 8:12:04 PM - Client Database : Empress
+9/17/2025 8:12:04 PM - Report Name : RMO_EMPRESS
+9/17/2025 8:12:04 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/17/2025 8:12:04 PM - Company ID : 50
+9/17/2025 8:12:04 PM - SSDT : CDATE(2025,04,01)
+9/17/2025 8:12:04 PM - LLDT : CDATE(2025,09,17)
+9/17/2025 8:12:04 PM - DSN Name : dsn_78911
+9/17/2025 8:12:04 PM - Report Parameter parameter : 
+9/17/2025 8:14:52 PM - Client Server IP: 160.187.54.244,4545
+9/17/2025 8:14:52 PM - Client Multiple Database : main,Empress
+9/17/2025 8:14:52 PM - Client Database : Empress
+9/17/2025 8:14:52 PM - Report Name : RMO_EMPRESS
+9/17/2025 8:14:52 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/17/2025 8:14:52 PM - Company ID : 50
+9/17/2025 8:14:52 PM - SSDT : CDATE(2025,04,01)
+9/17/2025 8:14:52 PM - LLDT : CDATE(2025,09,17)
+9/17/2025 8:14:52 PM - DSN Name : dsn_78914
+9/17/2025 8:14:52 PM - Report Parameter parameter : 
+9/18/2025 3:16:53 PM - Client Server IP: 160.187.54.244,4545
+9/18/2025 3:16:53 PM - Client Multiple Database : main,Empress
+9/18/2025 3:16:53 PM - Client Database : Empress
+9/18/2025 3:16:53 PM - Report Name : RMO_EMPRESS
+9/18/2025 3:16:53 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/18/2025 3:16:53 PM - Company ID : 50
+9/18/2025 3:16:53 PM - SSDT : CDATE(2025,04,01)
+9/18/2025 3:16:53 PM - LLDT : CDATE(2025,09,18)
+9/18/2025 3:16:53 PM - DSN Name : dsn_79445
+9/18/2025 3:16:53 PM - Report Parameter parameter : 
+9/18/2025 3:36:49 PM - Client Server IP: 160.187.54.244,4545
+9/18/2025 3:36:49 PM - Client Multiple Database : main,Empress
+9/18/2025 3:36:49 PM - Client Database : Empress
+9/18/2025 3:36:49 PM - Report Name : RMO_EMPRESS
+9/18/2025 3:36:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/18/2025 3:36:49 PM - Company ID : 50
+9/18/2025 3:36:49 PM - SSDT : CDATE(2025,04,01)
+9/18/2025 3:36:49 PM - LLDT : CDATE(2025,09,18)
+9/18/2025 3:36:49 PM - DSN Name : dsn_79474
+9/18/2025 3:36:49 PM - Report Parameter parameter : 
+9/18/2025 3:37:03 PM - Client Server IP: 160.187.54.244,4545
+9/18/2025 3:37:03 PM - Client Multiple Database : main,Empress
+9/18/2025 3:37:03 PM - Client Database : Empress
+9/18/2025 3:37:03 PM - Report Name : RMO_EMPRESS
+9/18/2025 3:37:03 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/18/2025 3:37:03 PM - Company ID : 50
+9/18/2025 3:37:03 PM - SSDT : CDATE(2025,04,01)
+9/18/2025 3:37:03 PM - LLDT : CDATE(2025,09,18)
+9/18/2025 3:37:03 PM - DSN Name : dsn_79475
+9/18/2025 3:37:03 PM - Report Parameter parameter : 
+9/18/2025 6:16:06 PM - Client Server IP: 160.187.54.38,4545
+9/18/2025 6:16:06 PM - Client Multiple Database : Rishab
+9/18/2025 6:16:06 PM - Client Database : Rishab
+9/18/2025 6:16:06 PM - Report Name : fso_rishab
+9/18/2025 6:16:06 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/18/2025 6:16:06 PM - Company ID : 16
+9/18/2025 6:16:06 PM - SSDT : CDATE(2025,04,01)
+9/18/2025 6:16:06 PM - LLDT : CDATE(2025,09,18)
+9/18/2025 6:16:06 PM - DSN Name : dsn_79743
+9/18/2025 6:16:06 PM - Report Parameter parameter : 
+9/18/2025 6:20:54 PM - Client Server IP: 160.187.54.38,4545
+9/18/2025 6:20:54 PM - Client Multiple Database : Rishab
+9/18/2025 6:20:54 PM - Client Database : Rishab
+9/18/2025 6:20:54 PM - Report Name : fso_rishab
+9/18/2025 6:20:54 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/18/2025 6:20:54 PM - Company ID : 16
+9/18/2025 6:20:54 PM - SSDT : CDATE(2025,04,01)
+9/18/2025 6:20:54 PM - LLDT : CDATE(2025,09,18)
+9/18/2025 6:20:54 PM - DSN Name : dsn_79750
+9/18/2025 6:20:54 PM - Report Parameter parameter : 
+9/18/2025 6:34:16 PM - Client Server IP: 160.187.54.114,4545
+9/18/2025 6:34:16 PM - Client Multiple Database : valjierp
+9/18/2025 6:34:16 PM - Client Database : valjierp
+9/18/2025 6:34:16 PM - Report Name : grc_valji
+9/18/2025 6:34:16 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/18/2025 6:34:16 PM - Company ID : 24
+9/18/2025 6:34:16 PM - SSDT : CDATE(2025,04,01)
+9/18/2025 6:34:16 PM - LLDT : CDATE(2025,09,18)
+9/18/2025 6:34:16 PM - DSN Name : dsn_79778
+9/18/2025 6:34:16 PM - Report Parameter parameter : 
+9/19/2025 3:58:35 PM - Client Server IP: 160.187.54.69,4545
+9/19/2025 3:58:35 PM - Client Multiple Database : main,Kapil
+9/19/2025 3:58:35 PM - Client Database : Kapil
+9/19/2025 3:58:35 PM - Report Name : prof_kapil
+9/19/2025 3:58:35 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/19/2025 3:58:35 PM - Company ID : 17
+9/19/2025 3:58:35 PM - SSDT : CDATE(2025,04,01)
+9/19/2025 3:58:35 PM - LLDT : CDATE(2025,09,19)
+9/19/2025 3:58:35 PM - DSN Name : dsn_80440
+9/19/2025 3:58:35 PM - Report Parameter parameter : 
+9/20/2025 3:08:27 PM - Client Server IP: 160.187.54.244,4545
+9/20/2025 3:08:27 PM - Client Multiple Database : main,Empress
+9/20/2025 3:08:27 PM - Client Database : Empress
+9/20/2025 3:08:27 PM - Report Name : RMO_EMPRESS
+9/20/2025 3:08:27 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/20/2025 3:08:27 PM - Company ID : 50
+9/20/2025 3:08:27 PM - SSDT : CDATE(2025,04,01)
+9/20/2025 3:08:27 PM - LLDT : CDATE(2025,09,20)
+9/20/2025 3:08:27 PM - DSN Name : dsn_81385
+9/20/2025 3:08:27 PM - Report Parameter parameter : 
+9/20/2025 3:09:24 PM - Client Server IP: 160.187.54.244,4545
+9/20/2025 3:09:24 PM - Client Multiple Database : main,Empress
+9/20/2025 3:09:24 PM - Client Database : Empress
+9/20/2025 3:09:24 PM - Report Name : RMO_EMPRESS
+9/20/2025 3:09:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/20/2025 3:09:24 PM - Company ID : 50
+9/20/2025 3:09:24 PM - SSDT : CDATE(2025,04,01)
+9/20/2025 3:09:24 PM - LLDT : CDATE(2025,09,20)
+9/20/2025 3:09:24 PM - DSN Name : dsn_81392
+9/20/2025 3:09:24 PM - Report Parameter parameter : 
+9/20/2025 3:26:45 PM - Client Server IP: 160.187.54.244,4545
+9/20/2025 3:26:45 PM - Client Multiple Database : main,Empress
+9/20/2025 3:26:45 PM - Client Database : Empress
+9/20/2025 3:26:45 PM - Report Name : RMO_EMPRESS
+9/20/2025 3:26:45 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/20/2025 3:26:45 PM - Company ID : 50
+9/20/2025 3:26:45 PM - SSDT : CDATE(2025,04,01)
+9/20/2025 3:26:45 PM - LLDT : CDATE(2025,09,20)
+9/20/2025 3:26:45 PM - DSN Name : dsn_81418
+9/20/2025 3:26:45 PM - Report Parameter parameter : 
+9/23/2025 3:20:47 PM - Client Server IP: 160.187.54.69,4545
+9/23/2025 3:20:47 PM - Client Multiple Database : main,Kapil_Demo
+9/23/2025 3:20:47 PM - Client Database : Kapil_Demo
+9/23/2025 3:20:47 PM - Report Name : kapil_fs
+9/23/2025 3:20:47 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/23/2025 3:20:47 PM - Company ID : 51
+9/23/2025 3:20:47 PM - SSDT : CDATE(2025,04,01)
+9/23/2025 3:20:47 PM - LLDT : CDATE(2025,09,23)
+9/23/2025 3:20:47 PM - DSN Name : dsn_83646
+9/23/2025 3:20:47 PM - Report Parameter parameter : {?SELECT}=NO
+9/23/2025 3:22:38 PM - Client Server IP: 160.187.54.69,4545
+9/23/2025 3:22:38 PM - Client Multiple Database : main,Kapil_Demo
+9/23/2025 3:22:38 PM - Client Database : Kapil_Demo
+9/23/2025 3:22:38 PM - Report Name : kapil_fs
+9/23/2025 3:22:38 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/23/2025 3:22:38 PM - Company ID : 51
+9/23/2025 3:22:38 PM - SSDT : CDATE(2025,04,01)
+9/23/2025 3:22:38 PM - LLDT : CDATE(2025,09,23)
+9/23/2025 3:22:38 PM - DSN Name : dsn_83663
+9/23/2025 3:22:38 PM - Report Parameter parameter : {?SELECT}=NO
+9/23/2025 3:24:58 PM - Client Server IP: 160.187.54.244,4545
+9/23/2025 3:24:58 PM - Client Multiple Database : main,Empress
+9/23/2025 3:24:58 PM - Client Database : Empress
+9/23/2025 3:24:58 PM - Report Name : RMO_EMPRESS
+9/23/2025 3:24:58 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/23/2025 3:24:58 PM - Company ID : 50
+9/23/2025 3:24:58 PM - SSDT : CDATE(2025,04,01)
+9/23/2025 3:24:58 PM - LLDT : CDATE(2025,09,23)
+9/23/2025 3:24:58 PM - DSN Name : dsn_83681
+9/23/2025 3:24:58 PM - Report Parameter parameter : 
+9/24/2025 6:09:52 PM - Client Server IP: 160.187.54.245,4545
+9/24/2025 6:09:52 PM - Client Multiple Database : Montana
+9/24/2025 6:09:52 PM - Client Database : Montana
+9/24/2025 6:09:52 PM - Report Name : fso_montana
+9/24/2025 6:09:52 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/24/2025 6:09:52 PM - Company ID : 33
+9/24/2025 6:09:52 PM - SSDT : CDATE(2025,04,01)
+9/24/2025 6:09:52 PM - LLDT : CDATE(2025,09,24)
+9/24/2025 6:09:52 PM - DSN Name : dsn_85191
+9/24/2025 6:09:52 PM - Report Parameter parameter : 
+9/27/2025 3:43:29 PM - Client Server IP: 160.187.54.69,4545
+9/27/2025 3:43:29 PM - Client Multiple Database : main,Kapil_Demo
+9/27/2025 3:43:29 PM - Client Database : Kapil_Demo
+9/27/2025 3:43:29 PM - Report Name : kapil_fs
+9/27/2025 3:43:29 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/27/2025 3:43:29 PM - Company ID : 51
+9/27/2025 3:43:29 PM - SSDT : CDATE(2025,04,01)
+9/27/2025 3:43:29 PM - LLDT : CDATE(2025,09,27)
+9/27/2025 3:43:29 PM - DSN Name : dsn_87655
+9/27/2025 3:43:29 PM - Report Parameter parameter : {?SELECT}=NO
+9/28/2025 4:43:08 PM - Client Server IP: 160.187.54.38,4545
+9/28/2025 4:43:08 PM - Client Multiple Database : Main,Jainar
+9/28/2025 4:43:08 PM - Client Database : Jainar
+9/28/2025 4:43:08 PM - Report Name : fsc_jainar
+9/28/2025 4:43:08 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/28/2025 4:43:08 PM - Company ID : 57
+9/28/2025 4:43:08 PM - SSDT : CDATE(2025,04,01)
+9/28/2025 4:43:08 PM - LLDT : CDATE(2025,09,28)
+9/28/2025 4:43:08 PM - DSN Name : dsn_88305
+9/28/2025 4:43:08 PM - Report Parameter parameter : 
+9/29/2025 5:16:50 PM - Client Server IP: 160.187.54.38,4545
+9/29/2025 5:16:50 PM - Client Multiple Database : Main,Jainar
+9/29/2025 5:16:50 PM - Client Database : Jainar
+9/29/2025 5:16:50 PM - Report Name : fsc_jainar
+9/29/2025 5:16:50 PM - Report Path : V:\xampp\htdocs\tex\reports\
+9/29/2025 5:16:50 PM - Company ID : 57
+9/29/2025 5:16:50 PM - SSDT : CDATE(2025,04,01)
+9/29/2025 5:16:50 PM - LLDT : CDATE(2025,09,29)
+9/29/2025 5:16:50 PM - DSN Name : dsn_89001
+9/29/2025 5:16:50 PM - Report Parameter parameter : 
+10/1/2025 7:29:19 PM - Client Server IP: 160.187.54.38,4545
+10/1/2025 7:29:19 PM - Client Multiple Database : Main,Jainar
+10/1/2025 7:29:19 PM - Client Database : Jainar
+10/1/2025 7:29:19 PM - Report Name : fsc_jainar
+10/1/2025 7:29:19 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/1/2025 7:29:19 PM - Company ID : 57
+10/1/2025 7:29:19 PM - SSDT : CDATE(2025,04,01)
+10/1/2025 7:29:19 PM - LLDT : CDATE(2025,10,01)
+10/1/2025 7:29:19 PM - DSN Name : dsn_91163
+10/1/2025 7:29:19 PM - Report Parameter parameter : 
+10/3/2025 4:00:29 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 4:00:29 PM - Client Multiple Database : Rishab
+10/3/2025 4:00:29 PM - Client Database : Rishab
+10/3/2025 4:00:29 PM - Report Name : fso_rishab
+10/3/2025 4:00:29 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 4:00:29 PM - Company ID : 16
+10/3/2025 4:00:29 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 4:00:29 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 4:00:29 PM - DSN Name : dsn_91941
+10/3/2025 4:00:29 PM - Report Parameter parameter : 
+10/3/2025 4:26:25 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 4:26:25 PM - Client Multiple Database : Rishab
+10/3/2025 4:26:25 PM - Client Database : Rishab
+10/3/2025 4:26:25 PM - Report Name : fpo_rishab
+10/3/2025 4:26:25 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 4:26:25 PM - Company ID : 16
+10/3/2025 4:26:25 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 4:26:25 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 4:26:25 PM - DSN Name : dsn_91973
+10/3/2025 4:26:25 PM - Report Parameter parameter : 
+10/3/2025 4:27:26 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 4:27:26 PM - Client Multiple Database : Rishab
+10/3/2025 4:27:26 PM - Client Database : Rishab
+10/3/2025 4:27:26 PM - Report Name : fpo_rishab
+10/3/2025 4:27:26 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 4:27:26 PM - Company ID : 16
+10/3/2025 4:27:26 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 4:27:26 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 4:27:26 PM - DSN Name : dsn_91974
+10/3/2025 4:27:26 PM - Report Parameter parameter : 
+10/3/2025 4:28:24 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 4:28:24 PM - Client Multiple Database : Rishab
+10/3/2025 4:28:24 PM - Client Database : Rishab
+10/3/2025 4:28:24 PM - Report Name : fso_rishab
+10/3/2025 4:28:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 4:28:24 PM - Company ID : 16
+10/3/2025 4:28:24 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 4:28:24 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 4:28:24 PM - DSN Name : dsn_91976
+10/3/2025 4:28:24 PM - Report Parameter parameter : 
+10/3/2025 4:28:53 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 4:28:53 PM - Client Multiple Database : Rishab
+10/3/2025 4:28:53 PM - Client Database : Rishab
+10/3/2025 4:28:53 PM - Report Name : fso_rishab
+10/3/2025 4:28:53 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 4:28:53 PM - Company ID : 16
+10/3/2025 4:28:53 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 4:28:53 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 4:28:53 PM - DSN Name : dsn_91978
+10/3/2025 4:28:53 PM - Report Parameter parameter : 
+10/3/2025 5:33:56 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 5:33:56 PM - Client Multiple Database : Rishab
+10/3/2025 5:33:56 PM - Client Database : Rishab
+10/3/2025 5:33:56 PM - Report Name : fpo_rishab
+10/3/2025 5:33:56 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 5:33:56 PM - Company ID : 16
+10/3/2025 5:33:56 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 5:33:56 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 5:33:56 PM - DSN Name : dsn_92070
+10/3/2025 5:33:56 PM - Report Parameter parameter : 
+10/3/2025 5:38:13 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 5:38:13 PM - Client Multiple Database : Rishab
+10/3/2025 5:38:13 PM - Client Database : Rishab
+10/3/2025 5:38:13 PM - Report Name : fpo_rishab
+10/3/2025 5:38:13 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 5:38:13 PM - Company ID : 16
+10/3/2025 5:38:13 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 5:38:13 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 5:38:13 PM - DSN Name : dsn_92073
+10/3/2025 5:38:13 PM - Report Parameter parameter : 
+10/3/2025 5:50:09 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 5:50:09 PM - Client Multiple Database : Rishab
+10/3/2025 5:50:09 PM - Client Database : Rishab
+10/3/2025 5:50:09 PM - Report Name : fpo_rishab
+10/3/2025 5:50:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 5:50:09 PM - Company ID : 16
+10/3/2025 5:50:09 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 5:50:09 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 5:50:09 PM - DSN Name : dsn_92095
+10/3/2025 5:50:09 PM - Report Parameter parameter : 
+10/3/2025 6:07:54 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 6:07:54 PM - Client Multiple Database : Rishab
+10/3/2025 6:07:54 PM - Client Database : Rishab
+10/3/2025 6:07:54 PM - Report Name : fpo_rishab
+10/3/2025 6:07:54 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 6:07:54 PM - Company ID : 16
+10/3/2025 6:07:54 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 6:07:54 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 6:07:54 PM - DSN Name : dsn_92133
+10/3/2025 6:07:54 PM - Report Parameter parameter : 
+10/3/2025 6:25:53 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 6:25:53 PM - Client Multiple Database : Rishab
+10/3/2025 6:25:53 PM - Client Database : Rishab
+10/3/2025 6:25:53 PM - Report Name : fpo_rishab
+10/3/2025 6:25:53 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 6:25:53 PM - Company ID : 16
+10/3/2025 6:25:53 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 6:25:53 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 6:25:53 PM - DSN Name : dsn_92165
+10/3/2025 6:25:53 PM - Report Parameter parameter : 
+10/3/2025 6:28:11 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 6:28:11 PM - Client Multiple Database : Rishab
+10/3/2025 6:28:11 PM - Client Database : Rishab
+10/3/2025 6:28:11 PM - Report Name : fpo_rishab
+10/3/2025 6:28:11 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 6:28:11 PM - Company ID : 16
+10/3/2025 6:28:11 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 6:28:11 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 6:28:11 PM - DSN Name : dsn_92171
+10/3/2025 6:28:11 PM - Report Parameter parameter : 
+10/3/2025 6:29:25 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 6:29:25 PM - Client Multiple Database : Rishab
+10/3/2025 6:29:25 PM - Client Database : Rishab
+10/3/2025 6:29:25 PM - Report Name : fpo_rishab
+10/3/2025 6:29:25 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 6:29:25 PM - Company ID : 16
+10/3/2025 6:29:25 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 6:29:25 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 6:29:25 PM - DSN Name : dsn_92172
+10/3/2025 6:29:25 PM - Report Parameter parameter : 
+10/3/2025 6:30:12 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 6:30:12 PM - Client Multiple Database : Rishab
+10/3/2025 6:30:12 PM - Client Database : Rishab
+10/3/2025 6:30:12 PM - Report Name : fpo_rishab
+10/3/2025 6:30:12 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 6:30:12 PM - Company ID : 16
+10/3/2025 6:30:12 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 6:30:12 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 6:30:12 PM - DSN Name : dsn_92175
+10/3/2025 6:30:12 PM - Report Parameter parameter : 
+10/3/2025 6:34:41 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 6:34:41 PM - Client Multiple Database : Rishab
+10/3/2025 6:34:41 PM - Client Database : Rishab
+10/3/2025 6:34:41 PM - Report Name : fpo_rishab
+10/3/2025 6:34:41 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 6:34:41 PM - Company ID : 16
+10/3/2025 6:34:41 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 6:34:41 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 6:34:41 PM - DSN Name : dsn_92185
+10/3/2025 6:34:41 PM - Report Parameter parameter : 
+10/3/2025 6:35:04 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 6:35:04 PM - Client Multiple Database : Rishab
+10/3/2025 6:35:04 PM - Client Database : Rishab
+10/3/2025 6:35:04 PM - Report Name : fpo_rishab
+10/3/2025 6:35:04 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 6:35:04 PM - Company ID : 16
+10/3/2025 6:35:04 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 6:35:04 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 6:35:04 PM - DSN Name : dsn_92188
+10/3/2025 6:35:04 PM - Report Parameter parameter : 
+10/3/2025 6:35:26 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 6:35:26 PM - Client Multiple Database : Rishab
+10/3/2025 6:35:26 PM - Client Database : Rishab
+10/3/2025 6:35:26 PM - Report Name : fpo_rishab
+10/3/2025 6:35:26 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 6:35:26 PM - Company ID : 16
+10/3/2025 6:35:26 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 6:35:26 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 6:35:26 PM - DSN Name : dsn_92190
+10/3/2025 6:35:26 PM - Report Parameter parameter : 
+10/3/2025 6:35:58 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 6:35:58 PM - Client Multiple Database : Rishab
+10/3/2025 6:35:58 PM - Client Database : Rishab
+10/3/2025 6:35:58 PM - Report Name : fpo_rishab
+10/3/2025 6:35:58 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 6:35:58 PM - Company ID : 16
+10/3/2025 6:35:58 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 6:35:58 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 6:35:58 PM - DSN Name : dsn_92193
+10/3/2025 6:35:58 PM - Report Parameter parameter : 
+10/3/2025 6:36:38 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 6:36:38 PM - Client Multiple Database : Rishab
+10/3/2025 6:36:38 PM - Client Database : Rishab
+10/3/2025 6:36:38 PM - Report Name : fpo_rishab
+10/3/2025 6:36:38 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 6:36:38 PM - Company ID : 16
+10/3/2025 6:36:38 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 6:36:38 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 6:36:38 PM - DSN Name : dsn_92194
+10/3/2025 6:36:38 PM - Report Parameter parameter : 
+10/3/2025 6:39:07 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 6:39:07 PM - Client Multiple Database : Rishab
+10/3/2025 6:39:07 PM - Client Database : Rishab
+10/3/2025 6:39:07 PM - Report Name : fpo_rishab
+10/3/2025 6:39:07 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 6:39:07 PM - Company ID : 16
+10/3/2025 6:39:07 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 6:39:07 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 6:39:07 PM - DSN Name : dsn_92199
+10/3/2025 6:39:07 PM - Report Parameter parameter : 
+10/3/2025 6:39:37 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 6:39:37 PM - Client Multiple Database : Rishab
+10/3/2025 6:39:37 PM - Client Database : Rishab
+10/3/2025 6:39:37 PM - Report Name : fpo_rishab
+10/3/2025 6:39:37 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 6:39:37 PM - Company ID : 16
+10/3/2025 6:39:37 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 6:39:37 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 6:39:37 PM - DSN Name : dsn_92201
+10/3/2025 6:39:37 PM - Report Parameter parameter : 
+10/3/2025 6:43:21 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 6:43:21 PM - Client Multiple Database : Rishab
+10/3/2025 6:43:21 PM - Client Database : Rishab
+10/3/2025 6:43:21 PM - Report Name : fpo_rishab
+10/3/2025 6:43:21 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 6:43:21 PM - Company ID : 16
+10/3/2025 6:43:21 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 6:43:21 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 6:43:21 PM - DSN Name : dsn_92212
+10/3/2025 6:43:21 PM - Report Parameter parameter : 
+10/3/2025 6:43:59 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 6:43:59 PM - Client Multiple Database : Rishab
+10/3/2025 6:43:59 PM - Client Database : Rishab
+10/3/2025 6:43:59 PM - Report Name : fpo_rishab
+10/3/2025 6:43:59 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 6:43:59 PM - Company ID : 16
+10/3/2025 6:43:59 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 6:43:59 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 6:43:59 PM - DSN Name : dsn_92216
+10/3/2025 6:43:59 PM - Report Parameter parameter : 
+10/3/2025 6:51:22 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 6:51:22 PM - Client Multiple Database : Rishab
+10/3/2025 6:51:22 PM - Client Database : Rishab
+10/3/2025 6:51:22 PM - Report Name : fpo_rishab
+10/3/2025 6:51:22 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 6:51:22 PM - Company ID : 16
+10/3/2025 6:51:22 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 6:51:22 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 6:51:22 PM - DSN Name : dsn_92232
+10/3/2025 6:51:22 PM - Report Parameter parameter : 
+10/3/2025 7:01:54 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 7:01:54 PM - Client Multiple Database : Rishab
+10/3/2025 7:01:54 PM - Client Database : Rishab
+10/3/2025 7:01:54 PM - Report Name : fpo_rishab
+10/3/2025 7:01:54 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 7:01:54 PM - Company ID : 16
+10/3/2025 7:01:54 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 7:01:54 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 7:01:54 PM - DSN Name : dsn_92251
+10/3/2025 7:01:54 PM - Report Parameter parameter : 
+10/3/2025 7:36:27 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 7:36:27 PM - Client Multiple Database : Rishab
+10/3/2025 7:36:27 PM - Client Database : Rishab
+10/3/2025 7:36:27 PM - Report Name : fpo_rishab
+10/3/2025 7:36:27 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 7:36:27 PM - Company ID : 16
+10/3/2025 7:36:27 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 7:36:27 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 7:36:27 PM - DSN Name : dsn_92307
+10/3/2025 7:36:27 PM - Report Parameter parameter : 
+10/3/2025 7:37:02 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 7:37:02 PM - Client Multiple Database : Rishab
+10/3/2025 7:37:02 PM - Client Database : Rishab
+10/3/2025 7:37:02 PM - Report Name : fpo_rishab
+10/3/2025 7:37:02 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 7:37:02 PM - Company ID : 16
+10/3/2025 7:37:02 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 7:37:02 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 7:37:02 PM - DSN Name : dsn_92309
+10/3/2025 7:37:02 PM - Report Parameter parameter : 
+10/3/2025 7:38:51 PM - Client Server IP: 160.187.54.38,4545
+10/3/2025 7:38:51 PM - Client Multiple Database : Rishab
+10/3/2025 7:38:51 PM - Client Database : Rishab
+10/3/2025 7:38:51 PM - Report Name : fpo_rishab
+10/3/2025 7:38:51 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/3/2025 7:38:51 PM - Company ID : 16
+10/3/2025 7:38:51 PM - SSDT : CDATE(2025,04,01)
+10/3/2025 7:38:51 PM - LLDT : CDATE(2025,10,03)
+10/3/2025 7:38:51 PM - DSN Name : dsn_92315
+10/3/2025 7:38:51 PM - Report Parameter parameter : 
+10/4/2025 1:34:46 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 1:34:46 PM - Client Multiple Database : Rishab
+10/4/2025 1:34:46 PM - Client Database : Rishab
+10/4/2025 1:34:46 PM - Report Name : fpo_rishab
+10/4/2025 1:34:46 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 1:34:46 PM - Company ID : 16
+10/4/2025 1:34:46 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 1:34:46 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 1:34:46 PM - DSN Name : dsn_92840
+10/4/2025 1:34:46 PM - Report Parameter parameter : 
+10/4/2025 1:35:11 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 1:35:11 PM - Client Multiple Database : Rishab
+10/4/2025 1:35:11 PM - Client Database : Rishab
+10/4/2025 1:35:11 PM - Report Name : fpo_rishab
+10/4/2025 1:35:11 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 1:35:11 PM - Company ID : 16
+10/4/2025 1:35:11 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 1:35:11 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 1:35:11 PM - DSN Name : dsn_92841
+10/4/2025 1:35:11 PM - Report Parameter parameter : 
+10/4/2025 1:36:32 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 1:36:32 PM - Client Multiple Database : Rishab
+10/4/2025 1:36:32 PM - Client Database : Rishab
+10/4/2025 1:36:32 PM - Report Name : fpo_rishab
+10/4/2025 1:36:32 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 1:36:32 PM - Company ID : 16
+10/4/2025 1:36:32 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 1:36:32 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 1:36:32 PM - DSN Name : dsn_92845
+10/4/2025 1:36:32 PM - Report Parameter parameter : 
+10/4/2025 1:37:21 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 1:37:21 PM - Client Multiple Database : Rishab
+10/4/2025 1:37:21 PM - Client Database : Rishab
+10/4/2025 1:37:21 PM - Report Name : fpo_rishab
+10/4/2025 1:37:21 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 1:37:21 PM - Company ID : 16
+10/4/2025 1:37:21 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 1:37:21 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 1:37:21 PM - DSN Name : dsn_92847
+10/4/2025 1:37:21 PM - Report Parameter parameter : 
+10/4/2025 1:39:33 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 1:39:33 PM - Client Multiple Database : Rishab
+10/4/2025 1:39:33 PM - Client Database : Rishab
+10/4/2025 1:39:33 PM - Report Name : fpo_rishab
+10/4/2025 1:39:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 1:39:33 PM - Company ID : 16
+10/4/2025 1:39:33 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 1:39:33 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 1:39:33 PM - DSN Name : dsn_92851
+10/4/2025 1:39:33 PM - Report Parameter parameter : 
+10/4/2025 1:40:46 PM - Client Server IP: 160.187.54.38,4545
+10/4/2025 1:40:46 PM - Client Multiple Database : Rishab
+10/4/2025 1:40:46 PM - Client Database : Rishab
+10/4/2025 1:40:46 PM - Report Name : fso_rishab
+10/4/2025 1:40:46 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/4/2025 1:40:46 PM - Company ID : 16
+10/4/2025 1:40:46 PM - SSDT : CDATE(2025,04,01)
+10/4/2025 1:40:46 PM - LLDT : CDATE(2025,10,04)
+10/4/2025 1:40:46 PM - DSN Name : dsn_92855
+10/4/2025 1:40:46 PM - Report Parameter parameter : 
+10/11/2025 4:44:25 PM - Client Server IP: 160.187.54.38,4545
+10/11/2025 4:44:25 PM - Client Multiple Database : MohiniAcc
+10/11/2025 4:44:25 PM - Client Database : MohiniAcc
+10/11/2025 4:44:25 PM - Report Name : lpr
+10/11/2025 4:44:25 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/11/2025 4:44:25 PM - Company ID : 29
+10/11/2025 4:44:25 PM - SSDT : CDATE(2025,04,01)
+10/11/2025 4:44:25 PM - LLDT : CDATE(2025,10,11)
+10/11/2025 4:44:25 PM - DSN Name : dsn_103271
+10/11/2025 4:44:25 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/11/2025 4:48:03 PM - Client Server IP: 160.187.54.38,4545
+10/11/2025 4:48:03 PM - Client Multiple Database : MohiniAcc
+10/11/2025 4:48:03 PM - Client Database : MohiniAcc
+10/11/2025 4:48:03 PM - Report Name : lpr
+10/11/2025 4:48:03 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/11/2025 4:48:03 PM - Company ID : 29
+10/11/2025 4:48:03 PM - SSDT : CDATE(2025,04,01)
+10/11/2025 4:48:03 PM - LLDT : CDATE(2025,10,11)
+10/11/2025 4:48:03 PM - DSN Name : dsn_103280
+10/11/2025 4:48:03 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/11/2025 4:55:17 PM - Client Server IP: 160.187.54.38,4545
+10/11/2025 4:55:17 PM - Client Multiple Database : MohiniAcc
+10/11/2025 4:55:17 PM - Client Database : MohiniAcc
+10/11/2025 4:55:17 PM - Report Name : lpr
+10/11/2025 4:55:17 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/11/2025 4:55:17 PM - Company ID : 29
+10/11/2025 4:55:17 PM - SSDT : CDATE(2025,04,01)
+10/11/2025 4:55:17 PM - LLDT : CDATE(2025,10,11)
+10/11/2025 4:55:17 PM - DSN Name : dsn_103305
+10/11/2025 4:55:17 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/11/2025 5:14:25 PM - Client Server IP: 160.187.54.38,4545
+10/11/2025 5:14:25 PM - Client Multiple Database : MohiniAcc
+10/11/2025 5:14:25 PM - Client Database : MohiniAcc
+10/11/2025 5:14:25 PM - Report Name : AGEWISE1OPTION
+10/11/2025 5:14:25 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/11/2025 5:14:25 PM - Company ID : 29
+10/11/2025 5:14:25 PM - SSDT : CDATE(2025,04,01)
+10/11/2025 5:14:25 PM - LLDT : CDATE(2025,10,11)
+10/11/2025 5:14:25 PM - DSN Name : dsn_103365
+10/11/2025 5:14:25 PM - Report Parameter parameter : {?PLEASE SELECT YOUR DAYS(1)}=90|{?PLEASE SELECT YOUR DAYS(2)}=|{?PLEASE SELECT YOUR DAYS(3)}=|{?PLEASE SELECT YOUR DAYS(4)}=|{?PLEASE SELECT YOUR DAYS(5)}=|{?PLEASE SELECT}=PARTY WISE|{?SELECT DAYS OPTION}=CURRENT DATE
+10/11/2025 5:14:56 PM - Client Server IP: 160.187.54.114,4545
+10/11/2025 5:14:56 PM - Client Multiple Database : valjierp
+10/11/2025 5:14:56 PM - Client Database : valjierp
+10/11/2025 5:14:56 PM - Report Name : outbrok
+10/11/2025 5:14:56 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/11/2025 5:14:56 PM - Company ID : 24
+10/11/2025 5:14:56 PM - SSDT : CDATE(2025,04,01)
+10/11/2025 5:14:56 PM - LLDT : CDATE(2025,10,11)
+10/11/2025 5:14:56 PM - DSN Name : dsn_103366
+10/11/2025 5:14:56 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+10/11/2025 6:28:18 PM - Client Server IP: 160.187.54.38,4545
+10/11/2025 6:28:18 PM - Client Multiple Database : Rishab
+10/11/2025 6:28:18 PM - Client Database : Rishab
+10/11/2025 6:28:18 PM - Report Name : fpo_rishab
+10/11/2025 6:28:18 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/11/2025 6:28:18 PM - Company ID : 16
+10/11/2025 6:28:18 PM - SSDT : CDATE(2025,04,01)
+10/11/2025 6:28:18 PM - LLDT : CDATE(2025,10,11)
+10/11/2025 6:28:18 PM - DSN Name : dsn_103694
+10/11/2025 6:28:18 PM - Report Parameter parameter : 
+10/11/2025 7:52:09 PM - Client Server IP: 160.187.54.38,4545
+10/11/2025 7:52:09 PM - Client Multiple Database : Rishab
+10/11/2025 7:52:09 PM - Client Database : Rishab
+10/11/2025 7:52:09 PM - Report Name : fpo_rishab
+10/11/2025 7:52:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/11/2025 7:52:09 PM - Company ID : 16
+10/11/2025 7:52:09 PM - SSDT : CDATE(2025,04,01)
+10/11/2025 7:52:09 PM - LLDT : CDATE(2025,10,11)
+10/11/2025 7:52:09 PM - DSN Name : dsn_103967
+10/11/2025 7:52:09 PM - Report Parameter parameter : 
+10/11/2025 7:56:21 PM - Client Server IP: 160.187.54.38,4545
+10/11/2025 7:56:21 PM - Client Multiple Database : Rishab
+10/11/2025 7:56:21 PM - Client Database : Rishab
+10/11/2025 7:56:21 PM - Report Name : fpo_rishab
+10/11/2025 7:56:21 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/11/2025 7:56:21 PM - Company ID : 16
+10/11/2025 7:56:21 PM - SSDT : CDATE(2025,04,01)
+10/11/2025 7:56:21 PM - LLDT : CDATE(2025,10,11)
+10/11/2025 7:56:21 PM - DSN Name : dsn_103979
+10/11/2025 7:56:21 PM - Report Parameter parameter : 
+10/11/2025 7:58:22 PM - Client Server IP: 160.187.54.38,4545
+10/11/2025 7:58:22 PM - Client Multiple Database : Rishab
+10/11/2025 7:58:22 PM - Client Database : Rishab
+10/11/2025 7:58:22 PM - Report Name : fpo_rishab
+10/11/2025 7:58:22 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/11/2025 7:58:22 PM - Company ID : 16
+10/11/2025 7:58:22 PM - SSDT : CDATE(2025,04,01)
+10/11/2025 7:58:22 PM - LLDT : CDATE(2025,10,11)
+10/11/2025 7:58:22 PM - DSN Name : dsn_103986
+10/11/2025 7:58:22 PM - Report Parameter parameter : 
+10/11/2025 7:58:27 PM - Client Server IP: 160.187.54.38,4545
+10/11/2025 7:58:27 PM - Client Multiple Database : Rishab
+10/11/2025 7:58:27 PM - Client Database : Rishab
+10/11/2025 7:58:27 PM - Report Name : fpo_rishab
+10/11/2025 7:58:27 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/11/2025 7:58:27 PM - Company ID : 16
+10/11/2025 7:58:27 PM - SSDT : CDATE(2025,04,01)
+10/11/2025 7:58:27 PM - LLDT : CDATE(2025,10,11)
+10/11/2025 7:58:27 PM - DSN Name : dsn_103987
+10/11/2025 7:58:27 PM - Report Parameter parameter : 
+10/11/2025 8:00:06 PM - Client Server IP: 160.187.54.38,4545
+10/11/2025 8:00:06 PM - Client Multiple Database : Rishab
+10/11/2025 8:00:06 PM - Client Database : Rishab
+10/11/2025 8:00:06 PM - Report Name : fpo_rishab
+10/11/2025 8:00:06 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/11/2025 8:00:06 PM - Company ID : 16
+10/11/2025 8:00:06 PM - SSDT : CDATE(2025,04,01)
+10/11/2025 8:00:06 PM - LLDT : CDATE(2025,10,11)
+10/11/2025 8:00:06 PM - DSN Name : dsn_103989
+10/11/2025 8:00:06 PM - Report Parameter parameter : 
+10/11/2025 8:04:12 PM - Client Server IP: 160.187.54.38,4545
+10/11/2025 8:04:12 PM - Client Multiple Database : Rishab
+10/11/2025 8:04:12 PM - Client Database : Rishab
+10/11/2025 8:04:12 PM - Report Name : fpo_rishab
+10/11/2025 8:04:12 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/11/2025 8:04:12 PM - Company ID : 16
+10/11/2025 8:04:12 PM - SSDT : CDATE(2025,04,01)
+10/11/2025 8:04:12 PM - LLDT : CDATE(2025,10,11)
+10/11/2025 8:04:12 PM - DSN Name : dsn_104007
+10/11/2025 8:04:12 PM - Report Parameter parameter : 
+10/11/2025 8:04:41 PM - Client Server IP: 160.187.54.38,4545
+10/11/2025 8:04:41 PM - Client Multiple Database : Rishab
+10/11/2025 8:04:41 PM - Client Database : Rishab
+10/11/2025 8:04:41 PM - Report Name : fpo_rishab
+10/11/2025 8:04:41 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/11/2025 8:04:41 PM - Company ID : 16
+10/11/2025 8:04:41 PM - SSDT : CDATE(2025,04,01)
+10/11/2025 8:04:41 PM - LLDT : CDATE(2025,10,11)
+10/11/2025 8:04:41 PM - DSN Name : dsn_104009
+10/11/2025 8:04:41 PM - Report Parameter parameter : 
+10/11/2025 8:05:06 PM - Client Server IP: 160.187.54.38,4545
+10/11/2025 8:05:06 PM - Client Multiple Database : Rishab
+10/11/2025 8:05:06 PM - Client Database : Rishab
+10/11/2025 8:05:06 PM - Report Name : fpo_rishab
+10/11/2025 8:05:06 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/11/2025 8:05:06 PM - Company ID : 16
+10/11/2025 8:05:06 PM - SSDT : CDATE(2025,04,01)
+10/11/2025 8:05:06 PM - LLDT : CDATE(2025,10,11)
+10/11/2025 8:05:06 PM - DSN Name : dsn_104010
+10/11/2025 8:05:06 PM - Report Parameter parameter : 
+10/11/2025 8:10:24 PM - Client Server IP: 160.187.54.38,4545
+10/11/2025 8:10:24 PM - Client Multiple Database : Rishab
+10/11/2025 8:10:24 PM - Client Database : Rishab
+10/11/2025 8:10:24 PM - Report Name : fpo_rishab
+10/11/2025 8:10:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/11/2025 8:10:24 PM - Company ID : 16
+10/11/2025 8:10:24 PM - SSDT : CDATE(2025,04,01)
+10/11/2025 8:10:24 PM - LLDT : CDATE(2025,10,11)
+10/11/2025 8:10:24 PM - DSN Name : dsn_104027
+10/11/2025 8:10:24 PM - Report Parameter parameter : 
+10/13/2025 3:45:12 PM - Client Server IP: 160.187.54.244,4545
+10/13/2025 3:45:12 PM - Client Multiple Database : main,Empress
+10/13/2025 3:45:12 PM - Client Database : Empress
+10/13/2025 3:45:12 PM - Report Name : RMO_EMPRESS
+10/13/2025 3:45:12 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/13/2025 3:45:12 PM - Company ID : 50
+10/13/2025 3:45:12 PM - SSDT : CDATE(2025,04,01)
+10/13/2025 3:45:12 PM - LLDT : CDATE(2025,10,13)
+10/13/2025 3:45:12 PM - DSN Name : dsn_105870
+10/13/2025 3:45:12 PM - Report Parameter parameter : 
+10/13/2025 3:48:17 PM - Client Server IP: 160.187.54.244,4545
+10/13/2025 3:48:17 PM - Client Multiple Database : main,Empress
+10/13/2025 3:48:17 PM - Client Database : Empress
+10/13/2025 3:48:17 PM - Report Name : RMO_EMPRESS
+10/13/2025 3:48:17 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/13/2025 3:48:17 PM - Company ID : 50
+10/13/2025 3:48:17 PM - SSDT : CDATE(2025,04,01)
+10/13/2025 3:48:17 PM - LLDT : CDATE(2025,10,13)
+10/13/2025 3:48:17 PM - DSN Name : dsn_105876
+10/13/2025 3:48:17 PM - Report Parameter parameter : 
+10/13/2025 4:11:24 PM - Client Server IP: 160.187.54.244,4545
+10/13/2025 4:11:24 PM - Client Multiple Database : main,Empress
+10/13/2025 4:11:24 PM - Client Database : Empress
+10/13/2025 4:11:24 PM - Report Name : RMO_EMPRESS
+10/13/2025 4:11:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/13/2025 4:11:24 PM - Company ID : 50
+10/13/2025 4:11:24 PM - SSDT : CDATE(2025,04,01)
+10/13/2025 4:11:24 PM - LLDT : CDATE(2025,10,13)
+10/13/2025 4:11:24 PM - DSN Name : dsn_105969
+10/13/2025 4:11:24 PM - Report Parameter parameter : 
+10/13/2025 4:17:06 PM - Client Server IP: 160.187.54.244,4545
+10/13/2025 4:17:06 PM - Client Multiple Database : main,Empress
+10/13/2025 4:17:06 PM - Client Database : Empress
+10/13/2025 4:17:06 PM - Report Name : RMO_EMPRESS
+10/13/2025 4:17:06 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/13/2025 4:17:06 PM - Company ID : 50
+10/13/2025 4:17:06 PM - SSDT : CDATE(2025,04,01)
+10/13/2025 4:17:06 PM - LLDT : CDATE(2025,10,13)
+10/13/2025 4:17:06 PM - DSN Name : dsn_105989
+10/13/2025 4:17:06 PM - Report Parameter parameter : 
+10/13/2025 4:18:40 PM - Client Server IP: 160.187.54.244,4545
+10/13/2025 4:18:40 PM - Client Multiple Database : main,Empress
+10/13/2025 4:18:40 PM - Client Database : Empress
+10/13/2025 4:18:40 PM - Report Name : RMO_EMPRESS
+10/13/2025 4:18:40 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/13/2025 4:18:40 PM - Company ID : 50
+10/13/2025 4:18:40 PM - SSDT : CDATE(2025,04,01)
+10/13/2025 4:18:40 PM - LLDT : CDATE(2025,10,13)
+10/13/2025 4:18:40 PM - DSN Name : dsn_105997
+10/13/2025 4:18:40 PM - Report Parameter parameter : 
+10/13/2025 4:19:19 PM - Client Server IP: 160.187.54.244,4545
+10/13/2025 4:19:19 PM - Client Multiple Database : main,Empress
+10/13/2025 4:19:19 PM - Client Database : Empress
+10/13/2025 4:19:19 PM - Report Name : RMO_EMPRESS
+10/13/2025 4:19:19 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/13/2025 4:19:19 PM - Company ID : 50
+10/13/2025 4:19:19 PM - SSDT : CDATE(2025,04,01)
+10/13/2025 4:19:19 PM - LLDT : CDATE(2025,10,13)
+10/13/2025 4:19:19 PM - DSN Name : dsn_106002
+10/13/2025 4:19:19 PM - Report Parameter parameter : 
+10/13/2025 4:19:27 PM - Client Server IP: 160.187.54.244,4545
+10/13/2025 4:19:27 PM - Client Multiple Database : main,Empress
+10/13/2025 4:19:27 PM - Client Database : Empress
+10/13/2025 4:19:27 PM - Report Name : RMO_EMPRESS
+10/13/2025 4:19:27 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/13/2025 4:19:27 PM - Company ID : 50
+10/13/2025 4:19:27 PM - SSDT : CDATE(2025,04,01)
+10/13/2025 4:19:27 PM - LLDT : CDATE(2025,10,13)
+10/13/2025 4:19:27 PM - DSN Name : dsn_106003
+10/13/2025 4:19:27 PM - Report Parameter parameter : 
+10/13/2025 4:20:40 PM - Client Server IP: 160.187.54.244,4545
+10/13/2025 4:20:40 PM - Client Multiple Database : main,Empress
+10/13/2025 4:20:40 PM - Client Database : Empress
+10/13/2025 4:20:40 PM - Report Name : RMO_EMPRESS
+10/13/2025 4:20:40 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/13/2025 4:20:40 PM - Company ID : 50
+10/13/2025 4:20:40 PM - SSDT : CDATE(2025,04,01)
+10/13/2025 4:20:40 PM - LLDT : CDATE(2025,10,13)
+10/13/2025 4:20:40 PM - DSN Name : dsn_106007
+10/13/2025 4:20:40 PM - Report Parameter parameter : 
+10/13/2025 4:20:59 PM - Client Server IP: 160.187.54.244,4545
+10/13/2025 4:20:59 PM - Client Multiple Database : main,Empress
+10/13/2025 4:20:59 PM - Client Database : Empress
+10/13/2025 4:20:59 PM - Report Name : RMO_EMPRESS
+10/13/2025 4:20:59 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/13/2025 4:20:59 PM - Company ID : 50
+10/13/2025 4:20:59 PM - SSDT : CDATE(2025,04,01)
+10/13/2025 4:20:59 PM - LLDT : CDATE(2025,10,13)
+10/13/2025 4:20:59 PM - DSN Name : dsn_106008
+10/13/2025 4:20:59 PM - Report Parameter parameter : 
+10/13/2025 4:22:31 PM - Client Server IP: 160.187.54.244,4545
+10/13/2025 4:22:31 PM - Client Multiple Database : main,Empress
+10/13/2025 4:22:31 PM - Client Database : Empress
+10/13/2025 4:22:31 PM - Report Name : RMO_EMPRESS
+10/13/2025 4:22:31 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/13/2025 4:22:31 PM - Company ID : 50
+10/13/2025 4:22:31 PM - SSDT : CDATE(2025,04,01)
+10/13/2025 4:22:31 PM - LLDT : CDATE(2025,10,13)
+10/13/2025 4:22:31 PM - DSN Name : dsn_106013
+10/13/2025 4:22:31 PM - Report Parameter parameter : 
+10/13/2025 4:25:20 PM - Client Server IP: 160.187.54.244,4545
+10/13/2025 4:25:20 PM - Client Multiple Database : main,Empress
+10/13/2025 4:25:20 PM - Client Database : Empress
+10/13/2025 4:25:20 PM - Report Name : RMO_EMPRESS
+10/13/2025 4:25:20 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/13/2025 4:25:20 PM - Company ID : 50
+10/13/2025 4:25:20 PM - SSDT : CDATE(2025,04,01)
+10/13/2025 4:25:20 PM - LLDT : CDATE(2025,10,13)
+10/13/2025 4:25:20 PM - DSN Name : dsn_106021
+10/13/2025 4:25:20 PM - Report Parameter parameter : 
+10/13/2025 4:28:02 PM - Client Server IP: 160.187.54.244,4545
+10/13/2025 4:28:02 PM - Client Multiple Database : main,Empress
+10/13/2025 4:28:02 PM - Client Database : Empress
+10/13/2025 4:28:02 PM - Report Name : RMO_EMPRESS
+10/13/2025 4:28:02 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/13/2025 4:28:02 PM - Company ID : 50
+10/13/2025 4:28:02 PM - SSDT : CDATE(2025,04,01)
+10/13/2025 4:28:02 PM - LLDT : CDATE(2025,10,13)
+10/13/2025 4:28:02 PM - DSN Name : dsn_106027
+10/13/2025 4:28:02 PM - Report Parameter parameter : 
+10/13/2025 4:28:21 PM - Client Server IP: 160.187.54.244,4545
+10/13/2025 4:28:21 PM - Client Multiple Database : main,Empress
+10/13/2025 4:28:21 PM - Client Database : Empress
+10/13/2025 4:28:21 PM - Report Name : RMO_EMPRESS
+10/13/2025 4:28:21 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/13/2025 4:28:21 PM - Company ID : 50
+10/13/2025 4:28:21 PM - SSDT : CDATE(2025,04,01)
+10/13/2025 4:28:21 PM - LLDT : CDATE(2025,10,13)
+10/13/2025 4:28:21 PM - DSN Name : dsn_106029
+10/13/2025 4:28:21 PM - Report Parameter parameter : 
+10/14/2025 4:21:46 PM - Client Server IP: 160.187.54.244,4545
+10/14/2025 4:21:46 PM - Client Multiple Database : main,Empress
+10/14/2025 4:21:46 PM - Client Database : Empress
+10/14/2025 4:21:46 PM - Report Name : RMO_EMPRESS
+10/14/2025 4:21:46 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 4:21:46 PM - Company ID : 50
+10/14/2025 4:21:46 PM - SSDT : CDATE(2025,04,01)
+10/14/2025 4:21:46 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 4:21:46 PM - DSN Name : dsn_108103
+10/14/2025 4:21:46 PM - Report Parameter parameter : 
+10/14/2025 4:26:53 PM - Client Server IP: 160.187.54.244,4545
+10/14/2025 4:26:53 PM - Client Multiple Database : main,Empress
+10/14/2025 4:26:53 PM - Client Database : Empress
+10/14/2025 4:26:53 PM - Report Name : RMO_EMPRESS
+10/14/2025 4:26:53 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 4:26:53 PM - Company ID : 50
+10/14/2025 4:26:53 PM - SSDT : CDATE(2025,04,01)
+10/14/2025 4:26:53 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 4:26:53 PM - DSN Name : dsn_108120
+10/14/2025 4:26:53 PM - Report Parameter parameter : 
+10/14/2025 5:22:19 PM - Client Server IP: 160.187.54.244,4545
+10/14/2025 5:22:19 PM - Client Multiple Database : main,Empress
+10/14/2025 5:22:19 PM - Client Database : Empress
+10/14/2025 5:22:19 PM - Report Name : RMO_EMPRESS
+10/14/2025 5:22:19 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 5:22:19 PM - Company ID : 50
+10/14/2025 5:22:19 PM - SSDT : CDATE(2025,04,01)
+10/14/2025 5:22:19 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 5:22:19 PM - DSN Name : dsn_108291
+10/14/2025 5:22:19 PM - Report Parameter parameter : 
+10/14/2025 5:22:33 PM - Client Server IP: 160.187.54.244,4545
+10/14/2025 5:22:33 PM - Client Multiple Database : main,Empress
+10/14/2025 5:22:33 PM - Client Database : Empress
+10/14/2025 5:22:33 PM - Report Name : RMO_EMPRESS
+10/14/2025 5:22:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 5:22:33 PM - Company ID : 50
+10/14/2025 5:22:33 PM - SSDT : CDATE(2025,04,01)
+10/14/2025 5:22:33 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 5:22:33 PM - DSN Name : dsn_108292
+10/14/2025 5:22:33 PM - Report Parameter parameter : 
+10/14/2025 6:46:16 PM - Client Server IP: 160.187.54.244,4545
+10/14/2025 6:46:16 PM - Client Multiple Database : main,Empress
+10/14/2025 6:46:16 PM - Client Database : Empress
+10/14/2025 6:46:16 PM - Report Name : RMO_EMPRESS
+10/14/2025 6:46:16 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 6:46:16 PM - Company ID : 50
+10/14/2025 6:46:16 PM - SSDT : CDATE(2025,04,01)
+10/14/2025 6:46:16 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 6:46:16 PM - DSN Name : dsn_108599
+10/14/2025 6:46:16 PM - Report Parameter parameter : 
+10/14/2025 7:41:12 PM - Client Server IP: 160.187.54.114,4545
+10/14/2025 7:41:12 PM - Client Multiple Database : valjierp
+10/14/2025 7:41:12 PM - Client Database : valjierp
+10/14/2025 7:41:12 PM - Report Name : scl_valji
+10/14/2025 7:41:12 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/14/2025 7:41:12 PM - Company ID : 24
+10/14/2025 7:41:12 PM - SSDT : CDATE(2025,04,01)
+10/14/2025 7:41:12 PM - LLDT : CDATE(2025,10,14)
+10/14/2025 7:41:12 PM - DSN Name : dsn_108812
+10/14/2025 7:41:12 PM - Report Parameter parameter : 
+10/15/2025 12:16:23 PM - Client Server IP: 160.187.54.38,4545
+10/15/2025 12:16:23 PM - Client Multiple Database : Main,Jainar
+10/15/2025 12:16:23 PM - Client Database : Jainar
+10/15/2025 12:16:23 PM - Report Name : fjw_jainar
+10/15/2025 12:16:23 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 12:16:23 PM - Company ID : 57
+10/15/2025 12:16:23 PM - SSDT : CDATE(2025,04,01)
+10/15/2025 12:16:23 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 12:16:23 PM - DSN Name : dsn_109663
+10/15/2025 12:16:23 PM - Report Parameter parameter : 
+10/15/2025 12:31:24 PM - Client Server IP: 160.187.54.244,4545
+10/15/2025 12:31:24 PM - Client Multiple Database : main,Empress
+10/15/2025 12:31:24 PM - Client Database : Empress
+10/15/2025 12:31:24 PM - Report Name : RMO_EMPRESS
+10/15/2025 12:31:24 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 12:31:24 PM - Company ID : 50
+10/15/2025 12:31:24 PM - SSDT : CDATE(2025,04,01)
+10/15/2025 12:31:24 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 12:31:24 PM - DSN Name : dsn_109721
+10/15/2025 12:31:24 PM - Report Parameter parameter : 
+10/15/2025 3:51:41 PM - Client Server IP: 160.187.54.38,4545
+10/15/2025 3:51:41 PM - Client Multiple Database : Rishab
+10/15/2025 3:51:41 PM - Client Database : Rishab
+10/15/2025 3:51:41 PM - Report Name : fpo_rishab
+10/15/2025 3:51:41 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 3:51:41 PM - Company ID : 16
+10/15/2025 3:51:41 PM - SSDT : CDATE(2025,04,01)
+10/15/2025 3:51:41 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 3:51:41 PM - DSN Name : dsn_110389
+10/15/2025 3:51:41 PM - Report Parameter parameter : 
+10/15/2025 3:52:25 PM - Client Server IP: 160.187.54.38,4545
+10/15/2025 3:52:25 PM - Client Multiple Database : Rishab
+10/15/2025 3:52:25 PM - Client Database : Rishab
+10/15/2025 3:52:25 PM - Report Name : fpo_rishab
+10/15/2025 3:52:25 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 3:52:25 PM - Company ID : 16
+10/15/2025 3:52:26 PM - SSDT : CDATE(2025,04,01)
+10/15/2025 3:52:26 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 3:52:26 PM - DSN Name : dsn_110392
+10/15/2025 3:52:26 PM - Report Parameter parameter : 
+10/15/2025 4:59:49 PM - Client Server IP: 160.187.54.38,4545
+10/15/2025 4:59:49 PM - Client Multiple Database : Rishab
+10/15/2025 4:59:49 PM - Client Database : Rishab
+10/15/2025 4:59:49 PM - Report Name : fpo_rishab
+10/15/2025 4:59:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/15/2025 4:59:49 PM - Company ID : 16
+10/15/2025 4:59:49 PM - SSDT : CDATE(2025,04,01)
+10/15/2025 4:59:49 PM - LLDT : CDATE(2025,10,15)
+10/15/2025 4:59:49 PM - DSN Name : dsn_110649
+10/15/2025 4:59:49 PM - Report Parameter parameter : 
+10/16/2025 11:20:54 AM - Client Server IP: 160.187.54.38,4545
+10/16/2025 11:20:54 AM - Client Multiple Database : Main,Jainar
+10/16/2025 11:20:54 AM - Client Database : Jainar
+10/16/2025 11:20:54 AM - Report Name : fsc_jainar
+10/16/2025 11:20:54 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/16/2025 11:20:54 AM - Company ID : 57
+10/16/2025 11:20:54 AM - SSDT : CDATE(2025,04,01)
+10/16/2025 11:20:54 AM - LLDT : CDATE(2025,10,16)
+10/16/2025 11:20:54 AM - DSN Name : dsn_111806
+10/16/2025 11:20:54 AM - Report Parameter parameter : 
+10/16/2025 11:24:30 AM - Client Server IP: 160.187.54.38,4545
+10/16/2025 11:24:30 AM - Client Multiple Database : Main,Jainar
+10/16/2025 11:24:30 AM - Client Database : Jainar
+10/16/2025 11:24:30 AM - Report Name : fsc_jainar
+10/16/2025 11:24:30 AM - Report Path : V:\xampp\htdocs\tex\reports\
+10/16/2025 11:24:30 AM - Company ID : 57
+10/16/2025 11:24:30 AM - SSDT : CDATE(2025,04,01)
+10/16/2025 11:24:30 AM - LLDT : CDATE(2025,10,16)
+10/16/2025 11:24:30 AM - DSN Name : dsn_111824
+10/16/2025 11:24:30 AM - Report Parameter parameter : 
+10/16/2025 12:13:20 PM - Client Server IP: 160.187.54.38,4545
+10/16/2025 12:13:20 PM - Client Multiple Database : MohiniAcc
+10/16/2025 12:13:20 PM - Client Database : MohiniAcc
+10/16/2025 12:13:20 PM - Report Name : lpr
+10/16/2025 12:13:20 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/16/2025 12:13:20 PM - Company ID : 29
+10/16/2025 12:13:20 PM - SSDT : CDATE(2025,04,01)
+10/16/2025 12:13:20 PM - LLDT : CDATE(2025,10,16)
+10/16/2025 12:13:20 PM - DSN Name : dsn_112038
+10/16/2025 12:13:20 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/18/2025 5:34:28 PM - Client Server IP: 160.187.54.114,4545
+10/18/2025 5:34:28 PM - Client Multiple Database : valjierp
+10/18/2025 5:34:28 PM - Client Database : valjierp
+10/18/2025 5:34:28 PM - Report Name : outbrok
+10/18/2025 5:34:28 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/18/2025 5:34:28 PM - Company ID : 24
+10/18/2025 5:34:28 PM - SSDT : CDATE(2025,04,01)
+10/18/2025 5:34:28 PM - LLDT : CDATE(2025,10,18)
+10/18/2025 5:34:28 PM - DSN Name : dsn_117050
+10/18/2025 5:34:28 PM - Report Parameter parameter : {?page option}=PARTY WISE|{?GROUP OPTION}=PARTY WISE|{?SELECT DAYS DATE}=SELECT DATE
+10/18/2025 6:02:36 PM - Client Server IP: 160.187.54.114,4545
+10/18/2025 6:02:36 PM - Client Multiple Database : valjierp
+10/18/2025 6:02:36 PM - Client Database : valjierp
+10/18/2025 6:02:36 PM - Report Name : scl_valji
+10/18/2025 6:02:36 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/18/2025 6:02:36 PM - Company ID : 24
+10/18/2025 6:02:36 PM - SSDT : CDATE(2025,04,01)
+10/18/2025 6:02:36 PM - LLDT : CDATE(2025,10,18)
+10/18/2025 6:02:36 PM - DSN Name : dsn_117108
+10/18/2025 6:02:36 PM - Report Parameter parameter : 
+10/18/2025 6:05:56 PM - Client Server IP: 160.187.54.114,4545
+10/18/2025 6:05:56 PM - Client Multiple Database : valjierp
+10/18/2025 6:05:56 PM - Client Database : valjierp
+10/18/2025 6:05:56 PM - Report Name : scl_valji
+10/18/2025 6:05:56 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/18/2025 6:05:56 PM - Company ID : 24
+10/18/2025 6:05:56 PM - SSDT : CDATE(2025,04,01)
+10/18/2025 6:05:56 PM - LLDT : CDATE(2025,10,18)
+10/18/2025 6:05:56 PM - DSN Name : dsn_117117
+10/18/2025 6:05:56 PM - Report Parameter parameter : 
+10/18/2025 6:19:13 PM - Client Server IP: 160.187.54.114,4545
+10/18/2025 6:19:13 PM - Client Multiple Database : valjierp
+10/18/2025 6:19:13 PM - Client Database : valjierp
+10/18/2025 6:19:13 PM - Report Name : scl_valji
+10/18/2025 6:19:13 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/18/2025 6:19:13 PM - Company ID : 24
+10/18/2025 6:19:13 PM - SSDT : CDATE(2025,04,01)
+10/18/2025 6:19:13 PM - LLDT : CDATE(2025,10,18)
+10/18/2025 6:19:13 PM - DSN Name : dsn_117158
+10/18/2025 6:19:13 PM - Report Parameter parameter : 
+10/18/2025 6:38:10 PM - Client Server IP: 160.187.54.114,4545
+10/18/2025 6:38:10 PM - Client Multiple Database : valjierp
+10/18/2025 6:38:10 PM - Client Database : valjierp
+10/18/2025 6:38:10 PM - Report Name : scl_valji
+10/18/2025 6:38:10 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/18/2025 6:38:10 PM - Company ID : 24
+10/18/2025 6:38:10 PM - SSDT : CDATE(2025,04,01)
+10/18/2025 6:38:10 PM - LLDT : CDATE(2025,10,18)
+10/18/2025 6:38:10 PM - DSN Name : dsn_117199
+10/18/2025 6:38:10 PM - Report Parameter parameter : 
+10/24/2025 3:36:33 PM - Client Server IP: 160.187.54.245,4545
+10/24/2025 3:36:33 PM - Client Multiple Database : Montana
+10/24/2025 3:36:33 PM - Client Database : Montana
+10/24/2025 3:36:33 PM - Report Name : gepo_montana
+10/24/2025 3:36:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/24/2025 3:36:33 PM - Company ID : 33
+10/24/2025 3:36:33 PM - SSDT : CDATE(2025,04,01)
+10/24/2025 3:36:33 PM - LLDT : CDATE(2025,10,24)
+10/24/2025 3:36:33 PM - DSN Name : dsn_120974
+10/24/2025 3:36:33 PM - Report Parameter parameter : 
+10/24/2025 3:36:47 PM - Client Server IP: 160.187.54.245,4545
+10/24/2025 3:36:47 PM - Client Multiple Database : Montana
+10/24/2025 3:36:47 PM - Client Database : Montana
+10/24/2025 3:36:47 PM - Report Name : gepo_montana
+10/24/2025 3:36:47 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/24/2025 3:36:47 PM - Company ID : 33
+10/24/2025 3:36:47 PM - SSDT : CDATE(2025,04,01)
+10/24/2025 3:36:47 PM - LLDT : CDATE(2025,10,24)
+10/24/2025 3:36:47 PM - DSN Name : dsn_120975
+10/24/2025 3:36:47 PM - Report Parameter parameter : 
+10/24/2025 3:36:58 PM - Client Server IP: 160.187.54.245,4545
+10/24/2025 3:36:58 PM - Client Multiple Database : Montana
+10/24/2025 3:36:58 PM - Client Database : Montana
+10/24/2025 3:36:58 PM - Report Name : fso_montana
+10/24/2025 3:36:58 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/24/2025 3:36:58 PM - Company ID : 33
+10/24/2025 3:36:58 PM - SSDT : CDATE(2025,04,01)
+10/24/2025 3:36:58 PM - LLDT : CDATE(2025,10,24)
+10/24/2025 3:36:58 PM - DSN Name : dsn_120976
+10/24/2025 3:36:58 PM - Report Parameter parameter : 
+10/24/2025 3:37:14 PM - Client Server IP: 160.187.54.245,4545
+10/24/2025 3:37:14 PM - Client Multiple Database : Montana
+10/24/2025 3:37:14 PM - Client Database : Montana
+10/24/2025 3:37:14 PM - Report Name : fso_montana
+10/24/2025 3:37:14 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/24/2025 3:37:14 PM - Company ID : 33
+10/24/2025 3:37:14 PM - SSDT : CDATE(2025,04,01)
+10/24/2025 3:37:14 PM - LLDT : CDATE(2025,10,24)
+10/24/2025 3:37:14 PM - DSN Name : dsn_120977
+10/24/2025 3:37:14 PM - Report Parameter parameter : 
+10/24/2025 3:37:26 PM - Client Server IP: 160.187.54.245,4545
+10/24/2025 3:37:26 PM - Client Multiple Database : Montana
+10/24/2025 3:37:26 PM - Client Database : Montana
+10/24/2025 3:37:26 PM - Report Name : fso_montana
+10/24/2025 3:37:26 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/24/2025 3:37:26 PM - Company ID : 33
+10/24/2025 3:37:26 PM - SSDT : CDATE(2025,04,01)
+10/24/2025 3:37:26 PM - LLDT : CDATE(2025,10,24)
+10/24/2025 3:37:26 PM - DSN Name : dsn_120979
+10/24/2025 3:37:26 PM - Report Parameter parameter : 
+10/25/2025 5:51:33 PM - Client Server IP: 160.187.54.114,4545
+10/25/2025 5:51:33 PM - Client Multiple Database : valjierp
+10/25/2025 5:51:33 PM - Client Database : valjierp
+10/25/2025 5:51:33 PM - Report Name : saleret_valji
+10/25/2025 5:51:33 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/25/2025 5:51:33 PM - Company ID : 24
+10/25/2025 5:51:33 PM - SSDT : CDATE(2025,04,01)
+10/25/2025 5:51:33 PM - LLDT : CDATE(2025,10,25)
+10/25/2025 5:51:33 PM - DSN Name : dsn_122956
+10/25/2025 5:51:33 PM - Report Parameter parameter : 
+10/27/2025 1:12:55 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 1:12:55 PM - Client Multiple Database : Main,Jainar
+10/27/2025 1:12:55 PM - Client Database : Jainar
+10/27/2025 1:12:55 PM - Report Name : frfj_jainar
+10/27/2025 1:12:55 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 1:12:55 PM - Company ID : 57
+10/27/2025 1:12:55 PM - SSDT : CDATE(2025,04,01)
+10/27/2025 1:12:55 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 1:12:55 PM - DSN Name : dsn_124823
+10/27/2025 1:12:55 PM - Report Parameter parameter : 
+10/27/2025 1:21:10 PM - Client Server IP: 160.187.54.245,4545
+10/27/2025 1:21:10 PM - Client Multiple Database : Montana
+10/27/2025 1:21:10 PM - Client Database : Montana
+10/27/2025 1:21:10 PM - Report Name : fso_montana
+10/27/2025 1:21:10 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 1:21:10 PM - Company ID : 33
+10/27/2025 1:21:10 PM - SSDT : CDATE(2025,04,01)
+10/27/2025 1:21:10 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 1:21:10 PM - DSN Name : dsn_124842
+10/27/2025 1:21:10 PM - Report Parameter parameter : 
+10/27/2025 6:29:50 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 6:29:50 PM - Client Multiple Database : MohiniAcc
+10/27/2025 6:29:50 PM - Client Database : MohiniAcc
+10/27/2025 6:29:50 PM - Report Name : lpr
+10/27/2025 6:29:50 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 6:29:50 PM - Company ID : 29
+10/27/2025 6:29:50 PM - SSDT : CDATE(2025,04,01)
+10/27/2025 6:29:50 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 6:29:50 PM - DSN Name : dsn_125948
+10/27/2025 6:29:50 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/27/2025 6:31:06 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 6:31:06 PM - Client Multiple Database : MohiniAcc
+10/27/2025 6:31:06 PM - Client Database : MohiniAcc
+10/27/2025 6:31:06 PM - Report Name : lpr
+10/27/2025 6:31:06 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 6:31:06 PM - Company ID : 29
+10/27/2025 6:31:06 PM - SSDT : CDATE(2025,03,31)
+10/27/2025 6:31:06 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 6:31:06 PM - DSN Name : dsn_125952
+10/27/2025 6:31:06 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/27/2025 6:32:43 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 6:32:43 PM - Client Multiple Database : MohiniAcc
+10/27/2025 6:32:43 PM - Client Database : MohiniAcc
+10/27/2025 6:32:43 PM - Report Name : lpr
+10/27/2025 6:32:43 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 6:32:43 PM - Company ID : 29
+10/27/2025 6:32:43 PM - SSDT : CDATE(2025,03,31)
+10/27/2025 6:32:43 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 6:32:43 PM - DSN Name : dsn_125958
+10/27/2025 6:32:43 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/27/2025 6:36:07 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 6:36:07 PM - Client Multiple Database : MohiniAcc
+10/27/2025 6:36:07 PM - Client Database : MohiniAcc
+10/27/2025 6:36:07 PM - Report Name : lpr
+10/27/2025 6:36:07 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 6:36:07 PM - Company ID : 29
+10/27/2025 6:36:07 PM - SSDT : CDATE(2025,04,01)
+10/27/2025 6:36:07 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 6:36:07 PM - DSN Name : dsn_125967
+10/27/2025 6:36:07 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/27/2025 6:36:56 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 6:36:56 PM - Client Multiple Database : MohiniAcc
+10/27/2025 6:36:56 PM - Client Database : MohiniAcc
+10/27/2025 6:36:56 PM - Report Name : lpr
+10/27/2025 6:36:56 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 6:36:56 PM - Company ID : 29
+10/27/2025 6:36:56 PM - SSDT : CDATE(2025,03,31)
+10/27/2025 6:36:56 PM - LLDT : CDATE(2025,10,27)
+10/27/2025 6:36:56 PM - DSN Name : dsn_125970
+10/27/2025 6:36:56 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/27/2025 6:39:35 PM - Client Server IP: 160.187.54.38,4545
+10/27/2025 6:39:35 PM - Client Multiple Database : MohiniAcc
+10/27/2025 6:39:35 PM - Client Database : MohiniAcc
+10/27/2025 6:39:35 PM - Report Name : lpr
+10/27/2025 6:39:35 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/27/2025 6:39:35 PM - Company ID : 29
+10/27/2025 6:39:35 PM - SSDT : CDATE(2025,03,31)
+10/27/2025 6:39:35 PM - LLDT : CDATE(2025,04,01)
+10/27/2025 6:39:35 PM - DSN Name : dsn_125977
+10/27/2025 6:39:35 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+10/29/2025 7:50:39 PM - Client Server IP: 160.187.54.38,4545
+10/29/2025 7:50:39 PM - Client Multiple Database : Rishab
+10/29/2025 7:50:39 PM - Client Database : Rishab
+10/29/2025 7:50:39 PM - Report Name : fpo_rishab
+10/29/2025 7:50:39 PM - Report Path : V:\xampp\htdocs\tex\reports\
+10/29/2025 7:50:39 PM - Company ID : 16
+10/29/2025 7:50:39 PM - SSDT : CDATE(2025,04,01)
+10/29/2025 7:50:39 PM - LLDT : CDATE(2025,10,29)
+10/29/2025 7:50:39 PM - DSN Name : dsn_130293
+10/29/2025 7:50:39 PM - Report Parameter parameter : 
+11/1/2025 1:17:26 PM - Client Server IP: 160.187.54.69,4545
+11/1/2025 1:17:26 PM - Client Multiple Database : main,Kapil
+11/1/2025 1:17:26 PM - Client Database : Kapil
+11/1/2025 1:17:26 PM - Report Name : lpr
+11/1/2025 1:17:26 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/1/2025 1:17:26 PM - Company ID : 17
+11/1/2025 1:17:26 PM - SSDT : CDATE(2025,04,01)
+11/1/2025 1:17:26 PM - LLDT : CDATE(2025,11,01)
+11/1/2025 1:17:26 PM - DSN Name : dsn_135329
+11/1/2025 1:17:26 PM - Report Parameter parameter : {?SUMMARY OPTION}=all|{?NEW PAGE WISE}=NO
+11/1/2025 1:17:49 PM - Client Server IP: 160.187.54.69,4545
+11/1/2025 1:17:49 PM - Client Multiple Database : main,Kapil
+11/1/2025 1:17:49 PM - Client Database : Kapil
+11/1/2025 1:17:49 PM - Report Name : lpr
+11/7/2025 1:43:49 PM - Client Server IP: 160.187.54.69,4545
+11/7/2025 1:43:49 PM - Client Multiple Database : main,Kapil
+11/7/2025 1:43:49 PM - Client Database : Kapil
+11/7/2025 1:43:49 PM - Report Name : kapil_purdrn
+11/7/2025 1:43:49 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/7/2025 1:43:49 PM - Company ID : 17
+11/7/2025 1:43:49 PM - SSDT : CDATE(2025,04,01)
+11/7/2025 1:43:49 PM - LLDT : CDATE(2025,11,07)
+11/7/2025 1:43:49 PM - DSN Name : dsn_146228
+11/7/2025 1:43:49 PM - Report Parameter parameter : {?SELECT}=NO
+11/8/2025 1:57:23 PM - Client Server IP: 160.187.54.38,4545
+11/8/2025 1:57:23 PM - Client Multiple Database : Main,Shubh
+11/8/2025 1:57:23 PM - Client Database : Shubh
+11/8/2025 1:57:23 PM - Report Name : shubh_fs
+11/8/2025 1:57:23 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/8/2025 1:57:23 PM - Company ID : 52
+11/8/2025 1:57:23 PM - SSDT : CDATE(2025,04,01)
+11/8/2025 1:57:23 PM - LLDT : CDATE(2025,11,08)
+11/8/2025 1:57:23 PM - DSN Name : dsn_148198
+11/8/2025 1:57:23 PM - Report Parameter parameter : {?SELECT}=NO
+11/10/2025 6:26:14 PM - Client Server IP: 160.187.54.38,4545
+11/10/2025 6:26:14 PM - Client Multiple Database : Rishab
+11/10/2025 6:26:14 PM - Client Database : Rishab
+11/10/2025 6:26:14 PM - Report Name : fpo_rishab
+11/10/2025 6:26:14 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 6:26:14 PM - Company ID : 16
+11/10/2025 6:26:14 PM - SSDT : CDATE(2025,04,01)
+11/10/2025 6:26:14 PM - LLDT : CDATE(2025,11,10)
+11/10/2025 6:26:14 PM - DSN Name : dsn_151910
+11/10/2025 6:26:14 PM - Report Parameter parameter : 
+11/10/2025 6:33:25 PM - Client Server IP: 160.187.54.38,4545
+11/10/2025 6:33:25 PM - Client Multiple Database : Rishab
+11/10/2025 6:33:25 PM - Client Database : Rishab
+11/10/2025 6:33:25 PM - Report Name : fpo_rishab
+11/10/2025 6:33:25 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/10/2025 6:33:25 PM - Company ID : 16
+11/10/2025 6:33:25 PM - SSDT : CDATE(2025,04,01)
+11/10/2025 6:33:25 PM - LLDT : CDATE(2025,11,10)
+11/10/2025 6:33:25 PM - DSN Name : dsn_151932
+11/10/2025 6:33:25 PM - Report Parameter parameter : 
+11/12/2025 11:45:44 AM - Client Server IP: 160.187.54.208,4545
+11/12/2025 11:45:44 AM - Client Multiple Database : JR
+11/12/2025 11:45:44 AM - Client Database : JR
+11/12/2025 11:45:44 AM - Report Name : grc_jr
+11/12/2025 11:45:44 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/12/2025 11:45:44 AM - Company ID : 28
+11/12/2025 11:45:44 AM - SSDT : CDATE(2024,04,01)
+11/12/2025 11:45:44 AM - LLDT : CDATE(2025,11,12)
+11/12/2025 11:45:44 AM - DSN Name : dsn_154969
+11/12/2025 11:45:44 AM - Report Parameter parameter : 
+11/12/2025 11:46:53 AM - Client Server IP: 160.187.54.208,4545
+11/12/2025 11:46:53 AM - Client Multiple Database : JR
+11/12/2025 11:46:53 AM - Client Database : JR
+11/12/2025 11:46:53 AM - Report Name : gepo_jr
+11/12/2025 11:46:53 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/12/2025 11:46:53 AM - Company ID : 28
+11/12/2025 11:46:53 AM - SSDT : CDATE(2024,04,01)
+11/12/2025 11:46:53 AM - LLDT : CDATE(2025,11,12)
+11/12/2025 11:46:53 AM - DSN Name : dsn_154973
+11/12/2025 11:46:53 AM - Report Parameter parameter : 
+11/12/2025 11:58:12 AM - Client Server IP: 160.187.54.208,4545
+11/12/2025 11:58:12 AM - Client Multiple Database : JR
+11/12/2025 11:58:12 AM - Client Database : JR
+11/12/2025 11:58:12 AM - Report Name : gepo_jr
+11/12/2025 11:58:12 AM - Report Path : V:\xampp\htdocs\tex\reports\
+11/12/2025 11:58:12 AM - Company ID : 28
+11/12/2025 11:58:12 AM - SSDT : CDATE(2024,04,01)
+11/12/2025 11:58:12 AM - LLDT : CDATE(2025,11,12)
+11/12/2025 11:58:12 AM - DSN Name : dsn_155005
+11/12/2025 11:58:12 AM - Report Parameter parameter : 
+11/13/2025 6:32:09 PM - Client Server IP: 139.5.190.101,8546
+11/13/2025 6:32:09 PM - Client Multiple Database : Saberp_Main_MF,wintry_inv
+11/13/2025 6:32:09 PM - Client Database : wintry_inv
+11/13/2025 6:32:09 PM - Report Name : Valiant_credit_print
+11/13/2025 6:32:09 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/13/2025 6:32:09 PM - Company ID : 45
+11/13/2025 6:32:09 PM - SSDT : CDATE(2025,04,01)
+11/13/2025 6:32:09 PM - LLDT : CDATE(2025,11,13)
+11/13/2025 6:32:09 PM - DSN Name : dsn_158512
+11/13/2025 6:32:09 PM - Report Parameter parameter : 
+11/20/2025 12:10:35 PM - Client Server IP: 160.187.54.38,4545
+11/20/2025 12:10:35 PM - Client Multiple Database : Rishab
+11/20/2025 12:10:35 PM - Client Database : Rishab
+11/20/2025 12:10:35 PM - Report Name : fpo_rishab
+11/20/2025 12:10:35 PM - Report Path : V:\xampp\htdocs\tex\reports\
+11/20/2025 12:10:35 PM - Company ID : 16
+11/20/2025 12:10:35 PM - SSDT : CDATE(2025,04,01)
+11/20/2025 12:10:35 PM - LLDT : CDATE(2025,11,20)
+11/20/2025 12:10:35 PM - DSN Name : dsn_170752
+11/20/2025 12:10:35 PM - Report Parameter parameter : 

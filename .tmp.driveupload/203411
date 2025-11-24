@@ -1,0 +1,7 @@
+{
+    "name": "ag-grid-packages",
+    "dependencies": {
+      "ag-grid-community": "^32.2.2",
+      "ag-grid-charts-enterprise": "^32.2.2"
+    }
+  }

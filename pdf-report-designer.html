@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Report Template Designer</title>
+
+  <link href="https://unpkg.com/grapesjs/dist/css/grapes.min.css" rel="stylesheet"/>
+  <script src="https://unpkg.com/grapesjs"></script>
+
+  <style>
+    body,html { height:100%; margin:0; }
+    .editor-container { display:flex; height:100vh; }
+    #sidebar { width:270px; background:#f4f4f4; border-right:1px solid #ccc; overflow:auto; }
+    #gjs { flex:1; border-left:1px solid #ccc; }
+
+    #tabs { display:flex; background:#ddd; }
+    #tabs button { flex:1; padding:10px; border:none; cursor:pointer; background:#ccc; }
+    #tabs button.active { background:#fff; border-bottom:2px solid #000; }
+
+    .tab-content { display:none; padding:5px; }
+    .tab-content.active { display:block; }
+
+    #paper-options label { display:block; margin-top:5px; font-weight:bold; }
+    #paper-options select { width:100%; padding:5px; margin-bottom:10px; }
+  </style>
+</head>
+
+<body>
+
+<div class="editor-container">
+
+  <!-- LEFT PANEL -->
+  <div id="sidebar">
+    <div id="tabs">
+      <button id="tab-blocks" class="active">Blocks</button>
+      <button id="tab-vars">Variables</button>
+      <button id="tab-paper">Paper</button>
+    </div>
+
+    <div id="blocks" class="tab-content active"></div>
+    <div id="variables" class="tab-content"></div>
+
+    <div id="paper-options" class="tab-content">
+      <h4>Paper Settings</h4>
+
+      <label>Page Size:</label>
+      <select id="page-size">
+        <option value="A4">A4</option>
+        <option value="A5">A5</option>
+        <option value="Letter">Letter</option>
+        <option value="Legal">Legal</option>
+        <option value="A3">A3</option>
+      </select>
+
+      <label>Orientation:</label>
+      <select id="orientation">
+        <option value="P">Portrait</option>
+        <option value="L">Landscape</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- MAIN GJS PANEL -->
+  <div id="gjs"></div>
+</div>
+
+<script>
+  // FETCH TEMPLATE ID
+  const urlParams = new URLSearchParams(window.location.search);
+  const templateId = urlParams.get('templateId');
+
+  // INIT GJS
+  var editor = grapesjs.init({
+      container: '#gjs',
+      fromElement: false,
+      storageManager: false,
+      blockManager: { appendTo: '#blocks' }
+  });
+
+  // LOAD TEMPLATE FROM DB
+  if (templateId) {
+      fetch('pdf-report-load-template.php?templateId=' + templateId)
+        .then(res => res.text())
+        .then(html => editor.setComponents(html));
+  }
+
+  // BASIC BLOCKS
+  const blocks = [
+    {id:'text',label:'Text',content:'<p>Text</p>'},
+    {id:'heading',label:'Heading',content:'<h2>Heading</h2>'},
+    {id:'image',label:'Image',content:'<img src="https://via.placeholder.com/150"/>'},
+    {id:'table',label:'Table',content:'<table border="1" width="100%"><tr><th>Col1</th><th>Col2</th></tr></table>'},
+    {id:'box',label:'Box',content:'<div style="border:1px solid #000;padding:8px;">Content</div>'},
+    {id:'hr',label:'Divider',content:'<hr/>'}
+  ];
+  blocks.forEach(b => editor.BlockManager.add(b.id, b));
+
+  // LOAD VARIABLES
+  fetch('pdf-report-get-variables.php?templateId=' + templateId)
+    .then(res => res.json())
+    .then(data => {
+        let varsDiv = document.getElementById("variables");
+
+        data.variables.forEach(v => {
+            let btn = document.createElement("button");
+            btn.style = "width:100%;margin:2px;padding:5px;";
+            btn.textContent = "{{" + v + "}}";
+            btn.onclick = () => editor.addComponents(`{{${v}}}`);
+            varsDiv.appendChild(btn);
+
+            editor.BlockManager.add("var-" + v, {
+                label: v,
+                category: "Variables",
+                content: `{{${v}}}`
+            });
+        });
+    });
+
+  // SAVE BUTTON
+  editor.Panels.addButton('options',{
+      id:'save-template',
+      className:'fa fa-save',
+      command:'save-template',
+      attributes:{ title:'Save Template' }
+  });
+
+  editor.Commands.add('save-template', {
+      run(editor, sender) {
+          sender && sender.set('active',0);
+
+          const html = editor.getHtml();
+          const css = editor.getCss();
+          const compiled = `<style>${css}</style>${html}`;
+
+          const pageSize = document.getElementById("page-size").value;
+          const orientation = document.getElementById("orientation").value;
+
+          fetch("pdf-report-save-template.php", {
+              method: "POST",
+              headers: { "Content-Type":"application/json" },
+              body: JSON.stringify({
+                  TemplateID: templateId,
+                  html: compiled,
+                  pageSize: pageSize,
+                  orientation: orientation,
+                  templateName: prompt("Template name?", "Template")
+              })
+          })
+          .then(res => res.text())
+          .then(id => alert("Saved Template ID: " + id));
+      }
+  });
+
+  // TABS
+  const tabs = { 'tab-blocks':'blocks', 'tab-vars':'variables', 'tab-paper':'paper-options' };
+  Object.keys(tabs).forEach(id => {
+      document.getElementById(id).onclick = function() {
+          Object.keys(tabs).forEach(other => {
+              document.getElementById(other).classList.remove('active');
+              document.getElementById(tabs[other]).classList.remove('active');
+          });
+          this.classList.add('active');
+          document.getElementById(tabs[id]).classList.add('active');
+      };
+  });
+</script>
+
+</body>
+</html>

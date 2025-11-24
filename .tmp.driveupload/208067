@@ -1,0 +1,30 @@
+5/13/2025 12:59:22 PM - Client Server IP: 160.187.54.69,4545
+5/13/2025 12:59:22 PM - Client Multiple Database : main,Kapil
+5/13/2025 12:59:22 PM - Client Database : Kapil
+5/13/2025 12:59:22 PM - Report Name : fsc_kapil
+5/13/2025 12:59:22 PM - Report Path : V:\xampp\htdocs\tex\reports\
+5/13/2025 12:59:22 PM - Company ID : 17
+5/13/2025 12:59:22 PM - SSDT : CDATE(2025,04,01)
+5/13/2025 12:59:22 PM - LLDT : CDATE(2025,05,13)
+5/13/2025 12:59:22 PM - DSN Name : dsn_7321
+5/13/2025 12:59:22 PM - Report Parameter parameter : 
+6/11/2025 2:15:50 PM - Client Server IP: 160.187.54.69,4545
+6/11/2025 2:15:50 PM - Client Multiple Database : main,Kapil
+6/11/2025 2:15:50 PM - Client Database : Kapil
+6/11/2025 2:15:50 PM - Report Name : PURGSTREPORT
+6/11/2025 2:15:50 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/11/2025 2:15:50 PM - Company ID : 17
+6/11/2025 2:15:50 PM - SSDT : CDATE(2025,04,01)
+6/11/2025 2:15:50 PM - LLDT : CDATE(2025,06,11)
+6/11/2025 2:15:50 PM - DSN Name : dsn_13046
+6/11/2025 2:15:50 PM - Report Parameter parameter : {?ORDER BY}=id|{?GROUP BY}=id
+6/11/2025 3:03:05 PM - Client Server IP: 160.187.54.208,4545
+6/11/2025 3:03:05 PM - Client Multiple Database : JR
+6/11/2025 3:03:05 PM - Client Database : JR
+6/11/2025 3:03:05 PM - Report Name : bankreconreport
+6/11/2025 3:03:05 PM - Report Path : V:\xampp\htdocs\tex\reports\
+6/11/2025 3:03:05 PM - Company ID : 28
+6/11/2025 3:03:05 PM - SSDT : CDATE(2024,04,01)
+6/11/2025 3:03:05 PM - LLDT : CDATE(2025,06,11)
+6/11/2025 3:03:05 PM - DSN Name : dsn_13063
+6/11/2025 3:03:05 PM - Report Parameter parameter : {?SUMMARY OPTION}=test
