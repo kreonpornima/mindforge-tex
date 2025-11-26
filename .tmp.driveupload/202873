@@ -468,7 +468,7 @@ if($viewpage > 0){
     </div>
     <?php 
     //ALL FORMS ARE FOR CUTPACK CUSTOMIZATION
-    if($FormID == 4699 || $FormID == 5184 || $FormID == 5260 || $FormID == 5175 || $FormID == 5275 || $FormID == 5498 || $FormID == 5573 || $FormID == 5660 || $FormID == 5670 || $FormID == 5175 || $FormID == 5694 || $FormID == 5535 || $FormID == 5754 || $FormID == 5809 || $FormID == 5813 || $FormID == 5923){
+    if($FormID == 4699 || $FormID == 5184 || $FormID == 5260 || $FormID == 5175 || $FormID == 5275 || $FormID == 5498 || $FormID == 5573 || $FormID == 5660 || $FormID == 5670 || $FormID == 5175 || $FormID == 5694 || $FormID == 5535 || $FormID == 5754 || $FormID == 5809 || $FormID == 5813 || $FormID == 5923 || $FormID == 5884){
 
         if(isset($_REQUEST['preview'])){
 			$isPreview = 1;

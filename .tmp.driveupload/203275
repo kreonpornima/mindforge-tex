@@ -208,6 +208,7 @@ if(strlen($_SESSION['dbCompanyName']) == 0){ // || $_SESSION['dbCompanyName'] ==
 $getNotification = "select n.ID, n.TaskID, n.UserID, n.CreatedAt, n.ReadAt, 
 	CASE WHEN n.NotifyType = 1 THEN CONCAT(u.Name,' has assigned a Task to you.') 
 	WHEN n.NotifyType = 2 THEN CONCAT(u.Name,' has left a comment on the Task.') 
+	WHEN n.NotifyType = 3 THEN CONCAT(u.Name,' has marked to tickit as completed.') 
 	END as Notif_Title from Requirement_Notifications n
 	LEFT JOIN users u ON n.CreatedBy = u.ID WHERE n.ReadAt IS NULL AND UserID={$_SESSION['user_id']} ORDER BY n.ID DESC";
 $getNotificationResult = db::getInstanceMaster()->db_select($getNotification, "H-405");	
@@ -768,7 +769,7 @@ function timeAgo($datetime) {
 					<div class="visible-xs toggle-sidebar-left" data-toggle-class="sidebar-left-opened" data-target="html" data-fire-event="sidebar-left-opened">
 						<i class="fa fa-bars" aria-label="Toggle sidebar"></i>
 					</div>
-					<?php if($_SESSION['Category'] == 2 || $_SESS){ ?>
+			
 					<span class="separator"></span>
 					<div class="header-right">
 						<ul class="notifications" style="margin:4px 145px 0 0!important">
@@ -805,7 +806,7 @@ function timeAgo($datetime) {
 							</li>
 						</ul>
 					</div>
-					<?php } ?>
+				
 					<span class="separator"></span>
 					<div id="userbox" class="userbox">
 						<a href="#" data-toggle="dropdown">

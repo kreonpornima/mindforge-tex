@@ -21,3 +21,4 @@ dbClassMSSQL.php
 /tex4
 /sandbox
 /vendor/
+.tmp*

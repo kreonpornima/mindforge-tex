@@ -27,8 +27,16 @@ try {
     $assignedTo = isset($_POST['assignedTo']) ? $_POST['assignedTo'] : []; // Array of assigned user IDs
     $attachment = isset($_FILES['attachment']) ? $_FILES['attachment'] : null;  // File upload data (only for add_requirement)
     $formid = isset($_POST['formId']) ? $_POST['formId'] : 0;
+    $isShowComments = isset($_POST['isShowComments']) ? $_POST['isShowComments'] : 0;
     $current_user_id = isset($_SESSION['user_id']) ? $_SESSION['user_id'] : 0;
+    $typeOfIssue = isset($_POST['typeOfIssue']) ? $_POST['typeOfIssue'] : 0;
 
+    // Assign users to the new requirement (if any are selected)
+    $defaultUsers = [1019, 1025, 1018];
+
+    // if($_SESSION['user_id'] == 1020){
+    //     exit();
+    // }
     // Basic validation: ensure user is logged in
     if (!$current_user_id) {
         throw new Exception("Authentication required. User not logged in.");
@@ -95,25 +103,47 @@ try {
             //Insert requirement name in RequirementComments table 
             $safeComment = Encoding::fixUTF8($requirement,Encoding::ICONV_IGNORE);
             $cleanComment = db::getInstance()->real_escape_string($safeComment);
-            $commentSql = "INSERT INTO RequirementComments (RequirementID, CommentText,CreatedBy,Priority, DueDate)
-                        VALUES ($requirementId, '$cleanComment',".$_SESSION['user_id'].",$priority,$commentDueDate)";
+            $commentSql = "INSERT INTO RequirementComments (RequirementID, CommentText,CreatedBy,Priority, DueDate,isShowComment)
+                        VALUES ($requirementId, '$cleanComment',".$_SESSION['user_id'].",$priority,$commentDueDate,$isShowComments)";
             $insertComment =  db::getInstanceMaster()->db_insertQuery($commentSql);
-
+          
             if ($insertComment['error'] == 0) {
                 $requirementCommentId = $insertComment['last_id'];
 
-                // Assign users to the new requirement (if any are selected)
-                if (!empty($assignedTo)) {
-                    foreach ($assignedTo as $userId) {
-                        $mapSql = "INSERT INTO Requirement_AssignedTo (RequirementCommentID, AssignedTo)
-                            VALUES ($requirementCommentId, $userId)";
-                        $result1 = db::getInstanceMaster()->db_insertQuery($mapSql);
-                        
-                        $notifSql = "INSERT INTO Requirement_Notifications ([TaskID],[UserID],[NotifyType],[CreatedBy],[CreatedAt],[CommentID]) 
-                            VALUES('" . $requirementId . "', '".$userId."','1','". $_SESSION['user_id']."', GETDATE(),'".$result1['last_id']."' )";
-                        $result2 = db::getInstanceMaster()->db_insertQuery($notifSql);
+                // Case 1: If assignedTo is empty → add default users
+                if (empty($assignedTo)) {
+                    $assignedTo = $defaultUsers;
+                } else {
+                    // Case 2: assignedTo not empty → add missing default IDs
+                    foreach ($defaultUsers as $uid) {
+                        if (!in_array($uid, $assignedTo)) {
+                            $assignedTo[] = $uid;
+                        }
                     }
                 }
+                // if (empty($assignedTo)) { //If assignedTo empty then added hardcode userid
+                //     $assignedTo = [1019, 1025, 1018];
+                // }
+
+                foreach ($assignedTo as $userId) {
+                    $mapSql = "INSERT INTO Requirement_AssignedTo (RequirementCommentID, AssignedTo)
+                        VALUES ($requirementCommentId, $userId)";
+                    $result1 = db::getInstanceMaster()->db_insertQuery($mapSql);
+                 
+                    // $checkUser = "SELECT Category FROM users WHERE ID=$userId";
+                    // $userResult = db::getInstanceMaster()->db_select($checkUser);
+
+                    // if($userResult['result_set'][0]['Category'] == 1 && $isShowComments == 1){
+
+                    // }
+
+                    $notifSql = "INSERT INTO Requirement_Notifications ([TaskID],[UserID],[NotifyType],[CreatedBy],[CreatedAt],[CommentID]) 
+                        VALUES('" . $requirementId . "', '".$userId."','1','". $_SESSION['user_id']."', GETDATE(),'".$result1['last_id']."' )";
+                    $result2 = db::getInstanceMaster()->db_insertQuery($notifSql);
+                   
+
+                }
+                // exit;
                 $response['success'] = true;
                 $response['message'] = "New requirement added successfully!";
                 $response['newId'] = $requirementId;
@@ -128,6 +158,7 @@ try {
             throw new Exception("Cannot update: Requirement ID is missing or invalid.");
         }
 
+
         // Get status, priority, and comment from POST data (these fields are present in update mode)
         $status = intval($_POST['status'] ?? 0);
         $priority = intval($_POST['priority'] ?? 1);
@@ -137,8 +168,8 @@ try {
             // Add a new comment if the comment field is not empty
             $safeComment = Encoding::fixUTF8($comment, Encoding::ICONV_IGNORE);
             $cleanComment = db::getInstance()->real_escape_string($safeComment);
-            $commentSql = "INSERT INTO RequirementComments (RequirementID, CommentText, CreatedBy, Status, Priority, DueDate)
-                    VALUES ($id, '$cleanComment',".$_SESSION['user_id'].", $status, $priority, $commentDueDate)";
+            $commentSql = "INSERT INTO RequirementComments (RequirementID, CommentText, CreatedBy, Status, Priority, DueDate,isShowComment)
+                    VALUES ($id, '$cleanComment',".$_SESSION['user_id'].", $status, $priority, $commentDueDate, $isShowComments)";
             $InsertComment = db::getInstanceMaster()->db_insertQuery($commentSql);
 
             if ($InsertComment['error'] == 0 ) {
@@ -146,41 +177,89 @@ try {
                 // Update assigned users: First delete all existing assignments for this requirement, then re-insert
                 // This ensures only the currently selected users are assigned
                 // $db->db_delete("DELETE FROM Requirement_AssignedTo WHERE RequirementID = :reqId", [':reqId' => $id]);
-                if (!empty($assignedTo)) {
-                    foreach ($assignedTo as $userId) {
+                
+                if($status == 2){ //Status is completed then send notification to all assignee & requirement created user
+                    ///To get the users whom the Task is assigned
+                    $sql = "select DISTINCT(AssignedTo) from Requirement_AssignedTo LEFT JOIN RequirementComments ON RequirementCommentID = RequirementComments.ID WHERE RequirementID =  " . $id . " GROUP BY AssignedTo";
+                    $res = db::getInstanceMaster()->db_select($sql);
+                    for($i = 0; $i < $res['num_rows']; $i++){
+                        $checkUser = "SELECT Category FROM users WHERE ID=".$res['result_set'][$i]['AssignedTo'];
+                        $checkUserResult = db::getInstanceMaster()->db_select($checkUser);
+
+                        if($res['result_set'][$i]['AssignedTo'] == $_SESSION['user_id']) continue;  //To skip same user
+                        $notifSql = "INSERT INTO Requirement_Notifications ([TaskID],[UserID],[NotifyType],[CreatedBy],[CreatedAt],[CommentID]) 
+                            VALUES('" . $id . "', '".$res['result_set'][$i]['AssignedTo']."','3','". $_SESSION['user_id']."', GETDATE(),'".$RequirementCommentID."' )";
+                        $result2 = db::getInstanceMaster()->db_insertQuery($notifSql);
+                    }
                     
-                        // Check if this assignment already exists
-                        $checkSql = "SELECT 1 FROM Requirement_AssignedTo 
-                                    WHERE RequirementID = $id AND AssignedTo = $userId";
-                        $exists = db::getInstanceMaster()->db_select($checkSql);
-            
-                        if (empty($exists['result_set'])) {
-                            // Only insert if it doesn't exist
-                            $mapSql = "INSERT INTO Requirement_AssignedTo (RequirementCommentID, AssignedTo)
-                                    VALUES ($RequirementCommentID, $userId)";
-                            db::getInstanceMaster()->db_insertQuery($mapSql);
+
+                    $sql = "select CreatedBy from requirements WHERE id = " . $id;
+                    $res = db::getInstanceMaster()->db_select($sql);
+               
+                    for($i = 0; $i < $res['num_rows']; $i++){
+                        if($res['result_set'][$i]['CreatedBy'] == $_SESSION['user_id']) continue;
+                        $notifSql = "INSERT INTO Requirement_Notifications (TaskID,UserID,NotifyType,CreatedBy,CreatedAt,CommentID) 
+                            VALUES('" . $id . "', '".$res['result_set'][$i]['CreatedBy']."','3','". $_SESSION['user_id']."', GETDATE(),'".$RequirementCommentID."' )";
+                        $result2 = db::getInstanceMaster()->db_insertQuery($notifSql);
+                    }
+                    
+                }else{
+                    if (!empty($assignedTo)) {
+                        foreach ($assignedTo as $userId) {
+                        
+                            // Check if this assignment already exists
+                            $checkSql = "SELECT 1 FROM Requirement_AssignedTo 
+                                        WHERE RequirementID = $id AND AssignedTo = $userId";
+                            $exists = db::getInstanceMaster()->db_select($checkSql);
+                
+                            if (empty($exists['result_set'])) {
+                                // Only insert if it doesn't exist
+                                $mapSql = "INSERT INTO Requirement_AssignedTo (RequirementCommentID, AssignedTo)
+                                        VALUES ($RequirementCommentID, $userId)";
+                                db::getInstanceMaster()->db_insertQuery($mapSql);
+                            }
+                        }
+                    }
+                    
+                    ///To get the users whom the Task is assigned
+                    $sql = "select DISTINCT(AssignedTo) from Requirement_AssignedTo LEFT JOIN RequirementComments ON Requirement_AssignedTo.RequirementCommentID = RequirementComments.ID WHERE RequirementID =  " . $id . " GROUP BY AssignedTo";
+                    $res = db::getInstanceMaster()->db_select($sql);
+
+                    for($i = 0; $i < $res['num_rows']; $i++){
+                        if($res['result_set'][$i]['AssignedTo'] == $_SESSION['user_id']) continue;  //To skip same user
+
+                        $checkUser = "SELECT Category FROM users WHERE ID=".$res['result_set'][$i]['AssignedTo'];
+                        $checkUserResult = db::getInstanceMaster()->db_select($checkUser);
+
+                        if (($checkUserResult['result_set'][0]['Category'] == 1 && $isShowComments == 1) || $checkUserResult['result_set'][0]['Category'] == 2) {
+                            $notifSql = "INSERT INTO Requirement_Notifications ([TaskID],[UserID],[NotifyType],[CreatedBy],[CreatedAt],[CommentID]) 
+                                VALUES('" . $id . "', '".$res['result_set'][$i]['AssignedTo']."','2','". $_SESSION['user_id']."', GETDATE(),'".$RequirementCommentID."' )";
+                            $result2 = db::getInstanceMaster()->db_insertQuery($notifSql);
+                        }
+                    }
+                 
+                    ///To get the user who created the TASK
+                    $sql = "select CreatedBy from requirements WHERE id = " . $id;
+                    $res = db::getInstanceMaster()->db_select($sql);
+               
+                    $checkUser = "SELECT Category FROM users WHERE ID=".$res['result_set'][0]['CreatedBy'];
+                    $checkUserResult = db::getInstanceMaster()->db_select($checkUser);
+
+                    // Only proceed if Category is 1 and comments are shown, or Category is 2
+                    if (($checkUserResult['result_set'][0]['Category'] == 1 && $isShowComments == 1) || $checkUserResult['result_set'][0]['Category'] == 2) {
+                        
+                        for($i = 0; $i < $res['num_rows']; $i++){
+                   
+                            if($res['result_set'][$i]['CreatedBy'] == $_SESSION['user_id']) continue;
+
+                            $notifSql = "INSERT INTO Requirement_Notifications (TaskID,UserID,NotifyType,CreatedBy,CreatedAt,CommentID) 
+                                VALUES('" . $id . "', '".$res['result_set'][$i]['CreatedBy']."','2','". $_SESSION['user_id']."', GETDATE(),'".$RequirementCommentID."' )";
+                          
+                            $result2 = db::getInstanceMaster()->db_insertQuery($notifSql);
                         }
                     }
                 }
-                ///To get the users whom the Task is assigned
-                $sql = "select AssignedTo from Requirement_AssignedTo LEFT JOIN RequirementComments ON RequirementCommentID = RequirementComments.ID WHERE RequirementID =  " . $id . " GROUP BY AssignedTo";
-                $res = db::getInstanceMaster()->db_select($sql);
-                for($i = 0; $i < $res['num_rows']; $i++){
-                    if($res['result_set'][$i]['AssignedTo'] == $_SESSION['user_id']) continue;  //To skip same user
-                    $notifSql = "INSERT INTO Requirement_Notifications ([TaskID],[UserID],[NotifyType],[CreatedBy],[CreatedAt],[CommentID]) 
-                        VALUES('" . $id . "', '".$res['result_set'][$i]['AssignedTo']."','2','". $_SESSION['user_id']."', GETDATE(),'".$RequirementCommentID."' )";
-                    $result2 = db::getInstanceMaster()->db_insertQuery($notifSql);
-                }
-                ///To get the user who created the TASK
-                $sql = "select CreatedBy from [dbo].[requirements] WHERE id = " . $id;
-                $res = db::getInstanceMaster()->db_select($sql);
-                for($i = 0; $i < $res['num_rows']; $i++){
-                    if($res['result_set'][$i]['CreatedBy'] == $_SESSION['user_id']) continue;
-                    $notifSql = "INSERT INTO Requirement_Notifications ([TaskID],[UserID],[NotifyType],[CreatedBy],[CreatedAt],[CommentID]) 
-                        VALUES('" . $id . "', '".$res['result_set'][$i]['CreatedBy']."','2','". $_SESSION['user_id']."', GETDATE(),'".$RequirementCommentID."' )";
-                    $result2 = db::getInstanceMaster()->db_insertQuery($notifSql);
-                }
-
+           
                 $response['success'] = true;
                 $response['message'] = "Requirement updated successfully!";
             }else {

@@ -113,7 +113,8 @@ if (!$isNewRecord) {
 
 
         // Fetch comments for existing record
-        $commentsSql = "SELECT rc.id, rc.CommentText, rc.CreatedAt, rc.Status, u.Name, rc.DueDate, rc.CreatedBy FROM RequirementComments rc LEFT JOIN users u ON u.ID = rc.CreatedBy WHERE RequirementID = $id ";
+        $commentsSql = "SELECT rc.id, rc.CommentText, rc.CreatedAt, rc.Status, u.Name, rc.DueDate, rc.CreatedBy, rc.isShowComment
+        FROM RequirementComments rc LEFT JOIN users u ON u.ID = rc.CreatedBy WHERE RequirementID = $id ";
         if ($firstCommentCreatedAt !== null) {
             // Convert DateTime object to SQL-compatible string (YYYY-MM-DD HH:MM:SS)
             $formattedDate = $firstCommentCreatedAt->format('Y-m-d H:i:s.v');
@@ -227,6 +228,25 @@ if (!$isNewRecord) {
                                 <span class="badge badge-light text-muted">Not assigned</span>
                             <?php endif; ?>
                         </div>
+
+                        <div class="mb-2">
+                            <strong>Type Of Issue:</strong>
+                            <select name="typeOfIssue" id="typeOfIssue" style="border: 1px solid blue; padding: 3px; border-radius: 4px;">
+                                <?php
+                                $issueType="select * from IssueTypeMaster where isActive=1";
+                                $issueTypeResult = db::getInstanceMaster()->db_select($issueType);
+                                if (!empty($issueTypeResult['result_set'])) {
+                                    echo '<option value="">Select</option>';
+                                    foreach ($issueTypeResult['result_set'] as $issueType) {
+                                        // $selected = in_array($issueType['ID'], $assignedUserIds) ? 'selected' : '';
+                                        echo '<option value="' . htmlspecialchars($issueType['ID']) . '" ' . $selected . '>' . htmlspecialchars($issueType['IssueTypeName']) . '</option>';
+                                    }
+                                } else {
+                                    echo '<option value="">No users available</option>';
+                                }
+                                ?>
+                            </select>
+                        </div>
                     <?php } ?>
                 </div>
 
@@ -234,11 +254,12 @@ if (!$isNewRecord) {
                 <div class="col-md-4">
                     <?php if($category == 2 || $category == 3){ ?>
                         <div><strong>Assignee:</strong> <?= htmlspecialchars($row['Name'] ?? '-') ?></div>
-                    
+                    <?php } ?>
                     <div>
                         <strong>Last Status:</strong>
                         <span class="badge <?= $statusBadgeClass ?>"><?= htmlspecialchars($currentStatusLabel) ?></span>
                     </div>
+                    <?php if($category == 2 || $category == 3){ ?>
                     <div>
                         <strong>Priority:</strong>
                         <span class="badge <?= $priorityBadgeClass ?>"><?= htmlspecialchars($currentPriorityLabel) ?></span>
@@ -280,6 +301,10 @@ if (!$isNewRecord) {
     <?php 
     $dateTime = new DateTime();
     $lastDateTime = $dateTime;
+
+    // if($_SESSION['user_id'] == 1){
+    //     print_r($comments);
+    // }
     // $lastDateTime = $dateTime->format('Y-m-d H:i:s');
     ?>
     <?php if (!$isNewRecord): // Only show comment section in update mode ?>
@@ -288,44 +313,51 @@ if (!$isNewRecord) {
             <?php if ($comments['num_rows'] > 0): ?>
                 <div class="border rounded bg-light" style="max-height: 250px; overflow-y: auto;background-color: #dee2e685 !important;">
                     <?php foreach ($comments['result_set'] as $c):
-                        if (!($c['CreatedAt'] instanceof DateTime)) {
-                            try {
-                                $c['CreatedAt'] = new DateTime($c['CreatedAt']);
-                            } catch (Exception $e) {
-                                $c['CreatedAt'] = new DateTime();
-                                error_log("Failed to parse date for comment: " . $e->getMessage());
+
+                            // If user is not developer and isShowComments = 0 then skip the comment
+                            if ($category !== 2 && (int)$c['isShowComment'] === 0 && $c['CreatedBy'] != $_SESSION['user_id']) {
+                                continue;
                             }
-                        }
 
-                        // Determine the status label and badge class for display in the overview
-                        $currentStatusLabel = $statusLabels[$c['Status'] ?? 0] ?? 'Unknown';
-                        $statusBadgeClass = 'badge-secondary'; // Default
-                        switch ($c['Status'] ?? 0) {
-                            case 0: $statusBadgeClass = 'badge-info'; break; // Assigned*
-                            case 1: $statusBadgeClass = 'badge-warning'; break; // In Progress
-                            case 2: $statusBadgeClass = 'badge-secondary'; break; // Completed (Pending Review)
-                            case 3: $statusBadgeClass = 'badge-primary'; break; // Reviewed
-                            case 4: $statusBadgeClass = 'badge-success'; break; // Closed
-                            case 5: $statusBadgeClass = 'badge-danger'; break; // Rework
-                            case 6: $statusBadgeClass = 'badge-warning'; break; // Hold
-                            case 7: $statusBadgeClass = 'badge-dark'; break; // Cancel
-                            case 8: $statusBadgeClass = 'badge-info'; break; // Scheduled
-                        }
-
-                        // Fetch assigned users for existing record
-                        $commentAssignedUserNames = [];
-                        $commentAssignSql = "SELECT AssignedTo FROM Requirement_AssignedTo WHERE RequirementCommentID = ".$c['id'];
-                        $commentAssigned = db::getInstanceMaster()->db_select($commentAssignSql);
-                        if (!empty($commentAssigned['result_set'])) {
-                            foreach ($commentAssigned['result_set'] as $ca) {
-                                // $assignedUserIds[] = $assignedRow['AssignedTo'];
-
-                                // Populate assignedUserNames array
-                                if (isset($allUsersMap[$ca['AssignedTo']])) {
-                                    $commentAssignedUserNames[] = $allUsersMap[$ca['AssignedTo']];
+                            if (!($c['CreatedAt'] instanceof DateTime)) {
+                                try {
+                                    $c['CreatedAt'] = new DateTime($c['CreatedAt']);
+                                } catch (Exception $e) {
+                                    $c['CreatedAt'] = new DateTime();
+                                    error_log("Failed to parse date for comment: " . $e->getMessage());
                                 }
                             }
-                        } 
+
+                            // Determine the status label and badge class for display in the overview
+                            $currentStatusLabel = $statusLabels[$c['Status'] ?? 0] ?? 'Unknown';
+                            $statusBadgeClass = 'badge-secondary'; // Default
+                            switch ($c['Status'] ?? 0) {
+                                case 0: $statusBadgeClass = 'badge-info'; break; // Assigned*
+                                case 1: $statusBadgeClass = 'badge-warning'; break; // In Progress
+                                case 2: $statusBadgeClass = 'badge-secondary'; break; // Completed (Pending Review)
+                                case 3: $statusBadgeClass = 'badge-primary'; break; // Reviewed
+                                case 4: $statusBadgeClass = 'badge-success'; break; // Closed
+                                case 5: $statusBadgeClass = 'badge-danger'; break; // Rework
+                                case 6: $statusBadgeClass = 'badge-warning'; break; // Hold
+                                case 7: $statusBadgeClass = 'badge-dark'; break; // Cancel
+                                case 8: $statusBadgeClass = 'badge-info'; break; // Scheduled
+                            }
+
+                            // Fetch assigned users for existing record
+                            $commentAssignedUserNames = [];
+                            $commentAssignSql = "SELECT AssignedTo FROM Requirement_AssignedTo WHERE RequirementCommentID = ".$c['id'];
+                            $commentAssigned = db::getInstanceMaster()->db_select($commentAssignSql);
+                            if (!empty($commentAssigned['result_set'])) {
+                                foreach ($commentAssigned['result_set'] as $ca) {
+                                    // $assignedUserIds[] = $assignedRow['AssignedTo'];
+
+                                    // Populate assignedUserNames array
+                                    if (isset($allUsersMap[$ca['AssignedTo']])) {
+                                        $commentAssignedUserNames[] = $allUsersMap[$ca['AssignedTo']];
+                                    }
+                                }
+                            } 
+                        
                     ?>
                         
                             <div class="comment-box d-flex align-items-start p-2 rounded shadow1-sm" style="background: transparent !important;    border-bottom: 1px solid #dbdbdb;">
@@ -338,11 +370,11 @@ if (!$isNewRecord) {
                                 <div class="flex-grow-1" style="background: white !important;border-radius: 9px;padding: 5px;margin-left: 3px;">
                                     <div class="fw-bold mb-1" style="font-size: 13px;">
                                         <b style="display: inline-block;text-decoration:underline">
-                                            <?php if($category == 1  && $_SESSION['user_id'] != $c['CreatedBy']){?>
-                                                MF Developer
-                                            <?php } else{ ?>
+                                            <?php //if($category == 1  && $_SESSION['user_id'] != $c['CreatedBy']){?>
+                                                <!-- MF Developer -->
+                                            <?php //} else{ ?>
                                                 <?= htmlspecialchars($c['Name'] ?? 'Unknown') ?>
-                                            <?php } ?>
+                                            <?php //} ?>
                                             </b>
                                         <span style="font-size: 10px;color: #8c8c8c;">
                                             <?= $c['CreatedAt']->format('d-m-Y h:i A') ?> 
@@ -357,32 +389,33 @@ if (!$isNewRecord) {
                                             ?>
                                         </span>
 
-                                        <?php if($category == 2 || $category == 3){ ?>
-                                            <div class="comment-meta text-muted small" style="display: inline-block;float: right;">                                           
+                                      
+                                        <div class="comment-meta text-muted small" style="display: inline-block;float: right;">                                         
                                             <span class="badge <?= $statusBadgeClass ?>"><?= htmlspecialchars($currentStatusLabel) ?></span>
-                                            <?php if (!empty($commentAssignedUserNames)): ?>
-                                                Assigned to: 
-                                                <?php foreach ($commentAssignedUserNames as $name): ?>
-                                                    <span class="badge bg-primary1"><?= htmlspecialchars($name) ?></span>
-                                                <?php endforeach; ?>
-                                            <?php endif; ?>
-                                            <?php 
-                                                $tmpDueDate1 =  $c['DueDate'];
-                                                if($tmpDueDate1 == null || $tmpDueDate1 == ''){
-                                                    
-                                                }else{
-                                                    // $c['DueDate'] = $tmpDueDate1->format('Y-m-d');
-                                                    echo "<b>Due: ". $c['DueDateDD'] = $tmpDueDate1->format('d-m-Y') . '</b>';
-                                                    // $today = new DateTime("now");
-                                                    // $tmpDueDate1 = new DateTime($c['DueDate']);
-                                                    // $ddd = $today->diff($tmpDueDate1);
-                                                    // $DateDifference = $ddd->format('Due: %R%a days');
-                                                    // if($ddd->format('%a'))
-                                                }
-                                            // echo "-".$c['DueDate']; 
-                                            ?>
+                                            <?php if($category == 2 || $category == 3){ ?>
+                                                <?php if (!empty($commentAssignedUserNames)): ?>
+                                                    Assigned to: 
+                                                    <?php foreach ($commentAssignedUserNames as $name): ?>
+                                                        <span class="badge bg-primary1"><?= htmlspecialchars($name) ?></span>
+                                                    <?php endforeach; ?>
+                                                <?php endif; ?>
+                                                <?php 
+                                                    $tmpDueDate1 =  $c['DueDate'];
+                                                    if($tmpDueDate1 == null || $tmpDueDate1 == ''){
+                                                        
+                                                    }else{
+                                                        // $c['DueDate'] = $tmpDueDate1->format('Y-m-d');
+                                                        echo "<b>Due: ". $c['DueDateDD'] = $tmpDueDate1->format('d-m-Y') . '</b>';
+                                                        // $today = new DateTime("now");
+                                                        // $tmpDueDate1 = new DateTime($c['DueDate']);
+                                                        // $ddd = $today->diff($tmpDueDate1);
+                                                        // $DateDifference = $ddd->format('Due: %R%a days');
+                                                        // if($ddd->format('%a'))
+                                                    }
+                                                // echo "-".$c['DueDate']; 
+                                                ?>
+                                            <?php } ?>
                                         </div>
-                                        <?php } ?>
                                     </div>
                                     <div class="comment-text mb-1">
                                         <?= nl2br(htmlspecialchars($c['CommentText'])) ?>
@@ -430,14 +463,6 @@ if (!$isNewRecord) {
                 foreach ($result['result_set'] as $user) {
                     $mapGroupSupportUsers[] = $user['UserID'];
                 }
-
-                $hardcodedUsers = [1019, 1018];  // your 2 hard-coded IDs
-
-                foreach ($hardcodedUsers as $id) {
-                    if (!in_array($id, $mapGroupSupportUsers)) {
-                        $mapGroupSupportUsers[] = $id;   // add only if not already present
-                    }
-                }
             }
             ?>
             <input type="hidden" id="userAssignedTo" value='<?php echo json_encode($mapGroupSupportUsers); ?>'>
@@ -482,6 +507,15 @@ if (!$isNewRecord) {
         <div class="form-group col-md-9">
             <label for="newComment" class="form-label font-weight-bold text-dark">Your Comment</label>
             <textarea id="newComment" rows="3" class="form-control" placeholder="Enter comment..."></textarea>
+            <!-- Only if the session user is listed in the support users for the group then it will allow for show this comment. or Mgmt team -->
+             <?php
+             //select * from map_group_support_users where GroupID = 18 and UserID = 1020
+                $sql = "SELECT * FROM map_group_support_users WHERE GroupID={$_SESSION['group_id']} AND UserID={$_SESSION['user_id']}";
+                $result = db::getInstanceMaster()->db_select($sql);
+                if ($result && $result['num_rows'] > 0) {
+             ?>
+                <label><input type="checkbox" id="isShowComments" name="isShowComments" value="0"> Show this comment to client</label>
+            <?php } ?>
         </div>
         <?php endif; ?>
             <?php if($category == 2 || $category == 3){ ?>
@@ -516,41 +550,41 @@ if (!$isNewRecord) {
     </div>  
     
     <?php if (!$isNewRecord): // Only show comment section in update mode ?>
-        
-        <div>
-            <?php if ($getReadReceiptResults['num_rows'] > 0): ?>
-            <h6 class="h6 font-weight-bold text-dark mb-0">Read Receipts</h6>
-            <div class="row border rounded bg-light" style="max-height: 250px; overflow-y: auto;background-color: #dee2e685 !important;">
-                <?php foreach ($getReadReceiptResults['result_set'] as $r): ?>
-                    <div class="col-md-4">
-                    <div class=" comment-box d-flex1 align-items-start1 p-2 rounded shadow1-sm" style="/* background: transparent !important; // border-bottom: 1px solid #dbdbdb; */">
-                        <!-- Avatar -->
-                        <div class="avatar-circle flex-shrink-0 me-3" style="margin-right:2px;">
-                                <?= strtoupper(substr($r['Name'] ?? 'U', 0, 1)) ?>
-                        </div>
+        <?php if( $category == 2){ ?>
+            <div>
+                <?php if ($getReadReceiptResults['num_rows'] > 0): ?>
+                <h6 class="h6 font-weight-bold text-dark mb-0">Read Receipts</h6>
+                <div class="row border rounded bg-light" style="max-height: 250px; overflow-y: auto;background-color: #dee2e685 !important;">
+                    <?php foreach ($getReadReceiptResults['result_set'] as $r): ?>
+                        <div class="col-md-4">
+                        <div class=" comment-box d-flex1 align-items-start1 p-2 rounded shadow1-sm" style="/* background: transparent !important; // border-bottom: 1px solid #dbdbdb; */">
+                            <!-- Avatar -->
+                            <div class="avatar-circle flex-shrink-0 me-3" style="margin-right:2px;">
+                                    <?= strtoupper(substr($r['Name'] ?? 'U', 0, 1)) ?>
+                            </div>
 
-                        <!-- Comment Content -->
-                        <div class="flex-grow-1" style="background: white !important;border-radius: 9px;padding: 5px;margin-left: 3px;">
-                            <div class="fw-bold mb-1" style="font-size: 13px;">
-                                <b style="display: inline-block;">
-                                    <?php if($category == 1 && $r['UserID'] != $_SESSION['user_id']){ ?>
-                                        MF developer
-                                    <?php }else{ ?>
-                                        <?= $r['Name'] ?>
-                                    <?php } ?>
-                                </b>
-                            </div>
-                            <div class="comment-text mb-1" style="font-size: 11px;"><?= $r['ReadAt']->format('d-m-Y h:i A') ?></div>
-                                    
+                            <!-- Comment Content -->
+                            <div class="flex-grow-1" style="background: white !important;border-radius: 9px;padding: 5px;margin-left: 3px;">
+                                <div class="fw-bold mb-1" style="font-size: 13px;">
+                                    <b style="display: inline-block;">
+                                        <?php if($category == 1 && $r['UserID'] != $_SESSION['user_id']){ ?>
+                                            MF developer
+                                        <?php }else{ ?>
+                                            <?= $r['Name'] ?>
+                                        <?php } ?>
+                                    </b>
+                                </div>
+                                <div class="comment-text mb-1" style="font-size: 11px;"><?= $r['ReadAt']->format('d-m-Y h:i A') ?></div>
+                                        
+                                </div>
                             </div>
                         </div>
-                    </div>
-                <?php endforeach; ?>
-                   
-            </div>
-            <?php endif; ?>
-        </div>  
-           
+                    <?php endforeach; ?>
+                    
+                </div>
+                <?php endif; ?>
+            </div>  
+        <?php } ?>
     <?php endif; ?>
 
     <!-- <div class="d-flex justify-content-end">

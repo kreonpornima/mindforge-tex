@@ -18795,6 +18795,8 @@ function createMore1($m,$d,$gd,$r,$id,$FormID, $db){
 							$fieldKey = $d[7] . '|' . $m[$i][1];
 
 							$inputVal = isset($v[$k][$i]) ? $v[$k][$i] : '';
+							// echo "<br>inputval",$inputVal;
+							// print_r($fieldOptions);
 							$displayText = $fieldOptions[$fieldKey][$inputVal] ?? '';
 
 							if ($m[$i][32] == 1) {

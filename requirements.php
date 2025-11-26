@@ -575,6 +575,7 @@ $getUsersResult = db::getInstanceMaster()->db_select($getUsers);
                         // if (strlen($reqShort) > 100) {
                         //     $reqShort = substr($reqShort, 0, 297) . '...';
                         // }
+                    if($_SESSION['Category'] == 2 || $_SESSION['Category'] == 3){
                     ?>
                     <div class="badge
                         <?php
@@ -585,9 +586,10 @@ $getUsersResult = db::getInstanceMaster()->db_select($getUsers);
                         ?>">
                         <?= $priority ?>
                     </div>
+                    <?php } ?>
                     <strong class="one-line-ellipsis"><?= $reqShort ?></strong>
                     <small>Created By:<b> <?= htmlspecialchars($req['Name'] ?? '-') ?></b>
-                        <?php if($_SESSION['Category'] == 2 ||$_SESSION['Category'] == 3){ ?>
+                        <?php if($_SESSION['Category'] == 2 || $_SESSION['Category'] == 3){ ?>
                             | Last Updated By:<b><?= $req['LatestUpdatedBy'] ?></b>
                         <?php if (!empty($req['Last_Assigned_Users'])): ?>
                             | Last Assigned To: <b><?= $req['Last_Assigned_Users'] ?></b>
@@ -783,9 +785,8 @@ $getUsersResult = db::getInstanceMaster()->db_select($getUsers);
 
                 var assignedTo = $('#assignedTo').val(); // Gets value from the current Select2
             }
-            console.log("assignedTo",assignedTo);
+          
             var priority = $('#prioritySelect').val();
-            
             const URLForm = $('#URLForm').val(); 
             const duedate = $('#duedate').val(); 
 
@@ -798,6 +799,15 @@ $getUsersResult = db::getInstanceMaster()->db_select($getUsers);
             formData.append('URLForm', URLForm);
             formData.append('priority', priority);
             formData.append('duedate', duedate);
+            if ($('#isShowComments').length > 0) {
+                let isShowComments = $('#isShowComments').is(':checked') ? 1 : 0;
+                formData.append('isShowComments', isShowComments);
+            }
+
+            if ($('#typeOfIssue').length > 0) {
+                var typeOfIssue = $('#typeOfIssue').val();
+                formData.append('typeOfIssue', typeOfIssue);
+            }
             
 
             console.log(assignedTo);

@@ -313,6 +313,7 @@
 
       $('#groupColumnIdsDivExpand').innerHTML="";
       $(".groupColumnIdsDivExpand").hide();
+
       checkboxState = [];
       console.log("pornima on document ready",checkboxState);
       selectedType = $(this).val();
@@ -448,6 +449,23 @@
 
               const mergedDefs = mergeTemplateState(gridApi.getColumnDefs(), data.columns);
               gridApi.setGridOption('columnDefs',mergedDefs);
+
+              // RESTORE CHARTS (if template contains chartModels)
+              if (data.chartModels && data.chartModels.length > 0) {
+                  console.log("Restoring charts from template:", data.chartModels);
+
+                  // Delay required because grid must fully re-render first
+                  setTimeout(() => {
+                      data.chartModels.forEach(model => {
+                          try {
+                              gridApi.restoreChart(model);
+                              console.log("Chart restored:", model.chartId || model);
+                          } catch (err) {
+                              console.error("Error restoring chart:", err, model);
+                          }
+                      });
+                  }, 250);
+              }
             
               // if (data.rowGroupExpansion?.expandedRowGroupIds) {
               //     gridApi.forEachNode(node => {
@@ -489,7 +507,7 @@
               //groupDisplayType set here
               if (data.groupDisplayType != '' && data.groupDisplayType != undefined && data.groupDisplayType != null) {
                 gridApi.setGridOption("groupDisplayType", data.groupDisplayType);
-                gridApi.setGridOption("pivotMode", false);
+                gridApi.setGridOption("pivotMode", data.groupDisplayType === 'multipleColumn' ? true : false);
                 $('#groupDisplayType').val(data.groupDisplayType);
                 $('#group_display_type').val(data.groupDisplayType);
                 gridApi.setGridOption('groupHideOpenParents',data.groupDisplayType === 'multipleColumn' ? true : false);
@@ -510,7 +528,6 @@
               $('#pdfFontSizeclassSelector').val(data.pdf_font_size);
               $('#pdf_cell_padding').val(data.pdf_cell_padding);
               $('#pdfCellPaddingclassSelector').val(data.pdf_cell_padding);
-
 
             }
         }
@@ -3180,6 +3197,8 @@ if($_GET['Submit'] == "FILTER"){ // commented by pornima|| sizeof($code) == 0?>
       h.pdf_font_size = $("#pdf_font_size").val();
       h.pdf_cell_padding = $('#pdf_cell_padding').val();
       h.groupDisplayType = $('#group_display_type').val();
+      h.sort_Column = $('#sort_Column').val();
+      
 
       const groupState = [];
       // gridApi.forEachNode(node => {
@@ -3220,7 +3239,7 @@ if($_GET['Submit'] == "FILTER"){ // commented by pornima|| sizeof($code) == 0?>
 
       $("#templatetitle").val("");
 
-      sendStorageRequestSaveAs(tempName, "json", "POST", pivotglobalstate, templateDescription, 0, templateRename);
+      // sendStorageRequestSaveAs(tempName, "json", "POST", pivotglobalstate, templateDescription, 0, templateRename);
   }
   
 </script>   
@@ -3437,6 +3456,19 @@ if($_GET['Submit'] == "FILTER"){ // commented by pornima|| sizeof($code) == 0?>
     h.pdf_cell_padding = $('#pdf_cell_padding').val();
     h.checkboxState= checkboxState;
     h.groupDisplayType = $('#group_display_type').val();
+
+    const chartModels = gridApi.getChartModels();
+    h.chartModels = chartModels || [];
+    console.log("Saved chartModels:", h.chartModels);
+    
+
+    var sort_ColumnsValues = [];
+
+    $("input[name='sort_ColumnsValues[]']:checked").each(function () {
+        sort_ColumnsValues.push($(this).val());
+    });
+    h.sort_Column = sort_ColumnsValues;
+
     j=gridApi.getColumnState();
     h.columns=j;
     h.columnDefs=storeColDefs;
@@ -3472,7 +3504,7 @@ if($_GET['Submit'] == "FILTER"){ // commented by pornima|| sizeof($code) == 0?>
     }
 
     // if(templateId)
-    console.log("pivotglobalstate", pivotglobalstate);
+    // console.log("pivotglobalstate", pivotglobalstate);
     return sendStorageRequestSaveAs(tempName, "json", "POST", pivotglobalstate, templateDescription, templateId, 0);
   } 
 
@@ -4337,6 +4369,9 @@ if($_GET['Submit'] == "FILTER"){ // commented by pornima|| sizeof($code) == 0?>
  
   let savedCheckboxState = [];
   let expandCheckboxesInitialized = false;
+  let sortApplied = false;
+  let isSortColumn = true;
+
   // console.log("DrillStructure.length for Grid Options", DrillStructure)
   if(DrillStructure == null){
     // alert("h");
@@ -4419,40 +4454,7 @@ if($_GET['Submit'] == "FILTER"){ // commented by pornima|| sizeof($code) == 0?>
         onGridReady:e=>{
           console.log("on grid ready**************")
           topg=0;
-          /*if(tempName){ 
-            getDataFromAPI(<?php echo $ReportID; ?>, templateId, tempName, templateDescription, typeId, (error, data) => {
-              // console.log("in grid getData",count++);
-              if (error) {
-                console.error('Error fetching data:', error);
-                // console.log("in if");
-              } else {
-                // alert("before fetching ")
-                pivotglobalsource=data;
-                // console.log("trty",pivotglobalsource);
-                // console.log("Fetched",data);
-                // console.log("daata.filter",data.filter);
-                // console.log("data.filter.filterMOdel",data.filter.filterModel);
 
-                console.log(data.columns);
-                gridApi.applyColumnState({ 
-                  state: data.columns,
-                  applyOrder: true,
-                });
-                console.log("Top Pivot in GridReady", toppivot);
-                if(toppivot){
-                  gridApi.setGridOption("pivotMode", toppivot.pivotMode);
-                }
-                
-                topfilters=undefined;
-                if(data.filter != undefined){
-                    topfilters =data.filter.filterModel
-                    gridApi.setFilterModel(topfilters);
-                }
-                // console.log("After Fetche",gridApi.getState());
-              }
-            });
-          }
-          */
           // Initialize checkboxState based on savedCheckboxState if it's not undefined
           console.log("data**************")
           console.log(data)
@@ -4488,7 +4490,11 @@ if($_GET['Submit'] == "FILTER"){ // commented by pornima|| sizeof($code) == 0?>
           }
           // console.log("autosizing all columns")
           // gridApi.sizeColumnsToFit();
+
         },
+
+
+
         onStateUpdated:event =>{
           console.log("OnStateUpdated Event")
           topg++
@@ -4564,7 +4570,7 @@ if($_GET['Submit'] == "FILTER"){ // commented by pornima|| sizeof($code) == 0?>
               });
             // }
           }
-           console.log("Test3",checkboxState);
+          
           // Update UI only if there are checkboxes to display
           if(checkboxState !== undefined){  //if (checkboxState.length > 0) {
             // console.log("After Setting checkboxstate 2", checkboxState)
@@ -4850,6 +4856,7 @@ if($_GET['Submit'] == "FILTER"){ // commented by pornima|| sizeof($code) == 0?>
               editableStructure = fullData1[2];
               DrillStructure = fullData1[3];
               allDataKeys = fullData[4];
+              console.log("allDataKeys",allDataKeys);
               allData = data;
               if(DrillStructure.length > 0){
                   // console.log("DRILL", columnDefs);
@@ -4881,6 +4888,7 @@ if($_GET['Submit'] == "FILTER"){ // commented by pornima|| sizeof($code) == 0?>
                           // window.gridApi = params.api;
                           window.gridColumnApi = params.columnApi;
                       },
+
                       onRowGroupOpened: function(event) {
                           const context = event.api.getContext?.() || event.api.context;
                           const rowId = event.node?.data?.id;
@@ -5839,8 +5847,6 @@ if($_GET['Submit'] == "FILTER"){ // commented by pornima|| sizeof($code) == 0?>
     `).join('');
   }
 
-  
-
 
   // function isChecked(id) {
   //   console.log("checkboxState columnid isChecked? : ", id)
@@ -5852,7 +5858,6 @@ if($_GET['Submit'] == "FILTER"){ // commented by pornima|| sizeof($code) == 0?>
         return false;
     }
     const checkbox = checkboxState.find(([columnId]) => columnId === id);
-    console.log("Test6",checkboxState);
     return checkbox ? checkbox[1] : false;
   }
 
@@ -5863,7 +5868,6 @@ if($_GET['Submit'] == "FILTER"){ // commented by pornima|| sizeof($code) == 0?>
       checkbox.addEventListener('change', (event) => {
         updateCheckboxState(event.target.id, event.target.checked);
         // updateGridOptions
-         console.log("Test7",checkboxState);
         // console.log("checkboxState after change:", checkboxState);
         // gridApi.refreshCells({ force: true });
       });
