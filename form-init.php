@@ -25,7 +25,7 @@ $k_user_id = $_SESSION["user_id"];
 if($k_user_id == 1020 ) echo "hhh".$_SESSION['dbName'];
 // echo "hhh".$_SESSION['user_id'];
 // echo "HHHH".$_SESSION['dbHost'];
-// echo "HHHH".$_SESSION['dbCompany'];
+// echo "HHHH".$_SESSION['group_id'];
 
 function checkVariable($str){ //CHECK IF THERE IS A VARIABLE AND CONVERT IT
 	if(strpos($str,"$") !== false){
@@ -15834,7 +15834,7 @@ function createMore1($m,$d,$gd,$r,$id,$FormID, $db){
 						$flds .= '<option  value="'. $row1[$j][$dbarray[1]] .'" selected>'.$row1[$j][$dbarray[2]].'</option>&nbsp;';
 					}
 				}else{
-					$flds .= '<option value="">'.$m[$i][2].'</option>';
+					$flds .= '<option value="0">'.$m[$i][2].'</option>';
 				}
 
 				$flds .= '</select>';
@@ -18337,9 +18337,8 @@ function createMore1($m,$d,$gd,$r,$id,$FormID, $db){
 							
 
 							if((mArray[t][17] == null || mArray[t][17].length == 0) || (mArray[t][16] == null || mArray[t][16].length == 0)){
-
 								// $("#kreon-grid-'.$d[3].'"+mArray[t][1]).select2("open");
-								$("#kreon-grid-'.$d[3].'"+mArray[t][1]).val(0).trigger("change"); // Remove DD selected field from first row
+								$("#kreon-grid-'.$d[3].'"+mArray[t][1]).val("0").trigger("change"); // Remove DD selected field from first row
 								// $("#kreon-grid-'.$d[3].'"+mArray[t][1]).select2("close");
 							}
 
@@ -18470,9 +18469,11 @@ function createMore1($m,$d,$gd,$r,$id,$FormID, $db){
 					
 					var isFocusOnSpecificField = false;
 					if("'.$d[9].'".length > 1){
+						alert("hi");
 						//Cursor focus on grid perticular field that was mention in AfterGridAddCursorPosition field
 						isFocusOnSpecificField = true;
 					}else{
+						alert("hi");
 						//on click add button next grid not found then exicute this code. else as per tab index it will move focus to next field
 					
 						var addButton = $(".add'.$d[3].'");
@@ -18528,6 +18529,7 @@ function createMore1($m,$d,$gd,$r,$id,$FormID, $db){
 
 							$("#" + cursorPositionField).focus();
 						}else if(cursorFieldType == "select-one"){
+							
 							$("#" + cursorPositionField).select2("open");
 							focusSelect2Search();
 						}
@@ -18641,6 +18643,7 @@ function createMore1($m,$d,$gd,$r,$id,$FormID, $db){
 				for ($i = 0; $i < sizeof($m); $i++) {
 					if ($m[$i][0] == 5 && $m[$i][3] < 0) { // dropdown-from-DB
 						$dbarray = $moreextradb[$d[7]][$m[$i][1]];
+					
 						$fieldKey = $d[7] . '|' . $m[$i][1]; // unique key per field
 
 						$inputVal = isset($v[$k][$i]) ? $v[$k][$i] : null;
@@ -18653,9 +18656,10 @@ function createMore1($m,$d,$gd,$r,$id,$FormID, $db){
 				}
 			}
 
+
 			$fieldOptions = []; // id→label cache per field
 			foreach ($fieldData as $key => $info) {
-				$dbarray = $info['dbarray'];
+				$dbarray = array_map('trim', $info['dbarray']);//$info['dbarray'];
 				$ids = array_unique($info['ids']);
 				$idList = implode(',', array_map('intval', $ids));
 
@@ -18670,6 +18674,7 @@ function createMore1($m,$d,$gd,$r,$id,$FormID, $db){
 					$fieldOptions[$key][$row[$dbarray[1]]] = $row[$dbarray[2]];
 				}
 			}
+
 			
 			for($k = 0; $k < sizeof($v); $k++){
 				// $fvals .= $headerGridStart . $k . $headerGridEnd;

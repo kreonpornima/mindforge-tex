@@ -695,11 +695,13 @@ if(strlen($db[0]) > 1){
                 $sub_array[$fieldName] = $temp->format('d-m-Y');  // Using field name as the key
             } else {
                 if ($fieldName == 'pending') {
-                    $sub_array[$fieldName] = '<input type="text" readonly class="form-control " name="pending" id="pending" style="text-align:right;" value="'.Encoding::fixUTF8($row[$i]['pending'], Encoding::ICONV_IGNORE).'"/>';
+                    $pending = isset($row[$i]['pending']) ? number_format((float)$row[$i]['pending'], 2, '.', '') : '0.00';
+                    $sub_array[$fieldName] = '<input type="text" readonly class="form-control " name="pending" id="pending" style="text-align:right;" value="'.Encoding::fixUTF8($pending, Encoding::ICONV_IGNORE).'"/>';
                 } else if ($fieldName == 'adjamount') {
                     $sub_array[$fieldName] = '<div class="form-inline"><input type="number" style="width:70%;" class="form-control" onkeyup="getBillCalculation(this,\'keyup\',\'adjamount\')" name="'. $fieldName .'" id="'. $fieldName .'" min="0" max="'.Encoding::fixUTF8($row[$i]['pending'],Encoding::ICONV_IGNORE).'" value="'.Encoding::fixUTF8($row[$i]['adjamount'],Encoding::ICONV_IGNORE).'"/><a style="padding:3px;" href="javascript:void(0)" class="btn btn-success autofill" onclick="autoFill(this,\'adjamount\')"><span style="float:left;width:10%;" class="glyphicon glyphicon glyphicon-ok" aria-hidden="true"></span></a></div>';
                 } else if ($fieldName == 'balance' && trim($value) == 'adjamount') {
-                    $sub_array[$fieldName] = '<input type="number" class="form-control" name="balance" id="balance" value="'.Encoding::fixUTF8($row[$i]['balance'], Encoding::ICONV_IGNORE).'"/>';
+                    $balance = isset($row[$i]['balance']) ? number_format((float)$row[$i]['balance'], 2, '.', '') : '0.00';
+                    $sub_array[$fieldName] = '<input type="number" class="form-control" name="balance" id="balance" value="'.Encoding::fixUTF8($balance, Encoding::ICONV_IGNORE).'"/>';
                 } else {
                     $sub_array[$fieldName] = Encoding::fixUTF8($row[$i][$fieldName], Encoding::ICONV_IGNORE);
                 }
@@ -803,11 +805,14 @@ if(strlen($DataSpParams) > 1){
 
                     // Handle specific fields
                     if ($paramLower == 'pending') {
-                        $dataArray[$param] = '<input type="text" readonly class="form-control" name="pending" id="pending" style="text-align:right;" value="'.Encoding::fixUTF8($row['pending'], Encoding::ICONV_IGNORE).'"/>';
+                        // $dataArray[$param] = '<input type="text" readonly class="form-control" name="pending" id="pending" style="text-align:right;" value="'.Encoding::fixUTF8($row['pending'], Encoding::ICONV_IGNORE).'"/>';
+                        $pending = isset($row['pending']) ? number_format((float)$row['pending'], 2, '.', '') : '0.00';
+                        $dataArray[$param] = '<input type="number" readonly class="form-control" name="pending" id="pending" style="text-align:right;" value="'.Encoding::fixUTF8($pending, Encoding::ICONV_IGNORE).'"/>';
                     } elseif ($paramLower == 'adjamount') {
                         $dataArray[$param] = '<div class="form-inline"><input type="number" style="width:70%;" class="form-control" onkeyup="getBillCalculation(this,\'keyup\',\'adjamount\')" name="adjamount" id="adjamount" min="0" max="'.$rowLower['pending'].'" value="'.Encoding::fixUTF8($row['adjamount'], Encoding::ICONV_IGNORE).'"/><a style="padding:3px;" href="javascript:void(0)" class="btn btn-success autofill" onclick="autoFill(this,\'adjamount\')"><span  class="glyphicon glyphicon glyphicon-ok" aria-hidden="true" title="(Alt+K)"></span></a></div>';
                     } elseif ($paramLower == 'balance') {
-                        $dataArray[$param] = '<input type="number" class="form-control" name="balance" id="balance" value="'.Encoding::fixUTF8($row['balance'], Encoding::ICONV_IGNORE).'"/>';
+                        $balance = isset($row['balance']) ? number_format((float)$row['balance'], 2, '.', '') : '0.00';
+                        $dataArray[$param] = '<input type="number" class="form-control" name="balance" id="balance" value="'.Encoding::fixUTF8($balance, Encoding::ICONV_IGNORE).'"/>';
                     } else {
                         if (gettype($value) == 'object') {
                             // $temp = $row[$param];

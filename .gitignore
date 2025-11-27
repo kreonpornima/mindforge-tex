@@ -22,3 +22,7 @@ dbClassMSSQL.php
 /sandbox
 /vendor/
 .tmp*
+.tmp.driveupload/
+*.tmp
+*.temp
+tmp/

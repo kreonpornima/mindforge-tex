@@ -914,6 +914,19 @@ $getUsersResult = db::getInstanceMaster()->db_select($getUsers);
             url.searchParams.set('formId', currentFormId);
             window.location.href = url.toString();
         }
+
+        
+        function saveIssueType(requirementID) {
+            var dropdownValue = document.getElementById('typeOfIssue').value;
+            $.ajax({
+                type : 'POST',
+                dataType: 'json',
+                data : { action : 'update_IssueType', typeOfIssue: dropdownValue, id: requirementID },
+                url : "requirementAction.php",
+                success : function(result){
+                }
+            })
+        }
     </script>
     <script>
         <?php //echo $NotifID;

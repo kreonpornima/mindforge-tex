@@ -450,8 +450,17 @@
               const mergedDefs = mergeTemplateState(gridApi.getColumnDefs(), data.columns);
               gridApi.setGridOption('columnDefs',mergedDefs);
 
+             
+              // 1. Remove existing charts (DOM level)
+            setTimeout(() => {
+                document.querySelectorAll('.ag-chart, .ag-charts-container').forEach(el => {
+                    el.remove();
+                });
+                console.log("Existing charts removed");
+            }, 10);
+
               // RESTORE CHARTS (if template contains chartModels)
-              if (data.chartModels && data.chartModels.length > 0) {
+              if (Array.isArray(data.chartModels) && data.chartModels.length > 0) {
                   console.log("Restoring charts from template:", data.chartModels);
 
                   // Delay required because grid must fully re-render first
@@ -2585,10 +2594,10 @@ if(is_array($code)){
           <h2 class="panel-title">Report Filters</h2>
       </div>
       <div>
-        <?php if($_SESSION['Category'] == 2){ ?>
+       
           <button class="btn btn-info btn-xs" onclick="openSQLModal('full')">SQL</button>
-          <button style="margin-right:40px;" class="btn btn-success btn-xs" onclick="openRequirementModal()">Requirements</button>
-        <?php } ?>
+          <button style="margin-right:40px;" class="btn btn-success btn-xs" onclick="openRequirementModal()">Support Tickets</button>
+      
       </div>
         <!-- <p class="panel-subtitle">2 of 4 filters selected</p> -->
 

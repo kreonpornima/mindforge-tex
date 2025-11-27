@@ -414,7 +414,7 @@ switch($case){
         // $ModuleID = 12;
         setClientRegisterID($RegID, $user_id, $case);
         $queryString = htmlspecialchars($_SERVER['QUERY_STRING'], ENT_QUOTES);
-        $URL = 'https://ai.mindforgeerp.com/generatePDF2.php?' . $queryString;
+        $URL = 'http://106.201.231.148:8080/tex/generatePDF2.php?' . $queryString;
         $output['data'] = json_decode(CallAPI("GET",  utf8_decode(urldecode($URL))));
         // valjierp fabric div 79
         // generatePDF2.php?ReportID=3035&templateId=297&filterData=template%3D297%26company%3D24%26division%3D1%26year%3D2526%26printer%3D%26papersize%3D%26paperorientation%3D%26exporttype%3D31%26ssdt1%3D%26ssdt%3D%26controlid%3D%26brokerid%3D%26markp%3D%26partyid%3D%26cityid%3D%26stateid%3D%26out_stsid%3D1%26partgrp%3D%26page%2520option%3DPARTY%2520WISE%26GROUP%2520OPTION%3DPARTY%2520WISE%26SELECT%2520DAYS%2520DATE%3DSELECT%2520DATE%26ssdt%3D2025-04-01%26lldt%3D2025-10-17%26company%3D24%26division%3D1%26year%3D2526&paramData=page%2520option%3DPARTY%2520WISE%26GROUP%2520OPTION%3DPARTY%2520WISE%26SELECT%2520DAYS%2520DATE%3DSELECT%2520DATE&ssdt=2025-04-01&lldt=2025-10-17&company=24&division=1&year=2526&printer=&papersize=&paperorientation=&exporttype=31        

@@ -65,12 +65,15 @@ if($user_access){
 			
 			$result = db::getInstanceMaster()->db_select($sql, "H-32");
 			// print_r($result);
+			
 			if($result['num_rows'] == 0){				
 				echo '<script>alert("This user has logged in from a different device.");</script>';
 				echo '<script>window.location.replace("logout.php");</script>';
 				exit;
 			}
-			if($result['result_set'][0]['tm'] > $userSessionTimeout){
+			$tm = intval($result['result_set'][0]['tm']);
+
+			if($tm > $userSessionTimeout){
 				echo '<script>alert("You have been logged out due to inactivity. Please login again. '.$result['result_set'][0]['tm'].'mins");</script>';
 				echo '<script>window.location.replace("logout.php");</script>';
 				exit;
@@ -208,7 +211,7 @@ if(strlen($_SESSION['dbCompanyName']) == 0){ // || $_SESSION['dbCompanyName'] ==
 $getNotification = "select n.ID, n.TaskID, n.UserID, n.CreatedAt, n.ReadAt, 
 	CASE WHEN n.NotifyType = 1 THEN CONCAT(u.Name,' has assigned a Task to you.') 
 	WHEN n.NotifyType = 2 THEN CONCAT(u.Name,' has left a comment on the Task.') 
-	WHEN n.NotifyType = 3 THEN CONCAT(u.Name,' has marked to tickit as completed.') 
+	WHEN n.NotifyType = 3 THEN CONCAT(u.Name,' has marked to ticket as completed.') 
 	END as Notif_Title from Requirement_Notifications n
 	LEFT JOIN users u ON n.CreatedBy = u.ID WHERE n.ReadAt IS NULL AND UserID={$_SESSION['user_id']} ORDER BY n.ID DESC";
 $getNotificationResult = db::getInstanceMaster()->db_select($getNotification, "H-405");	

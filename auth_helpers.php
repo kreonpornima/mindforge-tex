@@ -547,7 +547,7 @@
             // VALUES ('" . $tenantid. "', '" . $token . "', GETDATE(), '" . $_SERVER['HTTP_USER_AGENT']."','". $_SERVER['REMOTE_ADDR']."')";
         $result = db::getInstanceMaster()->db_insertQuery($sql);
 
-        $qrUrl = "https://ai.mindforgeerp.com/api/qr_claim.php?token=$token&tenantid=$tenantid";
+        $qrUrl = "http://106.201.231.148:8080/tex/api/qr_claim.php?token=$token&tenantid=$tenantid";
 
         $barcode = new Barcode();
         $bobj = $barcode->getBarcodeObj('QRCODE,H', $qrUrl, -16, -16, 'black', array(-2, -2, -2, -2))->setBackgroundColor('white');

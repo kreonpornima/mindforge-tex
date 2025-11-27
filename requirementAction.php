@@ -32,7 +32,7 @@ try {
     $typeOfIssue = isset($_POST['typeOfIssue']) ? $_POST['typeOfIssue'] : 0;
 
     // Assign users to the new requirement (if any are selected)
-    $defaultUsers = [1019, 1025, 1018];
+    $defaultUsers = [1019, 1025];
 
     // if($_SESSION['user_id'] == 1020){
     //     exit();
@@ -48,13 +48,15 @@ try {
     // Ensure assignedTo values are integers for database safety
     $assignedTo = array_map('intval', (array)$assignedTo);
 
-    if (empty($requirement)) {
-        throw new Exception("Requirement description cannot be empty.");
-    }
-
+    
     $db = db::getInstanceMaster(); // Get database instance
 
     if ($action === 'add_requirement') {
+
+        if (empty($requirement)) {
+            throw new Exception("Requirement description cannot be empty.");
+        }
+
         // --- Logic for adding a NEW requirement ---
         $mediaId = 0;
 
@@ -153,6 +155,11 @@ try {
         }
 
     } else if ($action === 'update_requirement') {
+
+        if (empty($requirement)) {
+            throw new Exception("Requirement description cannot be empty.");
+        }
+
         // --- Logic for updating an EXISTING requirement ---
         if ($id === 0) { // Should not happen for an 'update' action
             throw new Exception("Cannot update: Requirement ID is missing or invalid.");
@@ -165,6 +172,7 @@ try {
         $comment = trim($_POST['comment'] ?? '');
 
         if (!empty($comment)){
+            
             // Add a new comment if the comment field is not empty
             $safeComment = Encoding::fixUTF8($comment, Encoding::ICONV_IGNORE);
             $cleanComment = db::getInstance()->real_escape_string($safeComment);
@@ -280,6 +288,21 @@ try {
                     throw new Exception("Failed to update requirement in database. " . ($updateResult['message'] ?? ''));
                 }
             }
+        }
+
+    } else if($action === 'update_IssueType'){
+        if ($id === 0) { // Should not happen for an 'update' action
+            throw new Exception("Cannot update: Requirement ID is missing or invalid.");
+        }
+
+        $sql = "UPDATE requirements set typeOfIssue=$typeOfIssue, typeOfIssueUpdatedBy={$_SESSION['user_id']} WHERE id=$id";
+        $result = db::getInstanceMaster()->db_update($sql);
+
+        if ($result['error'] == 0 ) {
+            $response['success'] = true;
+            $response['message'] = "Type of issue updated successfully!";
+        }else{
+            throw new Exception("Failed to update typeOfIssue in database. " . ($result['message'] ?? ''));
         }
 
     } else {

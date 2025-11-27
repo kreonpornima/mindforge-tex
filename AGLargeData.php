@@ -92,7 +92,7 @@
             const gridDiv = document.querySelector("#myGrid");
             let gridApi = agGrid.createGrid(gridDiv, gridOptions);
 
-            fetch("https://ai.mindforgeerp.com/reportGetDataFromView2.php?ReportID=5130&Submit=FILTER&&username=mitesh")
+            fetch("http://106.201.231.148:8080/tex/reportGetDataFromView2.php?ReportID=5130&Submit=FILTER&&username=mitesh")
                 .then(response => response.json())
                 .then((res) => {
                     // console.log(res);

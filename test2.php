@@ -1,5 +1,5 @@
 <?php
-$ch = curl_init("https://ai.mindforgeerp.com/api/general.php?case=1&email=7021676069");
+$ch = curl_init("http://106.201.231.148:8080/tex/api/general.php?case=1&email=7021676069");
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 $result = curl_exec($ch);
 if(curl_errno($ch)){

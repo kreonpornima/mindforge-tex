@@ -1,7 +1,0 @@
-@echo off
-setlocal
-cd /d V:\xampp\htdocs\tex\reports
-echo Running PDF Export for ID=%1 >> report_log.txt
-MainPDFReportExport.exe %1 >> report_log.txt 2>&1
-echo Completed for ID=%1 at %time% >> report_log.txt
-endlocal

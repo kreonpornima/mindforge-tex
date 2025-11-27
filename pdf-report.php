@@ -298,11 +298,11 @@ if($PDFPrint > 0){
 
 <?php
 $buttonsHtml = '';
-if ($_SESSION['Category'] == 2) {
+// if ($_SESSION['Category'] == 2) {
     $buttonsHtml = '
         <button class="btn btn-info btn-xs" onclick="openSQLModal(\'full\')">SQL</button>
-        <button class="btn btn-success btn-xs" style="margin-right:40px;" onclick="openRequirementModal()">Requirements</button>';
-}
+        <button class="btn btn-success btn-xs" style="margin-right:40px;" onclick="openRequirementModal()">Support Tickets</button>';
+// }
 ?>
 
 

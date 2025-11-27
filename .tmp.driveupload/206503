@@ -1,8 +1,0 @@
-[Database]
-DatabaseName=Main
-UserID=web
-//Password=d`5&M7C4W;xR>p+L'=D:s2
-Password=Web@100
-tablename=ReportJobs
-ServerName=localhost,4545
-;ServerName=106.201.231.148,4545

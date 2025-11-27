@@ -160,7 +160,7 @@ $username = $_SESSION['username'] ?? 'guest'; // fallback in case session is not
     document.addEventListener("DOMContentLoaded", function () {
         <?php
         foreach ($results['result_set'] as $report) {
-            $baseUrl = 'https://ai.mindforgeerp.com/reportGetDataFromView2-Template.php';
+            $baseUrl = 'http://106.201.231.148:8080/tex/reportGetDataFromView2-Template.php';
             $params = ['username' => $username];
 
             if (!empty($report['template_id'])) {

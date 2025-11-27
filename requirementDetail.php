@@ -32,6 +32,9 @@ $priorityLabels = [
     2 => 'High'
 ];
 
+// Define special users
+$specialUsers = [1019, 1025, 1018, 1020];
+
 // Get developers (users with Category = 2) for the assignedTo dropdown
 $usersSql = "SELECT ID, Name FROM users WHERE Category = 2 ORDER BY Name ASC"; //AND ID != $user_id
 $getUsers = db::getInstanceMaster()->db_select($usersSql);
@@ -44,7 +47,7 @@ if ($getUsers && $getUsers['num_rows'] > 0) {
 
 // Fetch data only if it's an existing record
 if (!$isNewRecord) {
-    $sql = "SELECT r.*, m.MediaName, m.MediaFolder, ai.Label as Company, k.FormName, k.ModuleType, u.Name, rc.CommentText, rc.id as CommentId, rc.CreatedAt AS CommentCreatedAt,DATEDIFF(DAY, r.CreatedAt, GETDATE()) AS PendingDays
+    $sql = "SELECT r.*, m.MediaName, m.MediaFolder, ai.Label as Company, k.FormName, k.ModuleType, u.Name, u.Username, rc.CommentText, rc.id as CommentId, rc.CreatedAt AS CommentCreatedAt,DATEDIFF(DAY, r.CreatedAt, GETDATE()) AS PendingDays
             FROM Requirements r
             LEFT JOIN kmainmedia m ON m.MediaID = r.MediaID
             LEFT JOIN AiCompany ai ON ai.ID = r.CompanyId
@@ -67,6 +70,8 @@ if (!$isNewRecord) {
 
         $requirementName  = $id . ": " . $row['CommentText'];
         $firstCommentCreatedAt = $row['CommentCreatedAt']; // Capture timestamp
+
+        $typeOfIssueSelectedValue = !empty($row['typeOfIssue']) ? $row['typeOfIssue'] : 0; 
 
         // echo $row['ModuleType'];
         $getModuleUrl = "SELECT * FROM Master_ModuleType WHERE ID =".$row['ModuleType'];
@@ -228,26 +233,70 @@ if (!$isNewRecord) {
                                 <span class="badge badge-light text-muted">Not assigned</span>
                             <?php endif; ?>
                         </div>
+                        <div class="mb-2">
+                            <!-- <strong>Created By:</strong> <a href="https://wa.me/<?= htmlspecialchars($row['Username']) ?>" target="_blank"><?= htmlspecialchars($row['Name']. " (". htmlspecialchars($row['Username']) .")" ?? '-') ?> </a> -->
+                            <?php
+                                $c_username = trim($row['Username']);
+                                $c_name     = htmlspecialchars($row['Name']);
+
+                                $isMobile = ctype_digit($c_username); // only digits → valid mobile
+                            ?>
+
+                            <strong>Created By:</strong>
+
+                            <?php if ($isMobile): ?>
+                                <a href="https://wa.me/<?= $c_username ?>" target="_blank">
+                                    <?= $c_name . " (" . htmlspecialchars($c_username) . ")" ?>
+                                </a>
+                            <?php else: ?>
+                                <?= $c_name ?>   <!-- show only name, no link, no (username) -->
+                            <?php endif; ?>
+                        </div>
+                    <?php } ?>
 
                         <div class="mb-2">
                             <strong>Type Of Issue:</strong>
-                            <select name="typeOfIssue" id="typeOfIssue" style="border: 1px solid blue; padding: 3px; border-radius: 4px;">
-                                <?php
-                                $issueType="select * from IssueTypeMaster where isActive=1";
-                                $issueTypeResult = db::getInstanceMaster()->db_select($issueType);
-                                if (!empty($issueTypeResult['result_set'])) {
-                                    echo '<option value="">Select</option>';
-                                    foreach ($issueTypeResult['result_set'] as $issueType) {
-                                        // $selected = in_array($issueType['ID'], $assignedUserIds) ? 'selected' : '';
-                                        echo '<option value="' . htmlspecialchars($issueType['ID']) . '" ' . $selected . '>' . htmlspecialchars($issueType['IssueTypeName']) . '</option>';
-                                    }
-                                } else {
-                                    echo '<option value="">No users available</option>';
-                                }
+                            <?php
+                                $sql = "SELECT * FROM map_group_support_users WHERE GroupID={$_SESSION['group_id']} AND UserID={$_SESSION['user_id']}";
+                                $result = db::getInstanceMaster()->db_select($sql);
+                                if ($result && $result['num_rows'] > 0 || in_array($_SESSION['user_id'], $specialUsers)) {
+                                    if($category == 2 || $category == 3){
                                 ?>
-                            </select>
+                                        <select name="typeOfIssue" id="typeOfIssue" onchange="saveIssueType(<?php echo $row['id']; ?>)" style="border: 1px solid blue; padding: 3px; border-radius: 4px;">
+                                            <?php
+                                            $issueType="select * from IssueTypeMaster where isActive=1";
+                                            $issueTypeResult = db::getInstanceMaster()->db_select($issueType);
+                                            
+                                            if (!empty($issueTypeResult['result_set'])) {
+                                                echo '<option value="">Select</option>';
+                                                foreach ($issueTypeResult['result_set'] as $issueType) {
+                                                    $selected = ($issueType['id'] == $typeOfIssueSelectedValue) ? 'selected' : '';
+                                                    echo '<option value="' . htmlspecialchars($issueType['id']) . '" ' . $selected . '>' . htmlspecialchars($issueType['IssueTypeName']) . '</option>';
+                                                }
+                                            }
+                                            ?>
+                                        </select>
+                                    <?php }
+                                }else{
+                                     
+                                        // SHOW ONLY SELECTED TEXT
+                                        $selectedName = '';
+
+                                        if (!empty($typeOfIssueSelectedValue)) {
+                                            $sqlName = "SELECT IssueTypeName FROM IssueTypeMaster WHERE ID = $typeOfIssueSelectedValue";
+                                            $resName = db::getInstanceMaster()->db_select($sqlName);
+
+                                            if (!empty($resName['result_set'][0]['IssueTypeName'])) {
+                                                $selectedName = $resName['result_set'][0]['IssueTypeName'];
+                                            }
+                                        }
+
+                                        // If no value found, show dash
+                                        echo '<span style="color:#000; font-weight:500;">' . ($selectedName ?: '-') . '</span>';
+                                    }
+                                ?>
                         </div>
-                    <?php } ?>
+                    
                 </div>
 
                 <!-- Right Column -->
@@ -510,11 +559,11 @@ if (!$isNewRecord) {
             <!-- Only if the session user is listed in the support users for the group then it will allow for show this comment. or Mgmt team -->
              <?php
              //select * from map_group_support_users where GroupID = 18 and UserID = 1020
-                $sql = "SELECT * FROM map_group_support_users WHERE GroupID={$_SESSION['group_id']} AND UserID={$_SESSION['user_id']}";
+                $sql = "SELECT UserID FROM map_group_support_users WHERE GroupID={$_SESSION['group_id']} AND UserID={$_SESSION['user_id']}";
                 $result = db::getInstanceMaster()->db_select($sql);
-                if ($result && $result['num_rows'] > 0) {
+                if ($result && $result['num_rows'] > 0 || in_array($_SESSION['user_id'], $specialUsers)) {
              ?>
-                <label><input type="checkbox" id="isShowComments" name="isShowComments" value="0"> Show this comment to client</label>
+            <label><input type="checkbox" id="isShowComments" name="isShowComments" value="0"> Show this comment to client</label>
             <?php } ?>
         </div>
         <?php endif; ?>
