@@ -24,7 +24,7 @@ include_once('dbClass.php');
 $FormID = isset($_POST['FormID']) ? $_POST['FormID'] : 0;
 
 // if($_SESSION['user_id'] == 1022){
- 	// if($FormID == 5842) $k_debug = 1;
+ 	if($FormID == 5173) $k_debug = 1;
 // }
 // if($FormID == 5382) echo "Number of POST variables: ".count($_POST);
 // if($FormID == 4556) echo "Size of POST data in bytes: ".strlen(serialize($_POST));
@@ -1722,7 +1722,7 @@ if($editID > 0){
 
 			$result = db::getInstance()->db_insert($mapTable, array($mapIndex, $mapVariant),array($editID, $mapValues[$j]));
 
-			print_r($result);
+			// print_r($result);
 
 		}
 
@@ -1860,7 +1860,7 @@ if($editID > 0){
 		}
 
 		$sql = $sql . substr($vals, 0, -1);
-		
+		echo "<br>dynamix flag ".$dynamixflag;
 		if($dynamixflag){
 
     		if($k_debug) echo '<br/> CD201: '. $sql;
@@ -1878,24 +1878,26 @@ if($editID > 0){
 
 			$lastid = $result['last_id'];
 
-			//Not getting inserted id so using select query getting this
-			$query4 = "SELECT TOP $rowsAffected id FROM $db WHERE $fk = $upID AND CreatedBy= '{$_SESSION['user_id']}' OR UpdatedBy= '{$_SESSION['user_id']}' ORDER BY id DESC ";
-			$query4Result = db::getInstance()->db_select($query4);
+			if($rowsAffected > 0){
+				//Not getting inserted id so using select query getting this
+				$query4 = "SELECT TOP $rowsAffected id FROM $db WHERE $fk = $upID AND CreatedBy= '{$_SESSION['user_id']}' OR UpdatedBy= '{$_SESSION['user_id']}' ORDER BY id DESC ";
+				$query4Result = db::getInstance()->db_select($query4);
 
 
-			// Extract the result from query4Result and push the ids to the $GridPK array
-			if (isset($query4Result['result_set'])) {
-				// Temporary array to hold the IDs
-				$tempArray = [];
-		
-				// Iterate over the result_set and extract the ids
-				foreach ($query4Result['result_set'] as $item) {
-					$tempArray[] = $item['id'];  // Add each id to the temporary array
-				}
-		
-				// After extracting all ids, push the tempArray into $GridPK
-				if (count($tempArray) > 0) {
-					$GridPK[] = $tempArray;
+				// Extract the result from query4Result and push the ids to the $GridPK array
+				if (isset($query4Result['result_set'])) {
+					// Temporary array to hold the IDs
+					$tempArray = [];
+			
+					// Iterate over the result_set and extract the ids
+					foreach ($query4Result['result_set'] as $item) {
+						$tempArray[] = $item['id'];  // Add each id to the temporary array
+					}
+			
+					// After extracting all ids, push the tempArray into $GridPK
+					if (count($tempArray) > 0) {
+						$GridPK[] = $tempArray;
+					}
 				}
 			}
 

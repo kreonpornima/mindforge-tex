@@ -39,12 +39,22 @@
     // }, $result['result_set'][0]);
    
     $data = $result['result_set'][0];
-    $key_name = key($data[0]); // Get the first key of the first sub-array (e.g., "name")
+    //  $key_name = key($data[0]); // Get the first key of the first sub-array (e.g., "name")
 
-    // Convert to normal array by extracting the dynamic key values
-    $normal_array = array_map(function($item) use ($key_name) {
-        return $item[$key_name]; // Use the dynamic key name
-    }, $data);
+    // Validate to prevent errors
+    if (!is_array($data) || count($data) == 0) {
+        $normal_array = [];    // return empty response
+    } else {
+        $key_name = key($data[0]); // Get the first key of the first sub-array (e.g., "name")
+        // Convert to normal array by extracting the dynamic key values
+        $normal_array = array_map(function($item) use ($key_name) {
+            return $item[$key_name]; // Use the dynamic key name
+        }, $data);
+    }
+
+    //  $normal_array = array_map(function($item) use ($key_name) {
+    //         return $item[$key_name]; // Use the dynamic key name
+    //     }, $data);
 
     // print_r(array_values($result['result_set'][0]));
     // print_r($normal_array);

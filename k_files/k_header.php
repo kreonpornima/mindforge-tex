@@ -514,7 +514,7 @@ function timeAgo($datetime) {
 				position: absolute;				
 			}
 			.userbox{
-				margin-right: 26px;
+				margin-right: 52px;
 				margin-top: 12px;
 			}
 			.header-right{
@@ -656,16 +656,19 @@ function timeAgo($datetime) {
 				margin-left: 20px;
 			}
 			.header {
-    			height: 40px;
+    			/* height: 40px; */
+				height: auto !important;
+				min-height: 40px;
+
 			}
 			.header .logo {
 				float: left;
 				margin: 0;
 			}
-			.userbox {
+			/* .userbox {
 				margin-right: 26px;
 				margin-top: 6px;
-			}
+			} */
 			table.dataTable thead .sorting {
 				/* background-image: url(../images/sort_both.png); */
 				background: none;
@@ -698,6 +701,28 @@ function timeAgo($datetime) {
 				display: none;
 			}
 
+
+			/* Desktop View */
+			.header-actions {
+				display: flex;
+				align-items: center;
+				gap: 20px;
+				margin-right: 10px;
+				float: right;
+			}
+
+			.notifications {
+				margin: 0 !important;
+			}
+
+			/* Limit username width */
+			#userbox .profile-info {
+				max-width: 160px;
+				white-space: nowrap;
+				overflow: hidden;
+				text-overflow: ellipsis;
+			}
+
 			/* On mobile screens (max-width: 768px), hide company name and show logo */
 			@media (max-width: 767px) {
 				.company-name {
@@ -716,9 +741,17 @@ function timeAgo($datetime) {
 				.company-logo {
 					display: block;
 				}
-				.header .logo-container {
+				/* .header .logo-container {
 					height: 40px;
+				} */
+				.header .logo-container {
+					min-height: 40px;
+					/* height: auto;
+					display: flex;
+					align-items: center;
+					justify-content: space-between; */
 				}
+
 				.header .logo-container .logo {
         			line-height: 35px !important;
 				}
@@ -743,7 +776,29 @@ function timeAgo($datetime) {
 					font-size: 14px;
 					padding: !important;
 				} */
+
+
+
+				/* NEW FIXES (Added by me) */
+				.header-actions {
+					display: flex;
+					align-items: center;
+					gap: 10px;
+					margin: 0;
+				}
+
+				#userbox .profile-info {
+					max-width: 110px;
+				}
+
+				
+				
 			}
+
+			
+
+
+			
 
 			/* Sp sql modal div style */
 			.company-groups {
@@ -766,16 +821,20 @@ function timeAgo($datetime) {
 			<!-- start: header -->
 			<header class="header">
 				<div class="logo-container">
-					<a href="#" class="logo">
-						<img src="assets/images/kreon-logo.png" height="35" alt="" />
-					</a>
+					
 					<div class="visible-xs toggle-sidebar-left" data-toggle-class="sidebar-left-opened" data-target="html" data-fire-event="sidebar-left-opened">
 						<i class="fa fa-bars" aria-label="Toggle sidebar"></i>
 					</div>
+
+					<a href="#" class="logo">
+						<img src="assets/images/kreon-logo.png" height="35" alt="" />
+					</a>
 			
-					<span class="separator"></span>
-					<div class="header-right">
-						<ul class="notifications" style="margin:4px 145px 0 0!important">
+					<!-- <span class="separator"></span> -->
+					
+
+					<div class="header-actions">
+						<ul class="notifications" >
 							<li class="">
 								<a href="#" class="dropdown-toggle notification-icon" data-toggle="dropdown" aria-expanded="false">
 									<i class="fa fa-bell"></i>
@@ -808,41 +867,40 @@ function timeAgo($datetime) {
 								</div>
 							</li>
 						</ul>
-					</div>
+
+						<div id="userbox" class="userbox">
+							<a href="#" data-toggle="dropdown">
+								<div class="profile-info" data-lock-name="" data-lock-email="">
+									<span style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;max-width: 170px;" class="name"><?php echo $name; ?></span>
+									<!-- .'<br> '.$loggeduser -->
+									<span class="role"><?php echo $accounttype; ?></span>
+								</div>
 				
-					<span class="separator"></span>
-					<div id="userbox" class="userbox">
-						<a href="#" data-toggle="dropdown">
-							<div class="profile-info" data-lock-name="" data-lock-email="">
-								<span style="white-space: nowrap;overflow: hidden;text-overflow: ellipsis;max-width: 170px;" class="name"><?php echo $name; ?></span>
-								<!-- .'<br> '.$loggeduser -->
-								<span class="role"><?php echo $accounttype; ?></span>
+								<i class="fa custom-caret"></i>
+							</a>
+				
+							<div class="dropdown-menu">
+								<ul class="list-unstyled">
+									<li class="divider"></li>
+									<li>
+										<a role="menuitem" tabindex="-1" href="change-password.php"><i class="fa fa-user"></i> Change Pwd</a>
+									</li>
+									<!--li>
+										<a role="menuitem" tabindex="-1" href="#"><i class="fa fa-cog"></i> My Profile</a>
+									</li-->
+									<?php if($_SESSION['Category'] == 2) { ?>
+									<li>
+										<a role="menuitem" tabindex="-1" target="_blank" href="logs/<?php echo $_SESSION['email'] ?>.log"><i class="fa fa-cog"></i> DevLogs</a>
+									</li>
+									<?php } ?>
+									<!-- <li>
+										<a role="menuitem" tabindex="-1" href="requirements.php"><i class="fa fa-tasks"></i> Requirements</a>
+									</li> -->
+									<li>
+										<a role="menuitem" tabindex="-1" href="logout.php"><i class="fa fa-power-off"></i> Logout</a>
+									</li>
+								</ul>
 							</div>
-			
-							<i class="fa custom-caret"></i>
-						</a>
-			
-						<div class="dropdown-menu">
-							<ul class="list-unstyled">
-								<li class="divider"></li>
-								<li>
-									<a role="menuitem" tabindex="-1" href="change-password.php"><i class="fa fa-user"></i> Change Pwd</a>
-								</li>
-								<!--li>
-									<a role="menuitem" tabindex="-1" href="#"><i class="fa fa-cog"></i> My Profile</a>
-								</li-->
-								<?php if($_SESSION['Category'] == 2) { ?>
-								<li>
-									<a role="menuitem" tabindex="-1" target="_blank" href="logs/<?php echo $_SESSION['email'] ?>.log"><i class="fa fa-cog"></i> DevLogs</a>
-								</li>
-								<?php } ?>
-								<!-- <li>
-									<a role="menuitem" tabindex="-1" href="requirements.php"><i class="fa fa-tasks"></i> Requirements</a>
-								</li> -->
-								<li>
-									<a role="menuitem" tabindex="-1" href="logout.php"><i class="fa fa-power-off"></i> Logout</a>
-								</li>
-							</ul>
 						</div>
 					</div>
 				</div>

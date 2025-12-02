@@ -276,7 +276,9 @@ try {
         }else{
             
             if($_SESSION['Category'] == 2 || $_SESSION['Category'] == 3){
-                throw new Exception("Comment Is Required.");
+                // throw new Exception("Comment Is Required.");
+                $response['success'] = false;
+                $response['message'] = "Comment Is Required.";
             }else{
                 $commentSql = "INSERT INTO RequirementComments (RequirementID, CommentText, CreatedBy, Status, Priority, DueDate)
                         VALUES ($id, 'Closed',".$_SESSION['user_id'].", 4, $priority, $commentDueDate)";

@@ -2104,8 +2104,6 @@
     if (!api) { alert('Grid API missing'); return; }
     console.log("datastructure",DataStructure, editableStructure, DrillStructure, allDataKeys);
 
-    const displayType = $('#group_display_type').val(); 
-
     const columnTypeMap = DataStructure.map(col => ({
       name: col.COLUMN_NAME,
       datatype: col.DATA_TYPE.toLowerCase()
@@ -2381,32 +2379,6 @@
     /* ── rows ──────────────────────────────────────────────────────── */
     for (let r = 0; r <= lastRowIndex; r++) {
       const node = api.getDisplayedRowAtIndex(r);
-
-      // If this is a GROUP ROW (rowDisplayType = 'groupRows')
-      if(displayType == 'groupRows'){
-        if (node.group && !node.footer) {
-
-          const groupKey = node.key || '';
-          const fullRow = [{
-              text: groupKey,
-              bold: true,
-              fillColor: '#f0f0f0',
-              colSpan: cols.length,
-              margin: [3, 4],
-          }];
-
-          // add empty filler objects for other columns
-          for (let i = 1; i < cols.length; i++) {
-              fullRow.push({});
-          }
-
-          body.push(fullRow);
-          continue;   //prevent normal cell rendering
-        }
-      }
-
-      
-
       const row  = cols.map(c => pdfCell(cellText(c,node), c.getColDef()));
       // body.push(row);
 
@@ -2638,7 +2610,7 @@ if(is_array($code)){
       </div>
       </header>
       <div class="panel-body">
-        <form method="get" onsubmit="return savingTemplate()">
+        <form method="get">
           <div class="col-md allfields filterSection">
               
               <?php 
@@ -2834,7 +2806,7 @@ if(is_array($code)){
             <div class="reportTable">
               <div class="col-md-4">
                 <label>&nbsp;</label><br/> 
-                <input class="btn btn-danger" type="submit" id="submit"  name="Submit" value="FILTER">
+                <input class="btn btn-danger" type="submit" id="submit" onclick="savingTemplate()" name="Submit" value="FILTER">
                 <a href="<?php echo $url; ?>" class="btn btn-primary">CLEAR</a><br />
                 <!-- <img src="loading-gif.gif" id="loading" style="width: 60px;margin-top: 30px;"/> -->
               </div>
@@ -2847,33 +2819,10 @@ if(is_array($code)){
 }else{
   $code = array();
 }
-?>
 
-<script>
-    function savingTemplate() {
-      // Get all required elements inside the form
-      let requiredFields = document.querySelectorAll("[required]");
-      for (let field of requiredFields) {
-          // Check empty values
-          if (!field.value || field.value.trim() === "") {
-              let label = field.getAttribute("data-label") || field.name || "This field";
-              alert(label + " is required.");
-              field.focus();
-              return false; // Stop saving
-          }
-      }
-
-      // If all required fields are filled, proceed
-      console.log("All required fields validated");
-      // continue your saving process here...
-    }
-</script>
-
-<?php
 if($_GET['Submit'] == "FILTER"){ // commented by pornima|| sizeof($code) == 0?>
 <!-- <button onclick="exportToExcelAndPDF()">Export to Excel and PDF</button> -->
 <script>
-
        async function exportToExcelAndPDF() {
             // Retrieve the row data dynamically from the grid
             const rowData = [];

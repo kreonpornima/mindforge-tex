@@ -40,9 +40,9 @@ if($PDFPrint > 0){
                                             (select PDFReportID from map_pdfreport_groups  where groupid ={$_SESSION['group_id']}
                                             and pdfreportid in (select templateid from map_kreport_pdf_templates where formid=$FormID))
                                             ) 
-                                            UNION ALL
+                                            UNION
 							SELECT * FROM kreport_pdf_templates WHERE ID NOT IN (SELECT PDFReportID FROM map_pdfreport_groups ) AND ReportID=$FormID 
-                            UNION ALL
+                            UNION
 							SELECT * FROM kreport_pdf_templates WHERE ID IN (SELECT PDFReportID FROM map_pdfreport_groups where GroupID={$_SESSION['group_id']}) AND ReportID=$FormID  ORDER BY TemplateOrder";
                         $result1 = db::getInstanceMaster()->db_select($sql);
                         // Output the number of rows
@@ -479,8 +479,10 @@ $buttonsHtml = '';
             success: function(data) {
                 $("#loader").hide();
                 console.log("Got Data frm API", data);
-                if(data.data.length > 5){
-                    var pdflink = "<?php echo URL_ROOT . PDF_PATH;?>" + data.data;
+                // if(data.data.length > 5){
+                if (data.response){
+                // if (data.response && data.data && (data.data.toLowerCase().includes(".pdf") || data.data.toLowerCase().includes(".rtf") || data.data.toLowerCase().includes(".xls"))) {
+                    var pdflink = "<?php echo URL_ROOT . PDF_PATH;?>" + encodeURIComponent(data.data); // encodeURIComponent updated by pornima for this issue The given path is misformatted or contained invalid characters: [client 103.119.252.7:60771] AH00127: Cannot map GET 
                     // var pdflink = "<?php echo 'https://'.$_SERVER['HTTP_HOST'];?>/tex/reports/pdf/" + data.data;
                     var exporttype = $("#exporttype").val();
                     console.log(pdflink, exporttype);

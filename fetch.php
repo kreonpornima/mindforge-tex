@@ -150,7 +150,8 @@ $query = '';
 
 if(strlen($db[4]) > 0){
     $queryWithoutCount = " "; //." Order by ".$db[0].'.'.$db[1]." Desc";
-    $query .= $db[4];
+    // $query .= $db[4];
+    $query .= $db[4] . " @whereCondition = ''";
     
     $sqlColumns = "sp_describe_first_result_set N'$db[4]'";
     $data['params'] = [];

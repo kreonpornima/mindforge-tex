@@ -586,13 +586,12 @@ if($sqlresult['result_set'][0]['found'] == 0){
     // print_r($sp['values']);
     $result = db::getInstance()->db_sp_select($SPName, $sp['params'], $sp['values']);
     // echo $SPName;
-    
+
     
     if($result['error'] == 1){
         $arr = array("status" => true,"data" => array("Success" => 3, "Msg" => $result['error_statement']));
     }else{
         $row = $result['result_set'][0][0];
-        // print_r($row);
         $row1 = array("Msg"=>$row['Msg'],"Success"=>$row['Success']);
 
         // Check if the 'GridResponse' field contains data longer than 5 characters

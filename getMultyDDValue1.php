@@ -687,12 +687,14 @@ if($DBPos != -1 && $responsePos != -1){
 $columns = [];
 $seen = [];
 
-for ($i = 0; $i < count($finalResponseParams); $i++) {
-    $param = trim($finalResponseParams[$i]);
+if (count($finalResponseParams) > 0) {
+    for ($i = 0; $i < count($finalResponseParams); $i++) {
+        $param = trim($finalResponseParams[$i]);
 
-    if (!in_array($param, $seen)) {
-        $columns[] = array("data" => $param, "name" => $param);
-        $seen[] = $param;
+        if (!in_array($param, $seen)) {
+            $columns[] = array("data" => $param, "name" => $param);
+            $seen[] = $param;
+        }
     }
 }
 

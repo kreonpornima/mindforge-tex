@@ -17,6 +17,7 @@
     $table = $db[0];
     $idColumn = $db[1];
 
+
     // Determine query for next or previous record
     if ($direction === 1) {
         // NEXT record (greater than current ID)
@@ -24,21 +25,28 @@
             SELECT TOP 1 $idColumn 
             FROM $table 
             WHERE $idColumn > $currentID 
-            AND FormID = $FormID 
-            AND YearCode = " . $_SESSION['dbYear'] . "
-            ORDER BY $idColumn ASC
-        ";
+            AND FormID = $FormID ";
+        if($viewSettings[12] != 1){
+            $query .=  "AND YearCode = " . $_SESSION['dbYear'];
+        }
+        $query .= " ORDER BY $idColumn ASC";
+        $result = db::getInstance()->db_select($query, "AJAX-prevNext");
     } else {
         // PREVIOUS record (less than current ID)
         $query = "
             SELECT TOP 1 $idColumn 
             FROM $table 
             WHERE $idColumn < $currentID 
-            AND FormID = $FormID 
-            AND YearCode = " . $_SESSION['dbYear'] . "
-            ORDER BY $idColumn DESC
-        ";
+            AND FormID = $FormID ";
+        if($viewSettings[12] != 1){
+            $query .= "AND YearCode = " . $_SESSION['dbYear'];
+        }
+        $query .= " ORDER BY $idColumn DESC";
     }
+
+    // if($_SESSION['user_id'] == 1020){
+    //     echo $query;
+    // }
 
     // Execute
     $result = db::getInstance()->db_select($query, "AJAX-prevNext");

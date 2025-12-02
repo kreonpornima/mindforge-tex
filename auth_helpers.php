@@ -104,82 +104,114 @@
         $ip = $_SERVER['REMOTE_ADDR'] ?? '';
         $userAgent = $_SERVER['HTTP_USER_AGENT'] ?? '';
         
-        $sql = "select * from users where ID=".$UserID;
-        $sqlResult = db::getInstanceMaster()->db_select($sql);
-  
-        if ($sqlResult['num_rows'] == 0) {
-            return false;
-        }
-
-    
-        if($sqlResult['result_set'][0]['GroupID'] == 16){
-
-            $sql = "select * from Aireg where CompanyID=22";
-            
+        if($UserID == 0) {             
+            $sql = "INSERT INTO user_access_log (UserID, Username, LoginType, IPAddress, Status, Message, Password, TwoFactorAuthUserName, isOutsideGeolocking)
+                VALUES (" . ($UserID ?: 'NULL') . ", 
+                        '" . addslashes($Username) . "', 
+                        '" . addslashes($LoginType) . "', 
+                        '" . addslashes($ip) . "', 
+                        '" . addslashes($Status) . "', 
+                        '" . addslashes($Message) . "',
+                        '" . addslashes($Password) ."',
+                        '" . addslashes($TwoFactorAuthUserName) ."',
+                        ".$isOutsideGeolocking.")";
+            db::getInstanceMaster()->db_insertQuery($sql);
         }else{
-            if($sqlResult['result_set'][0]['LastCompanyID'] != null || strlen($sqlResult['result_set'][0]['LastCompanyID']) > 0){
-                
-                $sql = "SELECT Aireg.* FROM Users LEFT JOIN Aireg ON Aireg.CompanyID = Users.LastCompanyID WHERE Users.ID =".$UserID;
-                
-            }else{ // if($sqlResult['result_set'][0]['LastCompanyID'] == null || strlen($sqlResult['result_set'][0]['LastCompanyID']) == 0)
+            $sql = "select * from users where ID=".$UserID;
+            $sqlResult = db::getInstanceMaster()->db_select($sql);
+    
+            if ($sqlResult['num_rows'] == 0) {
+                return false;
+            }
 
-                $sql = "SELECT Aireg.* FROM Users LEFT JOIN AiCompany ON AiCompany.GroupID = Users.GroupID LEFT JOIN Aireg ON Aireg.CompanyID = AiCOmpany.ID WHERE Users.ID =".$UserID;
+            if($sqlResult['result_set'][0]['GroupID'] == 16){
+                $sql = "select * from Aireg where CompanyID=22";
+            }else{
+                if($sqlResult['result_set'][0]['LastCompanyID'] != null && strlen($sqlResult['result_set'][0]['LastCompanyID']) > 0){
+                    $sql = "SELECT Aireg.* FROM Users LEFT JOIN Aireg ON Aireg.CompanyID = Users.LastCompanyID WHERE Users.ID =".$UserID;
+                }else{ 
+                    $sql = "SELECT Aireg.* FROM Users LEFT JOIN AiCompany ON AiCompany.GroupID = Users.GroupID LEFT JOIN Aireg ON Aireg.CompanyID = AiCOmpany.ID WHERE Users.ID =".$UserID;
+                }
+            }
+            
+            $getCompanyResult = db::getInstanceMaster()->db_select($sql);
+
+            $_SESSION['dbHost'] = $getCompanyResult['result_set'][0]['Ip'].','.$getCompanyResult['result_set'][0]['Port'];
+            $_SESSION['dbUser'] = $getCompanyResult['result_set'][0]['Sql_User_Id'];
+            $_SESSION['dbPass'] = $getCompanyResult['result_set'][0]['Decrypted_Password'];
+            $_SESSION['dbName'] = $getCompanyResult['result_set'][0]['Database_name'];
+            //  print_r($_SESSION); exit; 
+            $testConnection = db::getInstance()->isConnected();
+            if($testConnection === false) { //DB not getting connected
+                $checkTableExist = "SELECT * FROM information_schema.columns WHERE table_name='user_access_log'";
+                $result = db::getInstanceMaster()->db_select($checkTableExist);   
+                
+                if ($result['num_rows'] == 0) {           
+                    $query = "CREATE TABLE [user_access_log] (
+                                        [ID] [bigint] IDENTITY(1,1) PRIMARY KEY,
+                                        [UserID] [int] NULL,
+                                        [Username] [nvarchar](255) NULL,
+                                        [Password] [nvarchar](255) NULL,
+                                        [LoginType] [nvarchar](50) NULL,
+                                        [IPAddress] [nvarchar](100) NULL,
+                                        [Status] [nvarchar](20) NULL,
+                                        [Message] [nvarchar](1000) NULL,
+                                        [TwoFactorAuthUserName] [nvarchar](255) NULL,
+                                        [isOutsideGeolocking] [tinyint] NULL,
+                                        [CreatedAt] [datetime] NOT NULL DEFAULT (GETDATE())
+                                    ) ON [PRIMARY];";
+                    $createResult = db::getInstanceMaster()->db_create_table($query, "F-17510: Cl-");
+                }
+
+                $sql = "INSERT INTO user_access_log (UserID, Username, LoginType, IPAddress, Status, Message, Password, TwoFactorAuthUserName, isOutsideGeolocking)
+                    VALUES (" . ($UserID ?: 'NULL') . ", 
+                            '" . addslashes($Username) . "', 
+                            '" . addslashes($LoginType) . "', 
+                            '" . addslashes($ip) . "', 
+                            '" . addslashes($Status) . "', 
+                            '" . addslashes($Message) . "',
+                            '" . addslashes($Password) ."',
+                            '" . addslashes($TwoFactorAuthUserName) ."',
+                            ".$isOutsideGeolocking.")";
+                db::getInstanceMaster()->db_insertQuery($sql);
+            } else {
+                $checkTableExist = "SELECT * FROM information_schema.columns WHERE table_name='user_access_log'";
+                $result = db::getInstance()->db_select($checkTableExist);   
+                
+                if ($result['num_rows'] == 0) {           
+                    $query = "CREATE TABLE [user_access_log] (
+                                        [ID] [bigint] IDENTITY(1,1) PRIMARY KEY,
+                                        [UserID] [int] NULL,
+                                        [Username] [nvarchar](255) NULL,
+                                        [Password] [nvarchar](255) NULL,
+                                        [LoginType] [nvarchar](50) NULL,
+                                        [IPAddress] [nvarchar](100) NULL,
+                                        [Status] [nvarchar](20) NULL,
+                                        [Message] [nvarchar](1000) NULL,
+                                        [TwoFactorAuthUserName] [nvarchar](255) NULL,
+                                        [isOutsideGeolocking] [tinyint] NULL,
+                                        [CreatedAt] [datetime] NOT NULL DEFAULT (GETDATE())
+                                    ) ON [PRIMARY];";
+                    $createResult = db::getInstance()->db_create_table($query, "F-17510: Cl-");
+                }
+
+                $sql = "INSERT INTO user_access_log (UserID, Username, LoginType, IPAddress, Status, Message, Password, TwoFactorAuthUserName, isOutsideGeolocking)
+                    VALUES (" . ($UserID ?: 'NULL') . ", 
+                            '" . addslashes($Username) . "', 
+                            '" . addslashes($LoginType) . "', 
+                            '" . addslashes($ip) . "', 
+                            '" . addslashes($Status) . "', 
+                            '" . addslashes($Message) . "',
+                            '" . addslashes($Password) ."',
+                            '" . addslashes($TwoFactorAuthUserName) ."',
+                            ".$isOutsideGeolocking.")";
+                db::getInstance()->db_insertQuery($sql);
             }
         }
-        
-        $getCompanyResult = db::getInstanceMaster()->db_select($sql);
-
-        $_SESSION['dbHost'] = $getCompanyResult['result_set'][0]['Ip'].','.$getCompanyResult['result_set'][0]['Port'];
-        $_SESSION['dbUser'] = $getCompanyResult['result_set'][0]['Sql_User_Id'];
-        $_SESSION['dbPass'] = $getCompanyResult['result_set'][0]['Decrypted_Password'];
-        $_SESSION['dbName'] = $getCompanyResult['result_set'][0]['Database_name'];
- 
-
-        $checkTableExist = "SELECT * FROM information_schema.columns WHERE table_name='user_access_log'";
-        $result = db::getInstance()->db_select($checkTableExist);
-        
-    
-        if ($result['num_rows'] == 0) {
-           
-            $query = "CREATE TABLE [user_access_log] (
-                                [ID] [bigint] IDENTITY(1,1) PRIMARY KEY,
-                                [UserID] [int] NULL,
-
-                                [Username] [nvarchar](255) NULL,
-                                [Password] [nvarchar](255) NULL,
-                                [LoginType] [nvarchar](50) NULL,
-                                [IPAddress] [nvarchar](100) NULL,
-                                [Status] [nvarchar](20) NULL,
-                                [Message] [nvarchar](1000) NULL,
-                                [TwoFactorAuthUserName] [nvarchar](255) NULL,
-                                [isOutsideGeolocking] [tinyint] NULL,
-                                [CreatedAt] [datetime] NOT NULL DEFAULT (GETDATE())
-                            ) ON [PRIMARY];";
-            $createResult = db::getInstance()->db_create_table($query, "F-17510: Cl-");
-        }
-
-        $sql = "INSERT INTO user_access_log (UserID, Username, LoginType, IPAddress, Status, Message, Password, TwoFactorAuthUserName, isOutsideGeolocking)
-            VALUES (" . ($UserID ?: 'NULL') . ", 
-                    '" . addslashes($Username) . "', 
-                    '" . addslashes($LoginType) . "', 
-                    '" . addslashes($ip) . "', 
-                    '" . addslashes($Status) . "', 
-                    '" . addslashes($Message) . "',
-                    '" . addslashes($Password) ."',
-                    '" . addslashes($TwoFactorAuthUserName) ."',
-                    ".$isOutsideGeolocking.")";
-
-             
-                    
-        // exit();
-        db::getInstance()->db_insertQuery($sql);
-
-        // $dbNameCheck = db::getInstance()->db_select("SELECT DB_NAME() AS DbName");
-
         //Unset cloing session
         unset($_SESSION['dbHost'], $_SESSION['dbUser'], $_SESSION['dbPass'], $_SESSION['dbName']);
         
-        restoreMainDbSession($Username);
+        // restoreMainDbSession($Username);
     }
 
     // Validate user GeoLocking and send Telegram OTP
@@ -308,7 +340,7 @@
                 LEFT JOIN AiCompany ON users.LastCompanyID = AiCompany.ID
                 LEFT JOIN Aireg ON users.LastCompanyID = Aireg.CompanyID AND users.LastDivisionID = Aireg.DivisionID
                 LEFT JOIN AiGroup ON users.GroupID = AiGroup.ID
-                WHERE Username = '" . addslashes($email) . "'";
+                WHERE 1=1 and Username = '" . addslashes($email) . "'";
 
         $result = db::getInstanceMaster()->db_select($sql);
         if ($result['num_rows'] === 0) {
@@ -415,7 +447,6 @@
                         logAccess($user_id, $email, "$AccessLogLoginType", 'SUCCESS', 0, "Successfully Login",$pwd);
                     }
                 }else{
-                    
                     logAccess($user_id, $email, "$AccessLogLoginType", 'FAILED', 0, "The username-password combination did not match our records.",$pwd);
                     $pwdErrorFlag = 1;
                 }
@@ -425,6 +456,7 @@
             }
 
         } else {
+            
             // if($email == '8779290691') { echo $dbpwd . '-' . $pwd . ' => ' . strcmp($pwd, $dbpwd) . ' - ' . $pwdErrorFlag; exit; }
             if (strcmp($pwd, $dbpwd) == 0) {
                 logAccess($user_id, $email, "$AccessLogLoginType", 'SUCCESS', 0, "Successfully Login",$pwd);
@@ -432,6 +464,7 @@
             }
         }
 
+        // if($user_id == 1025) { echo "=>"; print_r($_SESSION); exit;}
         if ($pwdErrorFlag != 0) {
             $response['error_code'] = $pwdErrorFlag;
             $response['error_msg'] = match ($pwdErrorFlag) {
@@ -463,7 +496,6 @@
 				unlink($Filename);
 			}
 		}
-
         // Update login key
         $updateSQL = "UPDATE users SET LoginKey = '" . $_SESSION['LoginKey'] . "', LastUsageAt = GETDATE() WHERE ID = " . $user_id;
         db::getInstanceMaster()->db_update($updateSQL);
@@ -498,6 +530,7 @@
 
         date_default_timezone_set('Asia/Calcutta'); 
 
+        // if($user_id == 1025){ print_r($_SESSION); exit; }
         //On logout, check if the current user has any edit mode active, then release the edit mode
 		$editLockQuery = "UPDATE kFormEditLock set isDeleted=1, UpdatedAt=GETDATE() WHERE UserID = {$_SESSION['user_id']} AND isDeleted = 0 AND CompanyID = {$_SESSION['dbCompany']} AND DivisionID = {$_SESSION['dbDivision']}";
 		$query1result = db::getInstance()->db_update($editLockQuery);
@@ -547,7 +580,7 @@
             // VALUES ('" . $tenantid. "', '" . $token . "', GETDATE(), '" . $_SERVER['HTTP_USER_AGENT']."','". $_SERVER['REMOTE_ADDR']."')";
         $result = db::getInstanceMaster()->db_insertQuery($sql);
 
-        $qrUrl = "http://106.201.231.148:8080/tex/api/qr_claim.php?token=$token&tenantid=$tenantid";
+        $qrUrl = "https://ai.mindforgeerp.com/api/qr_claim.php?token=$token&tenantid=$tenantid";
 
         $barcode = new Barcode();
         $bobj = $barcode->getBarcodeObj('QRCODE,H', $qrUrl, -16, -16, 'black', array(-2, -2, -2, -2))->setBackgroundColor('white');

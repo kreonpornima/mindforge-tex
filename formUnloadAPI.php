@@ -5,10 +5,11 @@ $FormID = isset($_GET['FormID']) ? $_GET['FormID'] : 0;
 $EntryID = isset($_GET['EntryID']) ? $_GET['EntryID'] : '';
 $UnloadData = isset($_GET['UnloadData']) ? $_GET['UnloadData'] : 1;
 
-
-//Update the kFormEditLock record on unload to release edit mode.
-$query = "UPDATE kFormEditLock set isDeleted=1, UpdatedAt=GETDATE() WHERE UserID = {$_SESSION['user_id']} AND isDeleted = 0 AND EntryID = $EntryID";
-$query1result = db::getInstance()->db_update($query);
+if (!empty($EntryID)){
+    //Update the kFormEditLock record on unload to release edit mode.
+    $query = "UPDATE kFormEditLock set isDeleted=1, UpdatedAt=GETDATE() WHERE UserID = {$_SESSION['user_id']} AND isDeleted = 0 AND EntryID = $EntryID";
+    $query1result = db::getInstance()->db_update($query);
+}
     
 if($UnloadData == 1){
     $SPName = 'sp_ValidateAdd_'.$FormID;

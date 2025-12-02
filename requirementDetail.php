@@ -33,7 +33,7 @@ $priorityLabels = [
 ];
 
 // Define special users
-$specialUsers = [1019, 1025, 1018, 1020];
+$specialUsers = [1019, 1025, 1018];
 
 // Get developers (users with Category = 2) for the assignedTo dropdown
 $usersSql = "SELECT ID, Name FROM users WHERE Category = 2 ORDER BY Name ASC"; //AND ID != $user_id
@@ -73,13 +73,15 @@ if (!$isNewRecord) {
 
         $typeOfIssueSelectedValue = !empty($row['typeOfIssue']) ? $row['typeOfIssue'] : 0; 
 
-        // echo $row['ModuleType'];
-        $getModuleUrl = "SELECT * FROM Master_ModuleType WHERE ID =".$row['ModuleType'];
-        $getModuleUrlResult = db::getInstanceMaster()->db_select($getModuleUrl);
+        if($row['ModuleType']){
+            $getModuleUrl = "SELECT * FROM Master_ModuleType WHERE ID =".$row['ModuleType'];
+            $getModuleUrlResult = db::getInstanceMaster()->db_select($getModuleUrl);
 
-        $fullURL = (empty($_SERVER['HTTPS']) ? 'http' : 'https') . "://$_SERVER[HTTP_HOST]/".$getModuleUrlResult['result_set'][0]['url']."".$row['FormId'];
-        $fullURL = "requirementRedirect.php?TaskID=".$id;
-
+            $fullURL = (empty($_SERVER['HTTPS']) ? 'http' : 'https') . "://$_SERVER[HTTP_HOST]/".$getModuleUrlResult['result_set'][0]['url']."".$row['FormId'];
+            $fullURL = "requirementRedirect.php?TaskID=".$id;
+        }else{
+            $fullURL = '-';
+        }
 
         // Fetch assigned users for existing record
         $assignSql = "SELECT DISTINCT AssignedTo FROM Requirement_AssignedTo WHERE RequirementCommentID IN (SELECT ID FROM RequirementComments WHERE RequirementID = ".$row['id'].")";

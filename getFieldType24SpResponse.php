@@ -224,8 +224,8 @@ if($FType == 'GSTR1'){
         //     print_r($result['result_set'][1][[]]);
         // }
         // if($result['result_set'][0])
-        // print_r($result);
-        if(count($result['result_set']) > 2){
+        // print_r($result);p
+        if(!empty($result['result_set']) && is_array($result['result_set']) && count($result['result_set']) > 2){
 
             $arr = array("status" => true, "msg" => $msg, "success" => $success, "data" => Encoding::fixUTF8($result['result_set'][1], Encoding::ICONV_IGNORE), "gridData" => $array, "RequestParams" => $finalRequestParams, "PopulateFieldResponse" => $result['result_set'][2], "cursorPosition" => $cursorPosition,"NonEditableFields" => $result['result_set'][4], "tempData" => $result['result_set'][5]);
         }else{

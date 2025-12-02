@@ -22,10 +22,13 @@ $bypassUserRoles = 1; //else $bypassUserRoles = 0;
 $k_user_id = $_SESSION["user_id"];
 // if($k_user_id == 1020)   $k_debug=1;
 //include_once('dbClass.php');
-if($k_user_id == 1020 ) echo "hhh".$_SESSION['dbName'];
+// if($k_user_id == 1020 ) echo "hhh".$_SESSION['dbName'];
 // echo "hhh".$_SESSION['user_id'];
 // echo "HHHH".$_SESSION['dbHost'];
 // echo "HHHH".$_SESSION['group_id'];
+
+include "getFormStructure.php";
+include "getFieldProperties.php";
 
 function checkVariable($str){ //CHECK IF THERE IS A VARIABLE AND CONVERT IT
 	if(strpos($str,"$") !== false){
@@ -848,7 +851,12 @@ function checkVariable($str){ //CHECK IF THERE IS A VARIABLE AND CONVERT IT
 		
 		var max = $(thiss).closest("tr").find('input[name="adjamount"], input[name="adjamt"]').attr("max");
         var min = $(thiss).closest("tr").find('input[name="adjamount"], input[name="adjamt"]').attr("min");
-		
+
+		// Convert to 2-digit decimals
+		max = max ? parseFloat(max).toFixed(2) : "0.00";
+		min = min ? parseFloat(min).toFixed(2) : "0.00";
+
+		console.log("min",min,"max",max);
 		var GridAmount = Math.abs(parseFloat($('#kreon-grid-aamount').val()));
 
 		if(type == 'click'){
@@ -870,7 +878,7 @@ function checkVariable($str){ //CHECK IF THERE IS A VARIABLE AND CONVERT IT
 		
 		}
 
-		console.log("currentAmount",currentAmount);
+		console.log("currentAmount",currentAmount, min, max);
 	
 		if(parseFloat(currentAmount) >= min && parseFloat(currentAmount) <= max){
 			
@@ -904,7 +912,7 @@ function checkVariable($str){ //CHECK IF THERE IS A VARIABLE AND CONVERT IT
 					if(balance >= 0){
 						console.log("balance",typeof balance);
 						$('#PopupBalance').val(balance.toFixed(2));
-						$(thiss).closest("tr").find('input[name="balance"]').val(parseFloat(pendingAmt) - parseFloat(currentAdjAmount))
+						$(thiss).closest("tr").find('input[name="balance"]').val((parseFloat(pendingAmt) - parseFloat(currentAdjAmount)).toFixed(2))
 					}else{
 						if(event.keyCode != 8 && event.keyCode != 46 && event.keyCode != 9 && event.keyCode != 01){
 							event.preventDefault();
@@ -993,11 +1001,11 @@ function checkVariable($str){ //CHECK IF THERE IS A VARIABLE AND CONVERT IT
 				if(balance != NaN){
 					if(balance >= 0){
 						$('#PopupBalance').val(balance.toFixed(2));
-						$(thiss).closest("tr").find('input[name="balance"]').val(parseFloat(pendingAmt) - parseFloat(currentAdjAmount))
+						$(thiss).closest("tr").find('input[name="balance"]').val((parseFloat(pendingAmt) - parseFloat(currentAdjAmount)).toFixed(2))
 					}
 				}
 			}else{
-				$(thiss).closest("tr").find('input[name="balance"]').val(parseFloat(pendingAmt) - parseFloat(currentAdjAmount));
+				$(thiss).closest("tr").find('input[name="balance"]').val((parseFloat(pendingAmt) - parseFloat(currentAdjAmount)).toFixed(2));
 			}
 
 			var valueToSet = $('#PopupAdjamount').val();
@@ -7402,7 +7410,7 @@ function checkVariable($str){ //CHECK IF THERE IS A VARIABLE AND CONVERT IT
 
 								<div class='PopupBalance'>
 									<label>Balance:</label>
-									<input type="number" class="form-control" name="PopupBalance" id="PopupBalance" step="0.01" value="" readonly style="text-align:right;">
+									<input type="number" class="form-control" name="PopupBalance" id="PopupBalance" step="0.02" value="" readonly style="text-align:right;">
 								</div>
 
 								<div class='PopupAccount'>
@@ -7685,18 +7693,24 @@ function checkVariable($str){ //CHECK IF THERE IS A VARIABLE AND CONVERT IT
 				$('#PopupAccount').val(accountName);
 				// $('#PopupAdjamount').val(0);
 				// alert($('#kreon-grid-'+gridSerialNo+'amount').val(), $('#kreon-grid-'+gridSerialNo+'SingleDDModaladjamount').val())
-				if($('#kreon-grid-'+gridSerialNo+'amount').val() > 0){
+				
+				
+				var PopupBalance = parseFloat($('#kreon-grid-' + gridSerialNo + 'amount').val()) || 0;
+				PopupBalance = Math.abs(parseFloat(PopupBalance));
+
+				if(PopupBalance > 0){
 					var baseSelector = '#kreon-grid-' + gridSerialNo;
 					var adjField = $(baseSelector + 'adjamount').length ? 'adjamount' : 'adjamt';
 					var adjInput = $(baseSelector + adjField);
-					var amount = parseInt($(baseSelector + 'amount').val()) || 0;
-					var adjValue = adjInput.val() || 0;
-					
-					if (adjInput.val() !== '' && adjValue > 0) {
-						$('#PopupBalance').val(amount - adjValue);
+					// var amount = parseInt($(baseSelector + 'amount').val()) || 0;
+					var raw = adjInput.val();
+					var adjValue = raw ? parseFloat(parseFloat(raw).toFixed(2)) : 0;
+
+					if (adjValue !== '' && adjValue > 0) {
+						$('#PopupBalance').val((Math.abs(PopupBalance - adjValue)).toFixed(2));
 						$('#PopupAdjamount').val(adjValue);
 					}else{
-						$('#PopupBalance').val(parseInt($('#kreon-grid-'+gridSerialNo+'amount').val()) - 0);
+						$('#PopupBalance').val((PopupBalance - 0).toFixed(2));
 
 					}
 
@@ -8176,7 +8190,7 @@ function checkVariable($str){ //CHECK IF THERE IS A VARIABLE AND CONVERT IT
 
 							$('#myModal .dropdown-content thead').css({
 								'position': 'sticky',
-								'top': '152px',      /* Height of modal-header */
+								'top': '125px',      /* Height of modal-header */
 								'z-index': '50',
 								'background-color': '#f4f4f4'
 							});
@@ -9401,7 +9415,7 @@ function checkVariable($str){ //CHECK IF THERE IS A VARIABLE AND CONVERT IT
 										var columnContent = selectedOption.contents(); // Get the contents of the column cell
 
 										// Check if the content is an input element (textbox)
-										if (columnContent.is('input[type="text"]')) {
+										if (columnContent.is('input[type="text"]') || columnContent.is('input[type="number"]')) {
 											selectedOption = columnContent.val(); // Get the value if it's a textbox
 										} else {
 											selectedOption = columnContent.text(); // Get the text if it's not a textbox
@@ -9495,7 +9509,7 @@ function checkVariable($str){ //CHECK IF THERE IS A VARIABLE AND CONVERT IT
 												var columnContent = selectedOption.contents(); // Get the contents of the column cell
 
 												// Check if the content is an input element (textbox)
-												if (columnContent.is('input[type="text"]')) {
+												if (columnContent.is('input[type="text"]') || columnContent.is('input[type="number"]')) {
 													selectedOption = columnContent.val(); // Get the value if it's a textbox
 												} else {
 													selectedOption = columnContent.text(); // Get the text if it's not a textbox
@@ -15834,7 +15848,7 @@ function createMore1($m,$d,$gd,$r,$id,$FormID, $db){
 						$flds .= '<option  value="'. $row1[$j][$dbarray[1]] .'" selected>'.$row1[$j][$dbarray[2]].'</option>&nbsp;';
 					}
 				}else{
-					$flds .= '<option value="0">'.$m[$i][2].'</option>';
+					$flds .= '<option value="">'.$m[$i][2].'</option>';
 				}
 
 				$flds .= '</select>';
@@ -18337,9 +18351,22 @@ function createMore1($m,$d,$gd,$r,$id,$FormID, $db){
 							
 
 							if((mArray[t][17] == null || mArray[t][17].length == 0) || (mArray[t][16] == null || mArray[t][16].length == 0)){
-								// $("#kreon-grid-'.$d[3].'"+mArray[t][1]).select2("open");
-								$("#kreon-grid-'.$d[3].'"+mArray[t][1]).val("0").trigger("change"); // Remove DD selected field from first row
-								// $("#kreon-grid-'.$d[3].'"+mArray[t][1]).select2("close");
+								// Step 1: Get the current onchange function as a string. onchange function remove & then adding because after adding row onchange function triggering so
+								let onchangeFunction = $("#kreon-grid-'.$d[3].'"+mArray[t][1]).attr("onchange");
+
+								// Step 2: If onchange function exists, store it, remove it temporarily
+								if (onchangeFunction) {
+									// Step 2: Remove the onchange attribute temporarily
+									$("#kreon-grid-'.$d[3].'"+mArray[t][1]).removeAttr("onchange");
+
+									$("#kreon-grid-'.$d[3].'"+mArray[t][1]).val(0).trigger("change");
+
+									// Step 4: Re-add the original onchange function with the stored value
+									$("#kreon-grid-'.$d[3].'"+mArray[t][1]).attr("onchange", onchangeFunction);
+								}else{
+									$("#kreon-grid-'.$d[3].'"+mArray[t][1]).val(0).trigger("change");
+								}
+								// $("#kreon-grid-'.$d[3].'"+mArray[t][1]).val("0").trigger("change"); // Remove DD selected field from first row
 							}
 
 							//after update if not readonly then remove readonly
@@ -18469,11 +18496,9 @@ function createMore1($m,$d,$gd,$r,$id,$FormID, $db){
 					
 					var isFocusOnSpecificField = false;
 					if("'.$d[9].'".length > 1){
-						alert("hi");
 						//Cursor focus on grid perticular field that was mention in AfterGridAddCursorPosition field
 						isFocusOnSpecificField = true;
 					}else{
-						alert("hi");
 						//on click add button next grid not found then exicute this code. else as per tab index it will move focus to next field
 					
 						var addButton = $(".add'.$d[3].'");
@@ -19349,8 +19374,10 @@ function debugArray($arr){		//DebugArray($result);
 							$query3 = "SELECT TableName, TablePrimaryKey, TableUnique FROM kmaingrid WHERE GridId=" . $gridResult[$i]['GridId'];
 							$query3result = db::getInstanceMaster()->db_select($query3, "F-16673");
 							$tableInfo = $query3result['result_set'][0];
+							$tablePrimaryKey = trim($tableInfo['TablePrimaryKey']);
+							$tableUniqueKey = trim($tableInfo['TableUnique']);
 
-							$query4 = "DELETE FROM " . $tableInfo['TableName'] . " WHERE " . $tableInfo['TablePrimaryKey'] . " = '" . $delResult['result_set'][0][$tableInfo['TableUnique']] . "'";
+							$query4 = "DELETE FROM " . $tableInfo['TableName'] . " WHERE " . $tablePrimaryKey . " = '" . $delResult['result_set'][0][$tableUniqueKey] . "'";
 							db::getInstance()->db_update($query4, $FormID, "F-16677: Cl-");
 						}
 					}
@@ -19468,7 +19495,9 @@ function debugArray($arr){		//DebugArray($result);
 		}
 		
 		if(strlen($db[4]) > 0){		//USING SP
-			$sql = $db[4]; //." Order by ".$db[0].'.'.$db[1]." Desc";
+			// $sql = $db[4]; //." Order by ".$db[0].'.'.$db[1]." Desc";
+			// $sql .= $db[4] . " @whereCondition = ''";
+
 			$sqlColumns = "sp_describe_first_result_set N'$db[4]'";
 			// $sqlColumns = $db[4];
 			$data['params'] = [];
@@ -19502,7 +19531,8 @@ function debugArray($arr){		//DebugArray($result);
 		}
 
 		if(strlen($db[4]) > 0){
-			$resultColumns = db::getInstance()->db_sp_select($sql, $data['params'], $sp['values'], "F-16826: Cl-");
+			// echo $sql;
+			// $resultColumns = db::getInstance()->db_sp_select($sql, $data['params'], $sp['values'], "F-16826: Cl-");
 		}else{
 			$result = $Instance->db_select($sql, $line);
 		}

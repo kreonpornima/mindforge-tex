@@ -1,7 +1,7 @@
 <?php 
 	session_start();
     require_once ('dbClass.php');
-	// echo $_SESSION['ConnectionError'];
+
 	if(!isset($_SESSION['Category'])) {
 		echo '<script>window.location.replace("logout.php");</script>';
 		exit;
@@ -9,6 +9,8 @@
 	$group_id = isset ($_SESSION['group_id']) ? $_SESSION['group_id'] : 0;
 	$role_id = isset ($_SESSION['access']) ? $_SESSION['access'] : 0;
 	$userCategory = isset ($_SESSION['Category']) ? $_SESSION['Category'] : 0;
+
+
 	
 	if($userCategory == 1){
 		$sql = "SELECT a.* FROM CompanyRoleAccess Right Join (
