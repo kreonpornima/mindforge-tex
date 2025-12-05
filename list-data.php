@@ -17,6 +17,9 @@ $k_head_title="Form";
 $k_head_include = "";
 $editID = isset($_POST['editID']) ? $_POST['editID'] : 0;
 $viewpage = isset($_GET['view']) ? $_GET['view'] : 0;
+$formDesigner = 0;
+if($editID == 0 && $viewpage == 0)
+    $formDesigner =isset($_GET['formDesigner']) ? $_GET['formDesigner'] : 0;
 
 include "form-init.php";
 ?>

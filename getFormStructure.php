@@ -1,19 +1,21 @@
 <?php
-    // include "dbClass.php";
+    include "dbClass.php";
     $db = db::getInstanceMaster();
 
-
-
-    // echo $formId = $_POST['FormID'];
-
+    $FormID = isset($_POST['FormID']) ? $_POST['FormID'] : '0';
+    $FieldName = isset($_POST['FieldName']) ? $_POST['FieldName'] : '0';
+    // echo "SELECT * FROM kmainforms WHERE FormId = $FormID";
     // Fetch form metadata
     $form = $db->db_select("SELECT * FROM kmainforms WHERE FormId = $FormID");
-    $form = $form[0]; // single record
+    $form = $form['result_set'][0]; // single record
+
 
     // Fetch fields
+    $fieldsColumns = $db->db_select("SELECT COLUMN_NAME FROM INFORMATION_SCHEMA.COLUMNS WHERE TABLE_NAME = 'kmainfields' ");
+
     $fields = $db->db_select("
         SELECT * FROM kmainfields 
-        WHERE FormId = $FormID 
+        WHERE FormId = $FormID AND DbFieldName = '".$FieldName."'
         ORDER BY DisplayOrder
     ");
 
@@ -23,10 +25,12 @@
         WHERE GridId IN (SELECT GridId FROM kmainfields WHERE FormId = $FormID)
     ");
 
-    echo json_encode([
+    $arr = array(
         "form"            => $form,
-        "fields"          => $fields,
+        "fieldsColumns"   => $fieldsColumns['result_set'],
+        "fields"          => $fields['result_set'],
         "grids"           => $grids,
-        "editingAllowed"  => ($form['isOpenForDevelopment'] == 1)
-    ]);
+        "editingAllowed"  => ($form['result_set'][0]['isOpenForDevelopment'] == 1)
+    );
+    echo json_encode($arr);
 ?>

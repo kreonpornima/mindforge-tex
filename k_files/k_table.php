@@ -104,12 +104,13 @@
 							</script>
 							<?php 
 						}
-						if($editID == 0) echo $k_table_log_button = '<button class="btn btn-warning bizbtn" style="font-size:10px" onclick="openLogModal(\'full\')">Logs</button>';
+						if($editID == 0) echo '<button class="btn btn-warning bizbtn" style="font-size:10px" onclick="openLogModal(\'full\')">Logs</button>';
 						if($editID == 0){
 							if($_SESSION['Category'] == 2){
-								echo $k_table_log_button = '<button class="btn btn-info bizbtn" style="margin-left:5px;font-size:10px;" onclick="openSQLModal(\'full\')">SQL</button>';
+								echo '<button class="btn btn-info bizbtn" style="margin-left:5px;font-size:10px;" onclick="openSQLModal(\'full\')">SQL</button>';
+								echo $k_table_formdesigner_button;
 								if($viewSettings[19] == 1){
-									echo $k_table_log_button = '<button class="btn btn-info bizbtn" style="margin-left:5px;font-size:10px;;" onclick="openCloningModal()" id="formCloning" data-formname="'.$viewSettings[0].'" data-formfields="'.$displayFormFieldNames.'">Form Cloning</button>';
+									echo '<button class="btn btn-info bizbtn" style="margin-left:5px;font-size:10px;;" onclick="openCloningModal()" id="formCloning" data-formname="'.$viewSettings[0].'" data-formfields="'.$displayFormFieldNames.'">Form Cloning</button>';
 								}
 							}
 							echo $k_table_requirement_button = '<button class="btn btn-success bizbtn" style="margin-left:5px;font-size:10px;" onclick="openRequirementModal()">Requirement</button>';

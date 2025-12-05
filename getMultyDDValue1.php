@@ -687,7 +687,7 @@ if($DBPos != -1 && $responsePos != -1){
 $columns = [];
 $seen = [];
 
-if (count($finalResponseParams) > 0) {
+if (!empty($finalResponseParams) && is_array($finalResponseParams) && count($finalResponseParams) > 0) {
     for ($i = 0; $i < count($finalResponseParams); $i++) {
         $param = trim($finalResponseParams[$i]);
 

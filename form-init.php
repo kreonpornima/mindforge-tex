@@ -27,8 +27,14 @@ $k_user_id = $_SESSION["user_id"];
 // echo "HHHH".$_SESSION['dbHost'];
 // echo "HHHH".$_SESSION['group_id'];
 
-include "getFormStructure.php";
-include "getFieldProperties.php";
+// include "getFormStructure.php";
+// include "getFieldProperties.php";
+
+// if($viewSettings[19] == 1){
+	if($formDesigner == 1 && $_SESSION['Category'] == 2){
+		include "formBuilder.php";
+	}
+// }
 
 function checkVariable($str){ //CHECK IF THERE IS A VARIABLE AND CONVERT IT
 	if(strpos($str,"$") !== false){
@@ -48,101 +54,105 @@ function checkVariable($str){ //CHECK IF THERE IS A VARIABLE AND CONVERT IT
 	}
 }
 
+$k_table_formdesigner_button = '<a href="'. $_SERVER['PHP_SELF'] . '?form=' . $FormID . '&formDesigner=1" ><button class="btn btn-info bizbtn" style="margin-left:5px;font-size:12px;" >Form Designer</button></a>';
+
+
 ?>
 
 <script>
 	window.onload = function(e) { // Focus On first Input field
 		// $('#form').find('input[type=text]').eq(0).focus();
 		var url = window.location.href;
-		if(url.indexOf("preview") != -1){
-			console.log($("#form select.select2-hidden-accessible").length);
-			// $("#form :input").prop("disabled", true);
-			$("#form :input").not(".clickable-grid-input").prop("disabled", true);
-			$(document).on('select2:open', function (e) {
-				$('select.select2-hidden-accessible').each(function () {
-					// Prevent it from opening on focus (e.g. via tabindex)
-					$(this).select2('close');
+		// if(url.indexOf("preview") != -1){
+		// 	console.log($("#form select.select2-hidden-accessible").length);
+		// 	// $("#form :input").prop("disabled", true);
+		// 	$("#form :input").not(".clickable-grid-input").prop("disabled", true);
+		// 	$(document).on('select2:open', function (e) {
+		// 		$('select.select2-hidden-accessible').each(function () {
+		// 			// Prevent it from opening on focus (e.g. via tabindex)
+		// 			$(this).select2('close');
 
-					$(this).on('select2:opening select2:open', function (e) {
-						e.preventDefault();
-					});
+		// 			$(this).on('select2:opening select2:open', function (e) {
+		// 				e.preventDefault();
+		// 			});
 
-					$(this).next('.select2').find('.select2-selection').css({
-						'pointer-events': 'none',
-						'background-color': '#eee',
-						'cursor': 'not-allowed'
-					});
-				});
-			});
-
-
-			$("input[name='saveButton']").remove();
-			$(".switch").css("pointer-events","none");
-			$('#form a').not('.cutpack-btn-showinpreview').each(function(index) {
-				const $a = $(this);
-				console.log("a",$a);
-				const $parentDiv = $a.parent();
-
-				if ($a.has('img').length || $a.attr('id') === 'downloadImg') {
-					// Prevent click on image
-					$a.on('click', function(e) {
-						if ($(e.target).is('img')) {
-							e.preventDefault();
-						}
-					});
-
-					// Hide the span sibling (e.g., the delete "X" button)
-					$parentDiv.find('span').hide();
-				}else if ($a.attr('id') === 'downloadBtn') {
-					// Do nothing for downloadBtn (keep it visible)
-					// Optionally, you can add custom logic here if needed.
-				}  else {
-					// Hide the <a> if no image
-					$a.hide();
-				}
-			});
-			$("#backButton").show();
-			// $("input[id='previewEditButton']").show();
-			$("#previewEditButton").show();
-			$("#previewDeleteButton").show();
-
-			if ($("#previewBtnEinvoice").length) $("#previewBtnEinvoice").removeAttr("disabled");
-
-			if ($("#previewBtnEway").length) $("#previewBtnEway").prop("disabled", false).css("pointer-events", "auto").css("opacity", "1");
-			$("#formAddNewBtn").show();
-
-			//Adjustment button only enable in preview mode
-			$("#adjamount")
-				.prop("disabled", false)             // Enable the button
-				.css("pointer-events", "auto")       // Restore pointer events
-				.css("opacity", "1");
+		// 			$(this).next('.select2').find('.select2-selection').css({
+		// 				'pointer-events': 'none',
+		// 				'background-color': '#eee',
+		// 				'cursor': 'not-allowed'
+		// 			});
+		// 		});
+		// 	});
 
 
-			//voucher print modal open in preview page. enabled some button & field here
-			$("#isVoucherPrintBtn").show();
-			$("#reportTemplateSelect").removeAttr('disabled');
-			$("#printModalPrintBtn").removeAttr('disabled');
-			$("#printModalCloseBtn").removeAttr('disabled');
+		// 	$("input[name='saveButton']").remove();
+		// 	$(".switch").css("pointer-events","none");
+		// 	$('#form a').not('.cutpack-btn-showinpreview').each(function(index) {
+		// 		const $a = $(this);
+		// 		console.log("a",$a);
+		// 		const $parentDiv = $a.parent();
 
-			//barcode print modal open in preview page.
-			// if ($("#previewBtnEinvoice").length) 
-			$("#isBarcodePrintBtn").attr("disabled", false);
-			$('#barcodeTemplateSelect').removeAttr('disabled');
-			$('#barcodeModalPrintBtn').removeAttr('disabled');
-			$('#barcodeModalCloseBtn').removeAttr('disabled');
+		// 		if ($a.has('img').length || $a.attr('id') === 'downloadImg') {
+		// 			// Prevent click on image
+		// 			$a.on('click', function(e) {
+		// 				if ($(e.target).is('img')) {
+		// 					e.preventDefault();
+		// 				}
+		// 			});
 
-			//Adjustment form button code
-			$("#prevButton").attr("disabled",false);
+		// 			// Hide the span sibling (e.g., the delete "X" button)
+		// 			$parentDiv.find('span').hide();
+		// 		}else if ($a.attr('id') === 'downloadBtn' || $a.attr('class') === 'btn') {
+		// 			// Do nothing for downloadBtn (keep it visible)
+		// 			// Optionally, you can add custom logic here if needed.
+		// 		}  else {
+		// 			// Hide the <a> if no image
+		// 			// $a.hide();
+		// 			// console.log("hidding $a",$a);
+		// 		}
+		// 	});
+		// 	$("#backButton").show();
+		// 	// $("input[id='previewEditButton']").show();
+		// 	$("#previewEditButton").show();
+		// 	$("#previewDeleteButton").show();
 
-			//SQL modal copy button code
-			$("#copySPDefBtn").attr("disabled",false);
+		// 	if ($("#previewBtnEinvoice").length) $("#previewBtnEinvoice").removeAttr("disabled");
 
-			$(".grid-barcode-btn").attr("disabled", false);
+		// 	if ($("#previewBtnEway").length) $("#previewBtnEway").prop("disabled", false).css("pointer-events", "auto").css("opacity", "1");
+		// 	$("#formAddNewBtn").show();
 
-			// show payment Detail button 
-			$("#ShowPaymentDetails").removeAttr('disabled');
+		// 	//Adjustment button only enable in preview mode
+		// 	$("#adjamount")
+		// 		.prop("disabled", false)             // Enable the button
+		// 		.css("pointer-events", "auto")       // Restore pointer events
+		// 		.css("opacity", "1");
+
+
+		// 	//voucher print modal open in preview page. enabled some button & field here
+		// 	$("#isVoucherPrintBtn").show();
+		// 	$("#reportTemplateSelect").removeAttr('disabled');
+		// 	$("#printModalPrintBtn").removeAttr('disabled');
+		// 	$("#printModalCloseBtn").removeAttr('disabled');
+
+		// 	//barcode print modal open in preview page.
+		// 	// if ($("#previewBtnEinvoice").length) 
+		// 	$("#isBarcodePrintBtn").attr("disabled", false);
+		// 	$('#barcodeTemplateSelect').removeAttr('disabled');
+		// 	$('#barcodeModalPrintBtn').removeAttr('disabled');
+		// 	$('#barcodeModalCloseBtn').removeAttr('disabled');
+
+		// 	//Adjustment form button code
+		// 	$("#prevButton").attr("disabled",false);
+
+		// 	//SQL modal copy button code
+		// 	$("#copySPDefBtn").attr("disabled",false);
+
+		// 	$(".grid-barcode-btn").attr("disabled", false);
+
+		// 	// show payment Detail button 
+		// 	$("#ShowPaymentDetails").removeAttr('disabled');
 	
-		}
+		// }
 		/*
 		if(url.indexOf("display") != -1){
 			
@@ -5114,7 +5124,6 @@ function checkVariable($str){ //CHECK IF THERE IS A VARIABLE AND CONVERT IT
 				if(isBarcode == 1){
 					//CHECK TYPE OF PARAMETERS
 					for(var i = 0; i < finalResponseParams.length; i++){
-						console.log("pornima",finalResponseParams[i]);
 						responseFinalParams = finalResponseParams[i].split(":");
 						if(responseFinalParams[2] == "0" || responseFinalParams[2] == "1" || responseFinalParams[2] == "3" || responseFinalParams[2] == "6" || responseFinalParams[2] == "7" || responseFinalParams[2] == "8" ){
 							$("#kreon-grid-"+gridSerialNo+""+responseFinalParams[0].trim()).val(result['data'][0][responseFinalParams[1]]);
@@ -5151,8 +5160,21 @@ function checkVariable($str){ //CHECK IF THERE IS A VARIABLE AND CONVERT IT
 							$('#panel'+gridSerialNo).find('#GridTable tbody tr').css('border','');
 							var cnt = parseInt(document.getElementById("cnt"+gridSerialNo).value);
 							var color = '#'+result['bordercolor']['bordercolor'];
-							// console.log('#'+gridSerialNo+cnt);
-							$('#'+gridSerialNo+cnt).css('border','3px solid'+ color);
+							console.log('#'+gridSerialNo+cnt);
+							// $('#'+gridSerialNo+cnt).css('border','3px solid'+ color);
+
+							var row = $('#' + gridSerialNo + cnt);
+							var color = '#' + result['bordercolor']['bordercolor'];
+
+							// Change row background
+							row.css('background-color', color);
+
+							// Change all input/select/textarea background inside that row
+							row.find('input, select, textarea').css('background-color', 'red');
+							row.find('input, select, textarea').css('color', 'black');
+							// Apply border to the **first row** only
+							// $('#panel' + gridSerialNo).find('#GridTable tbody tr').eq(1).css('border', '3px solid ' + color);
+							// $('#panel' + gridSerialNo).find('#GridTable tbody tr:first').css('border', '3px solid ' + color);
 						}
 					}, 500);
 					
@@ -9267,7 +9289,7 @@ function checkVariable($str){ //CHECK IF THERE IS A VARIABLE AND CONVERT IT
 											selectedOption = columnContent.text(); // Get the text if it's not a textbox
 										}
 				
-										
+										// console.log("selectedOption ",selectedOption);
 										//popup field type text, textarea, number
 										if(pFieldArray[2] == 1 || pFieldArray[2] == 3 || pFieldArray[2] == 8){
 											
@@ -9296,10 +9318,34 @@ function checkVariable($str){ //CHECK IF THERE IS A VARIABLE AND CONVERT IT
 
 											$('#'+pFieldArray[0].trim()+'[type="date"]').val(formattedDate);
 										}else if(pFieldArray[2] == 16){
+											
+											// var fldvalue = $(checkbox).closest("tr").find('td:eq('+indexOfHideColumn+')').attr('data-key');
+											// $('#'+pFieldArray[0].trim()+'-text').val(selectedOption);
+											// $('#'+pFieldArray[0].trim()+'[type="hidden"]').val(fldvalue);
+
 											var fldvalue = $(checkbox).closest("tr").find('td:eq('+indexOfHideColumn+')').attr('data-key');
-										
-											$('#'+pFieldArray[0].trim()+'-text').val(selectedOption);
-											$('#'+pFieldArray[0].trim()+'[type="hidden"]').val(fldvalue);
+
+											let field = pFieldArray[0].trim();
+											let textId = '#' + field + '-text';
+											let hiddenId = '#' + field + '[type="hidden"]';
+
+											let oldText = $(textId).val().split(',').map(t => t.trim()).filter(t => t !== "");
+											let oldHidden = $(hiddenId).val().split(',').map(t => t.trim()).filter(t => t !== "");
+
+											if ($(checkbox).is(':checked')) {
+												// ---- Add value if not already present ----
+												if (!oldText.includes(selectedOption)) oldText.push(selectedOption);
+												if (!oldHidden.includes(fldvalue)) oldHidden.push(fldvalue);
+											} else {
+												// ---- Remove value if checkbox unchecked ----
+												oldText = oldText.filter(t => t !== selectedOption);
+												oldHidden = oldHidden.filter(t => t !== fldvalue);
+											}
+
+											// ---- Update fields ----
+											$(textId).val(oldText.join(', '));
+											$(hiddenId).val(oldHidden.join(','));
+	
 										}else if(pFieldArray[2] == 17){
 											var fldvalue = $(checkbox).closest("tr").find('td:eq('+indexOfHideColumn+')').attr('data-key');
 											$('#'+pFieldArray[0].trim()+"-text"+'[type="button"]').val(selectedOption);
@@ -20732,6 +20778,7 @@ function debugArray($arr){		//DebugArray($result);
 			}else{
 				$k_table_title = "Edit";
 				$k_table_log_button = '<button class="btn btn-warning btn-xs" onclick="openLogModal()">Logs</button>';
+		
 			}
 
 			if(isset($isView) == 1){
@@ -21091,7 +21138,10 @@ function debugArray($arr){		//DebugArray($result);
 								echo $k_table_sqlsp_button;
 							}
 						} 
-						if(isset($k_table_sqlsp_button)){
+						if($_SESSION['Category'] == 2){
+							echo $k_table_formdesigner_button;
+						}
+						if(isset($k_table_requirement_button)){
 							// Button to trigger open requirement modal
 							echo $k_table_requirement_button;
 							
